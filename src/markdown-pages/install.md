@@ -7,7 +7,7 @@ title: "Installation"
 Plusieurs outils seront nécessaires pour bien interagir avec le projet.
 
 ### Git
-GIT sera utilisé comme outil pour synchroniser les modifications des fichiers json avec GITHUB
+GIT sera utilisé comme outil pour synchroniser les modifications des fichiers json avec GitHub
 
 [Télécharger GIT pour Windows](https://git-scm.com/download/win)
 

@@ -4,7 +4,7 @@ date: "2019-05-04"
 title: "Utilisation du dossier de projet"
 ---
 
-Le dossier de projet contiendra tout ce qui est nécessaire pour que le site fonctionne. On va même y mettre les notebooks Jupyter, et la BD. Par contre, la BD étant trop grosse, on ne va pas la synchroniser. Donc, il va falloir écrire du code pour extraire de la BD les données intéressantes dans des fichiers .json qui eux seront légers.
+Le dossier de projet contiendra tout ce qui est nécessaire pour que le site fonctionne. On va même y mettre les notebooks Jupyter, et la BD. Par contre, la BD étant trop grosse, on ne va pas la synchroniser. Donc, il va falloir écrire du code pour extraire de la BD les données intéressantes dans des fichiers .json qui eux seront légers. Le fichier git-ignore a été configuré pour ignorer les ficheirs *.bd pour éviter de les synchroniser.
 
 ## Création initiale du dossier de projet
 
