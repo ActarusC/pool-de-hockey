@@ -21,7 +21,7 @@ En gros, après avoir travaillé dans VS Code, je fais:
 
 * CTRL+SHIFT+G
 * Je clique dans "message" en haut, j'indique ce que j'ai fait et je fais CTRL+ENTER
-* Je clique 
+* Je clique sur l'icône en bas à gauche pour synchroniser et donc faire un "push" sur GitHub 
 
 ## Avec la commande git
 Ceci sera utile pour automatiser après l'extraction de donnée en python
