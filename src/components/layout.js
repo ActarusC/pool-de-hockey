@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
         <footer style={{
           marginTop: `2rem`
         }}><p>
-          © {new Date().getFullYear()} - Dernière màj:  {moment(data.site?.buildTime).local().format("YY-MM-DD HH:MM:ss") }</p>
+          © {new Date().getFullYear()} - Dernière màj:  {moment(data.site?.buildTime).local().format("YY-MM-DD HH:mm:ss") }</p>
         </footer>
       </div>
     </>
