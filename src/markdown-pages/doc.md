@@ -7,5 +7,7 @@ title: "Documentation"
 
 [Préparation du dossier de projet](/dossier)
 
+[Synchronisation du dossier de projet](/sync)
+
 Adresse du site : https://pooldehockey.gtsb.io/doc
 
