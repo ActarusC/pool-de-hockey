@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 
 export default function Template({
@@ -12,13 +12,18 @@ export default function Template({
         <div className="blog-post-container">
         <div className="blog-post">
             <h1>{frontmatter.title}</h1>
-            <h3>{frontmatter.date}</h3>
+            <p>{frontmatter.date}</p>
+            
             <div
             className="blog-post-content"
             dangerouslySetInnerHTML={{ __html: html }}
             />
         </div>
         </div>
+        
+        <p></p>
+        <Link to="/doc">Documentation</Link>
+        
       </Layout>
   )
 }
