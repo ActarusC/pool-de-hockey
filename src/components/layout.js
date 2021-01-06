@@ -11,14 +11,16 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import "./layout.css"
+import moment from "moment"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
+    {
       site {
         siteMetadata {
           title
         }
+        buildTime
       }
     }
   `)
@@ -36,10 +38,8 @@ const Layout = ({ children }) => {
         <main>{children}</main>
         <footer style={{
           marginTop: `2rem`
-        }}>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+        }}><p>
+          © {new Date().getFullYear()} - Dernière màj:  {moment(data.site?.buildTime).local().format("YY-MM-DD HH:MM:ss") }</p>
         </footer>
       </div>
     </>
