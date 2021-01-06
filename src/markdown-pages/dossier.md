@@ -13,5 +13,19 @@ L'adresse de notre repo GitHub est: https://github.com/ActarusC/pool-de-hockey
 Donc, dans une console (CMD prompt), dans un dossier en-dehors de OneDrive, par exemple `c:\dev`, exécuter cette commande :
 
 ```
-git clone https://github.com/ActarusC/pool-de-hockey pool-de-hockey
+c:\dev>git clone https://github.com/ActarusC/pool-de-hockey pool-de-hockey
 ```
+
+Cette commande crée une copie locale des fichiers du projet dans le dossier `pool=de=hockey`. Toutes les commandes devront y être exécutées par la suite. Donc :
+
+```
+c:\dev>cd pool-de-hockey
+c:\dev\pool-de-hockey>
+```
+### Commandes utiles
+```
+c:\dev\pool-de-hockey>code .
+```
+Cette commande va démarrer Visual Studio Code dans le dossier de projet, et permetter d'utiliser Visual Studio Code pour modifier le contenu du projet.
+
+de la doc
