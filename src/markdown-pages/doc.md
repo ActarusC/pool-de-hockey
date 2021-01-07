@@ -9,5 +9,7 @@ title: "Documentation"
 
 [Synchronisation du dossier de projet](/sync)
 
-Adresse du site : https://pooldehockey.gtsb.io/doc
+[Ce qu'il reste à faire](/afaire)
+
+Adresse du site : https://pooldehockey.gtsb.io
 
