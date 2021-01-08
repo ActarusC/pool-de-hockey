@@ -71,3 +71,9 @@ En gros, on résume le projet, il faudra:
 * exporter la table Alignements en json
 * exporter la table Joueurs en json, en filtrant que pour les joueurs qui existent dans Alignements
 * updater le repo Github avec les 3 json à jour
+
+## Code React / Javascript à faire
+* Afficher à la une le tableau à jour des poolers
+* Créer une page pour chaque pooler, où on pourra voir chacun des alignements et ajouter hyperlien dans tableau des pooler pour se rendre ici
+* Créer une page pour chaque joueur, en créant des hyperliens vers NHL et HockeyRef et autres
+* Voir si on peut ajouter image en paramètre au composant image
