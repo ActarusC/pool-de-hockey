@@ -8,14 +8,14 @@ Liste de ce qu'il reste à bâtir pour le pool.
 # Base de données
 
 Ajouter tables pour
-* *Poolers*
+* ~~*Poolers*~~
 
-    Contient les poolers, leur score, toute info liée
+    ~~Contient les poolers, leur score, toute info liée~~
 
-    Champs:
+    ~~Champs:
     * id, string, genre gab, clem, hub
     * nom, string, Gabriel, Clément, Hubert
-    * score, int
+    * score, int~~
 * *Joueurs*
 
     Contient les joueurs de la LNH et leur info actuelle
