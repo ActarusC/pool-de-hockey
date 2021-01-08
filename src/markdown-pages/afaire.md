@@ -12,10 +12,10 @@ Ajouter tables pour
 
     ~~Contient les poolers, leur score, toute info liée~~
 
-    ~~Champs:
-    * id, string, genre gab, clem, hub
-    * nom, string, Gabriel, Clément, Hubert
-    * score, int~~
+    ~~Champs:~~
+    * ~~id, string, genre gab, clem, hub~~
+    * ~~nom, string, Gabriel, Clément, Hubert~~
+    * ~~score, int~~
 * *Joueurs*
 
     Contient les joueurs de la LNH et leur info actuelle
