@@ -1,15 +1,7 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { StaticQuery, graphql } from "gatsby"
 
-import Layout from "../components/layout"
-
-export default function Poolers({ data }) {
-  let arrPoolers = data.allDataJson.nodes.find(Boolean).data
-  //console.log(arrPoolers)
-
-  //arrPoolers.map(unPooler => (console.log(unPooler.Nom, unPooler.Id)))
-
-  function comparerPooler(a, b) {
+function comparerPooler(a, b) {
   
     let comparison = 0;
     if (a.Score > b.Score) {
@@ -19,11 +11,15 @@ export default function Poolers({ data }) {
     }
     return comparison * -1;
   }
-  
-  arrPoolers = arrPoolers.sort(comparerPooler)
-  
-  return (
-    <Layout>
+
+function manipData(oData) {
+    //console.log(oData)
+    let arrPoolers = oData.allDataJson.nodes.find(Boolean).data
+    console.log(arrPoolers)
+
+    arrPoolers = arrPoolers.sort(comparerPooler)
+    return(
+          
       <div>
         <h1>Poolers</h1>
         <table>
@@ -46,22 +42,28 @@ export default function Poolers({ data }) {
         </table>
 
       </div>  
-    </Layout>
-  )
+    )
 }
 
-export const query = graphql`
- {
-  allDataJson {
-    nodes {
-      data {
-        Abbr_viation
-        Id
-        Nom
-        Score
-        _quipe
+const allPoolers = () => (
+  <StaticQuery
+    query={graphql`
+      {
+        allDataJson(sort: {fields: data___Score, order: DESC}) {
+          nodes {
+            data {
+              Abbr_viation
+              Id
+              Nom
+              Score
+              _quipe
+            }
+          }
+        }
       }
-    }
-  }
-}
-`
+    `}
+    render={data => manipData(data)}
+  ></StaticQuery>
+)
+
+export default allPoolers
