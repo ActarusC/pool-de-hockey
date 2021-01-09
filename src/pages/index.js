@@ -1,10 +1,10 @@
 import React from "react"
-import { Link } from "gatsby"
+//import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
-import AllPoolers from "../components/allPoolers"
+import Poolers from "../components/poolers"
 
 const IndexPage = () => (
   <Layout>
@@ -13,7 +13,7 @@ const IndexPage = () => (
     <div style={{ maxWidth: `200px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <AllPoolers />
+    <Poolers />
     
   </Layout>
 )

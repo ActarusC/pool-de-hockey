@@ -45,7 +45,7 @@ function manipData(oData) {
     )
 }
 
-const allPoolers = () => (
+const Poolers = () => (
   <StaticQuery
     query={graphql`
       {
@@ -66,4 +66,4 @@ const allPoolers = () => (
   ></StaticQuery>
 )
 
-export default allPoolers
+export default Poolers
