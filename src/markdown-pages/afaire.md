@@ -42,6 +42,8 @@ Ajouter tables pour
     * dateFin, datetime, identifie la fin de l'association entre ce joueur et ce pooler.
     * pointsActuels, valeur par défaut à 0. Ce champ sera mis à jour régulièrement pour contenir les points du joueur LNH qui contribuent au score du pooler. Valide uniquement pour la saison en cours.
 
+        *NOTE HUBERT* : la table Alignements va contenir seulement les joueurs actifs. Les espoirs et les joueurs de la réserve seront dans une autre table.
+
     NOTES:
 
     * Pour les champs datetime, on va mettre l'heure à midi, comme ça on n'aura pas à gosser avec les fuseaux horaires, et ça va fonctionner même pour les matchs dans l'ouest qui finissent après minuit.
