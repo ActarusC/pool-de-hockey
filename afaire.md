@@ -45,6 +45,7 @@ Ajouter tables pour
         *NOTE HUBERT* : la table Alignements va contenir seulement les joueurs actifs. Les espoirs et les joueurs de la réserve seront dans une autre table.
         *NOTE PIERRE* : non non. le mieux est d'ajouter un champ status, avec des valeurs comme "Actif", "Réserve", "Libéré", "Blessé" mais dans ces table, et de filtrer en code ou en requête SQL. C'est ça le principe des base de données SQL.
 
+
     NOTES:
 
     * Pour les champs datetime, on va mettre l'heure à midi, comme ça on n'aura pas à gosser avec les fuseaux horaires, et ça va fonctionner même pour les matchs dans l'ouest qui finissent après minuit.
