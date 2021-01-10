@@ -43,6 +43,7 @@ Ajouter tables pour
     * pointsActuels, valeur par défaut à 0. Ce champ sera mis à jour régulièrement pour contenir les points du joueur LNH qui contribuent au score du pooler. Valide uniquement pour la saison en cours.
 
         *NOTE HUBERT* : la table Alignements va contenir seulement les joueurs actifs. Les espoirs et les joueurs de la réserve seront dans une autre table.
+        *NOTE PIERRE* : non non. le mieux est d'ajouter un champ status, avec des valeurs comme "Actif", "Réserve", "Libéré", "Blessé" mais dans ces table, et de filtrer en code ou en requête SQL. C'est ça le principe des base de données SQL.
 
     NOTES:
 
