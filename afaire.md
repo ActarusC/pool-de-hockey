@@ -30,20 +30,20 @@ Ajouter tables pour
     * Salaire actuel
     * ...
 
-* *Alignements*
+* ~~*Alignements*~~
 
-    Contient les associations entre les joueurs et les poolers, avec historique
+    ~~Contient les associations entre les joueurs et les poolers, avec historique~~
 
-    Champs
-    * id
-    * idPooler string, correspond au champ id de Poolers
-    * idNHL, correspond au champ idNHL de Joueurs. Ce champ ne doit pas être unique car un joueur peut être aligné avec une nouveau Pooler
-    * dateDebut, datetime, identifie le début de l'association entre ce joueur et ce pooler.
-    * dateFin, datetime, identifie la fin de l'association entre ce joueur et ce pooler.
-    * pointsActuels, valeur par défaut à 0. Ce champ sera mis à jour régulièrement pour contenir les points du joueur LNH qui contribuent au score du pooler. Valide uniquement pour la saison en cours.
+    ~~Champs~~
+    * ~~id~~
+    * ~~idPooler string, correspond au champ id de Poolers~~
+    * ~~idNHL, correspond au champ idNHL de Joueurs. Ce champ ne doit pas être unique car un joueur peut être aligné avec une nouveau Pooler~~
+    * ~~dateDebut, datetime, identifie le début de l'association entre ce joueur et ce pooler.~~
+    * ~~dateFin, datetime, identifie la fin de l'association entre ce joueur et ce pooler.~~
+    * ~~pointsActuels, valeur par défaut à 0. Ce champ sera mis à jour régulièrement pour contenir les points du joueur LNH qui contribuent au score du pooler. Valide uniquement pour la saison en cours.~~
 
-        *NOTE HUBERT* : la table Alignements va contenir seulement les joueurs actifs. Les espoirs et les joueurs de la réserve seront dans une autre table.
-        *NOTE PIERRE* : non non. le mieux est d'ajouter un champ status, avec des valeurs comme "Actif", "Réserve", "Libéré", "Blessé" mais dans ces table, et de filtrer en code ou en requête SQL. C'est ça le principe des base de données SQL.
+        *~~NOTE HUBERT~~* ~~: la table Alignements va contenir seulement les joueurs actifs. Les espoirs et les joueurs de la réserve seront dans une autre table.~~
+        *~~NOTE PIERRE~~* ~~: non non. le mieux est d'ajouter un champ status, avec des valeurs comme "Actif", "Réserve", "Libéré", "Blessé" mais dans ces table, et de filtrer en code ou en requête SQL. C'est ça le principe des base de données SQL.~~
 
 
     NOTES:
