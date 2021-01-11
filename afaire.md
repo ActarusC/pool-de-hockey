@@ -16,19 +16,19 @@ Ajouter tables pour
     * ~~id, string, genre gab, clem, hub~~
     * ~~nom, string, Gabriel, Clément, Hubert~~
     * ~~score, int~~
-* *Joueurs*
+* ~~*Joueurs*~~
 
-    Contient les joueurs de la LNH et leur info actuelle
+    ~~Contient les joueurs de la LNH et leur info actuelle~~
 
-    Champs
-    * idNHL
-    * idHockeyReference
-    * id autres sites si pertinent
-    * Nom
-    * Prénom
-    * Équipe actuelle
-    * Salaire actuel
-    * ...
+    ~~Champs~~
+    * ~~idNHL~~
+    * ~~idHockeyReference~~
+    * ~~id autres sites si pertinent~~
+    * ~~Nom~~
+    * ~~Prénom~~
+    * ~~Équipe actuelle~~
+    * ~~Salaire actuel~~
+    * ~~...~~
 
 * ~~*Alignements*~~
 
