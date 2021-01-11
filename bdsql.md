@@ -15,6 +15,7 @@ Une requête similaire pourrait être faite mais en groupant par Joueur. Un UPDA
 
 Il resterait à filtrer plus la requête SQL pour n'inclure que les résultats de la saison en cours - là, on obtient les points de 2019-2020 pcq c'est ça qui a dans la BD
 
+*NOTE HUBERT* : comment on intégre le date range là-dedans?
 
 
 
