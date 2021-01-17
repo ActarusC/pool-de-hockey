@@ -1,5 +1,6 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
+import { Link } from "gatsby"
 
 function comparerPooler(a, b) {
   
@@ -33,7 +34,9 @@ function manipData(oData) {
           <tbody>
             {arrPoolers.map(unPooler => (
               <tr key={unPooler.Id}>
-                <td>{unPooler.Nom}</td>
+                <td><Link to={ "/pooler/" + unPooler.Id }>
+                  {unPooler.Nom}
+                  </Link></td>
                 <td>{unPooler._quipe}</td>
                 <td>{unPooler.Score}</td>
               </tr>
