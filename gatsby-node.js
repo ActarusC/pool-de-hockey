@@ -8,23 +8,35 @@ exports.createPages = ({ actions: { createPage } }) => {
         component: require.resolve("./src/templates/pooler.js"),
         context: {
           nom: pooler.Nom,
+          Id: pooler.Id,
+          Equipe: pooler.\u00c9quipe,
+          Abbr: pooler.Abbr\u00e9viation,
+          Score: pooler.Score,
         },
       })
     })
 
+    // "Id":"gab",
+    // "Nom":"Gabriel",
+    // "\u00c9quipe":"Tropics",
+    // "Abbr\u00e9viation":"TRO",
+    // "Score":3
 
-    createPage(
-    {
-        path: "/page-with-context/",
-        component: require.resolve("./src/templates/with-context.js"),
+    const joueurs = require("./src/data/joueurs.json")
+    
+    joueurs.data.forEach(joueur => {
+      createPage({
+        path: `/joueur/${joueur.idNHL}/`,
+        component: require.resolve("./src/templates/joueur.js"),
         context: {
-          title: "We Don’t Need No Stinkin’ GraphQL",
-          content: "<p>This is page content.</p><p>No GraphQL required!</p>",
+          nom: joueur.prenomJoueur + " " + joueur.nomJoueur,
+          idNHL: joueur.idNHL,
+          idHockeyRef: joueur.idHockeyRef,
+          position: joueur.position,
+          salaireActuel: joueur.salaireActuel,
         },
+      })
     })
 
-    createPage({
-        path: "/no-data/",
-        component: require.resolve("./src/templates/no-data.js"),
-      })
+
   }

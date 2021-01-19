@@ -4,8 +4,9 @@ import SEO from "../components/seo"
 
 const Pooler = ({ pageContext }) => (
   <Layout>
-      <SEO title={pageContext.nom} />
-      <p>La page de {pageContext.nom}</p>
+      <SEO title={pageContext.Equipe} />
+      <h1>{pageContext.Equipe}</h1>
+      <p>Dirigée par <b>{pageContext.nom}</b> </p>
   </Layout>
 )
 
