@@ -1,7 +1,42 @@
-/**
- * Implement Gatsby's Node APIs in this file.
- *
- * See: https://www.gatsbyjs.com/docs/node-apis/
- */
+exports.createPages = ({ actions: { createPage } }) => {
 
-// You can delete this file if you're not using it
+    const poolers = require("./src/data/poolers.json")
+    
+    poolers.data.forEach(pooler => {
+      createPage({
+        path: `/pooler/${pooler.Id}/`,
+        component: require.resolve("./src/templates/pooler.js"),
+        context: {
+          nom: pooler.Nom,
+          Id: pooler.Id,
+          Equipe: pooler.\u00c9quipe,
+          Abbr: pooler.Abbr\u00e9viation,
+          Score: pooler.Score,
+        },
+      })
+    })
+
+    // "Id":"gab",
+    // "Nom":"Gabriel",
+    // "\u00c9quipe":"Tropics",
+    // "Abbr\u00e9viation":"TRO",
+    // "Score":3
+
+    const joueurs = require("./src/data/joueurs.json")
+    
+    joueurs.data.forEach(joueur => {
+      createPage({
+        path: `/joueur/${joueur.idNHL}/`,
+        component: require.resolve("./src/templates/joueur.js"),
+        context: {
+          nom: joueur.prenomJoueur + " " + joueur.nomJoueur,
+          idNHL: joueur.idNHL,
+          idHockeyRef: joueur.idHockeyRef,
+          position: joueur.position,
+          salaireActuel: joueur.salaireActuel,
+        },
+      })
+    })
+
+
+  }
