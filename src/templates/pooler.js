@@ -6,7 +6,7 @@ import { Link } from "gatsby"
 const alignements = require("../data/alignements.json").data
 
 function filtrerAlignement(align, idPooler, statusA) {
-  const alignF = align.filter(unA => (unA.idPooler == idPooler && unA.statutJoueur == statusA))
+  const alignF = align.filter(unA => (unA.idPooler === idPooler && unA.statutJoueur === statusA))
   return alignF
 }
 
