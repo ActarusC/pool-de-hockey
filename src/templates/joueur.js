@@ -2,8 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-import { Container, Row, Col } from "react-bootstrap"
-
+import { Container, Row, Card, ListGroup, ListGroupItem } from "react-bootstrap"
 
 const Joueur = ({ pageContext }) => (
 
@@ -12,39 +11,30 @@ const Joueur = ({ pageContext }) => (
 
     <Container fluid>
       <Row>
-        <Col><h1>{pageContext.nom}</h1>
-        </Col>
+        <Card>
+          <Card.Img variant="top" src={"https://cms.nhl.bamgrid.com/images/headshots/current/168x168/" + pageContext.idNHL + ".jpg"}
+            alt={pageContext.nom + " headshot"} style={{ width: 168 }} />
+          <Card.Body>
+            <Card.Title>{pageContext.nom}</Card.Title>
+          </Card.Body>
+          <ListGroup className="list-group-flush">
+            <ListGroupItem>Position {pageContext.position}</ListGroupItem>
+            <ListGroupItem>Salaire {pageContext.salaireActuel} $</ListGroupItem>
+          </ListGroup>
+          <Card.Body>
+            <Card.Link href={"https://www.nhl.com/player/" + pageContext.idNHL}>NHL.com</Card.Link>
+            <Card.Link href={"https://www.hockey-reference.com/players/"+ pageContext.idHockeyRef.substr(0,1) + "/" + pageContext.idHockeyRef + ".html"}>Hockey Reference</Card.Link>
+          </Card.Body>
+        </Card>
       </Row>
       <Row>
-        <Col><div>
-          <a href='{"https://www.nhl.com/player/" + pageContext.idNHL}'>
-            <img src={"https://cms.nhl.bamgrid.com/images/headshots/current/168x168/" + pageContext.idNHL + ".jpg"}
-              alt={pageContext.nom + " headshot"}
-            ></img>
-          </a></div>
-        </Col>
-        <Col>
-          <Row>
-            <Col>Position</Col>
-            <Col>{pageContext.position}</Col>
-          </Row>
-          <Row>
-            <Col>Salaire</Col>
-            <Col>{pageContext.salaireActuel}</Col>
-          </Row>
-        </Col>
-        <Col>
-          <img src="https://www-league.nhlstatic.com/images/logos/league-dark/133-flat.svg" width={64} alt="Voir sur NHL.COM"></img></Col>
-      </Row>
-      <Row>
-        <Col> <img src={"https://cms.nhl.bamgrid.com/images/actionshots/" + pageContext.idNHL + ".jpg"}
+        <img src={"https://cms.nhl.bamgrid.com/images/actionshots/" + pageContext.idNHL + ".jpg"}
           alt={pageContext.nom + "  in action"}></img>
-        </Col>
-      </Row>
 
+      </Row>
     </Container>
 
-  </Layout>
+  </Layout >
 )
 
 export default Joueur
