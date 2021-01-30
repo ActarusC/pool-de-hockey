@@ -19,15 +19,15 @@
             },
             {
                 "name":"PJ",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"B",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"A",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"Score",
@@ -42,30 +42,30 @@
             "Nom":"Gabriel",
             "\u00c9quipe":"Tropics",
             "Abbr\u00e9viation":"TRO",
-            "PJ":null,
-            "B":null,
-            "A":null,
-            "Score":0
+            "PJ":79,
+            "B":34,
+            "A":49,
+            "Score":83
         },
         {
             "Id":"cle",
             "Nom":"Cl\u00e9ment",
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"ROC",
-            "PJ":null,
-            "B":null,
-            "A":null,
-            "Score":0
+            "PJ":176,
+            "B":42,
+            "A":69,
+            "Score":111
         },
         {
             "Id":"hub",
             "Nom":"Hubert",
             "\u00c9quipe":"Patriotes",
             "Abbr\u00e9viation":"PAT",
-            "PJ":null,
-            "B":null,
-            "A":null,
-            "Score":1222
+            "PJ":210,
+            "B":47,
+            "A":126,
+            "Score":173
         }
     ]
 }
