@@ -1,11 +1,28 @@
-import React from "react"
+import React, { useState, useEffect }  from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 import { Container, Row, Card, ListGroup, ListGroupItem } from "react-bootstrap"
 
-const Joueur = ({ pageContext }) => (
 
+const Joueur = ({ pageContext }) => {
+  
+  // ----------------------
+  // RUNTIME DATA FETCHING
+  // ----------------------
+  const [Stats, setStats] = useState(0)
+  //console.log(pageContext)
+  useEffect(() => {
+    // get data from NHL api
+    fetch('https://statsapi.web.nhl.com/api/v1/people/' + pageContext.idNHL + '?stats=statsSingleSeason&season=20202021')
+      .then(response => response.json()) // parse JSON from request
+      .then(resultData => {
+        setStats(resultData.people[0])
+      }) // set Stats
+  }, []) // eslint-disable-line react-hooks/exhaustive-deps
+
+  console.log(Stats)
+  return (
   <Layout>
     <SEO title={pageContext.nom} />
 
@@ -35,7 +52,9 @@ const Joueur = ({ pageContext }) => (
     </Container>
 
   </Layout >
-)
+  )
+}
+
 
 export default Joueur
 
