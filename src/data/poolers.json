@@ -32,6 +32,10 @@
             {
                 "name":"Score",
                 "type":"integer"
+            },
+            {
+                "name":"MasseSalariale",
+                "type":"string"
             }
         ],
         "pandas_version":"0.20.0"
@@ -45,7 +49,8 @@
             "PJ":79,
             "B":34,
             "A":49,
-            "Score":83
+            "Score":83,
+            "MasseSalariale":null
         },
         {
             "Id":"cle",
@@ -55,7 +60,8 @@
             "PJ":176,
             "B":42,
             "A":69,
-            "Score":111
+            "Score":111,
+            "MasseSalariale":null
         },
         {
             "Id":"hub",
@@ -65,7 +71,8 @@
             "PJ":210,
             "B":47,
             "A":126,
-            "Score":173
+            "Score":173,
+            "MasseSalariale":null
         }
     ]
 }
