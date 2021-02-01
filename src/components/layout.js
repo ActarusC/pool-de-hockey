@@ -1,7 +1,7 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 
 import Header from "./header"
 import "./layout.css"
@@ -34,6 +34,7 @@ const Layout = ({ children }) => {
           marginTop: `2rem`
         }}><p>
           © {new Date().getFullYear()} - Dernière màj:  {moment(data.site?.buildTime).local().format("YY-MM-DD HH:mm:ss") }</p>
+          <Link to="/doc">Règles du pool</Link>
         </footer>
       </div>
     </>
