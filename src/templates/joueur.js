@@ -4,24 +4,36 @@ import SEO from "../components/seo"
 
 import { Container, Row, Card, ListGroup, ListGroupItem } from "react-bootstrap"
 
-
 const Joueur = ({ pageContext }) => {
   
   // ----------------------
   // RUNTIME DATA FETCHING
   // ----------------------
   const [Infos, setInfos] = useState(0)
-  //console.log(pageContext)
+  const [infoEquipe, setInfoEquipe] = useState("")
+  const [infoPosition, setInfoPosition] = useState("")
+
+  // useEffect(() => {
+  //   // get data from NHL api
+  //     fetch('https://statsapi.web.nhl.com/api/v1/people/' + pageContext.idNHL + '?stats=statsSingleSeason&season=20202021')
+  //     .then(response => response.json()) // parse JSON from request
+  //     .then(resultData => { setInfos(resultData.people[0]) })
+  //     .then(resultData => { setInfoEquipe(resultData.people[0].currentTeam.name) })
+  //     .then(resultData => { setInfoPosition(resultData.people[0].primaryPosition.name) })
+  // }, []) // eslint-disable-line react-hooks/exhaustive-deps
   useEffect(() => {
     // get data from NHL api
       fetch('https://statsapi.web.nhl.com/api/v1/people/' + pageContext.idNHL + '?stats=statsSingleSeason&season=20202021')
       .then(response => response.json()) // parse JSON from request
-      .then(resultData => {
+      .then(resultData => { 
         setInfos(resultData.people[0])
-      }) // set Infos
+        setInfoEquipe(resultData.people[0].currentTeam.name)
+        setInfoPosition(resultData.people[0].primaryPosition.name)
+      })
   }, []) // eslint-disable-line react-hooks/exhaustive-deps
 
-  console.log(Infos)
+
+
   return (
   <Layout>
     <SEO title={pageContext.nom} />
@@ -71,8 +83,8 @@ const Joueur = ({ pageContext }) => {
             { Infos.shootsCatches == "R" && 
               <ListGroupItem>Droitier</ListGroupItem>              
             }
-            <ListGroupItem>Équipe { Infos.currentTeam.name }</ListGroupItem>
-            <ListGroupItem>Positon { Infos.primaryPosition.name }</ListGroupItem>
+            <ListGroupItem>Équipe { infoEquipe }</ListGroupItem>
+            <ListGroupItem>Positon { infoPosition  }</ListGroupItem>
             
           </ListGroup>
         </Card>
