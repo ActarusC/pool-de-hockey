@@ -3,7 +3,7 @@
         "fields":[
             {
                 "name":"idAlignement",
-                "type":"integer"
+                "type":"string"
             },
             {
                 "name":"idPooler",
@@ -11,7 +11,7 @@
             },
             {
                 "name":"idNHL",
-                "type":"integer"
+                "type":"string"
             },
             {
                 "name":"statutJoueur",
@@ -27,23 +27,19 @@
             },
             {
                 "name":"pjActuels",
-                "type":"integer"
+                "type":"string"
             },
             {
                 "name":"butsActuels",
-                "type":"number"
+                "type":"string"
             },
             {
                 "name":"assistActuels",
-                "type":"number"
+                "type":"string"
             },
             {
                 "name":"pointsActuels",
-                "type":"number"
-            },
-            {
-                "name":"idNHL",
-                "type":"integer"
+                "type":"string"
             },
             {
                 "name":"idHockeyRef",
@@ -63,7 +59,7 @@
             },
             {
                 "name":"salaireActuel",
-                "type":"integer"
+                "type":"string"
             }
         ],
         "pandas_version":"0.20.0"
@@ -80,7 +76,6 @@
             "butsActuels":16.0,
             "assistActuels":31.0,
             "pointsActuels":47.0,
-            "idNHL":8471675,
             "idHockeyRef":"crosbsi01",
             "prenomJoueur":"Sidney",
             "nomJoueur":"Crosby",
@@ -98,7 +93,6 @@
             "butsActuels":18.0,
             "assistActuels":18.0,
             "pointsActuels":36.0,
-            "idNHL":8478445,
             "idHockeyRef":"barzama01",
             "prenomJoueur":"Matt",
             "nomJoueur":"Barzal",
@@ -116,7 +110,6 @@
             "butsActuels":35.0,
             "assistActuels":58.0,
             "pointsActuels":93.0,
-            "idNHL":8477492,
             "idHockeyRef":"mackina01",
             "prenomJoueur":"Nathan",
             "nomJoueur":"Mackinnon",
@@ -134,7 +127,6 @@
             "butsActuels":8.0,
             "assistActuels":45.0,
             "pointsActuels":53.0,
-            "idNHL":8480800,
             "idHockeyRef":"hughequ01",
             "prenomJoueur":"Quinn",
             "nomJoueur":"Hughes",
@@ -152,7 +144,6 @@
             "butsActuels":null,
             "assistActuels":null,
             "pointsActuels":null,
-            "idNHL":8479394,
             "idHockeyRef":"hartca01",
             "prenomJoueur":"Carter",
             "nomJoueur":"Hart",
@@ -170,7 +161,6 @@
             "butsActuels":37.0,
             "assistActuels":42.0,
             "pointsActuels":79.0,
-            "idNHL":8478403,
             "idHockeyRef":"eicheja01",
             "prenomJoueur":"Jack",
             "nomJoueur":"Eichel",
@@ -188,7 +178,6 @@
             "butsActuels":5.0,
             "assistActuels":26.0,
             "pointsActuels":31.0,
-            "idNHL":8470966,
             "idHockeyRef":"giordma01",
             "prenomJoueur":"Mark",
             "nomJoueur":"Giordano",
@@ -206,7 +195,6 @@
             "butsActuels":null,
             "assistActuels":1.0,
             "pointsActuels":null,
-            "idNHL":8479496,
             "idHockeyRef":"rittida01",
             "prenomJoueur":"David",
             "nomJoueur":"Rittich",
@@ -224,7 +212,6 @@
             "butsActuels":4.0,
             "assistActuels":23.0,
             "pointsActuels":27.0,
-            "idNHL":8478445,
             "idHockeyRef":"barzama01",
             "prenomJoueur":"Matt",
             "nomJoueur":"Barzal",
