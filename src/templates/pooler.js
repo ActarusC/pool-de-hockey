@@ -21,6 +21,9 @@ const Pooler = ({ pageContext }) => (
         <tr>
           <th>Joueur</th>
           <th>Position</th>
+          <th>PJ</th>
+          <th>Buts</th>
+          <th>Aides</th>
           <th>Score</th>
           <th>Salaire</th>
           <th>Date d'ajout</th>
@@ -34,6 +37,9 @@ const Pooler = ({ pageContext }) => (
                 {unJoueur.prenomJoueur + " " + unJoueur.nomJoueur}
               </Link></td>
             <td>{unJoueur.position} </td>
+            <td>{unJoueur.pjActuels} </td>
+            <td>{unJoueur.butsActuels} </td>
+            <td>{unJoueur.assistActuels} </td>
             <td>{unJoueur.pointsActuels} </td>
             <td>{unJoueur.salaireActuel} </td>
             <td>{unJoueur.dateDebut} </td>
@@ -74,16 +80,5 @@ const Pooler = ({ pageContext }) => (
     </table>
   </Layout>
 )
-// "idAlignement":1,
-// "idPooler":"gab",
-// "idNHL":8471675,
-// "idHockeyRef":"crosbsi01",
-// "prenomJoueur":"Sidney",
-// "nomJoueur":"Crosby",
-// "position":"A",
-// "statutJoueur":"Alignement",
-// "dateDebut":"2020-11-26",
-// "dateFin":"2020-12-07",
-// "pointsActuels":0,
-// "salaireActuel":8700000
+
 export default Pooler
