@@ -28,10 +28,11 @@ function manipData(oData) {
           <tr>
             <th>Nom</th>
             <th>Équipe</th>
-            <th>Score</th>
+
             <th>PJ</th>
             <th>Buts</th>
             <th>Aides</th>
+            <th>Score</th>
             <th>Masse $</th>
           </tr>
         </thead>
