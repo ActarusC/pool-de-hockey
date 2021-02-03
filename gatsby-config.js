@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Pool de hockey`,
-    description: `Le pool de Hubert, Clément et Gabriel`,
+    title: `MSHL`,
+    description: `3 compétiteurs, des centaines de joueurs... mais un seul gagnant.`,
     author: `Hubert, Clément et Piere`,
   },
   plugins: [
