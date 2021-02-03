@@ -50,7 +50,7 @@
             "B":51,
             "A":77,
             "Score":128,
-            "MasseSalariale":77844999
+            "MasseSalariale":66005833
         },
         {
             "Id":"cle",
@@ -61,7 +61,7 @@
             "B":27,
             "A":53,
             "Score":80,
-            "MasseSalariale":97053200
+            "MasseSalariale":71312366
         },
         {
             "Id":"hub",
@@ -72,7 +72,7 @@
             "B":59,
             "A":114,
             "Score":173,
-            "MasseSalariale":84258000
+            "MasseSalariale":70886332
         }
     ]
 }
