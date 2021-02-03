@@ -48,7 +48,7 @@ function manipData(oData) {
               <td>{unPooler.A}</td>
 
               <td>{unPooler.Score}</td>
-              <td> - $</td>
+              <td>{ (unPooler.MasseSalariale / 10**6).toFixed(2)  } M$</td>
             </tr>
           ))}
         </tbody>
@@ -73,6 +73,7 @@ const Poolers = () => (
               PJ
               B
               A
+              MasseSalariale
             }
           }
         }

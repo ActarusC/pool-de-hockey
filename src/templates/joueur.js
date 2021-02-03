@@ -13,14 +13,7 @@ const Joueur = ({ pageContext }) => {
   const [infoEquipe, setInfoEquipe] = useState("")
   const [infoPosition, setInfoPosition] = useState("")
 
-  // useEffect(() => {
-  //   // get data from NHL api
-  //     fetch('https://statsapi.web.nhl.com/api/v1/people/' + pageContext.idNHL + '?stats=statsSingleSeason&season=20202021')
-  //     .then(response => response.json()) // parse JSON from request
-  //     .then(resultData => { setInfos(resultData.people[0]) })
-  //     .then(resultData => { setInfoEquipe(resultData.people[0].currentTeam.name) })
-  //     .then(resultData => { setInfoPosition(resultData.people[0].primaryPosition.name) })
-  // }, []) // eslint-disable-line react-hooks/exhaustive-deps
+
   useEffect(() => {
     // get data from NHL api
     fetch('https://statsapi.web.nhl.com/api/v1/people/' + pageContext.idNHL + '?stats=statsSingleSeason&season=20202021')
