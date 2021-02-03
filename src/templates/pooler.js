@@ -22,7 +22,7 @@ function comparerJoueur(a, b) {
   return comparison * -1;
 }
 
-function enteteAlignement() {
+function enteteAlignement(afficheStatut = false) {
   return(
     <thead>
     <tr>
@@ -35,12 +35,15 @@ function enteteAlignement() {
       <th>Salaire</th>
       <th>Date d'ajout</th>
       <th>Date de fin</th>
+      {afficheStatut &&
+        <th>{Statut}</th>
+          }
     </tr>
   </thead>
   )
 }
 
-function bodyAlignement(idPooler, statusA){
+function bodyAlignement(idPooler, statusA, afficheStatut = false){
   return (
     <tbody>
     {filtrerAlignement(alignements, idPooler, statusA).map(unJoueur => (
@@ -58,6 +61,9 @@ function bodyAlignement(idPooler, statusA){
         <td>{unJoueur.dateDebut} </td>
         {unJoueur.dateFin !== "2100-01-01" &&
                 <td>{unJoueur.dateFin} </td>
+                }
+        {afficheStatut &&
+                <td>{unJoueur.statutJoueur}</td>
                 }
       </tr>
 
