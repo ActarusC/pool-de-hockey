@@ -34,55 +34,61 @@ const Joueur = ({ pageContext }) => {
       <Container fluid>
         <Row>
           <Col>
-            <Card border="primary" className="text-center">
+            <Card border="primary" className="text-center" style={{ width: 168 }}>
               <Card.Img variant="top" src={"https://cms.nhl.bamgrid.com/images/headshots/current/168x168/" + pageContext.idNHL + ".jpg"}
-                alt={pageContext.nom + " headshot"} style={{ width: 168 }} />
+                alt={pageContext.nom + " headshot"} />
               <Card.Body>
-                <Card.Title>{pageContext.nom}</Card.Title>
+                <Card.Title style={{ padding: 0 }}>{pageContext.nom}</Card.Title>
               </Card.Body>
               <ListGroup className="list-group-flush">
-                <ListGroupItem>Position {pageContext.position}</ListGroupItem>
-                <ListGroupItem>Salaire { (pageContext.salaireActuel / 10**6).toFixed(2)  } M$</ListGroupItem>
+                <ListGroupItem>Position <b>{pageContext.position}</b></ListGroupItem>
+                <ListGroupItem>Salaire <b>{(pageContext.salaireActuel / 10 ** 6).toFixed(2)} M$</b></ListGroupItem>
+
               </ListGroup>
               <Card.Body>
-                <Card.Link href={"https://www.nhl.com/player/" + pageContext.idNHL}>NHL.com</Card.Link>
-                <Card.Link href={"https://www.hockey-reference.com/players/" + pageContext.idHockeyRef.substr(0, 1) + "/" + pageContext.idHockeyRef + ".html"}>Hockey Reference</Card.Link>
+                <ListGroup>
+                  <ListGroupItem>
+                    <Card.Link href={"https://www.nhl.com/player/" + pageContext.idNHL}>NHL.com</Card.Link>
+                  </ListGroupItem>
+                  <ListGroupItem>
+                    <Card.Link href={"https://www.hockey-reference.com/players/" + pageContext.idHockeyRef.substr(0, 1) + "/" + pageContext.idHockeyRef + ".html"}>Hockey Reference</Card.Link>
+                  </ListGroupItem>
+                </ListGroup>
+
               </Card.Body>
             </Card>
           </Col>
           <Col>
             <Card>
-              <Card.Title>
+              <Card.Title className="text-center" >
                 Infos de NHL.com
-          </Card.Title>
+              </Card.Title>
               <ListGroup className="list-group-flush">
-                <ListGroupItem>Numéro {Infos.primaryNumber}</ListGroupItem>
+                <ListGroupItem>Numéro <b>{Infos.primaryNumber}</b></ListGroupItem>
+                <ListGroupItem>Âge <b>{Infos.currentAge}</b></ListGroupItem>
                 <ListGroupItem>
-                  <p>Date naissance {Infos.birthDate}</p>
-                  <p>Âge {Infos.currentAge}</p>
+                  Né le <b>{Infos.birthDate}</b><br />
+                  Endroit <b>{Infos.birthCity}, {Infos.birthStateProvince}, {Infos.birthCountry}</b>
                 </ListGroupItem>
-                <ListGroupItem>Pays de naissance {Infos.birthCountry}</ListGroupItem>
-                <ListGroupItem>Ville de naissance {Infos.birthCity}, {Infos.birthStateProvince}</ListGroupItem>
-                <ListGroupItem>Nationalité {Infos.birthCountry}</ListGroupItem>
-                <ListGroupItem>Taille {Infos.height}</ListGroupItem>
-                <ListGroupItem>Poids {Infos.weight} lb</ListGroupItem>
+                <ListGroupItem>Nationalité <b>{Infos.birthCountry}</b></ListGroupItem>
+                <ListGroupItem><b>{Infos.height}, {Infos.weight} lb</b></ListGroupItem>
                 {Infos.alternateCaptain &&
-                  <ListGroupItem>Assistant capitaine</ListGroupItem>
+                  <ListGroupItem><b>Assistant capitaine</b></ListGroupItem>
                 }
                 {Infos.captain &&
-                  <ListGroupItem>Capitaine</ListGroupItem>
+                  <ListGroupItem><b>Capitaine</b></ListGroupItem>
                 }
                 {Infos.rookie &&
-                  <ListGroupItem>Recrue</ListGroupItem>
+                  <ListGroupItem><b>Recrue</b></ListGroupItem>
                 }
                 {Infos.shootsCatches == "L" &&
-                  <ListGroupItem>Gaucher</ListGroupItem>
+                  <ListGroupItem><b>Gaucher</b></ListGroupItem>
                 }
                 {Infos.shootsCatches == "R" &&
-                  <ListGroupItem>Droitier</ListGroupItem>
+                  <ListGroupItem><b>Droitier</b></ListGroupItem>
                 }
-                <ListGroupItem>Équipe {infoEquipe}</ListGroupItem>
-                <ListGroupItem>Positon {infoPosition}</ListGroupItem>
+                <ListGroupItem>Équipe <b>{infoEquipe}</b></ListGroupItem>
+                <ListGroupItem>Positon <b>{infoPosition}</b></ListGroupItem>
 
               </ListGroup>
             </Card>
