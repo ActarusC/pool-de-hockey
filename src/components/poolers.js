@@ -16,7 +16,7 @@ function comparerPooler(a, b) {
 function manipData(oData) {
   //console.log(oData)
   let arrPoolers = oData.allDataJson.nodes.find(Boolean).data
-  console.log(arrPoolers)
+  //console.log(arrPoolers)
 
   arrPoolers = arrPoolers.sort(comparerPooler)
   return (
