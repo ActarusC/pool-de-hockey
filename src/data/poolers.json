@@ -19,7 +19,7 @@
             },
             {
                 "name":"PJ",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"B",
@@ -46,7 +46,7 @@
             "Nom":"Gabriel",
             "\u00c9quipe":"Tropics",
             "Abbr\u00e9viation":"TRO",
-            "PJ":null,
+            "PJ":172,
             "B":51,
             "A":77,
             "Score":128,
@@ -57,7 +57,7 @@
             "Nom":"Cl\u00e9ment",
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"ROC",
-            "PJ":null,
+            "PJ":109,
             "B":27,
             "A":53,
             "Score":80,
@@ -68,7 +68,7 @@
             "Nom":"Hubert",
             "\u00c9quipe":"Patriotes",
             "Abbr\u00e9viation":"PAT",
-            "PJ":null,
+            "PJ":155,
             "B":59,
             "A":114,
             "Score":173,
