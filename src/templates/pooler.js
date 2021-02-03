@@ -22,6 +22,7 @@ function enteteAlignement() {
       <th>Score</th>
       <th>Salaire</th>
       <th>Date d'ajout</th>
+      <th>Date de fin</th>
     </tr>
   </thead>
   )
@@ -43,6 +44,9 @@ function bodyAlignement(idPooler, statusA){
         <td>{unJoueur.pointsActuels} </td>
         <td>{(unJoueur.salaireActuel / 10**6).toFixed(2)  } M$</td>
         <td>{unJoueur.dateDebut} </td>
+        {unJoueur.dateFin !== "2100-01-01" &&
+                <td>{unJoueur.dateFin} </td>
+                }
       </tr>
 
     ))

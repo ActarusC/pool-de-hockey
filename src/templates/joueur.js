@@ -81,10 +81,10 @@ const Joueur = ({ pageContext }) => {
                 {Infos.rookie &&
                   <ListGroupItem><b>Recrue</b></ListGroupItem>
                 }
-                {Infos.shootsCatches == "L" &&
+                {Infos.shootsCatches === "L" &&
                   <ListGroupItem><b>Gaucher</b></ListGroupItem>
                 }
-                {Infos.shootsCatches == "R" &&
+                {Infos.shootsCatches === "R" &&
                   <ListGroupItem><b>Droitier</b></ListGroupItem>
                 }
                 <ListGroupItem>Équipe <b>{infoEquipe}</b></ListGroupItem>
