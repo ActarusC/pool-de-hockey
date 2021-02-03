@@ -66,23 +66,6 @@
     },
     "data":[
         {
-            "idAlignement":1,
-            "idPooler":"gab",
-            "idNHL":8471675,
-            "statutJoueur":"Alignement",
-            "dateDebut":"2019-08-25",
-            "dateFin":"2020-06-05",
-            "pjActuels":41,
-            "butsActuels":16.0,
-            "assistActuels":31.0,
-            "pointsActuels":47.0,
-            "idHockeyRef":"crosbsi01",
-            "prenomJoueur":"Sidney",
-            "nomJoueur":"Crosby",
-            "position":"A",
-            "salaireActuel":8700000
-        },
-        {
             "idAlignement":2,
             "idPooler":"gab",
             "idNHL":8478445,
@@ -94,7 +77,7 @@
             "assistActuels":18.0,
             "pointsActuels":36.0,
             "idHockeyRef":"barzama01",
-            "prenomJoueur":"Matt",
+            "prenomJoueur":"Mathew",
             "nomJoueur":"Barzal",
             "position":"A",
             "salaireActuel":7000000
@@ -105,7 +88,7 @@
             "idNHL":8477492,
             "statutJoueur":"Alignement",
             "dateDebut":"2019-08-25",
-            "dateFin":"2020-06-05",
+            "dateFin":"2021-02-03",
             "pjActuels":69,
             "butsActuels":35.0,
             "assistActuels":58.0,
@@ -131,7 +114,7 @@
             "prenomJoueur":"Quinn",
             "nomJoueur":"Hughes",
             "position":"D",
-            "salaireActuel":894167
+            "salaireActuel":916667
         },
         {
             "idAlignement":5,
@@ -148,7 +131,7 @@
             "prenomJoueur":"Carter",
             "nomJoueur":"Hart",
             "position":"G",
-            "salaireActuel":790000
+            "salaireActuel":730833
         },
         {
             "idAlignement":6,
@@ -168,23 +151,6 @@
             "salaireActuel":10000000
         },
         {
-            "idAlignement":7,
-            "idPooler":"cle",
-            "idNHL":8470966,
-            "statutJoueur":"R\u00e9serve",
-            "dateDebut":"2019-08-25",
-            "dateFin":"2020-06-05",
-            "pjActuels":60,
-            "butsActuels":5.0,
-            "assistActuels":26.0,
-            "pointsActuels":31.0,
-            "idHockeyRef":"giordma01",
-            "prenomJoueur":"Mark",
-            "nomJoueur":"Giordano",
-            "position":"D",
-            "salaireActuel":6000000
-        },
-        {
             "idAlignement":8,
             "idPooler":"cle",
             "idNHL":8479496,
@@ -199,7 +165,7 @@
             "prenomJoueur":"David",
             "nomJoueur":"Rittich",
             "position":"G",
-            "salaireActuel":3000000
+            "salaireActuel":2750000
         },
         {
             "idAlignement":9,
@@ -213,7 +179,7 @@
             "assistActuels":23.0,
             "pointsActuels":27.0,
             "idHockeyRef":"barzama01",
-            "prenomJoueur":"Matt",
+            "prenomJoueur":"Mathew",
             "nomJoueur":"Barzal",
             "position":"A",
             "salaireActuel":7000000
