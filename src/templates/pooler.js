@@ -41,7 +41,7 @@ const Pooler = ({ pageContext }) => (
             <td>{unJoueur.butsActuels} </td>
             <td>{unJoueur.assistActuels} </td>
             <td>{unJoueur.pointsActuels} </td>
-            <td>{unJoueur.salaireActuel} </td>
+            <td>{(unJoueur.salaireActuel / 10**6).toFixed(2)  } M$</td>
             <td>{unJoueur.dateDebut} </td>
           </tr>
 

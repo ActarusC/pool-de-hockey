@@ -42,7 +42,7 @@ const Joueur = ({ pageContext }) => {
               </Card.Body>
               <ListGroup className="list-group-flush">
                 <ListGroupItem>Position {pageContext.position}</ListGroupItem>
-                <ListGroupItem>Salaire {pageContext.salaireActuel} $</ListGroupItem>
+                <ListGroupItem>Salaire { (pageContext.salaireActuel / 10**6).toFixed(2)  } M$</ListGroupItem>
               </ListGroup>
               <Card.Body>
                 <Card.Link href={"https://www.nhl.com/player/" + pageContext.idNHL}>NHL.com</Card.Link>
