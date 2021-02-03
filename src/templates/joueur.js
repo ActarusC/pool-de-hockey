@@ -81,10 +81,10 @@ const Joueur = ({ pageContext }) => {
                 {Infos.rookie &&
                   <ListGroupItem><b>Recrue</b></ListGroupItem>
                 }
-                {Infos.shootsCatches == "L" &&
+                {Infos.shootsCatches === "L" &&
                   <ListGroupItem><b>Gaucher</b></ListGroupItem>
                 }
-                {Infos.shootsCatches == "R" &&
+                {Infos.shootsCatches === "R" &&
                   <ListGroupItem><b>Droitier</b></ListGroupItem>
                 }
                 <ListGroupItem>Équipe <b>{infoEquipe}</b></ListGroupItem>
@@ -94,14 +94,14 @@ const Joueur = ({ pageContext }) => {
             </Card>
           </Col>
         </Row>
-        <Row>
+        <Row style={{ padding: 5 }}>
           <img src={"https://cms.nhl.bamgrid.com/images/actionshots/" + pageContext.idNHL + ".jpg"}
             alt={pageContext.nom + "  in action"}></img>
 
         </Row>
       </Container>
 
-    </Layout >
+    </Layout>
   )
 }
 

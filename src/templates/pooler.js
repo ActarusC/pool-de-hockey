@@ -6,8 +6,20 @@ import { Link } from "gatsby"
 const alignements = require("../data/alignements.json").data
 
 function filtrerAlignement(align, idPooler, statusA) {
-  const alignF = align.filter(unA => (unA.idPooler === idPooler && unA.statutJoueur === statusA))
+  let alignF = align.filter(unA => (unA.idPooler === idPooler && unA.statutJoueur === statusA))
+  alignF = alignF.sort(comparerJoueur)
   return alignF
+}
+
+function comparerJoueur(a, b) {
+
+  let comparison = 0;
+  if (a.dateFin > b.dateFin) {
+    comparison = 1;
+  } else if (a.dateFin < b.dateFin) {
+    comparison = -1;
+  }
+  return comparison * -1;
 }
 
 function enteteAlignement() {
@@ -22,6 +34,7 @@ function enteteAlignement() {
       <th>Score</th>
       <th>Salaire</th>
       <th>Date d'ajout</th>
+      <th>Date de fin</th>
     </tr>
   </thead>
   )
@@ -43,6 +56,9 @@ function bodyAlignement(idPooler, statusA){
         <td>{unJoueur.pointsActuels} </td>
         <td>{(unJoueur.salaireActuel / 10**6).toFixed(2)  } M$</td>
         <td>{unJoueur.dateDebut} </td>
+        {unJoueur.dateFin !== "2100-01-01" &&
+                <td>{unJoueur.dateFin} </td>
+                }
       </tr>
 
     ))
