@@ -19,23 +19,23 @@
             },
             {
                 "name":"PJ",
-                "type":"integer"
+                "type":"string"
             },
             {
                 "name":"B",
-                "type":"integer"
+                "type":"string"
             },
             {
                 "name":"A",
-                "type":"integer"
+                "type":"string"
             },
             {
                 "name":"Score",
-                "type":"integer"
+                "type":"string"
             },
             {
                 "name":"MasseSalariale",
-                "type":"integer"
+                "type":"string"
             }
         ],
         "pandas_version":"0.20.0"
@@ -46,33 +46,33 @@
             "Nom":"Gabriel",
             "\u00c9quipe":"Tropics",
             "Abbr\u00e9viation":"TRO",
-            "PJ":79,
-            "B":34,
-            "A":49,
-            "Score":83,
-            "MasseSalariale":15700000
+            "PJ":null,
+            "B":null,
+            "A":null,
+            "Score":null,
+            "MasseSalariale":null
         },
         {
             "Id":"cle",
             "Nom":"Cl\u00e9ment",
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"ROC",
-            "PJ":176,
-            "B":42,
-            "A":69,
-            "Score":111,
-            "MasseSalariale":19000000
+            "PJ":null,
+            "B":null,
+            "A":null,
+            "Score":null,
+            "MasseSalariale":null
         },
         {
             "Id":"hub",
             "Nom":"Hubert",
             "\u00c9quipe":"Patriotes",
             "Abbr\u00e9viation":"PAT",
-            "PJ":210,
-            "B":47,
-            "A":126,
-            "Score":173,
-            "MasseSalariale":7984167
+            "PJ":null,
+            "B":null,
+            "A":null,
+            "Score":null,
+            "MasseSalariale":null
         }
     ]
 }

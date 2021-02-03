@@ -23,7 +23,7 @@
             },
             {
                 "name":"salaireActuel",
-                "type":"integer"
+                "type":"number"
             }
         ],
         "pandas_version":"0.20.0"
@@ -35,7 +35,7 @@
             "prenomJoueur":"Frederik",
             "nomJoueur":"Andersen",
             "position":"G",
-            "salaireActuel":5000000
+            "salaireActuel":5000000.0
         },
         {
             "idNHL":8477934,
@@ -43,7 +43,7 @@
             "prenomJoueur":"Leon",
             "nomJoueur":"Draisaitl",
             "position":"A",
-            "salaireActuel":8500000
+            "salaireActuel":8500000.0
         },
         {
             "idNHL":8478483,
@@ -51,7 +51,7 @@
             "prenomJoueur":"Mitchell",
             "nomJoueur":"Marner",
             "position":"A",
-            "salaireActuel":10893000
+            "salaireActuel":10893000.0
         },
         {
             "idNHL":8477492,
@@ -59,7 +59,7 @@
             "prenomJoueur":"Nathan",
             "nomJoueur":"Mackinnon",
             "position":"A",
-            "salaireActuel":6300000
+            "salaireActuel":6300000.0
         },
         {
             "idNHL":8478403,
@@ -67,7 +67,7 @@
             "prenomJoueur":"Jack",
             "nomJoueur":"Eichel",
             "position":"A",
-            "salaireActuel":10000000
+            "salaireActuel":10000000.0
         },
         {
             "idNHL":8476346,
@@ -75,7 +75,7 @@
             "prenomJoueur":"Johnny",
             "nomJoueur":"Gaudreau",
             "position":"A",
-            "salaireActuel":6750000
+            "salaireActuel":6750000.0
         },
         {
             "idNHL":8476460,
@@ -83,7 +83,7 @@
             "prenomJoueur":"Mark",
             "nomJoueur":"Scheifele",
             "position":"A",
-            "salaireActuel":6125000
+            "salaireActuel":6125000.0
         },
         {
             "idNHL":8480830,
@@ -91,7 +91,7 @@
             "prenomJoueur":"Andrei",
             "nomJoueur":"Svechnikov",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
             "idNHL":8473419,
@@ -99,7 +99,7 @@
             "prenomJoueur":"Brad",
             "nomJoueur":"Marchand",
             "position":"A",
-            "salaireActuel":6125000
+            "salaireActuel":6125000.0
         },
         {
             "idNHL":8474590,
@@ -107,7 +107,7 @@
             "prenomJoueur":"John",
             "nomJoueur":"Carlson",
             "position":"D",
-            "salaireActuel":8000000
+            "salaireActuel":8000000.0
         },
         {
             "idNHL":8480800,
@@ -115,7 +115,7 @@
             "prenomJoueur":"Quinn",
             "nomJoueur":"Hughes",
             "position":"D",
-            "salaireActuel":916667
+            "salaireActuel":916667.0
         },
         {
             "idNHL":8476853,
@@ -123,7 +123,7 @@
             "prenomJoueur":"Morgan",
             "nomJoueur":"Rielly",
             "position":"D",
-            "salaireActuel":5000000
+            "salaireActuel":5000000.0
         },
         {
             "idNHL":8480036,
@@ -131,7 +131,7 @@
             "prenomJoueur":"Miro",
             "nomJoueur":"Heiskanen",
             "position":"D",
-            "salaireActuel":894166
+            "salaireActuel":894166.0
         },
         {
             "idNHL":8481524,
@@ -139,7 +139,7 @@
             "prenomJoueur":"Bowen",
             "nomJoueur":"Byram",
             "position":"D",
-            "salaireActuel":894167
+            "salaireActuel":894167.0
         },
         {
             "idNHL":8480018,
@@ -147,7 +147,7 @@
             "prenomJoueur":"Nick",
             "nomJoueur":"Suzuki",
             "position":"A",
-            "salaireActuel":863333
+            "salaireActuel":863333.0
         },
         {
             "idNHL":8479977,
@@ -155,7 +155,7 @@
             "prenomJoueur":"Kailer",
             "nomJoueur":"Yamamoto",
             "position":"A",
-            "salaireActuel":894166
+            "salaireActuel":894166.0
         },
         {
             "idNHL":8478856,
@@ -163,7 +163,7 @@
             "prenomJoueur":"Conor",
             "nomJoueur":"Garland",
             "position":"A",
-            "salaireActuel":775000
+            "salaireActuel":775000.0
         },
         {
             "idNHL":8480871,
@@ -171,7 +171,7 @@
             "prenomJoueur":"Adam",
             "nomJoueur":"Boqvist",
             "position":"D",
-            "salaireActuel":894167
+            "salaireActuel":894167.0
         },
         {
             "idNHL":8478492,
@@ -179,7 +179,7 @@
             "prenomJoueur":"Ilya",
             "nomJoueur":"Samsonov",
             "position":"G",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
             "idNHL":8479398,
@@ -187,7 +187,7 @@
             "prenomJoueur":"Samuel",
             "nomJoueur":"Girard",
             "position":"D",
-            "salaireActuel":5000000
+            "salaireActuel":5000000.0
         },
         {
             "idNHL":8478038,
@@ -195,7 +195,7 @@
             "prenomJoueur":"Devon",
             "nomJoueur":"Toews",
             "position":"D",
-            "salaireActuel":4100000
+            "salaireActuel":4100000.0
         },
         {
             "idNHL":8478469,
@@ -203,7 +203,7 @@
             "prenomJoueur":"Thomas",
             "nomJoueur":"Chabot",
             "position":"D",
-            "salaireActuel":8000000
+            "salaireActuel":8000000.0
         },
         {
             "idNHL":8476979,
@@ -211,7 +211,7 @@
             "prenomJoueur":"Erik",
             "nomJoueur":"Gustafsson",
             "position":"D",
-            "salaireActuel":3000000
+            "salaireActuel":3000000.0
         },
         {
             "idNHL":8477939,
@@ -219,7 +219,7 @@
             "prenomJoueur":"William",
             "nomJoueur":"Nylander",
             "position":"A",
-            "salaireActuel":6962366
+            "salaireActuel":6962366.0
         },
         {
             "idNHL":8476461,
@@ -227,7 +227,7 @@
             "prenomJoueur":"Sean",
             "nomJoueur":"Couturier",
             "position":"A",
-            "salaireActuel":4333333
+            "salaireActuel":4333333.0
         },
         {
             "idNHL":8479337,
@@ -235,7 +235,7 @@
             "prenomJoueur":"Alex",
             "nomJoueur":"Debrincat",
             "position":"A",
-            "salaireActuel":6400000
+            "salaireActuel":6400000.0
         },
         {
             "idNHL":8482109,
@@ -243,7 +243,7 @@
             "prenomJoueur":"Alexis",
             "nomJoueur":"Lafreniere",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
             "idNHL":8477956,
@@ -251,7 +251,7 @@
             "prenomJoueur":"David",
             "nomJoueur":"Pastrnak",
             "position":"A",
-            "salaireActuel":6666667
+            "salaireActuel":6666667.0
         },
         {
             "idNHL":8477503,
@@ -259,7 +259,7 @@
             "prenomJoueur":"Max",
             "nomJoueur":"Domi",
             "position":"A",
-            "salaireActuel":5300000
+            "salaireActuel":5300000.0
         },
         {
             "idNHL":8478402,
@@ -267,7 +267,7 @@
             "prenomJoueur":"Connor",
             "nomJoueur":"McDavid",
             "position":"A",
-            "salaireActuel":12500000
+            "salaireActuel":12500000.0
         },
         {
             "idNHL":8477493,
@@ -275,7 +275,7 @@
             "prenomJoueur":"Aleksander",
             "nomJoueur":"Barkov",
             "position":"A",
-            "salaireActuel":5900000
+            "salaireActuel":5900000.0
         },
         {
             "idNHL":8481582,
@@ -283,7 +283,7 @@
             "prenomJoueur":"Nicholas",
             "nomJoueur":"Robertson",
             "position":"A",
-            "salaireActuel":821667
+            "salaireActuel":821667.0
         },
         {
             "idNHL":8476456,
@@ -291,7 +291,7 @@
             "prenomJoueur":"Jonathan",
             "nomJoueur":"Huberdeau",
             "position":"A",
-            "salaireActuel":5900000
+            "salaireActuel":5900000.0
         },
         {
             "idNHL":8479394,
@@ -299,7 +299,7 @@
             "prenomJoueur":"Carter",
             "nomJoueur":"Hart",
             "position":"G",
-            "salaireActuel":730833
+            "salaireActuel":730833.0
         },
         {
             "idNHL":8481523,
@@ -307,7 +307,7 @@
             "prenomJoueur":"Kirby",
             "nomJoueur":"Dach",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
             "idNHL":8481598,
@@ -315,7 +315,7 @@
             "prenomJoueur":"Philip",
             "nomJoueur":"Broberg",
             "position":"D",
-            "salaireActuel":894167
+            "salaireActuel":894167.0
         },
         {
             "idNHL":8481528,
@@ -323,7 +323,7 @@
             "prenomJoueur":"Dylan",
             "nomJoueur":"Cozens",
             "position":"A",
-            "salaireActuel":894167
+            "salaireActuel":894167.0
         },
         {
             "idNHL":8479496,
@@ -331,7 +331,7 @@
             "prenomJoueur":"David",
             "nomJoueur":"Rittich",
             "position":"G",
-            "salaireActuel":2750000
+            "salaireActuel":2750000.0
         },
         {
             "idNHL":8482097,
@@ -339,7 +339,7 @@
             "prenomJoueur":"Jack",
             "nomJoueur":"Quinn",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
             "idNHL":8478010,
@@ -347,7 +347,7 @@
             "prenomJoueur":"Brayden",
             "nomJoueur":"Point",
             "position":"A",
-            "salaireActuel":6750000
+            "salaireActuel":6750000.0
         },
         {
             "idNHL":8478444,
@@ -355,7 +355,7 @@
             "prenomJoueur":"Brock",
             "nomJoueur":"Boeser",
             "position":"A",
-            "salaireActuel":5875000
+            "salaireActuel":5875000.0
         },
         {
             "idNHL":8480012,
@@ -363,7 +363,7 @@
             "prenomJoueur":"Elias",
             "nomJoueur":"Pettersson",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
             "idNHL":8477404,
@@ -371,7 +371,7 @@
             "prenomJoueur":"Jake",
             "nomJoueur":"Guentzel",
             "position":"A",
-            "salaireActuel":6000000
+            "salaireActuel":6000000.0
         },
         {
             "idNHL":8476459,
@@ -379,7 +379,7 @@
             "prenomJoueur":"Mika",
             "nomJoueur":"Zibanejad",
             "position":"A",
-            "salaireActuel":5350000
+            "salaireActuel":5350000.0
         },
         {
             "idNHL":8474141,
@@ -387,7 +387,7 @@
             "prenomJoueur":"Patrick",
             "nomJoueur":"Kane",
             "position":"A",
-            "salaireActuel":10500000
+            "salaireActuel":10500000.0
         },
         {
             "idNHL":8474564,
@@ -395,7 +395,7 @@
             "prenomJoueur":"Steven",
             "nomJoueur":"Stamkos",
             "position":"A",
-            "salaireActuel":8500000
+            "salaireActuel":8500000.0
         },
         {
             "idNHL":8478109,
@@ -403,7 +403,7 @@
             "prenomJoueur":"Victor",
             "nomJoueur":"Olofsson",
             "position":"A",
-            "salaireActuel":3050000
+            "salaireActuel":3050000.0
         },
         {
             "idNHL":8478445,
@@ -411,7 +411,7 @@
             "prenomJoueur":"Mathew",
             "nomJoueur":"Barzal",
             "position":"A",
-            "salaireActuel":7000000
+            "salaireActuel":7000000.0
         },
         {
             "idNHL":8480069,
@@ -419,7 +419,7 @@
             "prenomJoueur":"Cale",
             "nomJoueur":"Makar",
             "position":"D",
-            "salaireActuel":880833
+            "salaireActuel":880833.0
         },
         {
             "idNHL":8479323,
@@ -427,7 +427,7 @@
             "prenomJoueur":"Adam",
             "nomJoueur":"Fox",
             "position":"D",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
             "idNHL":8480839,
@@ -435,7 +435,7 @@
             "prenomJoueur":"Rasmus",
             "nomJoueur":"Dahlin",
             "position":"D",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
             "idNHL":8475906,
@@ -443,7 +443,7 @@
             "prenomJoueur":"John",
             "nomJoueur":"Klingberg",
             "position":"D",
-            "salaireActuel":4250000
+            "salaireActuel":4250000.0
         },
         {
             "idNHL":8476883,
@@ -451,7 +451,7 @@
             "prenomJoueur":"Andrei",
             "nomJoueur":"Vasilevskiy",
             "position":"G",
-            "salaireActuel":9500000
+            "salaireActuel":9500000.0
         },
         {
             "idNHL":8476453,
@@ -459,7 +459,7 @@
             "prenomJoueur":"Nikita",
             "nomJoueur":"Kucherov",
             "position":"A",
-            "salaireActuel":9500000
+            "salaireActuel":9500000.0
         },
         {
             "idNHL":8477942,
@@ -467,7 +467,7 @@
             "prenomJoueur":"Kevin",
             "nomJoueur":"Fiala",
             "position":"A",
-            "salaireActuel":3000000
+            "salaireActuel":3000000.0
         },
         {
             "idNHL":8478864,
@@ -475,7 +475,7 @@
             "prenomJoueur":"Kirill",
             "nomJoueur":"Kaprizov",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
             "idNHL":8482116,
@@ -483,7 +483,7 @@
             "prenomJoueur":"Tim",
             "nomJoueur":"Stutzle",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
             "idNHL":8481559,
@@ -491,7 +491,7 @@
             "prenomJoueur":"Jack",
             "nomJoueur":"Hughes",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
             "idNHL":8479425,
@@ -499,7 +499,7 @@
             "prenomJoueur":"Filip",
             "nomJoueur":"Hronek",
             "position":"D",
-            "salaireActuel":714166
+            "salaireActuel":714166.0
         },
         {
             "idNHL":8478048,
@@ -507,15 +507,215 @@
             "prenomJoueur":"Igor",
             "nomJoueur":"Shesterkin",
             "position":"G",
-            "salaireActuel":925000
+            "salaireActuel":925000.0
         },
         {
-            "idNHL":8475883,
-            "idHockeyRef":"anderfr01",
-            "prenomJoueur":"Frederik",
-            "nomJoueur":"Andersen",
+            "idNHL":8481577,
+            "idHockeyRef":"tomasph01",
+            "prenomJoueur":"Philip",
+            "nomJoueur":"Tomasino",
+            "position":"A",
+            "salaireActuel":894167.0
+        },
+        {
+            "idNHL":8482145,
+            "idHockeyRef":"bourqma01",
+            "prenomJoueur":"Mavrik",
+            "nomJoueur":"Bourque",
+            "position":"A",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8481522,
+            "idHockeyRef":"krebspe01",
+            "prenomJoueur":"Peyton",
+            "nomJoueur":"Krebs",
+            "position":"A",
+            "salaireActuel":894167.0
+        },
+        {
+            "idNHL":8481546,
+            "idHockeyRef":"yorkca01",
+            "prenomJoueur":"Cam",
+            "nomJoueur":"York",
+            "position":"D",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8481604,
+            "idHockeyRef":"dorofpa01",
+            "prenomJoueur":"Pavel",
+            "nomJoueur":"Dorofeyev",
+            "position":"A",
+            "salaireActuel":925000.0
+        },
+        {
+            "idNHL":8481534,
+            "idHockeyRef":"lavoira01",
+            "prenomJoueur":"Rapha\u00ebl",
+            "nomJoueur":"Lavoie",
+            "position":"A",
+            "salaireActuel":870000.0
+        },
+        {
+            "idNHL":8481619,
+            "idHockeyRef":"campbal01",
+            "prenomJoueur":"Alex",
+            "nomJoueur":"Campbell",
+            "position":"A",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8481533,
+            "idHockeyRef":"zegratr01",
+            "prenomJoueur":"Trevor",
+            "nomJoueur":"Zegras",
+            "position":"A",
+            "salaireActuel":925000.0
+        },
+        {
+            "idNHL":8481560,
+            "idHockeyRef":"kaliyar01",
+            "prenomJoueur":"Arthur",
+            "nomJoueur":"Kaliyev",
+            "position":"A",
+            "salaireActuel":925000.0
+        },
+        {
+            "idNHL":8482099,
+            "idHockeyRef":"amiroro01",
+            "prenomJoueur":"Rodion",
+            "nomJoueur":"Amirov",
+            "position":"A",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8482078,
+            "idHockeyRef":"raymolu01",
+            "prenomJoueur":"Lucas",
+            "nomJoueur":"Raymond",
+            "position":"A",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8482149,
+            "idHockeyRef":"perfeco01",
+            "prenomJoueur":"Cole",
+            "nomJoueur":"Perfetti",
+            "position":"A",
+            "salaireActuel":925000.0
+        },
+        {
+            "idNHL":8482142,
+            "idHockeyRef":"drysdja01",
+            "prenomJoueur":"Jamie",
+            "nomJoueur":"Drysdale",
+            "position":"D",
+            "salaireActuel":925000.0
+        },
+        {
+            "idNHL":8481568,
+            "idHockeyRef":"vlasial01",
+            "prenomJoueur":"Alex",
+            "nomJoueur":"Vlasic",
+            "position":"D",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8482137,
+            "idHockeyRef":"askarya01",
+            "prenomJoueur":"Yaroslav",
+            "nomJoueur":"Askarov",
             "position":"G",
-            "salaireActuel":5000000
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8481519,
+            "idHockeyRef":"knighsp01",
+            "prenomJoueur":"Spencer",
+            "nomJoueur":"Knight",
+            "position":"G",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8482124,
+            "idHockeyRef":"byfiequ01",
+            "prenomJoueur":"Quinton",
+            "nomJoueur":"Byfield",
+            "position":"A",
+            "salaireActuel":925000.0
+        },
+        {
+            "idNHL":8481532,
+            "idHockeyRef":"turcoal01",
+            "prenomJoueur":"Alex",
+            "nomJoueur":"Turcotte",
+            "position":"A",
+            "salaireActuel":925000.0
+        },
+        {
+            "idNHL":8481618,
+            "idHockeyRef":"newhoal01",
+            "prenomJoueur":"Alex",
+            "nomJoueur":"Newhook",
+            "position":"A",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8481540,
+            "idHockeyRef":"caufico01",
+            "prenomJoueur":"Cole",
+            "nomJoueur":"Caufield",
+            "position":"A",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8481557,
+            "idHockeyRef":"boldyma01",
+            "prenomJoueur":"Matthew",
+            "nomJoueur":"Boldy",
+            "position":"A",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8482113,
+            "idHockeyRef":"lundean01",
+            "prenomJoueur":"Anton",
+            "nomJoueur":"Lundell",
+            "position":"A",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8481576,
+            "idHockeyRef":"suzukry01",
+            "prenomJoueur":"Ryan",
+            "nomJoueur":"Suzuki",
+            "position":"A",
+            "salaireActuel":894167.0
+        },
+        {
+            "idNHL":8482079,
+            "idHockeyRef":"rossima01",
+            "prenomJoueur":"Marco",
+            "nomJoueur":"Rossi",
+            "position":"A",
+            "salaireActuel":925000.0
+        },
+        {
+            "idNHL":8481617,
+            "idHockeyRef":"podkova01",
+            "prenomJoueur":"Vasili",
+            "nomJoueur":"Podkolzin",
+            "position":"A",
+            "salaireActuel":null
+        },
+        {
+            "idNHL":8481592,
+            "idHockeyRef":"pelleja01",
+            "prenomJoueur":"Jakob",
+            "nomJoueur":"Pelletier",
+            "position":"A",
+            "salaireActuel":894167.0
         }
     ]
 }
