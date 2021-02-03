@@ -1,4 +1,4 @@
-idNHL;idHockeyRef;prenomJoueur;nomJoueur;position;salaireActuel
+﻿idNHL;idHockeyRef;prenomJoueur;nomJoueur;position;salaireActuel
 8475883;anderfr01;Frederik;Andersen;G;5000000
 8477934;draisle01;Leon;Draisaitl;A;8500000
 8478483;marnemi01;Mitchell;Marner;A;10893000
@@ -64,7 +64,7 @@ idNHL;idHockeyRef;prenomJoueur;nomJoueur;position;salaireActuel
 8481522;krebspe01;Peyton;Krebs;A;894167
 8481546;yorkca01;Cam;York;D;
 8481604;dorofpa01;Pavel;Dorofeyev;A;925000
-8481534;lavoira01;Rapha�l;Lavoie;A;870000
+8481534;lavoira01;Raphaël;Lavoie;A;870000
 8481619;campbal01;Alex;Campbell;A;
 8481533;zegratr01;Trevor;Zegras;A;925000
 8481560;kaliyar01;Arthur;Kaliyev;A;925000
