@@ -1168,6 +1168,24 @@
             "salaireActuel":9500000.0
         },
         {
+            "idAlignement":62,
+            "idPooler":"cle",
+            "prenomJoueur":"Nikita",
+            "nomJoueur":"Kucherov",
+            "idNHL":8476453,
+            "statutJoueur":"Bless\u00e9",
+            "dateDebut":"2021-01-13",
+            "dateFin":"2100-01-01",
+            "pjActuels":null,
+            "butsActuels":null,
+            "assistActuels":null,
+            "pointsActuels":null,
+            "idHockeyRef":"kucheni01",
+            "nomJoueur":"Kucherov",
+            "position":"A",
+            "salaireActuel":9500000.0
+        },
+        {
             "idAlignement":63,
             "idPooler":"cle",
             "prenomJoueur":"Jack",
@@ -1799,7 +1817,7 @@
         },
         {
             "idAlignement":98,
-            "idPooler":"tro",
+            "idPooler":"gab",
             "prenomJoueur":"Alex",
             "nomJoueur":"Turcotte",
             "idNHL":8481532,
@@ -1817,7 +1835,7 @@
         },
         {
             "idAlignement":99,
-            "idPooler":"tro",
+            "idPooler":"gab",
             "prenomJoueur":"Alex",
             "nomJoueur":"Newhook",
             "idNHL":8481618,
@@ -1835,7 +1853,7 @@
         },
         {
             "idAlignement":100,
-            "idPooler":"tro",
+            "idPooler":"gab",
             "prenomJoueur":"Cole",
             "nomJoueur":"Caufield",
             "idNHL":8481540,
@@ -1853,7 +1871,7 @@
         },
         {
             "idAlignement":101,
-            "idPooler":"tro",
+            "idPooler":"gab",
             "prenomJoueur":"Matthew",
             "nomJoueur":"Boldy",
             "idNHL":8481557,
@@ -1871,7 +1889,7 @@
         },
         {
             "idAlignement":102,
-            "idPooler":"tro",
+            "idPooler":"gab",
             "prenomJoueur":"Anton",
             "nomJoueur":"Lundell",
             "idNHL":8482113,
@@ -1889,7 +1907,7 @@
         },
         {
             "idAlignement":103,
-            "idPooler":"tro",
+            "idPooler":"gab",
             "prenomJoueur":"Ryan",
             "nomJoueur":"Suzuki",
             "idNHL":8481576,
@@ -1907,7 +1925,7 @@
         },
         {
             "idAlignement":104,
-            "idPooler":"tro",
+            "idPooler":"gab",
             "prenomJoueur":"Marco",
             "nomJoueur":"Rossi",
             "idNHL":8482079,
@@ -1925,7 +1943,7 @@
         },
         {
             "idAlignement":105,
-            "idPooler":"tro",
+            "idPooler":"gab",
             "prenomJoueur":"Vasili",
             "nomJoueur":"Podkolzin",
             "idNHL":8481617,
@@ -1943,7 +1961,7 @@
         },
         {
             "idAlignement":106,
-            "idPooler":"tro",
+            "idPooler":"gab",
             "prenomJoueur":"Jakob",
             "nomJoueur":"Pelletier",
             "idNHL":8481592,

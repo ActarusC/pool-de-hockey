@@ -716,6 +716,14 @@
             "nomJoueur":"Pelletier",
             "position":"A",
             "salaireActuel":894167.0
+        },
+        {
+            "idNHL":8476453,
+            "idHockeyRef":"kucheni01",
+            "prenomJoueur":"Nikita",
+            "nomJoueur":"Kucherov",
+            "position":"A",
+            "salaireActuel":9500000.0
         }
     ]
 }
