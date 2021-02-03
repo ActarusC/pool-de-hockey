@@ -94,14 +94,14 @@ const Joueur = ({ pageContext }) => {
             </Card>
           </Col>
         </Row>
-        <Row>
+        <Row style={{ padding: 5 }}>
           <img src={"https://cms.nhl.bamgrid.com/images/actionshots/" + pageContext.idNHL + ".jpg"}
             alt={pageContext.nom + "  in action"}></img>
 
         </Row>
       </Container>
 
-    </Layout >
+    </Layout>
   )
 }
 
