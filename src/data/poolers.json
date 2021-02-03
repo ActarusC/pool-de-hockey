@@ -35,7 +35,7 @@
             },
             {
                 "name":"MasseSalariale",
-                "type":"string"
+                "type":"integer"
             }
         ],
         "pandas_version":"0.20.0"
@@ -50,7 +50,7 @@
             "B":51,
             "A":77,
             "Score":128,
-            "MasseSalariale":null
+            "MasseSalariale":77844999
         },
         {
             "Id":"cle",
@@ -61,7 +61,7 @@
             "B":27,
             "A":53,
             "Score":80,
-            "MasseSalariale":null
+            "MasseSalariale":97053200
         },
         {
             "Id":"hub",
@@ -72,7 +72,7 @@
             "B":59,
             "A":114,
             "Score":173,
-            "MasseSalariale":null
+            "MasseSalariale":84258000
         }
     ]
 }
