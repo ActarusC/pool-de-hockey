@@ -36,7 +36,7 @@ function enteteAlignement(afficheStatut = false) {
       <th>Date d'ajout</th>
       <th>Date de fin</th>
       {afficheStatut &&
-        <th>{Statut}</th>
+        <th>Statut</th>
           }
     </tr>
   </thead>
@@ -73,13 +73,13 @@ function bodyAlignement(idPooler, statusA, afficheStatut = false){
   )
 }
 
-function unTypeAlignement(idPooler, statusA, titreA) {
+function unTypeAlignement(idPooler, statusA, titreA, afficheStatut = false) {
   return (
     <div>
       <h2>{titreA}</h2>
       <table>
-        {enteteAlignement()}
-        {bodyAlignement(idPooler, statusA)}
+        {enteteAlignement(afficheStatut)}
+        {bodyAlignement(idPooler, statusA, afficheStatut)}
      </table>
     </div>
   )
@@ -92,7 +92,7 @@ function typesAlignements(idPooler) {
       { unTypeAlignement(idPooler, "R\u00e9serve", "R\u00e9serve") }
       { unTypeAlignement(idPooler, "Espoir", "Espoirs") }
       { unTypeAlignement(idPooler, "Bless\u00e9", "Liste des bless\u00e9s") }
-      
+      { unTypeAlignement(idPooler, "Historique", "Historique") }
     </div>
   )
 }
