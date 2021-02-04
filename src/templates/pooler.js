@@ -6,7 +6,13 @@ import { Link } from "gatsby"
 const alignements = require("../data/alignements.json").data
 
 function filtrerAlignement(align, idPooler, statusA) {
-  let alignF = align.filter(unA => (unA.idPooler === idPooler && unA.statutJoueur === statusA))
+  let alignF = align.filter(unA => (unA.idPooler === idPooler))
+  if (statusA === "historique") {
+    align.filter(unA => (unA.dateFin < "2100-01-01"))
+  }
+  else {
+    align.filter(unA => (unA.dateFin === "2100-01-01"))
+  }
   alignF = alignF.sort(comparerJoueur)
   return alignF
 }
@@ -94,7 +100,7 @@ function typesAlignements(idPooler) {
       { unTypeAlignement(idPooler, "R\u00e9serve", "R\u00e9serve") }
       { unTypeAlignement(idPooler, "Espoir", "Espoirs") }
       { unTypeAlignement(idPooler, "Bless\u00e9", "Liste des bless\u00e9s") }
-      { unTypeAlignement(idPooler, "Historique", "Historique", afficheDateFin = true, afficheStatut = true) }
+      { unTypeAlignement(idPooler, "historique", "Historique", afficheDateFin = true, afficheStatut = true) }
     </div>
   )
 }
