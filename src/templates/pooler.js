@@ -100,7 +100,7 @@ function typesAlignements(idPooler) {
       { unTypeAlignement(idPooler, "R\u00e9serve", "R\u00e9serve") }
       { unTypeAlignement(idPooler, "Espoir", "Espoirs") }
       { unTypeAlignement(idPooler, "Bless\u00e9", "Liste des bless\u00e9s") }
-      { unTypeAlignement(idPooler, "historique", "Historique", afficheDateFin = true, afficheStatut = true) }
+      { unTypeAlignement(idPooler, "historique", "Historique", true, true) }
     </div>
   )
 }
