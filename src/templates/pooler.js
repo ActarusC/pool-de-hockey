@@ -22,28 +22,30 @@ function comparerJoueur(a, b) {
   return comparison * -1;
 }
 
-function enteteAlignement(afficheStatut = false) {
+function enteteAlignement(afficheDateFin = false, afficheStatut = false) {
   return(
     <thead>
     <tr>
       <th>Joueur</th>
       <th>Position</th>
+      {afficheStatut &&
+        <th>Statut</th>
+          }
       <th>PJ</th>
       <th>Buts</th>
       <th>Aides</th>
       <th>Score</th>
       <th>Salaire</th>
       <th>Date d'ajout</th>
-      <th>Date de fin</th>
-      {afficheStatut &&
-        <th>Statut</th>
-          }
-    </tr>
+      {afficheDateFin &&
+        <th>Date de fin</th>
+      }
+      </tr>
   </thead>
   )
 }
 
-function bodyAlignement(idPooler, statusA, afficheStatut = false){
+function bodyAlignement(idPooler, statusA, afficheDateFin = false, afficheStatut = false){
   return (
     <tbody>
     {filtrerAlignement(alignements, idPooler, statusA).map(unJoueur => (
@@ -53,19 +55,19 @@ function bodyAlignement(idPooler, statusA, afficheStatut = false){
             {unJoueur.prenomJoueur + " " + unJoueur.nomJoueur}
           </Link></td>
         <td>{unJoueur.position} </td>
+        {afficheStatut &&
+                <td>{unJoueur.statutJoueur}</td>
+                }
         <td>{unJoueur.pjActuels} </td>
         <td>{unJoueur.butsActuels} </td>
         <td>{unJoueur.assistActuels} </td>
         <td>{unJoueur.pointsActuels} </td>
         <td>{(unJoueur.salaireActuel / 10**6).toFixed(2)  } M$</td>
         <td>{unJoueur.dateDebut} </td>
-        {unJoueur.dateFin !== "2100-01-01" &&
+        {afficheDateFin &&
                 <td>{unJoueur.dateFin} </td>
                 }
-        {afficheStatut &&
-                <td>{unJoueur.statutJoueur}</td>
-                }
-      </tr>
+        </tr>
 
     ))
     }
@@ -73,13 +75,13 @@ function bodyAlignement(idPooler, statusA, afficheStatut = false){
   )
 }
 
-function unTypeAlignement(idPooler, statusA, titreA, afficheStatut = false) {
+function unTypeAlignement(idPooler, statusA, titreA, afficheDateFin = false, afficheStatut = false) {
   return (
     <div>
       <h2>{titreA}</h2>
       <table>
-        {enteteAlignement(afficheStatut)}
-        {bodyAlignement(idPooler, statusA, afficheStatut)}
+        {enteteAlignement(afficheDateFin, afficheStatut)}
+        {bodyAlignement(idPooler, statusA, afficheDateFin, afficheStatut)}
      </table>
     </div>
   )
@@ -92,7 +94,7 @@ function typesAlignements(idPooler) {
       { unTypeAlignement(idPooler, "R\u00e9serve", "R\u00e9serve") }
       { unTypeAlignement(idPooler, "Espoir", "Espoirs") }
       { unTypeAlignement(idPooler, "Bless\u00e9", "Liste des bless\u00e9s") }
-      { unTypeAlignement(idPooler, "Historique", "Historique") }
+      { unTypeAlignement(idPooler, "Historique", "Historique", afficheDateFin = true, afficheStatut = true) }
     </div>
   )
 }
