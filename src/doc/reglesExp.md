@@ -36,7 +36,11 @@ Le repêchage d'expansion se déroule avant le repêchage de priorité, le repê
 
 ## Repêchage d'entrée
 
-- L'équipe d'expansion participe à la loterie pour posséder le 1<sup>er</sup> choix au total du repêchage d'entrée. Les autres équipes qui participent à la loterie et les probabilités de chacune sont encore à déterminer. 
+- L'équipe d'expansion participe à la loterie pour posséder le 1<sup>er</sup> choix au total du repêchage d'entrée. Voici les probabilités de posséder le 1<sup>er</sup> choix au total de chaque équipe:
+                - Équipe d'expansion : 45%
+                - 3<sup>e</sup> équipe du classement : 45%
+                - 2<sup>e</sup> équipe du classement : 10%
+                - 1<sup>ère</sup> équipe du classement : 0%
 
 - Pour les 4 rondes suivantes, l'équipe d'expansion sélectionne au 2<sup>e</sup> rang de chaque ronde.
 
