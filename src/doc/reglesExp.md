@@ -1,5 +1,5 @@
 ---
-slug: "/reglesExp"
+slug: "/doc/reglesExp"
 date: "2021-02-05"
 title: "Règles de l'expansion 2021-2022"
 ---
