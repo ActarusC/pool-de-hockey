@@ -1,4 +1,5 @@
 ---
+slug: "/afaire"
 title: "À faire"
 ---
 ## Liste des tâches
