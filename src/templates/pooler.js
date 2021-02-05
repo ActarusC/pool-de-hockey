@@ -11,7 +11,7 @@ function filtrerAlignement(align, idPooler, statusA) {
     align.filter(unA => (unA.dateFin < "2100-01-01"))
   }
   else {
-    align.filter(unA => (unA.dateFin === "2100-01-01"))
+    alignF = alignF.filter(unA => (unA.dateFin === "2100-01-01" && unA.statutJoueur === statusA))
   }
   alignF = alignF.sort(comparerJoueur)
   return alignF
