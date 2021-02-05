@@ -8,7 +8,7 @@ const alignements = require("../data/alignements.json").data
 function filtrerAlignement(align, idPooler, statusA) {
   let alignF = align.filter(unA => (unA.idPooler === idPooler))
   if (statusA === "historique") {
-    align.filter(unA => (unA.dateFin < "2100-01-01"))
+    alignF = alignF.filter(unA => (unA.dateFin < "2100-01-01"))
   }
   else {
     alignF = alignF.filter(unA => (unA.dateFin === "2100-01-01" && unA.statutJoueur === statusA))
