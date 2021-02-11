@@ -38,8 +38,8 @@ function enteteAlignement(afficheDateFin = false, afficheStatut = false) {
         <th>Statut</th>
           }
       <th>PJ</th>
-      <th>Buts</th>
-      <th>Aides</th>
+      <th>Buts (W)</th>
+      <th>Aides (SO)</th>
       <th>Score</th>
       <th>Salaire</th>
       <th>Date d'ajout</th>
