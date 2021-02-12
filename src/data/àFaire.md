@@ -9,7 +9,7 @@ title: "À faire"
         **2.5** Et décider si on compte les assistances/buts
     3. Coder la fonction qui va scraper les matchs qu'on a besoin
 
-    4. Intégrer les règles générales du pool en markdown
+    4. **(DONE)** Intégrer les règles générales du pool en markdown
     5. **(DONE)** Établir les règles d'expansion et les intégrer en markdown
 
     6. Coder les fonctions de transactions : échanges, joueurs libérés/ballotage, repêchage, commutations, etc. 
