@@ -58,9 +58,9 @@
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"ROC",
             "PJ":105,
-            "B":32,
+            "B":33,
             "A":57,
-            "Score":89,
+            "Score":90,
             "MasseSalariale":81181533
         },
         {
@@ -69,9 +69,9 @@
             "\u00c9quipe":"Patriotes",
             "Abbr\u00e9viation":"PAT",
             "PJ":135,
-            "B":51,
+            "B":52,
             "A":108,
-            "Score":159,
+            "Score":160,
             "MasseSalariale":74374666
         }
     ]
