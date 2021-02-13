@@ -47,9 +47,9 @@
             "\u00c9quipe":"Tropics",
             "Abbr\u00e9viation":"TRO",
             "PJ":135,
-            "B":50,
+            "B":47,
             "A":64,
-            "Score":122,
+            "Score":116,
             "MasseSalariale":77844999
         },
         {
@@ -58,9 +58,9 @@
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"ROC",
             "PJ":105,
-            "B":33,
+            "B":32,
             "A":57,
-            "Score":97,
+            "Score":95,
             "MasseSalariale":81181533
         },
         {
@@ -69,9 +69,9 @@
             "\u00c9quipe":"Patriotes",
             "Abbr\u00e9viation":"PAT",
             "PJ":135,
-            "B":52,
+            "B":48,
             "A":108,
-            "Score":167,
+            "Score":159,
             "MasseSalariale":74374666
         }
     ]
