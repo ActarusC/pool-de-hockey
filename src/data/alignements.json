@@ -2093,7 +2093,7 @@
             "idNHL":8480069,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-02-04",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-02-05",
             "pjActuels":0,
             "butsActuels":0,
             "assistActuels":0,
@@ -2174,6 +2174,24 @@
             "nomJoueur":"Hronek",
             "position":"D",
             "salaireActuel":714166.0
+        },
+        {
+            "idAlignement":119,
+            "idPooler":"gab",
+            "prenomJoueur":"Cale",
+            "nomJoueur":"Makar",
+            "idNHL":8480069,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-02-06",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0,
+            "assistActuels":0,
+            "pointsActuels":0,
+            "idHockeyRef":"makarca01",
+            "nomJoueur":"Makar",
+            "position":"D",
+            "salaireActuel":880833.0
         }
     ]
 }
