@@ -5,8 +5,7 @@ title: "À faire"
 ## Liste des tâches
 
     1. **(DONE)** Arranger le système de points/les problèmes de dates des joueurs  
-    2. Coder la fonction qui va retourner le score des gardiens et l'intégrer dans un UPDATE
-        **2.5** Et décider si on compte les assistances/buts
+    2. **(DONE)** Coder la fonction qui va retourner le score des gardiens et l'intégrer dans un UPDATE
     3. Coder la fonction qui va scraper les matchs qu'on a besoin
 
     4. **(DONE)** Intégrer les règles générales du pool en markdown
