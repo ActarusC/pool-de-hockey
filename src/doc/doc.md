@@ -7,9 +7,9 @@ title: "Règles générales de la MSHL"
 - Pour qu'une règle soit modifiée, elle doit être acceptée par toutes les équipes de la MSHL.
 
 # Équipes actives et leur dirigeant
-- Tropics (Gabriel Vachon)
-- Patriotes (Hubert Cadieux)
-- Rockets (Clément Cadieux)
+- [Tropics (Gabriel Vachon)](/pooler/gab)
+- [Patriotes (Hubert Cadieux)](/pooler/hub)
+- [Rockets (Clément Cadieux)](/pooler/cle)
 
 # Composition des équipes
 

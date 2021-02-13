@@ -34,7 +34,7 @@ const Layout = ({ children }) => {
           marginTop: `2rem`
         }}><p>
           © {new Date().getFullYear()} - Dernière màj:  {moment(data.site?.buildTime).local().format("YY-MM-DD HH:mm:ss") }</p>
-          <Link to="/doc">Règles du pool</Link>
+          <Link to="/regles">Règles du pool</Link>
         </footer>
       </div>
     </>
