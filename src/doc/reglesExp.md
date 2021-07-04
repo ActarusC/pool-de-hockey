@@ -66,3 +66,5 @@ Le repêchage d'expansion se déroule avant le repêchage de priorité, le repê
 - L'équipe d'expansion choisit consécutivement **5 espoirs** qui ont été repêchés lors des repêchages 2019 et 2020 de la LNH et qui n'appartiennent pas à l'une des équipes actuelles du pool, portant son total à **10 espoirs**.
 
 - Ces joueurs doivent respecter les conditions du statut d'espoir de la MSHL, soit avoir joué moins de 15 matchs dans la LNH.
+
+[Calendrier de la saison morte 2021](/doc/calen_offseas_21)
