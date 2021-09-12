@@ -39,3 +39,11 @@ VSCode est un excellent éditeur de code et peut être utilisé pour modifier la
 Pour pouvoir exécuter le site en local sur votre ordinateur, NodeJS doit être installé
 
 [Télécharger NodeJS](https://nodejs.org/en/download/)
+
+### Gatbsy CLI
+
+Il faut peut-être installer Gatsby avec la commande
+
+```
+npm install -g gatsby-cli
+```

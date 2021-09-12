@@ -70,3 +70,4 @@ yarn-error.log
 
 # SQLite db
 *.db
+.vscode/launch.json
