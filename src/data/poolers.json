@@ -50,7 +50,7 @@
             "B":0,
             "A":0,
             "Score":0,
-            "MasseSalariale":71814166
+            "MasseSalariale":80989999
         },
         {
             "Id":"cle",
@@ -61,7 +61,7 @@
             "B":0,
             "A":0,
             "Score":0,
-            "MasseSalariale":62054033
+            "MasseSalariale":79877200
         },
         {
             "Id":"hub",
@@ -72,7 +72,7 @@
             "B":0,
             "A":0,
             "Score":0,
-            "MasseSalariale":83188832
+            "MasseSalariale":61283000
         },
         {
             "Id":"rap",
@@ -83,7 +83,7 @@
             "B":0,
             "A":0,
             "Score":0,
-            "MasseSalariale":42453691
+            "MasseSalariale":81392857
         }
     ]
 }

@@ -73,14 +73,14 @@
             "idNHL":8480036,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"heiskmi01",
             "prenomJoueur":"Miro",
             "nomJoueur":"Heiskanen",
             "position":"D",
-            "salaireActuel":894166
+            "salaireActuel":8450000
         },
         {
             "idAlignement":13,
@@ -90,14 +90,14 @@
             "idNHL":8478492,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-04",
             "pjActuels":0,
             "butsActuels":null,
             "idHockeyRef":"samsoil01",
             "prenomJoueur":"Ilya",
             "nomJoueur":"Samsonov",
             "position":"G",
-            "salaireActuel":925000
+            "salaireActuel":2000000
         },
         {
             "idAlignement":14,
@@ -107,7 +107,7 @@
             "idNHL":8477934,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-04",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"draisle01",
@@ -165,7 +165,7 @@
             "prenomJoueur":"Andrei",
             "nomJoueur":"Svechnikov",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":7750000
         },
         {
             "idAlignement":19,
@@ -192,14 +192,14 @@
             "idNHL":8473419,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"marchbr01",
             "prenomJoueur":"Brad",
             "nomJoueur":"Marchand",
             "position":"A",
-            "salaireActuel":6125000
+            "salaireActuel":3062500
         },
         {
             "idAlignement":22,
@@ -250,7 +250,7 @@
             "prenomJoueur":"Quinn",
             "nomJoueur":"Hughes",
             "position":"D",
-            "salaireActuel":916667
+            "salaireActuel":7850000
         },
         {
             "idAlignement":26,
@@ -260,7 +260,7 @@
             "idNHL":8474590,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"carlsjo01",
@@ -277,7 +277,7 @@
             "idNHL":8475906,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"klingjo01",
@@ -311,14 +311,14 @@
             "idNHL":8477942,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"fialake01",
             "prenomJoueur":"Kevin",
             "nomJoueur":"Fiala",
             "position":"A",
-            "salaireActuel":3000000
+            "salaireActuel":5100000
         },
         {
             "idAlignement":40,
@@ -328,7 +328,7 @@
             "idNHL":8481559,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"hugheja01",
@@ -352,7 +352,7 @@
             "prenomJoueur":"Igor",
             "nomJoueur":"Shesterkin",
             "position":"G",
-            "salaireActuel":925000
+            "salaireActuel":5666667
         },
         {
             "idAlignement":44,
@@ -396,7 +396,7 @@
             "idNHL":8474141,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"kanepa01",
@@ -413,7 +413,7 @@
             "idNHL":8474564,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"stamkst01",
@@ -430,7 +430,7 @@
             "idNHL":8478109,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"olofsvi01",
@@ -454,7 +454,7 @@
             "prenomJoueur":"Elias",
             "nomJoueur":"Pettersson",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":7350000
         },
         {
             "idAlignement":55,
@@ -481,7 +481,7 @@
             "idNHL":8481582,
             "statutJoueur":"Bless\u00e9",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"roberni01",
@@ -498,7 +498,7 @@
             "idNHL":8481523,
             "statutJoueur":"Bless\u00e9",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"dachki01",
@@ -508,6 +508,23 @@
             "salaireActuel":925000
         },
         {
+            "idAlignement":62,
+            "idPooler":"gab",
+            "prenomJoueur":"Nikita",
+            "nomJoueur":"Kucherov",
+            "idNHL":8476453,
+            "statutJoueur":"Bless\u00e9",
+            "dateDebut":"2021-07-29",
+            "dateFin":"2021-10-11",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"kucheni01",
+            "prenomJoueur":"Nikita",
+            "nomJoueur":"Kucherov",
+            "position":"A",
+            "salaireActuel":9500000
+        },
+        {
             "idAlignement":63,
             "idPooler":"cle",
             "prenomJoueur":"Jack",
@@ -515,7 +532,7 @@
             "idNHL":8482097,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"quinnja01",
@@ -532,14 +549,14 @@
             "idNHL":8479496,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":null,
             "idHockeyRef":"rittida01",
             "prenomJoueur":"David",
             "nomJoueur":"Rittich",
             "position":"G",
-            "salaireActuel":2750000
+            "salaireActuel":1250000
         },
         {
             "idAlignement":67,
@@ -549,7 +566,7 @@
             "idNHL":8481528,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"cozendy01",
@@ -583,7 +600,7 @@
             "idNHL":8482109,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"lafreal01",
@@ -685,14 +702,14 @@
             "idNHL":8476979,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"gustaer01",
             "prenomJoueur":"Erik",
             "nomJoueur":"Gustafsson",
             "position":"D",
-            "salaireActuel":3000000
+            "salaireActuel":800000
         },
         {
             "idAlignement":79,
@@ -702,14 +719,14 @@
             "idNHL":8479394,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":null,
             "idHockeyRef":"hartca01",
             "prenomJoueur":"Carter",
             "nomJoueur":"Hart",
             "position":"G",
-            "salaireActuel":730833
+            "salaireActuel":3979000
         },
         {
             "idAlignement":81,
@@ -743,7 +760,7 @@
             "prenomJoueur":"Mavrik",
             "nomJoueur":"Bourque",
             "position":"A",
-            "salaireActuel":null
+            "salaireActuel":925000
         },
         {
             "idAlignement":83,
@@ -770,14 +787,14 @@
             "idNHL":8481546,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"yorkca01",
             "prenomJoueur":"Cam",
             "nomJoueur":"York",
             "position":"D",
-            "salaireActuel":null
+            "salaireActuel":880833
         },
         {
             "idAlignement":85,
@@ -804,7 +821,7 @@
             "idNHL":8481534,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"lavoira01",
@@ -821,7 +838,7 @@
             "idNHL":8481619,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"campbal01",
@@ -838,7 +855,7 @@
             "idNHL":8481533,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"zegratr01",
@@ -855,7 +872,7 @@
             "idNHL":8481560,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"kaliyar01",
@@ -879,7 +896,7 @@
             "prenomJoueur":"Rodion",
             "nomJoueur":"Amirov",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":91,
@@ -889,14 +906,14 @@
             "idNHL":8482078,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"raymolu01",
             "prenomJoueur":"Lucas",
             "nomJoueur":"Raymond",
             "position":"A",
-            "salaireActuel":null
+            "salaireActuel":925000
         },
         {
             "idAlignement":92,
@@ -923,7 +940,7 @@
             "idNHL":8482142,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"drysdja01",
@@ -974,14 +991,14 @@
             "idNHL":8481519,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
-            "butsActuels":0.0,
+            "butsActuels":null,
             "idHockeyRef":"knighsp01",
             "prenomJoueur":"Spencer",
             "nomJoueur":"Knight",
             "position":"G",
-            "salaireActuel":null
+            "salaireActuel":925000
         },
         {
             "idAlignement":98,
@@ -1008,14 +1025,14 @@
             "idNHL":8481618,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"newhoal01",
             "prenomJoueur":"Alex",
             "nomJoueur":"Newhook",
             "position":"A",
-            "salaireActuel":null
+            "salaireActuel":908333
         },
         {
             "idAlignement":102,
@@ -1025,14 +1042,14 @@
             "idNHL":8482113,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"lundean01",
             "prenomJoueur":"Anton",
             "nomJoueur":"Lundell",
             "position":"A",
-            "salaireActuel":null
+            "salaireActuel":925000
         },
         {
             "idAlignement":103,
@@ -1042,7 +1059,7 @@
             "idNHL":8481576,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"suzukry01",
@@ -1083,7 +1100,7 @@
             "prenomJoueur":"Vasili",
             "nomJoueur":"Podkolzin",
             "position":"A",
-            "salaireActuel":null
+            "salaireActuel":925000
         },
         {
             "idAlignement":106,
@@ -1093,7 +1110,7 @@
             "idNHL":8481592,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"pelleja01",
@@ -1110,7 +1127,7 @@
             "idNHL":8476459,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"zibanmi01",
@@ -1134,7 +1151,7 @@
             "prenomJoueur":"Kirill",
             "nomJoueur":"Kaprizov",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":9000000
         },
         {
             "idAlignement":118,
@@ -1144,14 +1161,14 @@
             "idNHL":8479425,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"hronefi01",
             "prenomJoueur":"Filip",
             "nomJoueur":"Hronek",
             "position":"D",
-            "salaireActuel":714166
+            "salaireActuel":4400000
         },
         {
             "idAlignement":119,
@@ -1168,7 +1185,7 @@
             "prenomJoueur":"Cale",
             "nomJoueur":"Makar",
             "position":"D",
-            "salaireActuel":880833
+            "salaireActuel":9000000
         },
         {
             "idAlignement":120,
@@ -1178,7 +1195,7 @@
             "idNHL":8477492,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-04",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"mackina01",
@@ -1212,7 +1229,7 @@
             "idNHL":8477503,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"domima01",
@@ -1229,14 +1246,14 @@
             "idNHL":8479977,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"yamamka01",
             "prenomJoueur":"Kailer",
             "nomJoueur":"Yamamoto",
             "position":"A",
-            "salaireActuel":894166
+            "salaireActuel":1175000
         },
         {
             "idAlignement":125,
@@ -1246,14 +1263,14 @@
             "idNHL":8478856,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"garlaco01",
             "prenomJoueur":"Conor",
             "nomJoueur":"Garland",
             "position":"A",
-            "salaireActuel":775000
+            "salaireActuel":4950000
         },
         {
             "idAlignement":137,
@@ -1263,7 +1280,7 @@
             "idNHL":8481598,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"brobeph01",
@@ -1297,14 +1314,14 @@
             "idNHL":8481540,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"caufico01",
             "prenomJoueur":"Cole",
             "nomJoueur":"Caufield",
             "position":"A",
-            "salaireActuel":null
+            "salaireActuel":880833
         },
         {
             "idAlignement":154,
@@ -1348,7 +1365,7 @@
             "idNHL":8481598,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"brobeph01",
@@ -1365,7 +1382,7 @@
             "idNHL":8482124,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"byfiequ01",
@@ -1382,7 +1399,7 @@
             "idNHL":8481524,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"byrambo01",
@@ -1399,14 +1416,14 @@
             "idNHL":8475883,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":null,
             "idHockeyRef":"anderfr01",
             "prenomJoueur":"Frederik",
             "nomJoueur":"Andersen",
             "position":"G",
-            "salaireActuel":5000000
+            "salaireActuel":4500000
         },
         {
             "idAlignement":162,
@@ -1416,7 +1433,7 @@
             "idNHL":8478403,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"eicheja01",
@@ -1474,7 +1491,7 @@
             "prenomJoueur":"Alexander",
             "nomJoueur":"Holtz",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":167,
@@ -1484,7 +1501,7 @@
             "idNHL":8478444,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"boesebr01",
@@ -1501,7 +1518,7 @@
             "idNHL":8478445,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"barzama01",
@@ -1525,7 +1542,7 @@
             "prenomJoueur":"Matthew",
             "nomJoueur":"Boldy",
             "position":"A",
-            "salaireActuel":null
+            "salaireActuel":880833
         },
         {
             "idAlignement":170,
@@ -1542,7 +1559,7 @@
             "prenomJoueur":"Rasmus",
             "nomJoueur":"Dahlin",
             "position":"D",
-            "salaireActuel":925000
+            "salaireActuel":6000000
         },
         {
             "idAlignement":171,
@@ -1569,7 +1586,7 @@
             "idNHL":8480871,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"boqviad01",
@@ -1593,7 +1610,7 @@
             "prenomJoueur":"Andrei",
             "nomJoueur":"Svechnikov",
             "position":"A",
-            "salaireActuel":925000
+            "salaireActuel":7750000
         },
         {
             "idAlignement":174,
@@ -1654,14 +1671,14 @@
             "idNHL":8478048,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":null,
             "idHockeyRef":"shestig01",
             "prenomJoueur":"Igor",
             "nomJoueur":"Shesterkin",
             "position":"G",
-            "salaireActuel":925000
+            "salaireActuel":5666667
         },
         {
             "idAlignement":178,
@@ -1688,7 +1705,7 @@
             "idNHL":8477968,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-29",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-04",
             "pjActuels":0,
             "butsActuels":null,
             "idHockeyRef":"nedelal01",
@@ -1746,7 +1763,7 @@
             "prenomJoueur":"Mason",
             "nomJoueur":"McTavish",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":183,
@@ -1773,14 +1790,14 @@
             "idNHL":8482667,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"eklunwi01",
             "prenomJoueur":"William",
             "nomJoueur":"Eklund",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":185,
@@ -1790,14 +1807,14 @@
             "idNHL":8482699,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-04",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"guentdy01",
             "prenomJoueur":"Dylan",
             "nomJoueur":"Guenther",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":186,
@@ -1814,7 +1831,7 @@
             "prenomJoueur":"Brandt",
             "nomJoueur":"Clarke",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":187,
@@ -1841,14 +1858,14 @@
             "idNHL":8482705,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"sillico01",
             "prenomJoueur":"Cole",
             "nomJoueur":"Sillinger",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":189,
@@ -1865,7 +1882,7 @@
             "prenomJoueur":"Sebastian",
             "nomJoueur":"Cossa",
             "position":"G",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":190,
@@ -1899,7 +1916,7 @@
             "prenomJoueur":"Zachary",
             "nomJoueur":"L'Heureux",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":192,
@@ -1916,7 +1933,7 @@
             "prenomJoueur":"Brennan",
             "nomJoueur":"Othmann",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":193,
@@ -1926,14 +1943,14 @@
             "idNHL":8482763,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"lyselfa01",
             "prenomJoueur":"Fabian",
             "nomJoueur":"Lysell",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":194,
@@ -1960,7 +1977,7 @@
             "idNHL":8482679,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"coronma01",
@@ -1977,7 +1994,7 @@
             "idNHL":8482678,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"ceuleco01",
@@ -2001,7 +2018,7 @@
             "prenomJoueur":"Carson",
             "nomJoueur":"Lambos",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":198,
@@ -2011,7 +2028,7 @@
             "idNHL":8482780,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"luciuch01",
@@ -2035,7 +2052,7 @@
             "prenomJoueur":"Chase",
             "nomJoueur":"Stillman",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":200,
@@ -2045,7 +2062,7 @@
             "idNHL":8476826,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"gourdya01",
@@ -2062,14 +2079,14 @@
             "idNHL":8475197,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"barrity01",
             "prenomJoueur":"Tyson",
             "nomJoueur":"Barrie",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":2250000
         },
         {
             "idAlignement":202,
@@ -2086,7 +2103,7 @@
             "prenomJoueur":"Roope",
             "nomJoueur":"Hintz",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":3150000
         },
         {
             "idAlignement":203,
@@ -2096,14 +2113,14 @@
             "idNHL":8480064,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"norrijo01",
             "prenomJoueur":"Josh",
             "nomJoueur":"Norris",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":204,
@@ -2120,7 +2137,7 @@
             "prenomJoueur":"Ty",
             "nomJoueur":"Smith",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":863333
         },
         {
             "idAlignement":205,
@@ -2137,7 +2154,7 @@
             "prenomJoueur":"Jason",
             "nomJoueur":"Robertson",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":795000
         },
         {
             "idAlignement":206,
@@ -2147,14 +2164,14 @@
             "idNHL":8478406,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":null,
             "idHockeyRef":"blackma01",
             "prenomJoueur":"Mackenzie",
             "nomJoueur":"Blackwood",
             "position":"G",
-            "salaireActuel":""
+            "salaireActuel":2800000
         },
         {
             "idAlignement":207,
@@ -2164,14 +2181,14 @@
             "idNHL":8479345,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"chychja01",
             "prenomJoueur":"Jakob",
             "nomJoueur":"Chychrun",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":2300000
         },
         {
             "idAlignement":208,
@@ -2188,7 +2205,7 @@
             "prenomJoueur":"Carter",
             "nomJoueur":"Verhaeghe",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":1000000
         },
         {
             "idAlignement":209,
@@ -2205,7 +2222,7 @@
             "prenomJoueur":"Victor",
             "nomJoueur":"Hedman",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":7875000
         },
         {
             "idAlignement":210,
@@ -2215,14 +2232,14 @@
             "idNHL":8480145,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"pionkne01",
             "prenomJoueur":"Neal",
             "nomJoueur":"Pionk",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":5875000
         },
         {
             "idAlignement":211,
@@ -2232,14 +2249,14 @@
             "idNHL":8482093,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"jarvise01",
             "prenomJoueur":"Seth",
             "nomJoueur":"Jarvis",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":894167
         },
         {
             "idAlignement":212,
@@ -2256,7 +2273,7 @@
             "prenomJoueur":"Martin",
             "nomJoueur":"Necas",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":863333
         },
         {
             "idAlignement":213,
@@ -2273,7 +2290,7 @@
             "prenomJoueur":"Connor",
             "nomJoueur":"McMichael",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":863333
         },
         {
             "idAlignement":214,
@@ -2283,7 +2300,7 @@
             "idNHL":8480801,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"tkachbr01",
@@ -2300,14 +2317,14 @@
             "idNHL":8477496,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"lindhel01",
             "prenomJoueur":"Elias",
             "nomJoueur":"Lindholm",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":4850000
         },
         {
             "idAlignement":216,
@@ -2324,7 +2341,7 @@
             "prenomJoueur":"MacKenzie",
             "nomJoueur":"Weegar",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":3250000
         },
         {
             "idAlignement":217,
@@ -2341,7 +2358,7 @@
             "prenomJoueur":"Evan",
             "nomJoueur":"Bouchard",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":863333
         },
         {
             "idAlignement":218,
@@ -2351,14 +2368,14 @@
             "idNHL":8476458,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"stromry01",
             "prenomJoueur":"Ryan",
             "nomJoueur":"Strome",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":4500000
         },
         {
             "idAlignement":219,
@@ -2368,14 +2385,14 @@
             "idNHL":8471735,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"yandlke01",
             "prenomJoueur":"Keith",
             "nomJoueur":"Yandle",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":900000
         },
         {
             "idAlignement":220,
@@ -2392,7 +2409,7 @@
             "prenomJoueur":"Max",
             "nomJoueur":"Comtois",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":2037500
         },
         {
             "idAlignement":221,
@@ -2409,7 +2426,7 @@
             "prenomJoueur":"Tristen",
             "nomJoueur":"Robins",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":828333
         },
         {
             "idAlignement":222,
@@ -2419,14 +2436,14 @@
             "idNHL":8474102,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"perroda01",
             "prenomJoueur":"David",
             "nomJoueur":"Perron",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":4000000
         },
         {
             "idAlignement":223,
@@ -2443,7 +2460,7 @@
             "prenomJoueur":"Joel",
             "nomJoueur":"Farabee",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":224,
@@ -2453,14 +2470,14 @@
             "idNHL":8477402,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"buchnpa01",
             "prenomJoueur":"Pavel",
             "nomJoueur":"Buchnevich",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":5800000
         },
         {
             "idAlignement":225,
@@ -2470,14 +2487,14 @@
             "idNHL":8476851,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"galchal01",
             "prenomJoueur":"Alex",
             "nomJoueur":"Galchenyuk",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":750000
         },
         {
             "idAlignement":226,
@@ -2487,14 +2504,14 @@
             "idNHL":8480208,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"bathedr01",
             "prenomJoueur":"Drake",
             "nomJoueur":"Batherson",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":4975000
         },
         {
             "idAlignement":227,
@@ -2521,14 +2538,14 @@
             "idNHL":8478407,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"dunnvi01",
             "prenomJoueur":"Vince",
             "nomJoueur":"Dunn",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":4000000
         },
         {
             "idAlignement":229,
@@ -2545,7 +2562,7 @@
             "prenomJoueur":"Shea",
             "nomJoueur":"Theodore",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":5200000
         },
         {
             "idAlignement":230,
@@ -2555,14 +2572,14 @@
             "idNHL":8481542,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"seidemo01",
             "prenomJoueur":"Moritz",
             "nomJoueur":"Seider",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":863333
         },
         {
             "idAlignement":231,
@@ -2572,31 +2589,14 @@
             "idNHL":8471675,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"crosbsi01",
             "prenomJoueur":"Sidney",
             "nomJoueur":"Crosby",
             "position":"C",
-            "salaireActuel":""
-        },
-        {
-            "idAlignement":232,
-            "idPooler":"hub",
-            "prenomJoueur":null,
-            "nomJoueur":null,
-            "idNHL":8482093,
-            "statutJoueur":"Espoir",
-            "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
-            "pjActuels":0,
-            "butsActuels":0.0,
-            "idHockeyRef":"jarvise01",
-            "prenomJoueur":"Seth",
-            "nomJoueur":"Jarvis",
-            "position":"C",
-            "salaireActuel":""
+            "salaireActuel":8700000
         },
         {
             "idAlignement":233,
@@ -2613,7 +2613,7 @@
             "prenomJoueur":"Dylan",
             "nomJoueur":"Holloway",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":925000
         },
         {
             "idAlignement":234,
@@ -2630,7 +2630,7 @@
             "prenomJoueur":"Victor",
             "nomJoueur":"Soderstrom",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":863333
         },
         {
             "idAlignement":235,
@@ -2647,7 +2647,7 @@
             "prenomJoueur":"Lukas",
             "nomJoueur":"Cormier",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":811667
         },
         {
             "idAlignement":236,
@@ -2664,7 +2664,7 @@
             "prenomJoueur":"Sam",
             "nomJoueur":"Poulin",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":863333
         },
         {
             "idAlignement":237,
@@ -2674,14 +2674,14 @@
             "idNHL":8482148,
             "statutJoueur":"Espoir",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-04",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"lapiehe01",
             "prenomJoueur":"Hendrix",
             "nomJoueur":"Lapierre",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":894167
         },
         {
             "idAlignement":238,
@@ -2691,14 +2691,14 @@
             "idNHL":8478451,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"bearet01",
             "prenomJoueur":"Ethan",
             "nomJoueur":"Bear",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":2000000
         },
         {
             "idAlignement":239,
@@ -2708,14 +2708,14 @@
             "idNHL":8480459,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"suterpi01",
             "prenomJoueur":"Pius",
             "nomJoueur":"Suter",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":3250000
         },
         {
             "idAlignement":240,
@@ -2725,14 +2725,14 @@
             "idNHL":8479344,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"puljuje01",
             "prenomJoueur":"Jesse",
             "nomJoueur":"Puljujarvi",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":1175000
         },
         {
             "idAlignement":241,
@@ -2742,14 +2742,14 @@
             "idNHL":8477407,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"duclaan01",
             "prenomJoueur":"Anthony",
             "nomJoueur":"Duclair",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":3000000
         },
         {
             "idAlignement":242,
@@ -2759,14 +2759,14 @@
             "idNHL":8478401,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"zachapa01",
             "prenomJoueur":"Pavel",
             "nomJoueur":"Zacha",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":2250000
         },
         {
             "idAlignement":243,
@@ -2776,14 +2776,14 @@
             "idNHL":8478440,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"stromdy01",
             "prenomJoueur":"Dylan",
             "nomJoueur":"Strome",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":3000000
         },
         {
             "idAlignement":244,
@@ -2793,14 +2793,14 @@
             "idNHL":8475810,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"rustbr01",
             "prenomJoueur":"Bryan",
             "nomJoueur":"Rust",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":3500000
         },
         {
             "idAlignement":245,
@@ -2810,14 +2810,966 @@
             "idNHL":8480817,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-07-30",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-10",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"millek'01",
             "prenomJoueur":"K'Andre",
             "nomJoueur":"Miller",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":246,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8477934,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-05",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"draisle01",
+            "prenomJoueur":"Leon",
+            "nomJoueur":"Draisaitl",
+            "position":"A",
+            "salaireActuel":8500000
+        },
+        {
+            "idAlignement":247,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8477492,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-05",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"mackina01",
+            "prenomJoueur":"Nathan",
+            "nomJoueur":"Mackinnon",
+            "position":"A",
+            "salaireActuel":6300000
+        },
+        {
+            "idAlignement":248,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482699,
+            "statutJoueur":"Espoir",
+            "dateDebut":"2021-10-05",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"guentdy01",
+            "prenomJoueur":"Dylan",
+            "nomJoueur":"Guenther",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":249,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482148,
+            "statutJoueur":"Espoir",
+            "dateDebut":"2021-10-05",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"lapiehe01",
+            "prenomJoueur":"Hendrix",
+            "nomJoueur":"Lapierre",
+            "position":"C",
+            "salaireActuel":894167
+        },
+        {
+            "idAlignement":250,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8478492,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-05",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":null,
+            "idHockeyRef":"samsoil01",
+            "prenomJoueur":"Ilya",
+            "nomJoueur":"Samsonov",
+            "position":"G",
+            "salaireActuel":2000000
+        },
+        {
+            "idAlignement":251,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8477968,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-05",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":null,
+            "idHockeyRef":"nedelal01",
+            "prenomJoueur":"Alex",
+            "nomJoueur":"Nedeljkovic",
+            "position":"G",
+            "salaireActuel":3000000
+        },
+        {
+            "idAlignement":252,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8478048,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":null,
+            "idHockeyRef":"shestig01",
+            "prenomJoueur":"Igor",
+            "nomJoueur":"Shesterkin",
+            "position":"G",
+            "salaireActuel":5666667
+        },
+        {
+            "idAlignement":253,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8478451,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"bearet01",
+            "prenomJoueur":"Ethan",
+            "nomJoueur":"Bear",
+            "position":"D",
+            "salaireActuel":2000000
+        },
+        {
+            "idAlignement":254,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8480817,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2021-10-11",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"millek'01",
+            "prenomJoueur":"K'Andre",
+            "nomJoueur":"Miller",
+            "position":"D",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":255,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8477407,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"duclaan01",
+            "prenomJoueur":"Anthony",
+            "nomJoueur":"Duclair",
+            "position":"A",
+            "salaireActuel":3000000
+        },
+        {
+            "idAlignement":256,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8479344,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"puljuje01",
+            "prenomJoueur":"Jesse",
+            "nomJoueur":"Puljujarvi",
+            "position":"A",
+            "salaireActuel":1175000
+        },
+        {
+            "idAlignement":257,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8478401,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"zachapa01",
+            "prenomJoueur":"Pavel",
+            "nomJoueur":"Zacha",
+            "position":"C",
+            "salaireActuel":2250000
+        },
+        {
+            "idAlignement":258,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482763,
+            "statutJoueur":"Espoir",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"lyselfa01",
+            "prenomJoueur":"Fabian",
+            "nomJoueur":"Lysell",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":259,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481582,
+            "statutJoueur":"Bless\u00e9",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2021-10-10",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"roberni01",
+            "prenomJoueur":"Nicholas",
+            "nomJoueur":"Robertson",
+            "position":"A",
+            "salaireActuel":821667
+        },
+        {
+            "idAlignement":260,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481528,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"cozendy01",
+            "prenomJoueur":"Dylan",
+            "nomJoueur":"Cozens",
+            "position":"A",
+            "salaireActuel":894167
+        },
+        {
+            "idAlignement":261,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481523,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"dachki01",
+            "prenomJoueur":"Kirby",
+            "nomJoueur":"Dach",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":262,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481533,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"zegratr01",
+            "prenomJoueur":"Trevor",
+            "nomJoueur":"Zegras",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":263,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482078,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"raymolu01",
+            "prenomJoueur":"Lucas",
+            "nomJoueur":"Raymond",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":264,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481560,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"kaliyar01",
+            "prenomJoueur":"Arthur",
+            "nomJoueur":"Kaliyev",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":265,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482124,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"byfiequ01",
+            "prenomJoueur":"Quinton",
+            "nomJoueur":"Byfield",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":266,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482667,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2021-10-10",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"eklunwi01",
+            "prenomJoueur":"William",
+            "nomJoueur":"Eklund",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":267,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8475197,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"barrity01",
+            "prenomJoueur":"Tyson",
+            "nomJoueur":"Barrie",
+            "position":"D",
+            "salaireActuel":2250000
+        },
+        {
+            "idAlignement":268,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8473419,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"marchbr01",
+            "prenomJoueur":"Brad",
+            "nomJoueur":"Marchand",
+            "position":"A",
+            "salaireActuel":3062500
+        },
+        {
+            "idAlignement":269,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8474141,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2021-10-11",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"kanepa01",
+            "prenomJoueur":"Patrick",
+            "nomJoueur":"Kane",
+            "position":"A",
+            "salaireActuel":10500000
+        },
+        {
+            "idAlignement":270,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8475906,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"klingjo01",
+            "prenomJoueur":"John",
+            "nomJoueur":"Klingberg",
+            "position":"D",
+            "salaireActuel":4250000
+        },
+        {
+            "idAlignement":271,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481576,
+            "statutJoueur":"Espoir",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2021-10-10",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"suzukry01",
+            "prenomJoueur":"Ryan",
+            "nomJoueur":"Suzuki",
+            "position":"A",
+            "salaireActuel":894167
+        },
+        {
+            "idAlignement":272,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8475197,
+            "statutJoueur":"RetenuSalaire",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"barrity01",
+            "prenomJoueur":"Tyson",
+            "nomJoueur":"Barrie",
+            "position":"D",
+            "salaireActuel":2250000
+        },
+        {
+            "idAlignement":273,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8473419,
+            "statutJoueur":"RetenuSalaire",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"marchbr01",
+            "prenomJoueur":"Brad",
+            "nomJoueur":"Marchand",
+            "position":"A",
+            "salaireActuel":3062500
+        },
+        {
+            "idAlignement":274,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482142,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"drysdja01",
+            "prenomJoueur":"Jamie",
+            "nomJoueur":"Drysdale",
+            "position":"D",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":275,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481519,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":null,
+            "idHockeyRef":"knighsp01",
+            "prenomJoueur":"Spencer",
+            "nomJoueur":"Knight",
+            "position":"G",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":276,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8479394,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":null,
+            "idHockeyRef":"hartca01",
+            "prenomJoueur":"Carter",
+            "nomJoueur":"Hart",
+            "position":"G",
+            "salaireActuel":3979000
+        },
+        {
+            "idAlignement":277,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8478445,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"barzama01",
+            "prenomJoueur":"Mathew",
+            "nomJoueur":"Barzal",
+            "position":"A",
+            "salaireActuel":7000000
+        },
+        {
+            "idAlignement":278,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482667,
+            "statutJoueur":"Espoir",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"eklunwi01",
+            "prenomJoueur":"William",
+            "nomJoueur":"Eklund",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":279,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482705,
+            "statutJoueur":"Espoir",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"sillico01",
+            "prenomJoueur":"Cole",
+            "nomJoueur":"Sillinger",
+            "position":"C",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":280,
+            "idPooler":"cle",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482109,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"lafreal01",
+            "prenomJoueur":"Alexis",
+            "nomJoueur":"Lafreniere",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":281,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8479345,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"chychja01",
+            "prenomJoueur":"Jakob",
+            "nomJoueur":"Chychrun",
+            "position":"D",
+            "salaireActuel":2300000
+        },
+        {
+            "idAlignement":282,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481576,
+            "statutJoueur":"Espoir",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"suzukry01",
+            "prenomJoueur":"Ryan",
+            "nomJoueur":"Suzuki",
+            "position":"A",
+            "salaireActuel":894167
+        },
+        {
+            "idAlignement":283,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481546,
+            "statutJoueur":"Espoir",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"yorkca01",
+            "prenomJoueur":"Cam",
+            "nomJoueur":"York",
+            "position":"D",
+            "salaireActuel":880833
+        },
+        {
+            "idAlignement":284,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8479345,
+            "statutJoueur":"RetenuSalaire",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"chychja01",
+            "prenomJoueur":"Jakob",
+            "nomJoueur":"Chychrun",
+            "position":"D",
+            "salaireActuel":2300000
+        },
+        {
+            "idAlignement":285,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8476459,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"zibanmi01",
+            "prenomJoueur":"Mika",
+            "nomJoueur":"Zibanejad",
+            "position":"A",
+            "salaireActuel":5350000
+        },
+        {
+            "idAlignement":286,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481540,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"caufico01",
+            "prenomJoueur":"Cole",
+            "nomJoueur":"Caufield",
+            "position":"A",
+            "salaireActuel":880833
+        },
+        {
+            "idAlignement":287,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481559,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"hugheja01",
+            "prenomJoueur":"Jack",
+            "nomJoueur":"Hughes",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":288,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8480064,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"norrijo01",
+            "prenomJoueur":"Josh",
+            "nomJoueur":"Norris",
+            "position":"C",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":289,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481618,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"newhoal01",
+            "prenomJoueur":"Alex",
+            "nomJoueur":"Newhook",
+            "position":"A",
+            "salaireActuel":908333
+        },
+        {
+            "idAlignement":290,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481542,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"seidemo01",
+            "prenomJoueur":"Moritz",
+            "nomJoueur":"Seider",
+            "position":"D",
+            "salaireActuel":863333
+        },
+        {
+            "idAlignement":291,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482113,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"lundean01",
+            "prenomJoueur":"Anton",
+            "nomJoueur":"Lundell",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idAlignement":292,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8478406,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":null,
+            "idHockeyRef":"blackma01",
+            "prenomJoueur":"Mackenzie",
+            "nomJoueur":"Blackwood",
+            "position":"G",
+            "salaireActuel":2800000
+        },
+        {
+            "idAlignement":293,
+            "idPooler":"gab",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8476453,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"kucheni01",
+            "prenomJoueur":"Nikita",
+            "nomJoueur":"Kucherov",
+            "position":"A",
+            "salaireActuel":9500000
+        },
+        {
+            "idAlignement":294,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8480871,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"boqviad01",
+            "prenomJoueur":"Adam",
+            "nomJoueur":"Boqvist",
+            "position":"D",
+            "salaireActuel":894167
+        },
+        {
+            "idAlignement":295,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481582,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"roberni01",
+            "prenomJoueur":"Nicholas",
+            "nomJoueur":"Robertson",
+            "position":"A",
+            "salaireActuel":821667
+        },
+        {
+            "idAlignement":296,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8478403,
+            "statutJoueur":"Bless\u00e9",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"eicheja01",
+            "prenomJoueur":"Jack",
+            "nomJoueur":"Eichel",
+            "position":"A",
+            "salaireActuel":10000000
+        },
+        {
+            "idAlignement":297,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8471735,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"yandlke01",
+            "prenomJoueur":"Keith",
+            "nomJoueur":"Yandle",
+            "position":"D",
+            "salaireActuel":900000
+        },
+        {
+            "idAlignement":298,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8482093,
+            "statutJoueur":"R\u00e9serve",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"jarvise01",
+            "prenomJoueur":"Seth",
+            "nomJoueur":"Jarvis",
+            "position":"C",
+            "salaireActuel":894167
+        },
+        {
+            "idAlignement":299,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8478856,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"garlaco01",
+            "prenomJoueur":"Conor",
+            "nomJoueur":"Garland",
+            "position":"A",
+            "salaireActuel":4950000
+        },
+        {
+            "idAlignement":300,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8479977,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"yamamka01",
+            "prenomJoueur":"Kailer",
+            "nomJoueur":"Yamamoto",
+            "position":"A",
+            "salaireActuel":1175000
+        },
+        {
+            "idAlignement":301,
+            "idPooler":"hub",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8481524,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-11",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"byrambo01",
+            "prenomJoueur":"Bowen",
+            "nomJoueur":"Byram",
+            "position":"D",
+            "salaireActuel":894167
         }
     ]
 }
