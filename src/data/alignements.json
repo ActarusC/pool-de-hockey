@@ -2844,7 +2844,7 @@
             "idNHL":8477492,
             "statutJoueur":"Alignement",
             "dateDebut":"2021-10-05",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"mackina01",
@@ -2997,7 +2997,7 @@
             "idNHL":8479344,
             "statutJoueur":"R\u00e9serve",
             "dateDebut":"2021-10-11",
-            "dateFin":"2100-01-01",
+            "dateFin":"2021-10-11",
             "pjActuels":0,
             "butsActuels":0.0,
             "idHockeyRef":"puljuje01",
@@ -3770,6 +3770,40 @@
             "nomJoueur":"Byram",
             "position":"D",
             "salaireActuel":894167
+        },
+        {
+            "idAlignement":302,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8477492,
+            "statutJoueur":"Bless\u00e9",
+            "dateDebut":"2021-10-12",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"mackina01",
+            "prenomJoueur":"Nathan",
+            "nomJoueur":"Mackinnon",
+            "position":"A",
+            "salaireActuel":6300000
+        },
+        {
+            "idAlignement":303,
+            "idPooler":"rap",
+            "prenomJoueur":null,
+            "nomJoueur":null,
+            "idNHL":8479344,
+            "statutJoueur":"Alignement",
+            "dateDebut":"2021-10-12",
+            "dateFin":"2100-01-01",
+            "pjActuels":0,
+            "butsActuels":0.0,
+            "idHockeyRef":"puljuje01",
+            "prenomJoueur":"Jesse",
+            "nomJoueur":"Puljujarvi",
+            "position":"A",
+            "salaireActuel":1175000
         }
     ]
 }
