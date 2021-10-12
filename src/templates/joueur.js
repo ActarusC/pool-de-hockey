@@ -16,7 +16,7 @@ const Joueur = ({ pageContext }) => {
 
   useEffect(() => {
     // get data from NHL api
-    fetch('https://statsapi.web.nhl.com/api/v1/people/' + pageContext.idNHL + '?stats=statsSingleSeason&season=20202021')
+    fetch('https://statsapi.web.nhl.com/api/v1/people/' + pageContext.idNHL + '?stats=statsSingleSeason&season=20212022')
       .then(response => response.json()) // parse JSON from request
       .then(resultData => {
         setInfos(resultData.people[0])
@@ -92,6 +92,23 @@ const Joueur = ({ pageContext }) => {
 
               </ListGroup>
             </Card>
+          </Col>
+          <Col>
+            <table>
+              <thead><strong>Prochains matchs</strong></thead>
+             <tr>
+                <th>Date</th>
+                <th>Adversaire</th>
+              </tr>
+              <tr>
+                <td>Alfreds Futterkiste</td>
+                <td>Maria Anders</td>
+              </tr>
+              <tr>
+                <td>Centro comercial Moctezuma</td>
+                <td>Francisco Chang</td>
+              </tr>
+            </table>
           </Col>
         </Row>
         <Row style={{ padding: 5 }}>
