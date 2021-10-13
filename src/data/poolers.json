@@ -46,7 +46,7 @@
             "Nom":"Gabriel",
             "\u00c9quipe":"Tropics",
             "Abbr\u00e9viation":"TRO",
-            "PJ":0,
+            "PJ":3,
             "B":0,
             "A":0,
             "Score":0,
@@ -57,7 +57,7 @@
             "Nom":"Cl\u00e9ment",
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"ROC",
-            "PJ":0,
+            "PJ":2,
             "B":0,
             "A":0,
             "Score":0,
@@ -72,7 +72,7 @@
             "B":0,
             "A":0,
             "Score":0,
-            "MasseSalariale":68895500
+            "MasseSalariale":76145500
         },
         {
             "Id":"rap",
