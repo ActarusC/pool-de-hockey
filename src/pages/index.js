@@ -9,7 +9,6 @@ import Poolers from "../components/poolers"
 const IndexPage = () => (
   <Layout>
     <SEO title="Accueil" />
-    <p>Site en construction</p>
     <div style={{ maxWidth: `200px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
