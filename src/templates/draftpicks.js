@@ -1,7 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { Link } from "gatsby"
 
 const picks = require("../data/picks.json").data
 
@@ -41,10 +40,9 @@ function entetePicks() {
     )
   }
 
-  function unTypeDraft(idPooler, type, titreA) {
+  function unTypeDraft(idPooler, type, annee) {
     return (
       <div>
-        <h2>{titreA}</h2>
         <table>
           {entetePicks()}
           {bodyPicks(idPooler, type, annee)}
@@ -54,3 +52,34 @@ function entetePicks() {
   }
 
 
+  function typesDrafts(idPooler) {
+    return(
+      <div class="row">
+        <div class="column">
+        <h2>{"Entr\u00e9e"}</h2>
+        { unTypeDraft(idPooler, "ENT", 2022) }
+        { unTypeDraft(idPooler, "ENT", 2023) }
+        { unTypeDraft(idPooler, "ENT", 2024) }
+        </div>
+        <div class="column">
+        <h2>{"Pro"}</h2>
+        { unTypeDraft(idPooler, "PRO", 2022) }
+        { unTypeDraft(idPooler, "PRO", 2023) }
+        { unTypeDraft(idPooler, "PRO", 2024) }
+        </div>
+      </div>
+    )
+  }
+
+  const Pooler = ({ pageContext }) => (
+    <Layout>
+      <SEO title={pageContext.Equipe} />
+      <h1>{pageContext.Equipe}</h1>
+      <p>Dirigée par <b>{pageContext.nom}</b> </p>
+  
+      { typesDrafts(pageContext.Id) }
+  
+    </Layout>
+  )
+  
+  export default Pooler
