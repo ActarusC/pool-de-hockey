@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+//import { Link } from "gatsby"
 
 const picks = require("../data/picks.json").data
 
@@ -71,7 +72,7 @@ function entetePicks() {
     )
   }
 
-  const Pooler = ({ pageContext }) => (
+  const picksPooler = ({ pageContext }) => (
     <Layout>
       <SEO title={pageContext.Equipe} />
       <h1>{pageContext.Equipe}</h1>
@@ -82,4 +83,4 @@ function entetePicks() {
     </Layout>
   )
   
-  export default Pooler
+  export default picksPooler
