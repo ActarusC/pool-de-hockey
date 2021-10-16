@@ -7,7 +7,6 @@ function manipData(oData) {
   let arrPoolers = oData.allDataJson.nodes.find(Boolean).data
   //console.log(arrPoolers)
 
-  arrPoolers = arrPoolers.sort(comparerPooler)
   return (
 
     <div>
