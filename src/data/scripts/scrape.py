@@ -30,3 +30,4 @@ def scrapePoints():
     return ok
 
 scrapePoints()
+print("Scrape fait")

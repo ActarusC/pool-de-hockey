@@ -158,12 +158,12 @@ def majTables():
 
 
 majPJBPPAlign()
-print("1")
+print("Maj par joueur")
 majScoreGardiens()
-print("2")
+print("Maj score gardiens")
 majScorePoolers()
-print("3")
+print("Maj par pooler")
 majMasseSalariale()
-print("4")
+print("Maj masse salariale")
 majTables()
-print("5")
+print("Maj jsons")
