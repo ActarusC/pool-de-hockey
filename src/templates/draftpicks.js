@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-//import { Link } from "gatsby"
+import { Link } from "gatsby"
 
 const picks = require("../data/picks.json").data
 
@@ -76,7 +76,7 @@ function entetePicks() {
     <Layout>
       <SEO title={pageContext.Equipe} />
       <h1>{pageContext.Equipe}</h1>
-      <p>Dirigée par <b>{pageContext.nom}</b> </p>
+      <p>Dirigée par <b><Link to={"/pooler/" + pageContext.Id}>{pageContext.nom}</Link></b></p>
   
       { typesDrafts(pageContext.Id) }
   

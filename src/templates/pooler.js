@@ -110,7 +110,7 @@ const Pooler = ({ pageContext }) => (
     <SEO title={pageContext.Equipe} />
     <h1>{pageContext.Equipe}</h1>
     <p>Dirigée par <b>{pageContext.nom}</b> </p>
-
+    <p><Link to="./picks">Choix de repêchage</Link></p>
     { typesAlignements(pageContext.Id) }
 
   </Layout>

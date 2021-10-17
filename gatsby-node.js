@@ -15,6 +15,15 @@ exports.createPages = async ({ actions: { createPage }, graphql, reporter }) => 
           Score: pooler.Score,
         },
       })
+      createPage({
+        path: `/pooler/${pooler.Id}/picks`,
+        component: require.resolve("./src/templates/draftpicks.js"),
+        context: {
+          nom: pooler.Nom,
+          Id: pooler.Id,
+          Equipe: pooler.\u00c9quipe,
+        },
+      })
     })
 
     // "Id":"gab",
