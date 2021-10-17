@@ -1,3 +1,4 @@
+Set-Location /dev/pool-de-hockey/src/data/scripts
 python .\scrape.py
 python .\majpool.py
 
