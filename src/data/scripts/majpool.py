@@ -59,7 +59,7 @@ def majScorePoolers():
     
 #maj du score des gardiens
 def logGardien(idNHL):
-    jsonJoueur = requests.get("https://statsapi.web.nhl.com/api/v1/people/" + idNHL + "/stats?stats=gameLog&season=20202021").json()
+    jsonJoueur = requests.get("https://statsapi.web.nhl.com/api/v1/people/" + idNHL + "/stats?stats=gameLog&season=20212022").json()
     df = pd.json_normalize(jsonJoueur["stats"][0]["splits"])
     gardienLogs = df[["season", "date", "isWin", "stat.shutouts"]]
     gardienLogs["gardien"] = idNHL
