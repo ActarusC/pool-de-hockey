@@ -47,9 +47,9 @@
             "\u00c9quipe":"Tropics",
             "Abbr\u00e9viation":"TRO",
             "PJ":67,
-            "B":8,
+            "B":10,
             "A":32,
-            "Score":40,
+            "Score":44,
             "MasseSalariale":80989999
         },
         {
@@ -58,9 +58,9 @@
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"ROC",
             "PJ":61,
-            "B":20,
+            "B":21,
             "A":28,
-            "Score":48,
+            "Score":50,
             "MasseSalariale":79877200
         },
         {
@@ -80,9 +80,9 @@
             "\u00c9quipe":"Storm Surge",
             "Abbr\u00e9viation":"SS",
             "PJ":63,
-            "B":17,
+            "B":23,
             "A":33,
-            "Score":50,
+            "Score":62,
             "MasseSalariale":75092857
         }
     ]
