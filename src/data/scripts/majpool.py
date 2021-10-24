@@ -88,9 +88,10 @@ def majScoreGardiens():
     for i in listGardiens:
         try:
             gardienLogs = logGardien(i)
+            gameLogsG = gameLogsG.append(gardienLogs)
         except:
             print("fausse alarme (espoir) " + i)
-        gameLogsG = gameLogsG.append(gardienLogs)
+        
     gameLogsG = gameLogsG.rename(columns = {"date" : "dateMatch"})
     gameLogsG[["dateMatch"]] = gameLogsG.dateMatch.str.split(" 00:",expand=True)
     #gameLogsG["dateMatch"] = pd.to_datetime(gameLogsG["dateMatch"])
