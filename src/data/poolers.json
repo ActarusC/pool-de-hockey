@@ -46,11 +46,11 @@
             "Nom":"Gabriel",
             "\u00c9quipe":"Tropics",
             "Abbr\u00e9viation":"TRO",
-            "PJ":79,
-            "B":17,
-            "A":34,
-            "Score":54,
-            "MasseSalariale":80989999
+            "PJ":84,
+            "B":20,
+            "A":37,
+            "Score":60,
+            "MasseSalariale":70564999
         },
         {
             "Id":"cle",
@@ -79,11 +79,11 @@
             "Nom":"Rapha\u00ebl",
             "\u00c9quipe":"Storm Surge",
             "Abbr\u00e9viation":"SS",
-            "PJ":75,
-            "B":22,
-            "A":39,
-            "Score":64,
-            "MasseSalariale":75092857
+            "PJ":77,
+            "B":23,
+            "A":44,
+            "Score":70,
+            "MasseSalariale":80529524
         }
     ]
 }
