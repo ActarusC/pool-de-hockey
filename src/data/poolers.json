@@ -46,10 +46,10 @@
             "Nom":"Gabriel",
             "\u00c9quipe":"Tropics",
             "Abbr\u00e9viation":"TRO",
-            "PJ":355,
-            "B":113,
-            "A":167,
-            "Score":296,
+            "PJ":366,
+            "B":119,
+            "A":171,
+            "Score":307,
             "MasseSalariale":65664999
         },
         {
@@ -57,10 +57,10 @@
             "Nom":"Cl\u00e9ment",
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"ROC",
-            "PJ":342,
-            "B":110,
-            "A":189,
-            "Score":307,
+            "PJ":352,
+            "B":113,
+            "A":191,
+            "Score":313,
             "MasseSalariale":75364867
         },
         {
@@ -68,10 +68,10 @@
             "Nom":"Hubert",
             "\u00c9quipe":"Patriotes",
             "Abbr\u00e9viation":"PAT",
-            "PJ":325,
-            "B":71,
-            "A":150,
-            "Score":226,
+            "PJ":333,
+            "B":73,
+            "A":157,
+            "Score":236,
             "MasseSalariale":70815334
         },
         {
@@ -79,10 +79,10 @@
             "Nom":"Rapha\u00ebl",
             "\u00c9quipe":"Storm Surge",
             "Abbr\u00e9viation":"SS",
-            "PJ":343,
-            "B":106,
-            "A":183,
-            "Score":303,
+            "PJ":353,
+            "B":107,
+            "A":188,
+            "Score":309,
             "MasseSalariale":75392857
         }
     ]
