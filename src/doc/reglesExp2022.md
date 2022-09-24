@@ -7,14 +7,14 @@ title: "Règles de l'expansion 2022-2023"
 [Règles de MSHL](/doc/doc)
 
 # Calendrier
-27 septembre
-- Remise des listes de protection
-- Trade freeze
-2 octobre
-- Fin du trade freeze
-- Repêchages
-6 octobre 23h59
-- Alignements finaux
+- 27 septembre
+    - Remise des listes de protection
+    - Trade freeze
+- 2 octobre
+    - Fin du trade freeze
+    - Repêchages
+- 6 octobre 23h59
+    - Alignements finaux et conformes
 
 # Nouvelles équipes
 - Nordiques (Félix-Antoine Beaudoin)
