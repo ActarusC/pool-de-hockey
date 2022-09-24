@@ -3,6 +3,9 @@ slug: "/regles"
 date: "2021-02-01"
 title: "Règles générales de la MSHL"
 ---
+
+[Règles de l'expansion 2022-2023](/doc/reglesExp2022)
+
 # Modifications des règles
 - Pour qu'une règle soit modifiée, elle doit être acceptée par toutes les équipes de la MSHL.
 
@@ -119,6 +122,3 @@ title: "Règles générales de la MSHL"
 # <a name="salaire"></a>Plafond salarial
 - Le poids salarial des joueurs suit leur salaire réel.
 - Le plafond salarial suit le plafond salarial de la LNH.
-
-
-[Règles de l'expansion 2021-2022](/doc/reglesExp)

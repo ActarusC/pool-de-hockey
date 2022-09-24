@@ -4,6 +4,8 @@ date: "2022-09-24"
 title: "Règles de l'expansion 2022-2023"
 ---
 
+[Règles de MSHL](/doc/doc)
+
 # Calendrier
 27 septembre
 - Remise des listes de protection
