@@ -10,6 +10,7 @@ title: "Règles générales de la MSHL"
 - [Tropics (Gabriel Vachon)](/pooler/gab)
 - [Patriotes (Hubert Cadieux)](/pooler/hub)
 - [Rockets (Clément Cadieux)](/pooler/cle)
+- [Storm Surge (Raphaël Green)](/pooler/rap)
 
 # Composition des équipes
 
