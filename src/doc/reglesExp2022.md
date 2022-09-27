@@ -19,8 +19,8 @@ title: "Règles de l'expansion 2022-2023"
 # Nouvelles équipes
 - Nordiques (Félix-Antoine Beaudoin)
 - Monarchistes (Jérémy Gilbert)
+- Slafgoalsky (Olivier Lestage)
 - (Jérémie Drouin)
-- (?)
 
 # Modalités
 ## Protection des joueurs
