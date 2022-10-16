@@ -42,48 +42,92 @@
     },
     "data":[
         {
-            "Id":"gab",
+            "Id":"TRO",
             "Nom":"Gabriel",
             "\u00c9quipe":"Tropics",
-            "Abbr\u00e9viation":"TRO",
-            "PJ":1012,
-            "B":380,
-            "A":554,
-            "Score":977,
-            "MasseSalariale":77895832
+            "Abbr\u00e9viation":"gab",
+            "PJ":31,
+            "B":8,
+            "A":13,
+            "Score":22,
+            "MasseSalariale":82234166
         },
         {
-            "Id":"cle",
+            "Id":"ROC",
             "Nom":"Cl\u00e9ment",
             "\u00c9quipe":"Rocket",
-            "Abbr\u00e9viation":"ROC",
-            "PJ":932,
-            "B":326,
-            "A":492,
-            "Score":842,
-            "MasseSalariale":79264867
+            "Abbr\u00e9viation":"cle",
+            "PJ":27,
+            "B":11,
+            "A":15,
+            "Score":28,
+            "MasseSalariale":82464866
         },
         {
-            "Id":"hub",
+            "Id":"PAT",
             "Nom":"Hubert",
             "\u00c9quipe":"Patriotes",
-            "Abbr\u00e9viation":"PAT",
-            "PJ":821,
-            "B":199,
-            "A":399,
-            "Score":610,
-            "MasseSalariale":70172834
+            "Abbr\u00e9viation":"hub",
+            "PJ":30,
+            "B":7,
+            "A":13,
+            "Score":21,
+            "MasseSalariale":73918833
         },
         {
-            "Id":"rap",
+            "Id":"SS",
             "Nom":"Rapha\u00ebl",
             "\u00c9quipe":"Storm Surge",
-            "Abbr\u00e9viation":"SS",
-            "PJ":974,
-            "B":334,
-            "A":529,
-            "Score":905,
-            "MasseSalariale":78504523
+            "Abbr\u00e9viation":"rap",
+            "PJ":31,
+            "B":9,
+            "A":27,
+            "Score":38,
+            "MasseSalariale":76825357
+        },
+        {
+            "Id":"SLA",
+            "Nom":"Olivier",
+            "\u00c9quipe":"Slafgoalsky",
+            "Abbr\u00e9viation":"oli",
+            "PJ":33,
+            "B":9,
+            "A":12,
+            "Score":22,
+            "MasseSalariale":82188833
+        },
+        {
+            "Id":"QUA",
+            "Nom":"J\u00e9r\u00e9mieD",
+            "\u00c9quipe":"Qualis",
+            "Abbr\u00e9viation":"jed",
+            "PJ":26,
+            "B":7,
+            "A":18,
+            "Score":26,
+            "MasseSalariale":79400000
+        },
+        {
+            "Id":"MON",
+            "Nom":"J\u00e9r\u00e9myG",
+            "\u00c9quipe":"Monarchistes",
+            "Abbr\u00e9viation":"jeg",
+            "PJ":29,
+            "B":15,
+            "A":12,
+            "Score":28,
+            "MasseSalariale":77630357
+        },
+        {
+            "Id":"NOR",
+            "Nom":"F\u00e9lix-Antoine",
+            "\u00c9quipe":"Nordiques",
+            "Abbr\u00e9viation":"fab",
+            "PJ":31,
+            "B":5,
+            "A":10,
+            "Score":15,
+            "MasseSalariale":73594714
         }
     ]
 }
