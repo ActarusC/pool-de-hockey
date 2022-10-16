@@ -2,7 +2,7 @@ import pandas as pd, sqlite3, requests
 import numpy as np
 from datetime import date, timedelta, datetime
 
-conn = sqlite3.connect('C:/Users/huber/OneDrive/NHL/DbMatchs.db')
+conn = sqlite3.connect('C:/Users/huber/OneDrive/Hockey/NHL/DbMatchs.db')
 fin = " WHERE EVENT = 'GOAL' AND Period <> '5' AND PBP.Date >= ALIGNEMENTS.dateDebut AND PBP.Date <= ALIGNEMENTS.dateFin AND PBP.Date >= '2021-10-12' GROUP BY idAlignement)) WHERE idAlignement = ALIGNEMENTS.idAlignement)"
 
 def execSQL(sql, conn, write=False):
