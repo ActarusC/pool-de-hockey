@@ -1828,6 +1828,70 @@
             "nomJoueur":"Dach",
             "position":"C",
             "salaireActuel":3362500
+        },
+        {
+            "idNHL":8482110,
+            "idHockeyRef":"merceda01",
+            "prenomJoueur":"Dawson",
+            "nomJoueur":"Mercer",
+            "position":"C",
+            "salaireActuel":894167
+        },
+        {
+            "idNHL":8473548,
+            "idHockeyRef":"kesseph01",
+            "prenomJoueur":"Phil",
+            "nomJoueur":"Kessel",
+            "position":"C",
+            "salaireActuel":1500000
+        },
+        {
+            "idNHL":8477330,
+            "idHockeyRef":"kubaldo01",
+            "prenomJoueur":"Dominik",
+            "nomJoueur":"Kubalik",
+            "position":"A",
+            "salaireActuel":2500000
+        },
+        {
+            "idNHL":8480039,
+            "idHockeyRef":"necasma01",
+            "prenomJoueur":"Martin",
+            "nomJoueur":"Necas",
+            "position":"C",
+            "salaireActuel":3000000
+        },
+        {
+            "idNHL":8479344,
+            "idHockeyRef":"puljuje01",
+            "prenomJoueur":"Jesse",
+            "nomJoueur":"Puljujarvi",
+            "position":"A",
+            "salaireActuel":3000000
+        },
+        {
+            "idNHL":8481617,
+            "idHockeyRef":"podkova01",
+            "prenomJoueur":"Vasily",
+            "nomJoueur":"Podkolzin",
+            "position":"A",
+            "salaireActuel":925000
+        },
+        {
+            "idNHL":8477476,
+            "idHockeyRef":"lehkoar01",
+            "prenomJoueur":"Artturi",
+            "nomJoueur":"Lehkonen",
+            "position":"A",
+            "salaireActuel":4500000
+        },
+        {
+            "idNHL":8470794,
+            "idHockeyRef":"paveljo01",
+            "prenomJoueur":"Joe",
+            "nomJoueur":"Pavelski",
+            "position":"C",
+            "salaireActuel":5000000
         }
     ]
 }

@@ -72,18 +72,18 @@
             "B":7,
             "A":13,
             "Score":21,
-            "MasseSalariale":73918833
+            "MasseSalariale":73631333
         },
         {
             "Id":"SS",
             "Nom":"Rapha\u00ebl",
             "\u00c9quipe":"Storm Surge",
             "Abbr\u00e9viation":"rap",
-            "PJ":31,
+            "PJ":32,
             "B":9,
             "A":27,
             "Score":38,
-            "MasseSalariale":76825357
+            "MasseSalariale":79825357
         },
         {
             "Id":"SLA",
@@ -94,7 +94,7 @@
             "B":9,
             "A":12,
             "Score":22,
-            "MasseSalariale":82188833
+            "MasseSalariale":82063833
         },
         {
             "Id":"QUA",
@@ -116,18 +116,18 @@
             "B":15,
             "A":12,
             "Score":28,
-            "MasseSalariale":77630357
+            "MasseSalariale":78524524
         },
         {
             "Id":"NOR",
             "Nom":"F\u00e9lix-Antoine",
             "\u00c9quipe":"Nordiques",
             "Abbr\u00e9viation":"fab",
-            "PJ":31,
-            "B":5,
+            "PJ":26,
+            "B":4,
             "A":10,
-            "Score":15,
-            "MasseSalariale":73594714
+            "Score":14,
+            "MasseSalariale":73926381
         }
     ]
 }
