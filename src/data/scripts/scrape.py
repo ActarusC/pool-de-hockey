@@ -8,10 +8,9 @@ conn = sqlite3.connect('C:/Users/huber/OneDrive/Hockey/NHL/DbMatchs.db')
 def scrapePoints():
     ok = "Scrape fait"
     pbpDates = pd.read_sql("SELECT MAX(Date) FROM PBP", conn)
-    #maxDate = pbpDates.iloc[0]["MAX(Date)"]
-    #maxDate = pd.to_datetime(maxDate) + timedelta(days=1)
-    #maxDate = maxDate.strftime("%Y-%m-%d")
-    maxDate = "2022-09-01"
+    maxDate = pbpDates.iloc[0]["MAX(Date)"]
+    maxDate = pd.to_datetime(maxDate) + timedelta(days=1)
+    maxDate = maxDate.strftime("%Y-%m-%d")
     ajd = date.today()
     ajd = ajd.strftime("%Y-%m-%d")
 
