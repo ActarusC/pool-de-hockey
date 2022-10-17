@@ -118,12 +118,12 @@ def majMasseSalariale():
 
 #maj des json
 def majTables():
-    conn = sqlite3.connect('C:/Users/huber/OneDrive/Hockey/NHL/DbMatchs.db')
+    #conn = sqlite3.connect('C:/Users/huber/OneDrive/Hockey/NHL/DbMatchs.db')
     var = 'OK'
     try:
         #maj Poolers
         dfPoolers = pd.read_sql("SELECT * FROM POOLERS", conn)
-        jsonPoolers = dfPoolers.to_json("C:/dev/pool-de-hockey/src/data/poolers.json", orient = "table", index =    False, indent = 4)
+        jsonPoolers = dfPoolers.to_json("C:/dev/pool-de-hockey/src/data/poolers.json", orient = "table", index = False, indent = 4)
     except Exception as ex:
         print("Erreur : poolers")
         var = "Erreur poolers"
