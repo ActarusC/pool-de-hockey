@@ -113,7 +113,7 @@ def majScoreGardiens():
 
 #majMasseSalariale()
 def majMasseSalariale():
-    sqlUpdate = "UPDATE POOLERS SET MasseSalariale = (SELECT masseActuelle FROM (SELECT idPooler, SUM(salaireActuel) AS masseActuelle FROM ALIGNEMENTS INNER JOIN JOUEURS ON ALIGNEMENTS.idNHL = JOUEURS.idNHL WHERE date('now') BETWEEN ALIGNEMENTS.dateDebut AND ALIGNEMENTS.dateFin AND (statutJoueur = 'Alignement' OR statutJoueur = 'Réserve' OR statutJoueur = 'RetenuSalaire') GROUP BY idPooler) WHERE Poolers.Id = idPooler)"
+    sqlUpdate = "UPDATE POOLERS SET MasseSalariale = (SELECT masseActuelle FROM (SELECT idPooler, SUM(salaireActuel) AS masseActuelle FROM ALIGNEMENTS INNER JOIN JOUEURS ON ALIGNEMENTS.idNHL = JOUEURS.idNHL WHERE date('now') BETWEEN ALIGNEMENTS.dateDebut AND ALIGNEMENTS.dateFin AND (statutJoueur = 'Alignement' OR statutJoueur = 'Réserve' OR statutJoueur = 'SalaireRetenu') GROUP BY idPooler) WHERE Poolers.Id = idPooler)"
     execSQL(sqlUpdate, conn, write = True)
 
 #maj des json
