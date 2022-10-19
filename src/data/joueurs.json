@@ -539,7 +539,7 @@
             "prenomJoueur":"Kevin",
             "nomJoueur":"Fiala",
             "position":"A",
-            "salaireActuel":3937500
+            "salaireActuel":6875000
         },
         {
             "idNHL":8480865,
@@ -1892,6 +1892,14 @@
             "nomJoueur":"Pavelski",
             "position":"C",
             "salaireActuel":5000000
+        },
+        {
+            "idNHL":84779421,
+            "idHockeyRef":"fialake01",
+            "prenomJoueur":"Kevin",
+            "nomJoueur":"Fiala",
+            "position":"A",
+            "salaireActuel":1000000
         }
     ]
 }

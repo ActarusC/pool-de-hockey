@@ -72,7 +72,7 @@
             "B":11,
             "A":19,
             "Score":32,
-            "MasseSalariale":82643833
+            "MasseSalariale":81693833
         },
         {
             "Id":"SS",
@@ -116,18 +116,18 @@
             "B":18,
             "A":21,
             "Score":41,
-            "MasseSalariale":78524524
+            "MasseSalariale":81462024
         },
         {
             "Id":"NOR",
             "Nom":"F\u00e9lix-Antoine",
             "\u00c9quipe":"Nordiques",
             "Abbr\u00e9viation":"fab",
-            "PJ":38,
-            "B":7,
-            "A":14,
-            "Score":21,
-            "MasseSalariale":82863881
+            "PJ":44,
+            "B":8,
+            "A":16,
+            "Score":24,
+            "MasseSalariale":79926381
         }
     ]
 }
