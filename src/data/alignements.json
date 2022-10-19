@@ -481,7 +481,7 @@
             "prenomJoueur":"Jagger",
             "nomJoueur":"Firkus",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":24,
@@ -499,7 +499,7 @@
             "prenomJoueur":"Topi",
             "nomJoueur":"Ronni",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":25,
@@ -535,7 +535,7 @@
             "prenomJoueur":"Matt",
             "nomJoueur":"Coronato",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":27,
@@ -949,7 +949,7 @@
             "prenomJoueur":"Ivan",
             "nomJoueur":"Miroshnichenko",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":50,
@@ -967,7 +967,7 @@
             "prenomJoueur":"Jonathan",
             "nomJoueur":"Lekkerimaki",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":51,
@@ -985,7 +985,7 @@
             "prenomJoueur":"Tristan",
             "nomJoueur":"Luneau",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":52,
@@ -1003,7 +1003,7 @@
             "prenomJoueur":"Rutger",
             "nomJoueur":"McGroarty",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":53,
@@ -1039,7 +1039,7 @@
             "prenomJoueur":"Luke",
             "nomJoueur":"Hughes",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":55,
@@ -1471,7 +1471,7 @@
             "prenomJoueur":"Sam",
             "nomJoueur":"Rinzel",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":79,
@@ -1489,7 +1489,7 @@
             "prenomJoueur":"Filip",
             "nomJoueur":"Bystedt",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":80,
@@ -1507,7 +1507,7 @@
             "prenomJoueur":"Jimmy",
             "nomJoueur":"Snuggerud",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":81,
@@ -1957,7 +1957,7 @@
             "prenomJoueur":"Cutter",
             "nomJoueur":"Gauthier",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":106,
@@ -2515,7 +2515,7 @@
             "prenomJoueur":"Seamus",
             "nomJoueur":"Casey",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":137,
@@ -2623,7 +2623,7 @@
             "prenomJoueur":"Jack",
             "nomJoueur":"Beck",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":143,
@@ -3073,7 +3073,7 @@
             "prenomJoueur":"Luca",
             "nomJoueur":"Del Bel Belluz",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":168,
@@ -3127,7 +3127,7 @@
             "prenomJoueur":"Cameron",
             "nomJoueur":"Lund",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":171,
@@ -3163,7 +3163,7 @@
             "prenomJoueur":"Artem",
             "nomJoueur":"Duda",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":173,
@@ -3559,7 +3559,7 @@
             "prenomJoueur":"Lane",
             "nomJoueur":"Hutson",
             "position":"D",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":195,
@@ -3667,7 +3667,7 @@
             "prenomJoueur":"Logan",
             "nomJoueur":"Cooley",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":201,
@@ -3703,7 +3703,7 @@
             "prenomJoueur":"Frank",
             "nomJoueur":"Nazar",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":203,
@@ -4099,7 +4099,7 @@
             "prenomJoueur":"Fedor",
             "nomJoueur":"Svechkov",
             "position":"C",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":225,
@@ -4171,7 +4171,7 @@
             "prenomJoueur":"Danila",
             "nomJoueur":"Yurov",
             "position":"A",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":229,
@@ -4225,7 +4225,7 @@
             "prenomJoueur":"Topias",
             "nomJoueur":"Leinonen",
             "position":"G",
-            "salaireActuel":""
+            "salaireActuel":0
         },
         {
             "idAlignement":232,
