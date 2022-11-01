@@ -72,7 +72,7 @@
             "B":25,
             "A":49,
             "Score":78,
-            "MasseSalariale":82109666
+            "MasseSalariale":81109666
         },
         {
             "Id":"SS",
@@ -83,7 +83,7 @@
             "B":41,
             "A":67,
             "Score":113,
-            "MasseSalariale":79825357
+            "MasseSalariale":80825357
         },
         {
             "Id":"SLA",
@@ -127,7 +127,7 @@
             "B":29,
             "A":43,
             "Score":76,
-            "MasseSalariale":79926381
+            "MasseSalariale":80876381
         }
     ]
 }
