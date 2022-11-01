@@ -1491,7 +1491,7 @@
             "prenomJoueur":"Evan",
             "nomJoueur":"Bouchard",
             "position":"D",
-            "salaireActuel":863333
+            "salaireActuel":647499
         },
         {
             "idNHL":8480382,
@@ -1900,6 +1900,14 @@
             "nomJoueur":"Fiala",
             "position":"A",
             "salaireActuel":1000000
+        },
+        {
+            "idNHL":84808031,
+            "idHockeyRef":"bouchev01",
+            "prenomJoueur":"Evan",
+            "nomJoueur":"Bouchard",
+            "position":"D",
+            "salaireActuel":215833
         }
     ]
 }
