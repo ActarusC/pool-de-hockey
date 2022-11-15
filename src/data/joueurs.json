@@ -1908,6 +1908,14 @@
             "nomJoueur":"Bouchard",
             "position":"D",
             "salaireActuel":215833
+        },
+        {
+            "idNHL":8475167,
+            "idHockeyRef":"hedmavi01",
+            "prenomJoueur":"Victor",
+            "nomJoueur":"Hedman",
+            "position":"D",
+            "salaireActuel":7875000
         }
     ]
 }
