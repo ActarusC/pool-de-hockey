@@ -743,7 +743,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"SS",
+            "Actuel":"NOR",
             "idNHL":null,
             "Ordre":""
         },
@@ -823,7 +823,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"SS",
+            "Actuel":"NOR",
             "idNHL":null,
             "Ordre":""
         },
@@ -873,7 +873,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"NOR",
+            "Actuel":"SS",
             "idNHL":null,
             "Ordre":""
         },
@@ -953,7 +953,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"NOR",
+            "Actuel":"SS",
             "idNHL":null,
             "Ordre":""
         },

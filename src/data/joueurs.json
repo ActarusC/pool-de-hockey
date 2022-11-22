@@ -755,7 +755,7 @@
             "prenomJoueur":"Luke",
             "nomJoueur":"Schenn",
             "position":"D",
-            "salaireActuel":850000
+            "salaireActuel":425000
         },
         {
             "idNHL":8479345,
@@ -1916,6 +1916,14 @@
             "nomJoueur":"Hedman",
             "position":"D",
             "salaireActuel":7875000
+        },
+        {
+            "idNHL":84745681,
+            "idHockeyRef":"schenlu01",
+            "prenomJoueur":"Luke",
+            "nomJoueur":"Schenn",
+            "position":"D",
+            "salaireActuel":425000
         }
     ]
 }
