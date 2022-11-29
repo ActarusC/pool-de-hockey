@@ -343,7 +343,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"PAT",
+            "Actuel":"NOR",
             "idNHL":null,
             "Ordre":""
         },
@@ -353,7 +353,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"PAT",
+            "Actuel":"NOR",
             "idNHL":null,
             "Ordre":""
         },
