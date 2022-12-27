@@ -153,7 +153,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"NOR",
+            "Actuel":"TRO",
             "idNHL":null,
             "Ordre":""
         },
@@ -283,7 +283,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
+            "Actuel":"NOR",
             "idNHL":null,
             "Ordre":""
         },
@@ -443,7 +443,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
+            "Actuel":"NOR",
             "idNHL":null,
             "Ordre":""
         },
@@ -483,7 +483,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"TRO",
+            "Actuel":"NOR",
             "idNHL":null,
             "Ordre":""
         },
@@ -503,7 +503,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"SS",
+            "Actuel":"NOR",
             "idNHL":null,
             "Ordre":""
         },
@@ -903,7 +903,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"PAT",
+            "Actuel":"SS",
             "idNHL":null,
             "Ordre":""
         },
@@ -1033,7 +1033,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"NOR",
+            "Actuel":"TRO",
             "idNHL":null,
             "Ordre":""
         },
@@ -1143,7 +1143,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
+            "Actuel":"NOR",
             "idNHL":null,
             "Ordre":""
         },

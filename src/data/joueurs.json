@@ -331,7 +331,7 @@
             "prenomJoueur":"Andrei",
             "nomJoueur":"Kuzmenko",
             "position":"A",
-            "salaireActuel":950000
+            "salaireActuel":475000
         },
         {
             "idNHL":8482745,
@@ -1411,7 +1411,7 @@
             "prenomJoueur":"Timo",
             "nomJoueur":"Meier",
             "position":"A",
-            "salaireActuel":6000000
+            "salaireActuel":4000000
         },
         {
             "idNHL":8476539,
@@ -1619,7 +1619,7 @@
             "prenomJoueur":"Jonathan",
             "nomJoueur":"Huberdeau",
             "position":"C",
-            "salaireActuel":5900000
+            "salaireActuel":2950000
         },
         {
             "idNHL":8480830,
@@ -1891,7 +1891,7 @@
             "prenomJoueur":"Joe",
             "nomJoueur":"Pavelski",
             "position":"C",
-            "salaireActuel":5000000
+            "salaireActuel":2500000
         },
         {
             "idNHL":84779421,
@@ -1924,6 +1924,14 @@
             "nomJoueur":"Schenn",
             "position":"D",
             "salaireActuel":425000
+        },
+        {
+            "idNHL":84784141,
+            "idHockeyRef":"meierti01",
+            "prenomJoueur":"Timo",
+            "nomJoueur":"Meier",
+            "position":"A",
+            "salaireActuel":2000000
         }
     ]
 }
