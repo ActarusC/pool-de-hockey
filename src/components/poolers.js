@@ -62,7 +62,7 @@ const Poolers = () => (
   <StaticQuery
     query={graphql`
       {
-        allDataJson(sort: {fields: data___Score, order: DESC}) {
+        allDataJson(sort: {data: {Score: DESC}}) {
           nodes {
             data {
               Abbr_viation
