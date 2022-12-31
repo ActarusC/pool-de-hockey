@@ -2,7 +2,10 @@ import pandas as pd, sqlite3, requests
 import numpy as np
 from datetime import date, timedelta, datetime
 
-conn = sqlite3.connect('C:/Users/huber/OneDrive/Hockey/NHL/DbMatchs.db')
+bdPath="/home/pierre/adm-pool/data/DbMatchs.db"
+jsonPath="/home/pierre/pool-de-hockey/src/data/"
+
+conn = sqlite3.connect(bdPath)
 fin = " WHERE EVENT = 'GOAL' AND Period <> '5' AND PBP.Date >= ALIGNEMENTS.dateDebut AND PBP.Date <= ALIGNEMENTS.dateFin AND PBP.Date >= '2021-10-12' GROUP BY idAlignement)) WHERE idAlignement = ALIGNEMENTS.idAlignement)"
 
 def execSQL(sql, conn, write=False):
@@ -123,7 +126,7 @@ def majTables():
     try:
         #maj Poolers
         dfPoolers = pd.read_sql("SELECT * FROM POOLERS", conn)
-        jsonPoolers = dfPoolers.to_json("C:/dev/pool-de-hockey/src/data/poolers.json", orient = "table", index = False, indent = 4)
+        jsonPoolers = dfPoolers.to_json(jsonPath + "poolers.json", orient = "table", index = False, indent = 4)
     except Exception as ex:
         print("Erreur : poolers")
         var = "Erreur poolers"
@@ -133,7 +136,7 @@ def majTables():
         requete = "SELECT * FROM ALIGNEMENTS INNER JOIN JOUEURS ON JOUEURS.idNHL = ALIGNEMENTS.idNHL"
         dfTempo = pd.read_sql(requete, conn)
         dfAlignements = dfTempo.T.drop_duplicates().T
-        jsonAlignements = dfAlignements.to_json("C:/dev/pool-de-hockey/src/data/alignements.json", orient = "table", index = False, indent = 4)
+        jsonAlignements = dfAlignements.to_json(jsonPath + "alignements.json", orient = "table", index = False, indent = 4)
     except Exception as ex2:
         print("Erreur : alignements")
         var = "Erreur alignements"
@@ -141,7 +144,7 @@ def majTables():
     try:
         #maj Picks
         dfPicks = pd.read_sql("SELECT * FROM DRAFT", conn)
-        jsonPicks = dfPicks.to_json("C:/dev/pool-de-hockey/src/data/picks.json", orient = "table", index = False, indent = 4)
+        jsonPicks = dfPicks.to_json(jsonPath + "picks.json", orient = "table", index = False, indent = 4)
     except Exception as ex2:
         print("Erreur : picks")
         var = "Erreur picks"
@@ -149,7 +152,7 @@ def majTables():
     try:
         #maj Joueurs
         dfJoueurs = pd.read_sql("SELECT * FROM JOUEURS", conn)
-        jsonJoueurs = dfJoueurs.to_json("C:/dev/pool-de-hockey/src/data/joueurs.json", orient = "table", index = False, indent = 4)
+        jsonJoueurs = dfJoueurs.to_json(jsonPath + "joueurs.json", orient = "table", index = False, indent = 4)
     except Exception as ex3:
         print("Erreur : joueurs")
         var = "Erreur joueurs"

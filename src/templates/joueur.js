@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 import { Container, Row, Col, Card, ListGroup, ListGroupItem } from "react-bootstrap"
 
@@ -29,7 +29,7 @@ const Joueur = ({ pageContext }) => {
 
   return (
     <Layout>
-      <SEO title={pageContext.nom} />
+      <Seo title={pageContext.nom} />
 
       <Container fluid>
         <Row>

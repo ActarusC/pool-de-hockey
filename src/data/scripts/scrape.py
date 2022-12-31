@@ -3,7 +3,8 @@ import hockey_scraper as hs
 import numpy as np
 from datetime import date, timedelta, datetime
 
-conn = sqlite3.connect('C:/Users/huber/OneDrive/Hockey/NHL/DbMatchs.db')
+bdPath="/home/pierre/adm-pool/data/DbMatchs.db"
+conn = sqlite3.connect(bdPath)
 
 def scrapePoints():
     ok = "Scrape fait"

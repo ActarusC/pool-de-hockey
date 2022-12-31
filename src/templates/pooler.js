@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import { Link } from "gatsby"
 
 const alignements = require("../data/alignements.json").data
@@ -107,7 +107,7 @@ function typesAlignements(idPooler) {
 
 const Pooler = ({ pageContext }) => (
   <Layout>
-    <SEO title={pageContext.Equipe} />
+    <Seo title={pageContext.Equipe} />
     <h1>{pageContext.Equipe}</h1>
     <p>Dirigée par <b>{pageContext.nom}</b> </p>
     <p><Link to="./picks">Choix de repêchage</Link></p>
