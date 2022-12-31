@@ -1,5 +1,5 @@
 #!bin/sh
-cd /dev/pool-de-hockey
+cd ~/pool-de-hockey
 git add -all
 timestamp() {
     date +"à %H:%M:%S le %Y-%m-%d"
