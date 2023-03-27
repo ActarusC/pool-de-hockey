@@ -1686,14 +1686,6 @@
             "salaireActuel":6100000
         },
         {
-            "idNHL":8470966,
-            "idHockeyRef":"giordma01",
-            "prenomJoueur":"Mark",
-            "nomJoueur":"Giordano",
-            "position":"D",
-            "salaireActuel":400000
-        },
-        {
             "idNHL":8478048,
             "idHockeyRef":"shestig01",
             "prenomJoueur":"Igor",
@@ -1932,6 +1924,14 @@
             "nomJoueur":"Meier",
             "position":"A",
             "salaireActuel":2000000
+        },
+        {
+            "idNHL":8470966,
+            "idHockeyRef":"giordma01",
+            "prenomJoueur":"Mark",
+            "nomJoueur":"Giordano",
+            "position":"D",
+            "salaireActuel":200000
         }
     ]
 }
