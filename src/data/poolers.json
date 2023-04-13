@@ -57,7 +57,7 @@
             "Nom":"Cl\u00e9ment",
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"cle",
-            "PJ":942,
+            "PJ":943,
             "B":352,
             "A":498,
             "Score":890,
@@ -68,10 +68,10 @@
             "Nom":"Hubert",
             "\u00c9quipe":"Patriotes",
             "Abbr\u00e9viation":"hub",
-            "PJ":804,
+            "PJ":806,
             "B":239,
-            "A":393,
-            "Score":675,
+            "A":397,
+            "Score":679,
             "MasseSalariale":80917166
         },
         {
@@ -79,10 +79,10 @@
             "Nom":"Rapha\u00ebl",
             "\u00c9quipe":"Storm Surge",
             "Abbr\u00e9viation":"rap",
-            "PJ":1040,
-            "B":347,
+            "PJ":1041,
+            "B":348,
             "A":565,
-            "Score":952,
+            "Score":953,
             "MasseSalariale":74068524
         },
         {
@@ -90,10 +90,10 @@
             "Nom":"Olivier",
             "\u00c9quipe":"Slafgoalsky",
             "Abbr\u00e9viation":"oli",
-            "PJ":1050,
-            "B":357,
+            "PJ":1052,
+            "B":358,
             "A":426,
-            "Score":814,
+            "Score":815,
             "MasseSalariale":82488833
         },
         {
@@ -101,10 +101,10 @@
             "Nom":"J\u00e9r\u00e9mieD",
             "\u00c9quipe":"Qualis",
             "Abbr\u00e9viation":"jed",
-            "PJ":950,
-            "B":303,
-            "A":463,
-            "Score":793,
+            "PJ":953,
+            "B":304,
+            "A":464,
+            "Score":795,
             "MasseSalariale":72875000
         },
         {
@@ -112,10 +112,10 @@
             "Nom":"J\u00e9r\u00e9myG",
             "\u00c9quipe":"Monarchistes",
             "Abbr\u00e9viation":"jeg",
-            "PJ":949,
-            "B":288,
-            "A":442,
-            "Score":754,
+            "PJ":954,
+            "B":289,
+            "A":445,
+            "Score":758,
             "MasseSalariale":81462024
         },
         {
