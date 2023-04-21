@@ -46,10 +46,10 @@
             "Nom":"Gabriel",
             "\u00c9quipe":"Tropics",
             "Abbr\u00e9viation":"gab",
-            "PJ":1083,
+            "PJ":1088,
             "B":374,
-            "A":630,
-            "Score":1042,
+            "A":633,
+            "Score":1045,
             "MasseSalariale":82430832
         },
         {
@@ -57,10 +57,10 @@
             "Nom":"Cl\u00e9ment",
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"cle",
-            "PJ":971,
-            "B":363,
-            "A":509,
-            "Score":914,
+            "PJ":973,
+            "B":365,
+            "A":511,
+            "Score":918,
             "MasseSalariale":82464866
         },
         {
@@ -68,10 +68,10 @@
             "Nom":"Hubert",
             "\u00c9quipe":"Patriotes",
             "Abbr\u00e9viation":"hub",
-            "PJ":831,
-            "B":243,
-            "A":413,
-            "Score":701,
+            "PJ":836,
+            "B":246,
+            "A":417,
+            "Score":708,
             "MasseSalariale":80917166
         },
         {
@@ -79,10 +79,10 @@
             "Nom":"Rapha\u00ebl",
             "\u00c9quipe":"Storm Surge",
             "Abbr\u00e9viation":"rap",
-            "PJ":1065,
-            "B":360,
-            "A":580,
-            "Score":980,
+            "PJ":1072,
+            "B":361,
+            "A":585,
+            "Score":986,
             "MasseSalariale":74068524
         },
         {
@@ -90,10 +90,10 @@
             "Nom":"Olivier",
             "\u00c9quipe":"Slafgoalsky",
             "Abbr\u00e9viation":"oli",
-            "PJ":1073,
-            "B":364,
-            "A":437,
-            "Score":833,
+            "PJ":1077,
+            "B":366,
+            "A":440,
+            "Score":838,
             "MasseSalariale":82488833
         },
         {
@@ -101,7 +101,7 @@
             "Nom":"J\u00e9r\u00e9mieD",
             "\u00c9quipe":"Qualis",
             "Abbr\u00e9viation":"jed",
-            "PJ":972,
+            "PJ":973,
             "B":310,
             "A":468,
             "Score":806,
@@ -112,7 +112,7 @@
             "Nom":"J\u00e9r\u00e9myG",
             "\u00c9quipe":"Monarchistes",
             "Abbr\u00e9viation":"jeg",
-            "PJ":969,
+            "PJ":971,
             "B":295,
             "A":449,
             "Score":768,
@@ -123,10 +123,10 @@
             "Nom":"F\u00e9lix-Antoine",
             "\u00c9quipe":"Nordiques",
             "Abbr\u00e9viation":"fab",
-            "PJ":897,
-            "B":191,
-            "A":287,
-            "Score":504,
+            "PJ":900,
+            "B":192,
+            "A":289,
+            "Score":507,
             "MasseSalariale":73925714
         }
     ]
