@@ -24,14 +24,6 @@
             {
                 "name":"Actuel",
                 "type":"string"
-            },
-            {
-                "name":"idNHL",
-                "type":"string"
-            },
-            {
-                "name":"Ordre",
-                "type":"string"
             }
         ],
         "pandas_version":"1.4.0"
@@ -43,9 +35,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":2,
@@ -53,9 +43,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":3,
@@ -63,9 +51,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":4,
@@ -73,9 +59,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":5,
@@ -83,9 +67,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":6,
@@ -93,9 +75,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":7,
@@ -103,9 +83,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":8,
@@ -113,9 +91,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":9,
@@ -123,9 +99,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":10,
@@ -133,9 +107,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":11,
@@ -143,9 +115,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":12,
@@ -153,9 +123,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":13,
@@ -163,9 +131,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":14,
@@ -173,9 +139,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":15,
@@ -183,9 +147,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":16,
@@ -193,9 +155,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":17,
@@ -203,9 +163,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":18,
@@ -213,9 +171,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":19,
@@ -223,9 +179,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":20,
@@ -233,9 +187,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":21,
@@ -243,9 +195,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":22,
@@ -253,9 +203,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":23,
@@ -263,9 +211,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":24,
@@ -273,9 +219,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":25,
@@ -283,9 +227,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":26,
@@ -293,9 +235,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":27,
@@ -303,9 +243,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":28,
@@ -313,9 +251,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":29,
@@ -323,9 +259,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":30,
@@ -333,9 +267,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":31,
@@ -343,9 +275,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":32,
@@ -353,9 +283,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":33,
@@ -363,9 +291,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":34,
@@ -373,9 +299,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":35,
@@ -383,9 +307,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":36,
@@ -393,9 +315,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":37,
@@ -403,9 +323,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":38,
@@ -413,9 +331,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":39,
@@ -423,9 +339,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":40,
@@ -433,9 +347,7 @@
             "Type":"ENT",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":41,
@@ -443,9 +355,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":42,
@@ -453,9 +363,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":43,
@@ -463,9 +371,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":44,
@@ -473,9 +379,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":45,
@@ -483,9 +387,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":46,
@@ -493,9 +395,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":47,
@@ -503,9 +403,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":48,
@@ -513,9 +411,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":49,
@@ -523,9 +419,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":50,
@@ -533,9 +427,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":51,
@@ -543,9 +435,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":52,
@@ -553,9 +443,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":53,
@@ -563,9 +451,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":54,
@@ -573,9 +459,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":55,
@@ -583,9 +467,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":56,
@@ -593,9 +475,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":57,
@@ -603,9 +483,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":58,
@@ -613,9 +491,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":59,
@@ -623,9 +499,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":60,
@@ -633,9 +507,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":61,
@@ -643,9 +515,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":62,
@@ -653,9 +523,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":63,
@@ -663,9 +531,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":64,
@@ -673,9 +539,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":65,
@@ -683,9 +547,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":66,
@@ -693,9 +555,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":67,
@@ -703,9 +563,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":68,
@@ -713,9 +571,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":69,
@@ -723,9 +579,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":70,
@@ -733,9 +587,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":71,
@@ -743,9 +595,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":72,
@@ -753,9 +603,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":73,
@@ -763,9 +611,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":74,
@@ -773,9 +619,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":75,
@@ -783,9 +627,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":76,
@@ -793,9 +635,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":77,
@@ -803,9 +643,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":78,
@@ -813,9 +651,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":79,
@@ -823,9 +659,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":80,
@@ -833,9 +667,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":81,
@@ -843,9 +675,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":82,
@@ -853,9 +683,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":83,
@@ -863,9 +691,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":84,
@@ -873,9 +699,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":85,
@@ -883,9 +707,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":86,
@@ -893,9 +715,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":87,
@@ -903,9 +723,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":88,
@@ -913,9 +731,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":89,
@@ -923,9 +739,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":90,
@@ -933,9 +747,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":91,
@@ -943,9 +755,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":92,
@@ -953,9 +763,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":93,
@@ -963,9 +771,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":94,
@@ -973,9 +779,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":95,
@@ -983,9 +787,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":96,
@@ -993,9 +795,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":97,
@@ -1003,9 +803,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":98,
@@ -1013,9 +811,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":99,
@@ -1023,9 +819,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":100,
@@ -1033,9 +827,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"NOR",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":101,
@@ -1043,9 +835,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":102,
@@ -1053,9 +843,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":103,
@@ -1063,9 +851,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":104,
@@ -1073,9 +859,7 @@
             "Type":"PRO",
             "Annee":2023,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":105,
@@ -1083,9 +867,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":106,
@@ -1093,9 +875,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":107,
@@ -1103,9 +883,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":108,
@@ -1113,9 +891,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":109,
@@ -1123,9 +899,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":110,
@@ -1133,9 +907,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":111,
@@ -1143,9 +915,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":112,
@@ -1153,9 +923,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":113,
@@ -1163,9 +931,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":114,
@@ -1173,9 +939,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":115,
@@ -1183,9 +947,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":116,
@@ -1193,9 +955,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":117,
@@ -1203,9 +963,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":118,
@@ -1213,9 +971,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":119,
@@ -1223,9 +979,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":120,
@@ -1233,9 +987,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":121,
@@ -1243,9 +995,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":122,
@@ -1253,9 +1003,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":123,
@@ -1263,9 +1011,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":124,
@@ -1273,9 +1019,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":125,
@@ -1283,9 +1027,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":126,
@@ -1293,9 +1035,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":127,
@@ -1303,9 +1043,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":128,
@@ -1313,9 +1051,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":129,
@@ -1323,9 +1059,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":130,
@@ -1333,9 +1067,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":131,
@@ -1343,9 +1075,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":132,
@@ -1353,9 +1083,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":133,
@@ -1363,9 +1091,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":134,
@@ -1373,9 +1099,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":135,
@@ -1383,9 +1107,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":136,
@@ -1393,9 +1115,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":137,
@@ -1403,9 +1123,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":138,
@@ -1413,9 +1131,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":139,
@@ -1423,9 +1139,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":140,
@@ -1433,9 +1147,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":141,
@@ -1443,9 +1155,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":142,
@@ -1453,9 +1163,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":143,
@@ -1463,9 +1171,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":144,
@@ -1473,9 +1179,7 @@
             "Type":"ENT",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":145,
@@ -1483,9 +1187,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":146,
@@ -1493,9 +1195,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":147,
@@ -1503,9 +1203,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":148,
@@ -1513,9 +1211,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":149,
@@ -1523,9 +1219,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":150,
@@ -1533,9 +1227,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":151,
@@ -1543,9 +1235,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":152,
@@ -1553,9 +1243,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":153,
@@ -1563,9 +1251,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":154,
@@ -1573,9 +1259,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":155,
@@ -1583,9 +1267,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":156,
@@ -1593,9 +1275,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":157,
@@ -1603,9 +1283,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":158,
@@ -1613,9 +1291,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":159,
@@ -1623,9 +1299,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":160,
@@ -1633,9 +1307,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":161,
@@ -1643,9 +1315,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":162,
@@ -1653,9 +1323,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":163,
@@ -1663,9 +1331,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":164,
@@ -1673,9 +1339,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":165,
@@ -1683,9 +1347,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":166,
@@ -1693,9 +1355,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":167,
@@ -1703,9 +1363,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":168,
@@ -1713,9 +1371,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":169,
@@ -1723,9 +1379,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":170,
@@ -1733,9 +1387,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":171,
@@ -1743,9 +1395,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":172,
@@ -1753,9 +1403,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":173,
@@ -1763,9 +1411,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":174,
@@ -1773,9 +1419,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":175,
@@ -1783,9 +1427,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":176,
@@ -1793,9 +1435,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":177,
@@ -1803,9 +1443,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":178,
@@ -1813,9 +1451,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":179,
@@ -1823,9 +1459,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":180,
@@ -1833,9 +1467,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":181,
@@ -1843,9 +1475,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":182,
@@ -1853,9 +1483,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":183,
@@ -1863,9 +1491,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":184,
@@ -1873,9 +1499,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":185,
@@ -1883,9 +1507,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":186,
@@ -1893,9 +1515,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":187,
@@ -1903,9 +1523,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":188,
@@ -1913,9 +1531,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":189,
@@ -1923,9 +1539,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":190,
@@ -1933,9 +1547,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":191,
@@ -1943,9 +1555,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":192,
@@ -1953,9 +1563,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":193,
@@ -1963,9 +1571,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":194,
@@ -1973,9 +1579,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":195,
@@ -1983,9 +1587,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":196,
@@ -1993,9 +1595,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":197,
@@ -2003,9 +1603,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":198,
@@ -2013,9 +1611,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":199,
@@ -2023,9 +1619,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":200,
@@ -2033,9 +1627,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":201,
@@ -2043,9 +1635,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":202,
@@ -2053,9 +1643,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":203,
@@ -2063,9 +1651,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":204,
@@ -2073,9 +1659,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":205,
@@ -2083,9 +1667,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":206,
@@ -2093,9 +1675,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":207,
@@ -2103,9 +1683,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":208,
@@ -2113,9 +1691,7 @@
             "Type":"PRO",
             "Annee":2024,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":209,
@@ -2123,9 +1699,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":210,
@@ -2133,9 +1707,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":211,
@@ -2143,9 +1715,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":212,
@@ -2153,9 +1723,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":213,
@@ -2163,9 +1731,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":214,
@@ -2173,9 +1739,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":215,
@@ -2183,9 +1747,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":216,
@@ -2193,9 +1755,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":217,
@@ -2203,9 +1763,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":218,
@@ -2213,9 +1771,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":219,
@@ -2223,9 +1779,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":220,
@@ -2233,9 +1787,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":221,
@@ -2243,9 +1795,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":222,
@@ -2253,9 +1803,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":223,
@@ -2263,9 +1811,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":224,
@@ -2273,9 +1819,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":225,
@@ -2283,9 +1827,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":226,
@@ -2293,9 +1835,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":227,
@@ -2303,9 +1843,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":228,
@@ -2313,9 +1851,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":229,
@@ -2323,9 +1859,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":230,
@@ -2333,9 +1867,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":231,
@@ -2343,9 +1875,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":232,
@@ -2353,9 +1883,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":233,
@@ -2363,9 +1891,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":234,
@@ -2373,9 +1899,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":235,
@@ -2383,9 +1907,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":236,
@@ -2393,9 +1915,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":237,
@@ -2403,9 +1923,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":238,
@@ -2413,9 +1931,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":239,
@@ -2423,9 +1939,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":240,
@@ -2433,9 +1947,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":241,
@@ -2443,9 +1955,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":242,
@@ -2453,9 +1963,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":243,
@@ -2463,9 +1971,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":244,
@@ -2473,9 +1979,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":245,
@@ -2483,9 +1987,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":246,
@@ -2493,9 +1995,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":247,
@@ -2503,9 +2003,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":248,
@@ -2513,9 +2011,7 @@
             "Type":"ENT",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":249,
@@ -2523,9 +2019,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":250,
@@ -2533,9 +2027,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":251,
@@ -2543,9 +2035,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":252,
@@ -2553,9 +2043,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":253,
@@ -2563,9 +2051,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":254,
@@ -2573,9 +2059,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":255,
@@ -2583,9 +2067,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":256,
@@ -2593,9 +2075,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":257,
@@ -2603,9 +2083,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":258,
@@ -2613,9 +2091,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":259,
@@ -2623,9 +2099,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":260,
@@ -2633,9 +2107,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":261,
@@ -2643,9 +2115,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":262,
@@ -2653,9 +2123,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":263,
@@ -2663,9 +2131,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":264,
@@ -2673,9 +2139,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":265,
@@ -2683,9 +2147,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":266,
@@ -2693,9 +2155,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":267,
@@ -2703,9 +2163,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":268,
@@ -2713,9 +2171,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":269,
@@ -2723,9 +2179,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":270,
@@ -2733,9 +2187,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":271,
@@ -2743,9 +2195,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":272,
@@ -2753,9 +2203,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":273,
@@ -2763,9 +2211,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":274,
@@ -2773,9 +2219,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":275,
@@ -2783,9 +2227,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":276,
@@ -2793,9 +2235,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":277,
@@ -2803,9 +2243,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":278,
@@ -2813,9 +2251,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":279,
@@ -2823,9 +2259,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":280,
@@ -2833,9 +2267,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":281,
@@ -2843,9 +2275,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":282,
@@ -2853,9 +2283,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":283,
@@ -2863,9 +2291,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":284,
@@ -2873,9 +2299,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":285,
@@ -2883,9 +2307,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":286,
@@ -2893,9 +2315,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":287,
@@ -2903,9 +2323,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":288,
@@ -2913,9 +2331,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":289,
@@ -2923,9 +2339,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":290,
@@ -2933,9 +2347,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":291,
@@ -2943,9 +2355,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":292,
@@ -2953,9 +2363,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":293,
@@ -2963,9 +2371,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":294,
@@ -2973,9 +2379,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":295,
@@ -2983,9 +2387,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":296,
@@ -2993,9 +2395,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":297,
@@ -3003,9 +2403,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":298,
@@ -3013,9 +2411,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":299,
@@ -3023,9 +2419,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":300,
@@ -3033,9 +2427,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":301,
@@ -3043,9 +2435,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":302,
@@ -3053,9 +2443,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":303,
@@ -3063,9 +2451,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":304,
@@ -3073,9 +2459,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         },
         {
             "idChoix":305,
@@ -3083,9 +2467,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SLA",
-            "Actuel":"SLA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SLA"
         },
         {
             "idChoix":306,
@@ -3093,9 +2475,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"QUA",
-            "Actuel":"QUA",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"QUA"
         },
         {
             "idChoix":307,
@@ -3103,9 +2483,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"MON",
-            "Actuel":"MON",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"MON"
         },
         {
             "idChoix":308,
@@ -3113,9 +2491,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"NOR",
-            "Actuel":"NOR",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"NOR"
         },
         {
             "idChoix":309,
@@ -3123,9 +2499,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"TRO",
-            "Actuel":"TRO",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"TRO"
         },
         {
             "idChoix":310,
@@ -3133,9 +2507,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"ROC",
-            "Actuel":"ROC",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"ROC"
         },
         {
             "idChoix":311,
@@ -3143,9 +2515,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"SS",
-            "Actuel":"SS",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"SS"
         },
         {
             "idChoix":312,
@@ -3153,9 +2523,7 @@
             "Type":"PRO",
             "Annee":2025,
             "Original":"PAT",
-            "Actuel":"PAT",
-            "idNHL":null,
-            "Ordre":""
+            "Actuel":"PAT"
         }
     ]
 }
