@@ -46,10 +46,10 @@
             "Nom":"Gabriel",
             "\u00c9quipe":"Tropics",
             "Abbr\u00e9viation":"gab",
-            "PJ":1127,
+            "PJ":1130,
             "B":380,
-            "A":659,
-            "Score":1077,
+            "A":661,
+            "Score":1079,
             "MasseSalariale":82430832
         },
         {
@@ -57,10 +57,10 @@
             "Nom":"Cl\u00e9ment",
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"cle",
-            "PJ":1006,
-            "B":378,
-            "A":532,
-            "Score":952,
+            "PJ":1011,
+            "B":381,
+            "A":534,
+            "Score":957,
             "MasseSalariale":82464866
         },
         {
@@ -68,7 +68,7 @@
             "Nom":"Hubert",
             "\u00c9quipe":"Patriotes",
             "Abbr\u00e9viation":"hub",
-            "PJ":863,
+            "PJ":865,
             "B":249,
             "A":430,
             "Score":724,
@@ -79,10 +79,10 @@
             "Nom":"Rapha\u00ebl",
             "\u00c9quipe":"Storm Surge",
             "Abbr\u00e9viation":"rap",
-            "PJ":1107,
+            "PJ":1108,
             "B":376,
-            "A":596,
-            "Score":1012,
+            "A":597,
+            "Score":1013,
             "MasseSalariale":74068524
         },
         {
@@ -90,7 +90,7 @@
             "Nom":"Olivier",
             "\u00c9quipe":"Slafgoalsky",
             "Abbr\u00e9viation":"oli",
-            "PJ":1102,
+            "PJ":1103,
             "B":378,
             "A":448,
             "Score":858,
@@ -101,10 +101,10 @@
             "Nom":"J\u00e9r\u00e9mieD",
             "\u00c9quipe":"Qualis",
             "Abbr\u00e9viation":"jed",
-            "PJ":988,
-            "B":317,
+            "PJ":991,
+            "B":318,
             "A":474,
-            "Score":819,
+            "Score":820,
             "MasseSalariale":72875000
         },
         {
@@ -123,10 +123,10 @@
             "Nom":"F\u00e9lix-Antoine",
             "\u00c9quipe":"Nordiques",
             "Abbr\u00e9viation":"fab",
-            "PJ":923,
+            "PJ":926,
             "B":195,
-            "A":298,
-            "Score":519,
+            "A":299,
+            "Score":520,
             "MasseSalariale":73925714
         }
     ]
