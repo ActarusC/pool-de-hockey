@@ -46,10 +46,10 @@
             "Nom":"Gabriel",
             "\u00c9quipe":"Tropics",
             "Abbr\u00e9viation":"gab",
-            "PJ":1153,
-            "B":386,
+            "PJ":1154,
+            "B":387,
             "A":673,
-            "Score":1097,
+            "Score":1098,
             "MasseSalariale":82430832
         },
         {
@@ -57,7 +57,7 @@
             "Nom":"Cl\u00e9ment",
             "\u00c9quipe":"Rocket",
             "Abbr\u00e9viation":"cle",
-            "PJ":1059,
+            "PJ":1061,
             "B":394,
             "A":548,
             "Score":984,
@@ -68,10 +68,10 @@
             "Nom":"Hubert",
             "\u00c9quipe":"Patriotes",
             "Abbr\u00e9viation":"hub",
-            "PJ":906,
-            "B":268,
-            "A":447,
-            "Score":760,
+            "PJ":907,
+            "B":270,
+            "A":448,
+            "Score":763,
             "MasseSalariale":80917166
         },
         {
@@ -79,10 +79,10 @@
             "Nom":"Rapha\u00ebl",
             "\u00c9quipe":"Storm Surge",
             "Abbr\u00e9viation":"rap",
-            "PJ":1161,
+            "PJ":1162,
             "B":401,
-            "A":611,
-            "Score":1052,
+            "A":613,
+            "Score":1054,
             "MasseSalariale":74068524
         },
         {
@@ -90,7 +90,7 @@
             "Nom":"Olivier",
             "\u00c9quipe":"Slafgoalsky",
             "Abbr\u00e9viation":"oli",
-            "PJ":1138,
+            "PJ":1139,
             "B":380,
             "A":456,
             "Score":868,
@@ -112,7 +112,7 @@
             "Nom":"J\u00e9r\u00e9myG",
             "\u00c9quipe":"Monarchistes",
             "Abbr\u00e9viation":"jeg",
-            "PJ":1023,
+            "PJ":1024,
             "B":307,
             "A":480,
             "Score":811,
@@ -123,10 +123,10 @@
             "Nom":"F\u00e9lix-Antoine",
             "\u00c9quipe":"Nordiques",
             "Abbr\u00e9viation":"fab",
-            "PJ":942,
+            "PJ":943,
             "B":197,
-            "A":303,
-            "Score":526,
+            "A":304,
+            "Score":527,
             "MasseSalariale":73925714
         }
     ]
