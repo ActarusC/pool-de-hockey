@@ -11,5 +11,5 @@ title: "Documentation"
 
 [Ce qu'il reste à faire](/afaire)
 
-Adresse du site : https://pooldehockey.gtsb.io
+Adresse du site : https://pooldehockey.netlify.app/
 
