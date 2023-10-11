@@ -40,15 +40,15 @@ function manipData(oData) {
           {arrPoolers.map(unPooler => (
             <tr key={unPooler.Id}>
               <td><Link to={"/pooler/" + unPooler.Id}>
-                {unPooler.Nom}
+                {unPooler.nom}
               </Link></td>
-              <td>{unPooler._quipe}</td>
-              <td>{unPooler.PJ}</td>
-              <td>{unPooler.B}</td>
-              <td>{unPooler.A}</td>
+              <td>{unPooler.equipe}</td>
+              <td>{unPooler.pj}</td>
+              <td>{unPooler.b}</td>
+              <td>{unPooler.a}</td>
 
               <td>{unPooler.score}</td>
-              <td>{ (unPooler.MasseSalariale / 10**6).toFixed(2)  } M$</td>
+              <td>{ (unPooler.massesalariale / 10**6).toFixed(2)  } M$</td>
             </tr>
           ))}
         </tbody>
@@ -65,15 +65,15 @@ const Poolers = () => (
         allDataJson(sort: {data: {score: DESC}}) {
           nodes {
             data {
-              Abbr_viation
-              Id
-              Nom
-              Score
-              _quipe
-              PJ
-              B
-              A
-              MasseSalariale
+              abbr
+              id
+              nom
+              score
+              equipe
+              pj
+              b
+              a
+              massesalariale
             }
           }
         }
