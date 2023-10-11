@@ -5,9 +5,9 @@ import { Link } from "gatsby"
 function comparerPooler(a, b) {
 
   let comparison = 0;
-  if (a.Score > b.Score) {
+  if (a.score > b.score) {
     comparison = 1;
-  } else if (a.Score < b.Score) {
+  } else if (a.score < b.score) {
     comparison = -1;
   }
   return comparison * -1;
@@ -47,7 +47,7 @@ function manipData(oData) {
               <td>{unPooler.B}</td>
               <td>{unPooler.A}</td>
 
-              <td>{unPooler.Score}</td>
+              <td>{unPooler.score}</td>
               <td>{ (unPooler.MasseSalariale / 10**6).toFixed(2)  } M$</td>
             </tr>
           ))}
@@ -62,7 +62,7 @@ const Poolers = () => (
   <StaticQuery
     query={graphql`
       {
-        allDataJson(sort: {data: {Score: DESC}}) {
+        allDataJson(sort: {data: {score: DESC}}) {
           nodes {
             data {
               Abbr_viation

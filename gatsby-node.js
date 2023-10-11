@@ -12,7 +12,7 @@ exports.createPages = async ({ actions: { createPage }, graphql, reporter }) => 
           Id: pooler.id,
           Equipe: pooler.equipe,
           Abbr: pooler.abbr,
-          Score: pooler.score,
+          score: pooler.score,
         },
       })
       createPage({

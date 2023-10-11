@@ -35,7 +35,7 @@ function manipData(oData) {
               <td>{unPooler.B}</td>
               <td>{unPooler.A}</td>
 
-              <td>{unPooler.Score}</td>
+              <td>{unPooler.score}</td>
               <td>{ (unPooler.MasseSalariale / 10**6).toFixed(2)  } M$</td>
             </tr>
           ))}
@@ -50,7 +50,7 @@ const ChoisirPooler = () => (
   <StaticQuery
     query={graphql`
       {
-        allDataJson(sort: {data: {Score: DESC}}) {
+        allDataJson(sort: {data: {score: DESC}}) {
           nodes {
             data {
               Abbr_viation
