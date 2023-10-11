@@ -8,20 +8,20 @@ exports.createPages = async ({ actions: { createPage }, graphql, reporter }) => 
         path: `/pooler/${pooler.Id}/`,
         component: require.resolve("./src/templates/pooler.js"),
         context: {
-          nom: pooler.Nom,
-          Id: pooler.Id,
-          Equipe: pooler.\u00c9quipe,
-          Abbr: pooler.Abbr\u00e9viation,
-          Score: pooler.Score,
+          nom: pooler.nom,
+          Id: pooler.id,
+          Equipe: pooler.equipe,
+          Abbr: pooler.abbr,
+          Score: pooler.score,
         },
       })
       createPage({
         path: `/pooler/${pooler.Id}/picks`,
         component: require.resolve("./src/templates/draftpicks.js"),
         context: {
-          nom: pooler.Nom,
-          Id: pooler.Id,
-          Equipe: pooler.\u00c9quipe,
+          nom: pooler.nom,
+          Id: pooler.id,
+          Equipe: pooler.equipe,
         },
       })
     })
@@ -39,11 +39,11 @@ exports.createPages = async ({ actions: { createPage }, graphql, reporter }) => 
         path: `/joueur/${joueur.idNHL}/`,
         component: require.resolve("./src/templates/joueur.js"),
         context: {
-          nom: joueur.prenomJoueur + " " + joueur.nomJoueur,
-          idNHL: joueur.idNHL,
-          idHockeyRef: joueur.idHockeyRef,
+          nom: joueur.prenomjoueur + " " + joueur.nomjoueur,
+          idNHL: joueur.idnhl,
+          idHockeyRef: joueur.idhockeyref,
           position: joueur.position,
-          salaireActuel: joueur.salaireActuel,
+          salaireActuel: joueur.salaireactuel,
         },
       })
     })
