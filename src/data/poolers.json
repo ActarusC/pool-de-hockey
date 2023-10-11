@@ -2,39 +2,39 @@
     "schema":{
         "fields":[
             {
-                "name":"Id",
+                "name":"id",
                 "type":"string"
             },
             {
-                "name":"Nom",
+                "name":"nom",
                 "type":"string"
             },
             {
-                "name":"\u00c9quipe",
+                "name":"equipe",
                 "type":"string"
             },
             {
-                "name":"Abbr\u00e9viation",
+                "name":"abbr",
                 "type":"string"
             },
             {
-                "name":"PJ",
+                "name":"pj",
                 "type":"integer"
             },
             {
-                "name":"B",
+                "name":"b",
                 "type":"integer"
             },
             {
-                "name":"A",
+                "name":"a",
                 "type":"integer"
             },
             {
-                "name":"Score",
+                "name":"score",
                 "type":"integer"
             },
             {
-                "name":"MasseSalariale",
+                "name":"massesalariale",
                 "type":"integer"
             }
         ],
@@ -42,92 +42,92 @@
     },
     "data":[
         {
-            "Id":"TRO",
-            "Nom":"Gabriel",
-            "\u00c9quipe":"Tropics",
-            "Abbr\u00e9viation":"gab",
-            "PJ":1157,
-            "B":387,
-            "A":674,
-            "Score":1099,
-            "MasseSalariale":82430832
+            "id":"TRO",
+            "nom":"Gabriel",
+            "equipe":"Tropics",
+            "abbr":"gab",
+            "pj":1077,
+            "b":374,
+            "a":635,
+            "score":1043,
+            "massesalariale":0
         },
         {
-            "Id":"ROC",
-            "Nom":"Cl\u00e9ment",
-            "\u00c9quipe":"Rocket",
-            "Abbr\u00e9viation":"cle",
-            "PJ":1067,
-            "B":396,
-            "A":550,
-            "Score":988,
-            "MasseSalariale":82464866
+            "id":"ROC",
+            "nom":"Cl\u00e9ment",
+            "equipe":"Rocket",
+            "abbr":"cle",
+            "pj":970,
+            "b":367,
+            "a":514,
+            "score":918,
+            "massesalariale":0
         },
         {
-            "Id":"PAT",
-            "Nom":"Hubert",
-            "\u00c9quipe":"Patriotes",
-            "Abbr\u00e9viation":"hub",
-            "PJ":910,
-            "B":271,
-            "A":451,
-            "Score":767,
-            "MasseSalariale":80917166
+            "id":"PAT",
+            "nom":"Hubert",
+            "equipe":"Patriotes",
+            "abbr":"hub",
+            "pj":827,
+            "b":246,
+            "a":411,
+            "score":697,
+            "massesalariale":0
         },
         {
-            "Id":"SS",
-            "Nom":"Rapha\u00ebl",
-            "\u00c9quipe":"Storm Surge",
-            "Abbr\u00e9viation":"rap",
-            "PJ":1165,
-            "B":403,
-            "A":614,
-            "Score":1057,
-            "MasseSalariale":74068524
+            "id":"SS",
+            "nom":"Rapha\u00ebl",
+            "equipe":"Storm Surge",
+            "abbr":"rap",
+            "pj":1064,
+            "b":361,
+            "a":584,
+            "score":982,
+            "massesalariale":0
         },
         {
-            "Id":"SLA",
-            "Nom":"Olivier",
-            "\u00c9quipe":"Slafgoalsky",
-            "Abbr\u00e9viation":"oli",
-            "PJ":1142,
-            "B":380,
-            "A":458,
-            "Score":870,
-            "MasseSalariale":82488833
+            "id":"SLA",
+            "nom":"Olivier",
+            "equipe":"Slafgoalsky",
+            "abbr":"oli",
+            "pj":1073,
+            "b":366,
+            "a":435,
+            "score":831,
+            "massesalariale":0
         },
         {
-            "Id":"QUA",
-            "Nom":"J\u00e9r\u00e9mieD",
-            "\u00c9quipe":"Qualis",
-            "Abbr\u00e9viation":"jed",
-            "PJ":995,
-            "B":319,
-            "A":474,
-            "Score":821,
-            "MasseSalariale":72875000
+            "id":"QUA",
+            "nom":"J\u00e9r\u00e9mieD",
+            "equipe":"Qualis",
+            "abbr":"jed",
+            "pj":982,
+            "b":316,
+            "a":483,
+            "score":823,
+            "massesalariale":0
         },
         {
-            "Id":"MON",
-            "Nom":"J\u00e9r\u00e9myG",
-            "\u00c9quipe":"Monarchistes",
-            "Abbr\u00e9viation":"jeg",
-            "PJ":1027,
-            "B":307,
-            "A":484,
-            "Score":815,
-            "MasseSalariale":81462024
+            "id":"MON",
+            "nom":"J\u00e9r\u00e9myG",
+            "equipe":"Monarchistes",
+            "abbr":"jeg",
+            "pj":979,
+            "b":296,
+            "a":455,
+            "score":774,
+            "massesalariale":0
         },
         {
-            "Id":"NOR",
-            "Nom":"F\u00e9lix-Antoine",
-            "\u00c9quipe":"Nordiques",
-            "Abbr\u00e9viation":"fab",
-            "PJ":946,
-            "B":197,
-            "A":305,
-            "Score":528,
-            "MasseSalariale":73925714
+            "id":"NOR",
+            "nom":"F\u00e9lix-Antoine",
+            "equipe":"Nordiques",
+            "abbr":"fab",
+            "pj":894,
+            "b":190,
+            "a":285,
+            "score":499,
+            "massesalariale":0
         }
     ]
 }
