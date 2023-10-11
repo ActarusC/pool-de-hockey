@@ -20,19 +20,19 @@ jobs:
         uses: githubocto/flat@v3
         with:
           http_url: https://dj15141xisgt0.cloudfront.net/json/poolers.json # 
-          downloaded_filename: /src/data/poolers.json
+          downloaded_filename: ./src/data/poolers.json
       - name: Fetch alignements 
         uses: githubocto/flat@v3
         with:
           http_url: https://dj15141xisgt0.cloudfront.net/json/alignements.json # 
-          downloaded_filename: /src/data/alignements.json
+          downloaded_filename: ./src/data/alignements.json
       - name: Fetch picks 
         uses: githubocto/flat@v3
         with:
           http_url: https://dj15141xisgt0.cloudfront.net/json/picks.json # 
-          downloaded_filename: /src/data/picks.json
+          downloaded_filename: ./src/data/picks.json
       - name: Fetch joueurs 
         uses: githubocto/flat@v3
         with:
           http_url: https://dj15141xisgt0.cloudfront.net/json/joueurs.json # 
-          downloaded_filename: /src/data/joueurs.json
+          downloaded_filename: ./src/data/joueurs.json
