@@ -5,38 +5,32 @@ exports.createPages = async ({ actions: { createPage }, graphql, reporter }) => 
     
     poolers.data.forEach(pooler => {
       createPage({
-        path: `/pooler/${pooler.Id}/`,
+        path: `/pooler/${pooler.id}/`,
         component: require.resolve("./src/templates/pooler.js"),
         context: {
-          nom: pooler.nom,
+          Nom: pooler.nom,
           Id: pooler.id,
           Equipe: pooler.equipe,
           Abbr: pooler.abbr,
-          score: pooler.score,
+          Score: pooler.score,
         },
       })
       createPage({
-        path: `/pooler/${pooler.Id}/picks`,
+        path: `/pooler/${pooler.id}/picks`,
         component: require.resolve("./src/templates/draftpicks.js"),
         context: {
-          nom: pooler.nom,
+          Nom: pooler.nom,
           Id: pooler.id,
           Equipe: pooler.equipe,
         },
       })
     })
 
-    // "Id":"gab",
-    // "Nom":"Gabriel",
-    // "\u00c9quipe":"Tropics",
-    // "Abbr\u00e9viation":"TRO",
-    // "Score":3
-
     const joueurs = require("./src/data/joueurs.json")
     
     joueurs.data.forEach(joueur => {
       createPage({
-        path: `/joueur/${joueur.idNHL}/`,
+        path: `/joueur/${joueur.idnhl}/`,
         component: require.resolve("./src/templates/joueur.js"),
         context: {
           nom: joueur.prenomjoueur + " " + joueur.nomjoueur,

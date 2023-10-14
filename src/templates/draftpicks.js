@@ -6,10 +6,10 @@ import { Link } from "gatsby"
 const picks = require("../data/picks.json").data
 
 function filtrerPicks(picks, idPooler, type, annee) {
-  let picksF = picks.filter(unP => (unP.Actuel === idPooler))
-  picksF = picksF.filter(unP => (unP.Type === type))
-  picksF = picksF.filter(unP => (unP.Annee === annee))
-  picksF = picksF.sort(picksF.Ronde)
+  let picksF = picks.filter(unP => (unP.actuel === idPooler))
+  picksF = picksF.filter(unP => (unP.type === type))
+  picksF = picksF.filter(unP => (unP.annee === annee))
+  picksF = picksF.sort(picksF.ronde)
   return picksF
 }
 
@@ -29,10 +29,10 @@ function entetePicks() {
     return (
       <tbody>
       {filtrerPicks(picks, idPooler, type, annee).map(unPick => (
-        <tr key={unPick.idChoix}>
-          <td>{unPick.Annee} </td>
-          <td>{unPick.Ronde} </td>
-          <td>{unPick.Original} </td>
+        <tr key={unPick.idchoix}>
+          <td>{unPick.annee} </td>
+          <td>{unPick.ronde} </td>
+          <td>{unPick.original} </td>
           </tr>
   
       ))
@@ -57,13 +57,13 @@ function entetePicks() {
     return(
       <div class="row">
         <div class="column">
-        <h2>{"Entr\u00e9e"}</h2>
+        <h2>Entrée</h2>
         { unTypeDraft(idPooler, "ENT", 2022) }
         { unTypeDraft(idPooler, "ENT", 2023) }
         { unTypeDraft(idPooler, "ENT", 2024) }
         </div>
         <div class="column">
-        <h2>{"Pro"}</h2>
+        <h2>Pro</h2>
         { unTypeDraft(idPooler, "PRO", 2022) }
         { unTypeDraft(idPooler, "PRO", 2023) }
         { unTypeDraft(idPooler, "PRO", 2024) }
@@ -76,7 +76,7 @@ function entetePicks() {
     <Layout>
       <Seo title={pageContext.Equipe} />
       <h1>{pageContext.Equipe}</h1>
-      <p>Dirigée par <b><Link to={"/pooler/" + pageContext.Id}>{pageContext.nom}</Link></b></p>
+      <p>Dirigée par <b><Link to={"/pooler/" + pageContext.Id}>{pageContext.Nom}</Link></b></p>
   
       { typesDrafts(pageContext.Id) }
   
