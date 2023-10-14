@@ -1,0 +1,5 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"name" : "Pool-de-hockey",
+	"postCreateCommand": "npm install -g gatsby-cli"
+}
