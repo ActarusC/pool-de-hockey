@@ -6,7 +6,7 @@ on:
       - .github/workflows/pool.yml # Only run a new workflow every time this file (pool.yaml) file changes
   workflow_dispatch: # Required even though this is currently empty
   schedule:
-    - cron: '0 4 * * *' # Run this workflow at 4 AM everyday
+    - cron: '0 8 * * *' # Run this workflow at 4 AM everyday
 
 jobs:
   scheduled:
