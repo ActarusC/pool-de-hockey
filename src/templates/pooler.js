@@ -41,7 +41,7 @@ function enteteAlignement(afficheDateFin = false, afficheStatut = false) {
       <th>Buts (V)</th>
       <th>Aides (JB)</th>
       <th>Score</th>
-      <th>Salaire</th>
+      <th>Cap hit</th>
       <th>Date d'ajout</th>
       {afficheDateFin &&
         <th>Date de fin</th>
@@ -68,7 +68,7 @@ function bodyAlignement(idPooler, statusA, afficheDateFin = false, afficheStatut
         <td>{unJoueur.butsactuels} </td>
         <td>{unJoueur.assistactuels} </td>
         <td>{unJoueur.pointsactuels} </td>
-        <td>{(unJoueur.salaireactuel / 10**6).toFixed(2)  } M$</td>
+        <td>{(unJoueur.team_caphit / 10**6).toFixed(2)  } M$</td>
         <td>{unJoueur.datedebut} </td>
         {afficheDateFin &&
                 <td>{unJoueur.datefin} </td>

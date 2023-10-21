@@ -16,7 +16,7 @@ const Joueur = ({ pageContext }) => {
 
   useEffect(() => {
     // get data from NHL api
-    fetch('https://statsapi.web.nhl.com/api/v1/people/' + pageContext.idNHL + '?stats=statsSingleSeason&season=20212022')
+    fetch('https://statsapi.web.nhl.com/api/v1/people/' + pageContext.idNHL + '?stats=statsSingleSeason&season=20232024')
       .then(response => response.json()) // parse JSON from request
       .then(resultData => {
         setInfos(resultData.people[0])

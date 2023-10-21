@@ -145,6 +145,7 @@ def majTables():
         requete = "SELECT * FROM ALIGNEMENTS INNER JOIN JOUEURS ON JOUEURS.idNHL = ALIGNEMENTS.idNHL"
         dfTempo = pd.read_sql(requete, conn)
         dfAlignements = dfTempo.T.drop_duplicates().T
+        dfAlignements["team_caphit"] = dfAlignements["prop_caphit"] * dfAlignements["salaireactuel"]
         jsonAlignements = dfAlignements.to_json(jsonPath + "alignements.json", orient = "table", index = False, indent = 4)
     except Exception as ex2:
         print("Erreur : alignements")
