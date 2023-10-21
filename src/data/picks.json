@@ -169,15 +169,6 @@
             "idnhl":null
         },
         {
-            "idchoix":120,
-            "ronde":2,
-            "type":"ENT",
-            "annee":2024,
-            "original":"PAT",
-            "actuel":"PAT",
-            "idnhl":null
-        },
-        {
             "idchoix":10,
             "ronde":2,
             "type":"ENT",
@@ -1537,15 +1528,6 @@
             "idnhl":null
         },
         {
-            "idchoix":192,
-            "ronde":6,
-            "type":"PRO",
-            "annee":2024,
-            "original":"PAT",
-            "actuel":"PAT",
-            "idnhl":null
-        },
-        {
             "idchoix":193,
             "ronde":7,
             "type":"PRO",
@@ -2839,6 +2821,24 @@
             "annee":2024,
             "original":"SS",
             "actuel":"PAT",
+            "idnhl":null
+        },
+        {
+            "idchoix":120,
+            "ronde":2,
+            "type":"ENT",
+            "annee":2024,
+            "original":"PAT",
+            "actuel":"MON",
+            "idnhl":null
+        },
+        {
+            "idchoix":192,
+            "ronde":6,
+            "type":"PRO",
+            "annee":2024,
+            "original":"PAT",
+            "actuel":"MON",
             "idnhl":null
         }
     ]

@@ -2,6 +2,14 @@
     "schema":{
         "fields":[
             {
+                "name":"level_0",
+                "type":"integer"
+            },
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
                 "name":"idnhl",
                 "type":"integer"
             },
@@ -23,2755 +31,4123 @@
             },
             {
                 "name":"salaireactuel",
-                "type":"integer"
+                "type":"number"
+            },
+            {
+                "name":"prenomcapfriendly",
+                "type":"string"
+            },
+            {
+                "name":"nomcapfriendly",
+                "type":"string"
             }
         ],
         "pandas_version":"1.4.0"
     },
     "data":[
         {
+            "level_0":0,
+            "index":0,
             "idnhl":8476459,
             "idhockeyref":"zibanmi01",
             "prenomjoueur":"Mika",
             "nomjoueur":"Zibanejad",
             "position":"C",
-            "salaireactuel":8500000
+            "salaireactuel":8500000.0,
+            "prenomcapfriendly":"Mika",
+            "nomcapfriendly":"Zibanejad"
         },
         {
+            "level_0":1,
+            "index":1,
             "idnhl":8480018,
             "idhockeyref":"suzukni01",
             "prenomjoueur":"Nick",
             "nomjoueur":"Suzuki",
             "position":"C",
-            "salaireactuel":7875000
+            "salaireactuel":7875000.0,
+            "prenomcapfriendly":"Nick",
+            "nomcapfriendly":"Suzuki"
         },
         {
+            "level_0":2,
+            "index":2,
             "idnhl":8481528,
             "idhockeyref":"cozendy01",
             "prenomjoueur":"Dylan",
             "nomjoueur":"Cozens",
             "position":"C",
-            "salaireactuel":894167
+            "salaireactuel":7100000.0,
+            "prenomcapfriendly":"Dylan",
+            "nomcapfriendly":"Cozens"
         },
         {
+            "level_0":3,
+            "index":3,
             "idnhl":8478472,
             "idhockeyref":"josepma01",
             "prenomjoueur":"Mathieu",
             "nomjoueur":"Joseph",
             "position":"A",
-            "salaireactuel":2950000
+            "salaireactuel":2950000.0,
+            "prenomcapfriendly":"Mathieu",
+            "nomcapfriendly":"Joseph"
         },
         {
+            "level_0":4,
+            "index":4,
             "idnhl":8479318,
             "idhockeyref":"matthau01",
             "prenomjoueur":"Auston",
             "nomjoueur":"Matthews",
             "position":"C",
-            "salaireactuel":11640250
+            "salaireactuel":11640250.0,
+            "prenomcapfriendly":"Auston",
+            "nomcapfriendly":"Matthews"
         },
         {
+            "level_0":5,
+            "index":5,
             "idnhl":8478427,
             "idhockeyref":"ahose01",
             "prenomjoueur":"Sebastian",
             "nomjoueur":"Aho",
             "position":"C",
-            "salaireactuel":8460250
+            "salaireactuel":8460250.0,
+            "prenomcapfriendly":"Sebastian",
+            "nomcapfriendly":"Aho"
         },
         {
+            "level_0":6,
+            "index":6,
             "idnhl":8481068,
             "idhockeyref":"sharaye01",
             "prenomjoueur":"Yegor",
             "nomjoueur":"Sharangovich",
             "position":"C",
-            "salaireactuel":2000000
+            "salaireactuel":3100000.0,
+            "prenomcapfriendly":"Yegor",
+            "nomcapfriendly":"Sharangovich"
         },
         {
+            "level_0":7,
+            "index":7,
             "idnhl":8475184,
             "idhockeyref":"kreidch01",
             "prenomjoueur":"Chris",
             "nomjoueur":"Kreider",
             "position":"A",
-            "salaireactuel":6500000
+            "salaireactuel":6500000.0,
+            "prenomcapfriendly":"Chris",
+            "nomcapfriendly":"Kreider"
         },
         {
+            "level_0":8,
+            "index":8,
             "idnhl":8479425,
             "idhockeyref":"hronefi01",
             "prenomjoueur":"Filip",
             "nomjoueur":"Hronek",
             "position":"D",
-            "salaireactuel":4400000
+            "salaireactuel":4400000.0,
+            "prenomcapfriendly":"Filip",
+            "nomcapfriendly":"Hronek"
         },
         {
+            "level_0":9,
+            "index":9,
             "idnhl":8476923,
             "idhockeyref":"severda01",
             "prenomjoueur":"Damon",
             "nomjoueur":"Severson",
             "position":"D",
-            "salaireactuel":4166666
+            "salaireactuel":6250000.0,
+            "prenomcapfriendly":"Damon",
+            "nomcapfriendly":"Severson"
         },
         {
+            "level_0":10,
+            "index":10,
             "idnhl":8478055,
             "idhockeyref":"forslgu01",
             "prenomjoueur":"Gustav",
             "nomjoueur":"Forsling",
             "position":"D",
-            "salaireactuel":2666667
+            "salaireactuel":2666667.0,
+            "prenomcapfriendly":"Gustav",
+            "nomcapfriendly":"Forsling"
         },
         {
+            "level_0":11,
+            "index":11,
             "idnhl":8480817,
             "idhockeyref":"millek'01",
             "prenomjoueur":"K'Andre",
             "nomjoueur":"Miller",
             "position":"D",
-            "salaireactuel":925000
+            "salaireactuel":3872000.0,
+            "prenomcapfriendly":"K'Andre",
+            "nomcapfriendly":"Miller"
         },
         {
+            "level_0":12,
+            "index":12,
             "idnhl":8475883,
             "idhockeyref":"anderfr01",
             "prenomjoueur":"Frederik",
             "nomjoueur":"Andersen",
             "position":"G",
-            "salaireactuel":4500000
+            "salaireactuel":3400000.0,
+            "prenomcapfriendly":"Frederik",
+            "nomcapfriendly":"Andersen"
         },
         {
+            "level_0":13,
+            "index":13,
             "idnhl":8479514,
             "idhockeyref":"pitlire01",
             "prenomjoueur":"Rem",
             "nomjoueur":"Pitlick",
             "position":"C",
-            "salaireactuel":1100000
+            "salaireactuel":1100000.0,
+            "prenomcapfriendly":"Rem",
+            "nomcapfriendly":"Pitlick"
         },
         {
+            "level_0":14,
+            "index":14,
             "idnhl":8477465,
             "idhockeyref":"jarrytr01",
             "prenomjoueur":"Tristan",
             "nomjoueur":"Jarry",
             "position":"G",
-            "salaireactuel":3500000
+            "salaireactuel":5375000.0,
+            "prenomcapfriendly":"Tristan",
+            "nomcapfriendly":"Jarry"
         },
         {
+            "level_0":15,
+            "index":15,
             "idnhl":8481546,
             "idhockeyref":"yorkca01",
             "prenomjoueur":"Cam",
             "nomjoueur":"York",
             "position":"D",
-            "salaireactuel":880833
+            "salaireactuel":1600000.0,
+            "prenomcapfriendly":"Cam",
+            "nomcapfriendly":"York"
         },
         {
+            "level_0":16,
+            "index":16,
             "idnhl":8482089,
             "idhockeyref":"neighja01",
             "prenomjoueur":"Jake",
             "nomjoueur":"Neighbours",
             "position":"A",
-            "salaireactuel":835833
+            "salaireactuel":835833.0,
+            "prenomcapfriendly":"Jake",
+            "nomcapfriendly":"Neighbours"
         },
         {
+            "level_0":17,
+            "index":17,
             "idnhl":8482125,
             "idhockeyref":"holtzal01",
             "prenomjoueur":"Alexander",
             "nomjoueur":"Holtz",
             "position":"A",
-            "salaireactuel":894167
+            "salaireactuel":894167.0,
+            "prenomcapfriendly":"Alexander",
+            "nomcapfriendly":"Holtz"
         },
         {
+            "level_0":18,
+            "index":18,
             "idnhl":8483515,
             "idhockeyref":"slafkju01",
             "prenomjoueur":"Juraj",
             "nomjoueur":"Slafkovsky",
             "position":"A",
-            "salaireactuel":950000
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Juraj",
+            "nomcapfriendly":"Slafkovsky"
         },
         {
+            "level_0":19,
+            "index":19,
             "idnhl":8483464,
             "idhockeyref":"kaspema01",
             "prenomjoueur":"Marco",
             "nomjoueur":"Kasper",
             "position":"C",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Marco",
+            "nomcapfriendly":"Kasper"
         },
         {
+            "level_0":20,
+            "index":20,
             "idnhl":8483500,
             "idhockeyref":"ostluno01",
             "prenomjoueur":"Noah",
             "nomjoueur":"Ostlund",
             "position":"C",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Noah",
+            "nomcapfriendly":"Ostlund"
         },
         {
+            "level_0":21,
+            "index":21,
             "idnhl":8483442,
             "idhockeyref":"firkuja01",
             "prenomjoueur":"Jagger",
             "nomjoueur":"Firkus",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":923333.0,
+            "prenomcapfriendly":"Jagger",
+            "nomcapfriendly":"Firkus"
         },
         {
+            "level_0":22,
+            "index":22,
             "idnhl":8483508,
             "idhockeyref":"ronnito01",
             "prenomjoueur":"Topi",
             "nomjoueur":"Ronni",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":23,
+            "index":23,
             "idnhl":8482762,
             "idhockeyref":"edvinsi01",
             "prenomjoueur":"Simon",
             "nomjoueur":"Edvinsson",
             "position":"D",
-            "salaireactuel":925000
+            "salaireactuel":894167.0,
+            "prenomcapfriendly":"Simon",
+            "nomcapfriendly":"Edvinsson"
         },
         {
-            "idnhl":8482679,
-            "idhockeyref":"coronma01",
-            "prenomjoueur":"Matt",
-            "nomjoueur":"Coronato",
-            "position":"A",
-            "salaireactuel":0
-        },
-        {
+            "level_0":24,
+            "index":25,
             "idnhl":8482166,
             "idhockeyref":"mukhash01",
             "prenomjoueur":"Shakir",
             "nomjoueur":"Mukhamadullin",
             "position":"D",
-            "salaireactuel":894167
+            "salaireactuel":894167.0,
+            "prenomcapfriendly":"Shakir",
+            "nomcapfriendly":"Mukhamadullin"
         },
         {
+            "level_0":25,
+            "index":26,
             "idnhl":8478864,
             "idhockeyref":"kapriki01",
             "prenomjoueur":"Kirill",
             "nomjoueur":"Kaprizov",
             "position":"A",
-            "salaireactuel":9000000
+            "salaireactuel":9000000.0,
+            "prenomcapfriendly":"Kirill",
+            "nomcapfriendly":"Kaprizov"
         },
         {
+            "level_0":26,
+            "index":27,
             "idnhl":8476453,
             "idhockeyref":"kucheni01",
             "prenomjoueur":"Nikita",
             "nomjoueur":"Kucherov",
             "position":"A",
-            "salaireactuel":9500000
+            "salaireactuel":9500000.0,
+            "prenomcapfriendly":"Nikita",
+            "nomcapfriendly":"Kucherov"
         },
         {
+            "level_0":27,
+            "index":28,
             "idnhl":8481559,
             "idhockeyref":"hugheja01",
             "prenomjoueur":"Jack",
             "nomjoueur":"Hughes",
             "position":"C",
-            "salaireactuel":8000000
+            "salaireactuel":8000000.0,
+            "prenomcapfriendly":"Jack",
+            "nomcapfriendly":"Hughes"
         },
         {
+            "level_0":28,
+            "index":29,
             "idnhl":8479420,
             "idhockeyref":"thompta01",
             "prenomjoueur":"Tage",
             "nomjoueur":"Thompson",
             "position":"A",
-            "salaireactuel":1400000
+            "salaireactuel":7142857.0,
+            "prenomcapfriendly":"Tage",
+            "nomcapfriendly":"Thompson"
         },
         {
+            "level_0":29,
+            "index":30,
             "idnhl":8481618,
             "idhockeyref":"newhoal01",
             "prenomjoueur":"Alex",
             "nomjoueur":"Newhook",
             "position":"C",
-            "salaireactuel":908333
+            "salaireactuel":2900000.0,
+            "prenomcapfriendly":"Alex",
+            "nomcapfriendly":"Newhook"
         },
         {
+            "level_0":30,
+            "index":31,
             "idnhl":8482113,
             "idhockeyref":"lundean01",
             "prenomjoueur":"Anton",
             "nomjoueur":"Lundell",
             "position":"C",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Anton",
+            "nomcapfriendly":"Lundell"
         },
         {
+            "level_0":31,
+            "index":32,
             "idnhl":8476346,
             "idhockeyref":"gaudrjo01",
             "prenomjoueur":"Johnny",
             "nomjoueur":"Gaudreau",
             "position":"A",
-            "salaireactuel":9750000
+            "salaireactuel":9750000.0,
+            "prenomcapfriendly":"Johnny",
+            "nomcapfriendly":"Gaudreau"
         },
         {
-            "idnhl":8481557,
-            "idhockeyref":"boldyma01",
-            "prenomjoueur":"Matt",
-            "nomjoueur":"Boldy",
-            "position":"A",
-            "salaireactuel":863333
-        },
-        {
-            "idnhl":8482116,
-            "idhockeyref":"st\u00fctzti01",
-            "prenomjoueur":"Tim",
-            "nomjoueur":"St\u00fctzle",
-            "position":"A",
-            "salaireactuel":925000
-        },
-        {
+            "level_0":32,
+            "index":35,
             "idnhl":8482079,
             "idhockeyref":"rossima01",
             "prenomjoueur":"Marco",
             "nomjoueur":"Rossi",
             "position":"C",
-            "salaireactuel":863333
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Marco",
+            "nomcapfriendly":"Rossi"
         },
         {
+            "level_0":33,
+            "index":36,
             "idnhl":8483808,
             "idhockeyref":"kuzmean01",
             "prenomjoueur":"Andrei",
             "nomjoueur":"Kuzmenko",
             "position":"A",
-            "salaireactuel":475000
+            "salaireactuel":5500000.0,
+            "prenomcapfriendly":"Andrei",
+            "nomcapfriendly":"Kuzmenko"
         },
         {
+            "level_0":34,
+            "index":37,
             "idnhl":8482745,
             "idhockeyref":"mctavma01",
             "prenomjoueur":"Mason",
             "nomjoueur":"McTavish",
             "position":"C",
-            "salaireactuel":894167
+            "salaireactuel":894167.0,
+            "prenomcapfriendly":"Mason",
+            "nomcapfriendly":"McTavish"
         },
         {
+            "level_0":35,
+            "index":38,
             "idnhl":8482660,
             "idhockeyref":"johnske01",
             "prenomjoueur":"Kent",
             "nomjoueur":"Johnson",
             "position":"C",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Kent",
+            "nomcapfriendly":"Johnson"
         },
         {
+            "level_0":36,
+            "index":39,
             "idnhl":8473419,
             "idhockeyref":"marchbr01",
             "prenomjoueur":"Brad",
             "nomjoueur":"Marchand",
             "position":"A",
-            "salaireactuel":3062500
+            "salaireactuel":6125000.0,
+            "prenomcapfriendly":"Brad",
+            "nomcapfriendly":"Marchand"
         },
         {
+            "level_0":37,
+            "index":40,
             "idnhl":8479323,
             "idhockeyref":"foxad01",
             "prenomjoueur":"Adam",
             "nomjoueur":"Fox",
             "position":"D",
-            "salaireactuel":9500000
+            "salaireactuel":9500000.0,
+            "prenomcapfriendly":"Adam",
+            "nomcapfriendly":"Fox"
         },
         {
+            "level_0":38,
+            "index":41,
             "idnhl":8480069,
             "idhockeyref":"makarca01",
             "prenomjoueur":"Cale",
             "nomjoueur":"Makar",
             "position":"D",
-            "salaireactuel":9000000
+            "salaireactuel":9000000.0,
+            "prenomcapfriendly":"Cale",
+            "nomcapfriendly":"Makar"
         },
         {
+            "level_0":39,
+            "index":42,
             "idnhl":8481542,
             "idhockeyref":"seidemo01",
             "prenomjoueur":"Moritz",
             "nomjoueur":"Seider",
             "position":"D",
-            "salaireactuel":863333
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Moritz",
+            "nomcapfriendly":"Seider"
         },
         {
+            "level_0":40,
+            "index":43,
             "idnhl":8480839,
             "idhockeyref":"dahlira01",
             "prenomjoueur":"Rasmus",
             "nomjoueur":"Dahlin",
             "position":"D",
-            "salaireactuel":6000000
+            "salaireactuel":6000000.0,
+            "prenomcapfriendly":"Rasmus",
+            "nomcapfriendly":"Dahlin"
         },
         {
+            "level_0":41,
+            "index":44,
             "idnhl":8480434,
             "idhockeyref":"durzise01",
             "prenomjoueur":"Sean",
             "nomjoueur":"Durzi",
             "position":"D",
-            "salaireactuel":1700000
+            "salaireactuel":1700000.0,
+            "prenomcapfriendly":"Sean",
+            "nomcapfriendly":"Durzi"
         },
         {
+            "level_0":42,
+            "index":45,
             "idnhl":8476883,
             "idhockeyref":"vasilan01",
             "prenomjoueur":"Andrei",
             "nomjoueur":"Vasilevskiy",
             "position":"G",
-            "salaireactuel":9500000
+            "salaireactuel":9500000.0,
+            "prenomcapfriendly":"Andrei",
+            "nomcapfriendly":"Vasilevskiy"
         },
         {
+            "level_0":43,
+            "index":46,
             "idnhl":8480313,
             "idhockeyref":"thomplo01",
             "prenomjoueur":"Logan",
             "nomjoueur":"Thompson",
             "position":"G",
-            "salaireactuel":766667
+            "salaireactuel":766667.0,
+            "prenomcapfriendly":"Logan",
+            "nomcapfriendly":"Thompson"
         },
         {
+            "level_0":44,
+            "index":47,
             "idnhl":8483491,
             "idhockeyref":"mirosiv01",
             "prenomjoueur":"Ivan",
             "nomjoueur":"Miroshnichenko",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Ivan",
+            "nomcapfriendly":"Miroshnichenko"
         },
         {
+            "level_0":45,
+            "index":48,
             "idnhl":8483476,
             "idhockeyref":"lekkejo01",
             "prenomjoueur":"Jonathan",
             "nomjoueur":"Lekkerimaki",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Jonathan",
+            "nomcapfriendly":"Lekkerimaki"
         },
         {
+            "level_0":46,
+            "index":49,
             "idnhl":8483482,
             "idhockeyref":"luneatr01",
             "prenomjoueur":"Tristan",
             "nomjoueur":"Luneau",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":896667.0,
+            "prenomcapfriendly":"Tristan",
+            "nomcapfriendly":"Luneau"
         },
         {
+            "level_0":47,
+            "index":50,
             "idnhl":8483487,
             "idhockeyref":"mcgroru01",
             "prenomjoueur":"Rutger",
             "nomjoueur":"McGroarty",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":48,
+            "index":51,
             "idnhl":8483485,
             "idhockeyref":"mateyde01",
             "prenomjoueur":"Denton",
             "nomjoueur":"Mateychuk",
             "position":"D",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Denton",
+            "nomcapfriendly":"Mateychuk"
         },
         {
+            "level_0":49,
+            "index":52,
             "idnhl":8482684,
             "idhockeyref":"hughelu01",
             "prenomjoueur":"Luke",
             "nomjoueur":"Hughes",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Luke",
+            "nomcapfriendly":"Hughes"
         },
         {
+            "level_0":50,
+            "index":53,
             "idnhl":8482661,
             "idhockeyref":"wallsje01",
             "prenomjoueur":"Jesper",
             "nomjoueur":"Wallstedt",
             "position":"G",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Jesper",
+            "nomcapfriendly":"Wallstedt"
         },
         {
+            "level_0":51,
+            "index":54,
             "idnhl":8478449,
             "idhockeyref":"hintzro01",
             "prenomjoueur":"Roope",
             "nomjoueur":"Hintz",
             "position":"C",
-            "salaireactuel":3150000
+            "salaireactuel":8450000.0,
+            "prenomcapfriendly":"Roope",
+            "nomcapfriendly":"Hintz"
         },
         {
+            "level_0":52,
+            "index":55,
             "idnhl":8478873,
             "idhockeyref":"terrytr01",
             "prenomjoueur":"Troy",
             "nomjoueur":"Terry",
             "position":"A",
-            "salaireactuel":1450000
+            "salaireactuel":7000000.0,
+            "prenomcapfriendly":"Troy",
+            "nomcapfriendly":"Terry"
         },
         {
+            "level_0":53,
+            "index":56,
             "idnhl":8477496,
             "idhockeyref":"lindhel01",
             "prenomjoueur":"Elias",
             "nomjoueur":"Lindholm",
             "position":"C",
-            "salaireactuel":4850000
+            "salaireactuel":4850000.0,
+            "prenomcapfriendly":"Elias",
+            "nomcapfriendly":"Lindholm"
         },
         {
+            "level_0":54,
+            "index":57,
             "idnhl":8477451,
             "idhockeyref":"hartmry01",
             "prenomjoueur":"Ryan",
             "nomjoueur":"Hartman",
             "position":"A",
-            "salaireactuel":1700000
+            "salaireactuel":1700000.0,
+            "prenomcapfriendly":"Ryan",
+            "nomcapfriendly":"Hartman"
         },
         {
+            "level_0":55,
+            "index":58,
             "idnhl":8478047,
             "idhockeyref":"buntimi01",
             "prenomjoueur":"Michael",
             "nomjoueur":"Bunting",
             "position":"A",
-            "salaireactuel":950000
+            "salaireactuel":4500000.0,
+            "prenomcapfriendly":"Michael",
+            "nomcapfriendly":"Bunting"
         },
         {
+            "level_0":56,
+            "index":59,
             "idnhl":8479385,
             "idhockeyref":"kyroujo01",
             "prenomjoueur":"Jordan",
             "nomjoueur":"Kyrou",
             "position":"C",
-            "salaireactuel":1400000
+            "salaireactuel":8125000.0,
+            "prenomcapfriendly":"Jordan",
+            "nomcapfriendly":"Kyrou"
         },
         {
+            "level_0":57,
+            "index":60,
             "idnhl":8478398,
             "idhockeyref":"connoky01",
             "prenomjoueur":"Kyle",
             "nomjoueur":"Connor",
             "position":"A",
-            "salaireactuel":7142857
+            "salaireactuel":7142857.0,
+            "prenomcapfriendly":"Kyle",
+            "nomcapfriendly":"Connor"
         },
         {
+            "level_0":58,
+            "index":61,
             "idnhl":8476887,
             "idhockeyref":"forsbfi01",
             "prenomjoueur":"Filip",
             "nomjoueur":"Forsberg",
             "position":"A",
-            "salaireactuel":8500000
+            "salaireactuel":8500000.0,
+            "prenomcapfriendly":"Filip",
+            "nomcapfriendly":"Forsberg"
         },
         {
+            "level_0":59,
+            "index":62,
             "idnhl":8477942,
             "idhockeyref":"fialake01",
             "prenomjoueur":"Kevin",
             "nomjoueur":"Fiala",
             "position":"A",
-            "salaireactuel":6875000
+            "salaireactuel":7875000.0,
+            "prenomcapfriendly":"Kevin",
+            "nomcapfriendly":"Fiala"
         },
         {
+            "level_0":60,
+            "index":63,
             "idnhl":8480865,
             "idhockeyref":"dobsono01",
             "prenomjoueur":"Noah",
             "nomjoueur":"Dobson",
             "position":"D",
-            "salaireactuel":4000000
+            "salaireactuel":4000000.0,
+            "prenomcapfriendly":"Noah",
+            "nomcapfriendly":"Dobson"
         },
         {
+            "level_0":61,
+            "index":64,
             "idnhl":8477447,
             "idhockeyref":"theodsh01",
             "prenomjoueur":"Shea",
             "nomjoueur":"Theodore",
             "position":"D",
-            "salaireactuel":5200000
+            "salaireactuel":5200000.0,
+            "prenomcapfriendly":"Shea",
+            "nomcapfriendly":"Theodore"
         },
         {
-            "idnhl":8477950,
-            "idhockeyref":"deangto01",
-            "prenomjoueur":"Tony",
-            "nomjoueur":"DeAngelo",
-            "position":"D",
-            "salaireactuel":5000000
-        },
-        {
+            "level_0":62,
+            "index":66,
             "idnhl":8476792,
             "idhockeyref":"krugto01",
             "prenomjoueur":"Torey",
             "nomjoueur":"Krug",
             "position":"D",
-            "salaireactuel":6500000
+            "salaireactuel":6500000.0,
+            "prenomcapfriendly":"Torey",
+            "nomcapfriendly":"Krug"
         },
         {
+            "level_0":63,
+            "index":67,
             "idnhl":8474593,
             "idhockeyref":"marksja01",
             "prenomjoueur":"Jacob",
             "nomjoueur":"Markstrom",
             "position":"G",
-            "salaireactuel":6000000
+            "salaireactuel":6000000.0,
+            "prenomcapfriendly":"Jacob",
+            "nomcapfriendly":"Markstrom"
         },
         {
+            "level_0":64,
+            "index":68,
             "idnhl":8478009,
             "idhockeyref":"sorokil01",
             "prenomjoueur":"Ilya",
             "nomjoueur":"Sorokin",
             "position":"G",
-            "salaireactuel":4000000
+            "salaireactuel":4000000.0,
+            "prenomcapfriendly":"Ilya",
+            "nomcapfriendly":"Sorokin"
         },
         {
+            "level_0":65,
+            "index":69,
             "idnhl":8479661,
             "idhockeyref":"jeannta01",
             "prenomjoueur":"Tanner",
             "nomjoueur":"Jeannot",
             "position":"A",
-            "salaireactuel":800000
+            "salaireactuel":2665000.0,
+            "prenomcapfriendly":"Tanner",
+            "nomcapfriendly":"Jeannot"
         },
         {
+            "level_0":66,
+            "index":70,
             "idnhl":8482105,
             "idhockeyref":"sandeja01",
             "prenomjoueur":"Jake",
             "nomjoueur":"Sanderson",
             "position":"D",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Jake",
+            "nomcapfriendly":"Sanderson"
         },
         {
+            "level_0":67,
+            "index":71,
             "idnhl":8475753,
             "idhockeyref":"faulkju01",
             "prenomjoueur":"Justin",
             "nomjoueur":"Faulk",
             "position":"D",
-            "salaireactuel":6500000
+            "salaireactuel":6500000.0,
+            "prenomcapfriendly":"Justin",
+            "nomcapfriendly":"Faulk"
         },
         {
+            "level_0":68,
+            "index":72,
             "idnhl":8477429,
             "idhockeyref":"coppan01",
             "prenomjoueur":"Andrew",
             "nomjoueur":"Copp",
             "position":"C",
-            "salaireactuel":5625000
+            "salaireactuel":5625000.0,
+            "prenomcapfriendly":"Andrew",
+            "nomcapfriendly":"Copp"
         },
         {
+            "level_0":69,
+            "index":73,
             "idnhl":8482740,
             "idhockeyref":"johnswy01",
             "prenomjoueur":"Wyatt",
             "nomjoueur":"Johnston",
             "position":"C",
-            "salaireactuel":894167
+            "salaireactuel":894167.0,
+            "prenomcapfriendly":"Wyatt",
+            "nomcapfriendly":"Johnston"
         },
         {
+            "level_0":70,
+            "index":74,
             "idnhl":8482702,
             "idhockeyref":"stanklo01",
             "prenomjoueur":"Logan",
             "nomjoueur":"Stankoven",
             "position":"C",
-            "salaireactuel":836667
+            "salaireactuel":814167.0,
+            "prenomcapfriendly":"Logan",
+            "nomcapfriendly":"Stankoven"
         },
         {
+            "level_0":71,
+            "index":75,
             "idnhl":8483465,
             "idhockeyref":"kemeljo01",
             "prenomjoueur":"Joakim",
             "nomjoueur":"Kemell",
             "position":"A",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Joakim",
+            "nomcapfriendly":"Kemell"
         },
         {
+            "level_0":72,
+            "index":76,
             "idnhl":8483506,
             "idhockeyref":"rinzesa01",
             "prenomjoueur":"Sam",
             "nomjoueur":"Rinzel",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":73,
+            "index":77,
             "idnhl":8483428,
             "idhockeyref":"bystefi01",
             "prenomjoueur":"Filip",
             "nomjoueur":"Bystedt",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Filip",
+            "nomcapfriendly":"Bystedt"
         },
         {
+            "level_0":74,
+            "index":78,
             "idnhl":8483516,
             "idhockeyref":"snuggji01",
             "prenomjoueur":"Jimmy",
             "nomjoueur":"Snuggerud",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":75,
+            "index":79,
             "idnhl":8482124,
             "idhockeyref":"byfiequ01",
             "prenomjoueur":"Quinton",
             "nomjoueur":"Byfield",
             "position":"C",
-            "salaireactuel":894167
+            "salaireactuel":894167.0,
+            "prenomcapfriendly":"Quinton",
+            "nomcapfriendly":"Byfield"
         },
         {
+            "level_0":76,
+            "index":80,
             "idnhl":8478458,
             "idhockeyref":"rosloja01",
             "prenomjoueur":"Jack",
             "nomjoueur":"Roslovic",
             "position":"C",
-            "salaireactuel":4000000
+            "salaireactuel":4000000.0,
+            "prenomcapfriendly":"Jack",
+            "nomcapfriendly":"Roslovic"
         },
         {
+            "level_0":77,
+            "index":81,
             "idnhl":8482097,
             "idhockeyref":"quinnja01",
             "prenomjoueur":"Jack",
             "nomjoueur":"Quinn",
             "position":"A",
-            "salaireactuel":863333
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Jack",
+            "nomcapfriendly":"Quinn"
         },
         {
+            "level_0":78,
+            "index":82,
             "idnhl":8475810,
             "idhockeyref":"rustbr01",
             "prenomjoueur":"Bryan",
             "nomjoueur":"Rust",
             "position":"A",
-            "salaireactuel":5125000
+            "salaireactuel":5125000.0,
+            "prenomcapfriendly":"Bryan",
+            "nomcapfriendly":"Rust"
         },
         {
+            "level_0":79,
+            "index":33,
+            "idnhl":8481557,
+            "idhockeyref":"boldyma01",
+            "prenomjoueur":"Matt",
+            "nomjoueur":"Boldy",
+            "position":"A",
+            "salaireactuel":7000000.0,
+            "prenomcapfriendly":"matthew",
+            "nomcapfriendly":""
+        },
+        {
+            "level_0":80,
+            "index":34,
+            "idnhl":8482116,
+            "idhockeyref":"st\u00fctzti01",
+            "prenomjoueur":"Tim",
+            "nomjoueur":"St\u00fctzle",
+            "position":"A",
+            "salaireactuel":8350000.0,
+            "prenomcapfriendly":"tim",
+            "nomcapfriendly":"stutzle"
+        },
+        {
+            "level_0":81,
+            "index":24,
+            "idnhl":8482679,
+            "idhockeyref":"coronma01",
+            "prenomjoueur":"Matt",
+            "nomjoueur":"Coronato",
+            "position":"A",
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"matthew",
+            "nomcapfriendly":""
+        },
+        {
+            "level_0":82,
+            "index":83,
             "idnhl":8478401,
             "idhockeyref":"zachapa01",
             "prenomjoueur":"Pavel",
             "nomjoueur":"Zacha",
             "position":"C",
-            "salaireactuel":3500000
+            "salaireactuel":4750000.0,
+            "prenomcapfriendly":"Pavel",
+            "nomcapfriendly":"Zacha"
         },
         {
-            "idnhl":8474149,
-            "idhockeyref":"dadonev01",
-            "prenomjoueur":"Evgenii",
-            "nomjoueur":"Dadonov",
-            "position":"A",
-            "salaireactuel":5000000
-        },
-        {
+            "level_0":83,
+            "index":85,
             "idnhl":8481540,
             "idhockeyref":"caufico01",
             "prenomjoueur":"Cole",
             "nomjoueur":"Caufield",
             "position":"A",
-            "salaireactuel":880833
+            "salaireactuel":7850000.0,
+            "prenomcapfriendly":"Cole",
+            "nomcapfriendly":"Caufield"
         },
         {
+            "level_0":84,
+            "index":86,
             "idnhl":8478042,
             "idhockeyref":"arvidvi01",
             "prenomjoueur":"Viktor",
             "nomjoueur":"Arvidsson",
             "position":"A",
-            "salaireactuel":4250000
+            "salaireactuel":4250000.0,
+            "prenomcapfriendly":"Viktor",
+            "nomcapfriendly":"Arvidsson"
         },
         {
+            "level_0":85,
+            "index":87,
             "idnhl":8475786,
             "idhockeyref":"hymanza01",
             "prenomjoueur":"Zach",
             "nomjoueur":"Hyman",
             "position":"A",
-            "salaireactuel":5500000
+            "salaireactuel":5500000.0,
+            "prenomcapfriendly":"Zach",
+            "nomcapfriendly":"Hyman"
         },
         {
+            "level_0":86,
+            "index":88,
             "idnhl":8480727,
             "idhockeyref":"whiteza01",
             "prenomjoueur":"Zach",
             "nomjoueur":"Whitecloud",
             "position":"D",
-            "salaireactuel":2750000
+            "salaireactuel":2750000.0,
+            "prenomcapfriendly":"Zach",
+            "nomcapfriendly":"Whitecloud"
         },
         {
+            "level_0":87,
+            "index":89,
             "idnhl":8474568,
             "idhockeyref":"schenlu01",
             "prenomjoueur":"Luke",
             "nomjoueur":"Schenn",
             "position":"D",
-            "salaireactuel":425000
+            "salaireactuel":2750000.0,
+            "prenomcapfriendly":"Luke",
+            "nomcapfriendly":"Schenn"
         },
         {
+            "level_0":88,
+            "index":90,
             "idnhl":8479345,
             "idhockeyref":"chychja01",
             "prenomjoueur":"Jakob",
             "nomjoueur":"Chychrun",
             "position":"D",
-            "salaireactuel":2300000
+            "salaireactuel":4600000.0,
+            "prenomcapfriendly":"Jakob",
+            "nomcapfriendly":"Chychrun"
         },
         {
+            "level_0":89,
+            "index":91,
             "idnhl":8479398,
             "idhockeyref":"girarsa01",
             "prenomjoueur":"Samuel",
             "nomjoueur":"Girard",
             "position":"D",
-            "salaireactuel":5000000
+            "salaireactuel":5000000.0,
+            "prenomcapfriendly":"Samuel",
+            "nomcapfriendly":"Girard"
         },
         {
-            "idnhl":8470594,
-            "idhockeyref":"fleurma01",
-            "prenomjoueur":"Marc-Andre",
-            "nomjoueur":"Fleury",
-            "position":"G",
-            "salaireactuel":3500000
-        },
-        {
+            "level_0":90,
+            "index":93,
             "idnhl":8475789,
             "idhockeyref":"campbja01",
             "prenomjoueur":"Jack",
             "nomjoueur":"Campbell",
             "position":"G",
-            "salaireactuel":5000000
+            "salaireactuel":5000000.0,
+            "prenomcapfriendly":"Jack",
+            "nomcapfriendly":"Campbell"
         },
         {
+            "level_0":91,
+            "index":94,
             "idnhl":8474600,
             "idhockeyref":"josiro01",
             "prenomjoueur":"Roman",
             "nomjoueur":"Josi",
             "position":"D",
-            "salaireactuel":9059000
+            "salaireactuel":9059000.0,
+            "prenomcapfriendly":"Roman",
+            "nomcapfriendly":"Josi"
         },
         {
+            "level_0":92,
+            "index":95,
             "idnhl":8475692,
             "idhockeyref":"zuccama01",
             "prenomjoueur":"Mats",
             "nomjoueur":"Zuccarello",
             "position":"A",
-            "salaireactuel":6000000
+            "salaireactuel":6000000.0,
+            "prenomcapfriendly":"Mats",
+            "nomcapfriendly":"Zuccarello"
         },
         {
+            "level_0":93,
+            "index":96,
             "idnhl":8482671,
             "idhockeyref":"powerow01",
             "prenomjoueur":"Owen",
             "nomjoueur":"Power",
             "position":"D",
-            "salaireactuel":916667
+            "salaireactuel":916667.0,
+            "prenomcapfriendly":"Owen",
+            "nomcapfriendly":"Power"
         },
         {
+            "level_0":94,
+            "index":97,
             "idnhl":8480801,
             "idhockeyref":"tkachbr01",
             "prenomjoueur":"Brady",
             "nomjoueur":"Tkachuk",
             "position":"A",
-            "salaireactuel":8205714
+            "salaireactuel":8205714.0,
+            "prenomcapfriendly":"Brady",
+            "nomcapfriendly":"Tkachuk"
         },
         {
+            "level_0":95,
+            "index":98,
             "idnhl":8476468,
             "idhockeyref":"millej.01",
             "prenomjoueur":"J.T.",
             "nomjoueur":"Miller",
             "position":"C",
-            "salaireactuel":2625000
+            "salaireactuel":8000000.0,
+            "prenomcapfriendly":"J.T.",
+            "nomcapfriendly":"Miller"
         },
         {
+            "level_0":96,
+            "index":99,
             "idnhl":8477479,
             "idhockeyref":"bertuty01",
             "prenomjoueur":"Tyler",
             "nomjoueur":"Bertuzzi",
             "position":"A",
-            "salaireactuel":2375000
+            "salaireactuel":5500000.0,
+            "prenomcapfriendly":"Tyler",
+            "nomcapfriendly":"Bertuzzi"
         },
         {
+            "level_0":97,
+            "index":100,
             "idnhl":8480002,
             "idhockeyref":"hischni01",
             "prenomjoueur":"Nico",
             "nomjoueur":"Hischier",
             "position":"C",
-            "salaireactuel":7250000
+            "salaireactuel":7250000.0,
+            "prenomcapfriendly":"Nico",
+            "nomcapfriendly":"Hischier"
         },
         {
+            "level_0":98,
+            "index":101,
             "idnhl":8483488,
             "idhockeyref":"mesarfi01",
             "prenomjoueur":"Filip",
             "nomjoueur":"Mesar",
             "position":"A",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Filip",
+            "nomcapfriendly":"Mesar"
         },
         {
+            "level_0":99,
+            "index":102,
             "idnhl":8483445,
             "idhockeyref":"gauthcu01",
             "prenomjoueur":"Cutter",
             "nomjoueur":"Gauthier",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":100,
+            "index":103,
             "idnhl":8483472,
             "idhockeyref":"lamouma01",
             "prenomjoueur":"Maveric",
             "nomjoueur":"Lamoureux",
             "position":"D",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Maveric",
+            "nomcapfriendly":"Lamoureux"
         },
         {
+            "level_0":101,
+            "index":104,
             "idnhl":8483503,
             "idhockeyref":"pickeow01",
             "prenomjoueur":"Owen",
             "nomjoueur":"Pickering",
             "position":"D",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Owen",
+            "nomcapfriendly":"Pickering"
         },
         {
+            "level_0":102,
+            "index":105,
             "idnhl":8482730,
             "idhockeyref":"clarkbr01",
             "prenomjoueur":"Brandt",
             "nomjoueur":"Clarke",
             "position":"D",
-            "salaireactuel":894167
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Brandt",
+            "nomcapfriendly":"Clarke"
         },
         {
+            "level_0":103,
+            "index":106,
             "idnhl":8482780,
             "idhockeyref":"luciuch01",
             "prenomjoueur":"Chaz",
             "nomjoueur":"Lucius",
             "position":"C",
-            "salaireactuel":925000
+            "salaireactuel":894167.0,
+            "prenomcapfriendly":"Chaz",
+            "nomcapfriendly":"Lucius"
         },
         {
+            "level_0":104,
+            "index":107,
             "idnhl":8482673,
             "idhockeyref":"bourgxa01",
             "prenomjoueur":"Xavier",
             "nomjoueur":"Bourgault",
             "position":"C",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Xavier",
+            "nomcapfriendly":"Bourgault"
         },
         {
+            "level_0":105,
+            "index":108,
             "idnhl":8482747,
             "idhockeyref":"othmabr01",
             "prenomjoueur":"Brennan",
             "nomjoueur":"Othmann",
             "position":"A",
-            "salaireactuel":894167
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Brennan",
+            "nomcapfriendly":"Othmann"
         },
         {
+            "level_0":106,
+            "index":109,
             "idnhl":8482141,
             "idhockeyref":"cormilu01",
             "prenomjoueur":"Lukas",
             "nomjoueur":"Cormier",
             "position":"D",
-            "salaireactuel":793333
+            "salaireactuel":793333.0,
+            "prenomcapfriendly":"Lukas",
+            "nomcapfriendly":"Cormier"
         },
         {
+            "level_0":107,
+            "index":110,
             "idnhl":8482657,
             "idhockeyref":"cossase01",
             "prenomjoueur":"Sebastian",
             "nomjoueur":"Cossa",
             "position":"G",
-            "salaireactuel":894167
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Sebastian",
+            "nomcapfriendly":"Cossa"
         },
         {
+            "level_0":108,
+            "index":111,
             "idnhl":8478420,
             "idhockeyref":"rantami01",
             "prenomjoueur":"Mikko",
             "nomjoueur":"Rantanen",
             "position":"A",
-            "salaireactuel":9250000
+            "salaireactuel":9250000.0,
+            "prenomcapfriendly":"Mikko",
+            "nomcapfriendly":"Rantanen"
         },
         {
+            "level_0":109,
+            "index":112,
             "idnhl":8470638,
             "idhockeyref":"bergepa01",
             "prenomjoueur":"Patrice",
             "nomjoueur":"Bergeron",
             "position":"C",
-            "salaireactuel":2500000
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":110,
+            "index":113,
             "idnhl":8478445,
             "idhockeyref":"barzama01",
             "prenomjoueur":"Mathew",
             "nomjoueur":"Barzal",
             "position":"C",
-            "salaireactuel":7000000
+            "salaireactuel":9150000.0,
+            "prenomcapfriendly":"Mathew",
+            "nomcapfriendly":"Barzal"
         },
         {
+            "level_0":111,
+            "index":114,
             "idnhl":8480023,
             "idhockeyref":"thomaro01",
             "prenomjoueur":"Robert",
             "nomjoueur":"Thomas",
             "position":"C",
-            "salaireactuel":2800000
+            "salaireactuel":8125000.0,
+            "prenomcapfriendly":"Robert",
+            "nomcapfriendly":"Thomas"
         },
         {
+            "level_0":112,
+            "index":115,
             "idnhl":8482078,
             "idhockeyref":"raymolu01",
             "prenomjoueur":"Lucas",
             "nomjoueur":"Raymond",
             "position":"A",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Lucas",
+            "nomcapfriendly":"Raymond"
         },
         {
+            "level_0":113,
+            "index":116,
             "idnhl":8477404,
             "idhockeyref":"guentja01",
             "prenomjoueur":"Jake",
             "nomjoueur":"Guentzel",
             "position":"A",
-            "salaireactuel":6000000
+            "salaireactuel":6000000.0,
+            "prenomcapfriendly":"Jake",
+            "nomcapfriendly":"Guentzel"
         },
         {
+            "level_0":114,
+            "index":117,
             "idnhl":8477940,
             "idhockeyref":"ehlerni01",
             "prenomjoueur":"Nikolaj",
             "nomjoueur":"Ehlers",
             "position":"A",
-            "salaireactuel":6000000
+            "salaireactuel":6000000.0,
+            "prenomcapfriendly":"Nikolaj",
+            "nomcapfriendly":"Ehlers"
         },
         {
+            "level_0":115,
+            "index":118,
             "idnhl":8476882,
             "idhockeyref":"teravte01",
             "prenomjoueur":"Teuvo",
             "nomjoueur":"Teravainen",
             "position":"A",
-            "salaireactuel":5400000
+            "salaireactuel":5400000.0,
+            "prenomcapfriendly":"Teuvo",
+            "nomcapfriendly":"Teravainen"
         },
         {
+            "level_0":116,
+            "index":119,
             "idnhl":8475726,
             "idhockeyref":"toffoty01",
             "prenomjoueur":"Tyler",
             "nomjoueur":"Toffoli",
             "position":"A",
-            "salaireactuel":4250000
+            "salaireactuel":4250000.0,
+            "prenomcapfriendly":"Tyler",
+            "nomcapfriendly":"Toffoli"
         },
         {
+            "level_0":117,
+            "index":120,
             "idnhl":8478397,
             "idhockeyref":"anderra01",
             "prenomjoueur":"Rasmus",
             "nomjoueur":"Andersson",
             "position":"D",
-            "salaireactuel":4550000
+            "salaireactuel":4550000.0,
+            "prenomcapfriendly":"Rasmus",
+            "nomcapfriendly":"Andersson"
         },
         {
+            "level_0":118,
+            "index":121,
             "idnhl":8474590,
             "idhockeyref":"carlsjo01",
             "prenomjoueur":"John",
             "nomjoueur":"Carlson",
             "position":"D",
-            "salaireactuel":8000000
+            "salaireactuel":8000000.0,
+            "prenomcapfriendly":"John",
+            "nomcapfriendly":"Carlson"
         },
         {
+            "level_0":119,
+            "index":122,
             "idnhl":8477932,
             "idhockeyref":"ekblaaa01",
             "prenomjoueur":"Aaron",
             "nomjoueur":"Ekblad",
             "position":"D",
-            "salaireactuel":7500000
+            "salaireactuel":7500000.0,
+            "prenomcapfriendly":"Aaron",
+            "nomcapfriendly":"Ekblad"
         },
         {
+            "level_0":120,
+            "index":123,
             "idnhl":8475197,
             "idhockeyref":"barrity01",
             "prenomjoueur":"Tyson",
             "nomjoueur":"Barrie",
             "position":"D",
-            "salaireactuel":2250000
+            "salaireactuel":4500000.0,
+            "prenomcapfriendly":"Tyson",
+            "nomcapfriendly":"Barrie"
         },
         {
+            "level_0":121,
+            "index":124,
             "idnhl":8480280,
             "idhockeyref":"swaymje01",
             "prenomjoueur":"Jeremy",
             "nomjoueur":"Swayman",
             "position":"G",
-            "salaireactuel":925000
+            "salaireactuel":3475000.0,
+            "prenomcapfriendly":"Jeremy",
+            "nomcapfriendly":"Swayman"
         },
         {
+            "level_0":122,
+            "index":125,
             "idnhl":8477949,
             "idhockeyref":"tuchal01",
             "prenomjoueur":"Alex",
             "nomjoueur":"Tuch",
             "position":"A",
-            "salaireactuel":4750000
+            "salaireactuel":4750000.0,
+            "prenomcapfriendly":"Alex",
+            "nomcapfriendly":"Tuch"
         },
         {
+            "level_0":123,
+            "index":126,
             "idnhl":8482705,
             "idhockeyref":"sillico01",
             "prenomjoueur":"Cole",
             "nomjoueur":"Sillinger",
             "position":"C",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Cole",
+            "nomcapfriendly":"Sillinger"
         },
         {
+            "level_0":124,
+            "index":127,
             "idnhl":8480925,
             "idhockeyref":"francpa01",
             "prenomjoueur":"Pavel",
             "nomjoueur":"Francouz",
             "position":"G",
-            "salaireactuel":2000000
+            "salaireactuel":2000000.0,
+            "prenomcapfriendly":"Pavel",
+            "nomcapfriendly":"Francouz"
         },
         {
+            "level_0":125,
+            "index":128,
             "idnhl":8480871,
             "idhockeyref":"boqviad01",
             "prenomjoueur":"Adam",
             "nomjoueur":"Boqvist",
             "position":"D",
-            "salaireactuel":2600000
+            "salaireactuel":2600000.0,
+            "prenomcapfriendly":"Adam",
+            "nomcapfriendly":"Boqvist"
         },
         {
+            "level_0":126,
+            "index":129,
             "idnhl":8480849,
             "idhockeyref":"haytoba01",
             "prenomjoueur":"Barrett",
             "nomjoueur":"Hayton",
             "position":"C",
-            "salaireactuel":1775000
+            "salaireactuel":1775000.0,
+            "prenomcapfriendly":"Barrett",
+            "nomcapfriendly":"Hayton"
         },
         {
-            "idnhl":8483512,
-            "idhockeyref":"savoima01",
-            "prenomjoueur":"Matt",
-            "nomjoueur":"Savoie",
-            "position":"C",
-            "salaireactuel":950000
-        },
-        {
+            "level_0":127,
+            "index":131,
             "idnhl":8483424,
             "idhockeyref":"beckow01",
             "prenomjoueur":"Owen",
             "nomjoueur":"Beck",
             "position":"C",
-            "salaireactuel":916667
+            "salaireactuel":885000.0,
+            "prenomcapfriendly":"Owen",
+            "nomcapfriendly":"Beck"
         },
         {
+            "level_0":128,
+            "index":132,
             "idnhl":8483444,
             "idhockeyref":"gauchna01",
             "prenomjoueur":"Nathan",
             "nomjoueur":"Gaucher",
             "position":"C",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Nathan",
+            "nomcapfriendly":"Gaucher"
         },
         {
+            "level_0":129,
+            "index":133,
             "idnhl":8483429,
             "idhockeyref":"caseyse01",
             "prenomjoueur":"Seamus",
             "nomjoueur":"Casey",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":130,
+            "index":134,
             "idnhl":8483490,
             "idhockeyref":"mintypa01",
             "prenomjoueur":"Pavel",
             "nomjoueur":"Mintyukov",
             "position":"D",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Pavel",
+            "nomcapfriendly":"Mintyukov"
         },
         {
+            "level_0":131,
+            "index":135,
             "idnhl":8482087,
             "idhockeyref":"guhleka01",
             "prenomjoueur":"Kaiden",
             "nomjoueur":"Guhle",
             "position":"D",
-            "salaireactuel":863333
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Kaiden",
+            "nomcapfriendly":"Guhle"
         },
         {
+            "level_0":132,
+            "index":136,
             "idnhl":8482737,
             "idhockeyref":"bolduza01",
             "prenomjoueur":"Zachary",
             "nomjoueur":"Bolduc",
             "position":"C",
-            "salaireactuel":894167
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Zachary",
+            "nomcapfriendly":"Bolduc"
         },
         {
+            "level_0":133,
+            "index":137,
             "idnhl":8482111,
             "idhockeyref":"barroju01",
             "prenomjoueur":"Justin",
             "nomjoueur":"Barron",
             "position":"D",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Justin",
+            "nomcapfriendly":"Barron"
         },
         {
+            "level_0":134,
+            "index":138,
             "idnhl":8482749,
             "idhockeyref":"royjo01",
             "prenomjoueur":"Joshua",
             "nomjoueur":"Roy",
             "position":"A",
-            "salaireactuel":856667
+            "salaireactuel":835000.0,
+            "prenomcapfriendly":"Joshua",
+            "nomcapfriendly":"Roy"
         },
         {
+            "level_0":135,
+            "index":139,
             "idnhl":8482736,
             "idhockeyref":"beckja01",
             "prenomjoueur":"Jack",
             "nomjoueur":"Beck",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":136,
+            "index":140,
             "idnhl":8477933,
             "idhockeyref":"reinhsa01",
             "prenomjoueur":"Sam",
             "nomjoueur":"Reinhart",
             "position":"C",
-            "salaireactuel":6500000
+            "salaireactuel":6500000.0,
+            "prenomcapfriendly":"Sam",
+            "nomcapfriendly":"Reinhart"
         },
         {
+            "level_0":137,
+            "index":141,
             "idnhl":8477939,
             "idhockeyref":"nylanwi01",
             "prenomjoueur":"William",
             "nomjoueur":"Nylander",
             "position":"A",
-            "salaireactuel":6962366
+            "salaireactuel":6962366.0,
+            "prenomcapfriendly":"William",
+            "nomcapfriendly":"Nylander"
         },
         {
+            "level_0":138,
+            "index":142,
             "idnhl":8477956,
             "idhockeyref":"pastrda01",
             "prenomjoueur":"David",
             "nomjoueur":"Pastrnak",
             "position":"A",
-            "salaireactuel":6666667
+            "salaireactuel":11250000.0,
+            "prenomcapfriendly":"David",
+            "nomcapfriendly":"Pastrnak"
         },
         {
+            "level_0":139,
+            "index":143,
             "idnhl":8478402,
             "idhockeyref":"mcdavco01",
             "prenomjoueur":"Connor",
             "nomjoueur":"McDavid",
             "position":"C",
-            "salaireactuel":12500000
+            "salaireactuel":12500000.0,
+            "prenomcapfriendly":"Connor",
+            "nomcapfriendly":"McDavid"
         },
         {
+            "level_0":140,
+            "index":144,
             "idnhl":8479337,
             "idhockeyref":"debrial01",
             "prenomjoueur":"Alex",
             "nomjoueur":"DeBrincat",
             "position":"A",
-            "salaireactuel":6400000
+            "salaireactuel":7875000.0,
+            "prenomcapfriendly":"Alex",
+            "nomcapfriendly":"DeBrincat"
         },
         {
+            "level_0":141,
+            "index":145,
             "idnhl":8481533,
             "idhockeyref":"zegratr01",
             "prenomjoueur":"Trevor",
             "nomjoueur":"Zegras",
             "position":"C",
-            "salaireactuel":925000
+            "salaireactuel":5750000.0,
+            "prenomcapfriendly":"Trevor",
+            "nomcapfriendly":"Zegras"
         },
         {
+            "level_0":142,
+            "index":146,
             "idnhl":8478038,
             "idhockeyref":"toewsde01",
             "prenomjoueur":"Devon",
             "nomjoueur":"Toews",
             "position":"D",
-            "salaireactuel":4100000
+            "salaireactuel":4100000.0,
+            "prenomcapfriendly":"Devon",
+            "nomcapfriendly":"Toews"
         },
         {
+            "level_0":143,
+            "index":147,
             "idnhl":8477493,
             "idhockeyref":"barkoal01",
             "prenomjoueur":"Aleksander",
             "nomjoueur":"Barkov",
             "position":"C",
-            "salaireactuel":10000000
+            "salaireactuel":10000000.0,
+            "prenomcapfriendly":"Aleksander",
+            "nomcapfriendly":"Barkov"
         },
         {
+            "level_0":144,
+            "index":148,
             "idnhl":8479979,
             "idhockeyref":"oettija01",
             "prenomjoueur":"Jake",
             "nomjoueur":"Oettinger",
             "position":"G",
-            "salaireactuel":4000000
+            "salaireactuel":4000000.0,
+            "prenomcapfriendly":"Jake",
+            "nomcapfriendly":"Oettinger"
         },
         {
+            "level_0":145,
+            "index":149,
             "idnhl":8482142,
             "idhockeyref":"drysdja01",
             "prenomjoueur":"Jamie",
             "nomjoueur":"Drysdale",
             "position":"D",
-            "salaireactuel":925000
+            "salaireactuel":2300000.0,
+            "prenomcapfriendly":"Jamie",
+            "nomcapfriendly":"Drysdale"
         },
         {
+            "level_0":146,
+            "index":150,
             "idnhl":8477402,
             "idhockeyref":"buchnpa01",
             "prenomjoueur":"Pavel",
             "nomjoueur":"Buchnevich",
             "position":"A",
-            "salaireactuel":5800000
+            "salaireactuel":5800000.0,
+            "prenomcapfriendly":"Pavel",
+            "nomcapfriendly":"Buchnevich"
         },
         {
+            "level_0":147,
+            "index":151,
             "idnhl":8480873,
             "idhockeyref":"sandira01",
             "prenomjoueur":"Rasmus",
             "nomjoueur":"Sandin",
             "position":"D",
-            "salaireactuel":1400000
+            "salaireactuel":1400000.0,
+            "prenomcapfriendly":"Rasmus",
+            "nomcapfriendly":"Sandin"
         },
         {
+            "level_0":148,
+            "index":152,
             "idnhl":8480043,
             "idhockeyref":"liljeti01",
             "prenomjoueur":"Timothy",
             "nomjoueur":"Liljegren",
             "position":"D",
-            "salaireactuel":1400000
+            "salaireactuel":1400000.0,
+            "prenomcapfriendly":"Timothy",
+            "nomcapfriendly":"Liljegren"
         },
         {
+            "level_0":149,
+            "index":153,
             "idnhl":8477416,
             "idhockeyref":"bjorkol01",
             "prenomjoueur":"Oliver",
             "nomjoueur":"Bjorkstrand",
             "position":"A",
-            "salaireactuel":5400000
+            "salaireactuel":5400000.0,
+            "prenomcapfriendly":"Oliver",
+            "nomcapfriendly":"Bjorkstrand"
         },
         {
+            "level_0":150,
+            "index":154,
             "idnhl":8478440,
             "idhockeyref":"stromdy01",
             "prenomjoueur":"Dylan",
             "nomjoueur":"Strome",
             "position":"C",
-            "salaireactuel":3500000
+            "salaireactuel":5000000.0,
+            "prenomcapfriendly":"Dylan",
+            "nomcapfriendly":"Strome"
         },
         {
-            "idnhl":8482665,
-            "idhockeyref":"beniema01",
-            "prenomjoueur":"Matty",
-            "nomjoueur":"Beniers",
-            "position":"C",
-            "salaireactuel":897500
-        },
-        {
+            "level_0":151,
+            "index":156,
             "idnhl":8481519,
             "idhockeyref":"knighsp01",
             "prenomjoueur":"Spencer",
             "nomjoueur":"Knight",
             "position":"G",
-            "salaireactuel":925000
+            "salaireactuel":4500000.0,
+            "prenomcapfriendly":"Spencer",
+            "nomcapfriendly":"Knight"
         },
         {
-            "idnhl":8482109,
-            "idhockeyref":"lafreal01",
-            "prenomjoueur":"Alexis",
-            "nomjoueur":"Lafreni\u00e8re",
-            "position":"A",
-            "salaireactuel":925000
-        },
-        {
+            "level_0":152,
+            "index":158,
             "idnhl":8480883,
             "idhockeyref":"smithty01",
             "prenomjoueur":"Ty",
             "nomjoueur":"Smith",
             "position":"D",
-            "salaireactuel":863333
+            "salaireactuel":775000.0,
+            "prenomcapfriendly":"Ty",
+            "nomcapfriendly":"Smith"
         },
         {
+            "level_0":153,
+            "index":159,
             "idnhl":8481604,
             "idhockeyref":"dorofpa01",
             "prenomjoueur":"Pavel",
             "nomjoueur":"Dorofeyev",
             "position":"A",
-            "salaireactuel":925000
+            "salaireactuel":825000.0,
+            "prenomcapfriendly":"Pavel",
+            "nomcapfriendly":"Dorofeyev"
         },
         {
+            "level_0":154,
+            "index":160,
             "idnhl":8481568,
             "idhockeyref":"vlasial01",
             "prenomjoueur":"Alex",
             "nomjoueur":"Vlasic",
             "position":"D",
-            "salaireactuel":916667
+            "salaireactuel":916667.0,
+            "prenomcapfriendly":"Alex",
+            "nomcapfriendly":"Vlasic"
         },
         {
+            "level_0":155,
+            "index":161,
             "idnhl":8482137,
             "idhockeyref":"askarya01",
             "prenomjoueur":"Yaroslav",
             "nomjoueur":"Askarov",
             "position":"G",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Yaroslav",
+            "nomcapfriendly":"Askarov"
         },
         {
+            "level_0":156,
+            "index":162,
             "idnhl":8483524,
             "idhockeyref":"wrighsh01",
             "prenomjoueur":"Shane",
             "nomjoueur":"Wright",
             "position":"C",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Shane",
+            "nomcapfriendly":"Wright"
         },
         {
+            "level_0":157,
+            "index":163,
             "idnhl":8483432,
             "idhockeyref":"del blu01",
             "prenomjoueur":"Luca",
             "nomjoueur":"Del Bel Belluz",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":158,
+            "index":164,
             "idnhl":8482714,
             "idhockeyref":"stillch01",
             "prenomjoueur":"Chase",
             "nomjoueur":"Stillman",
             "position":"A",
-            "salaireactuel":894167
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Chase",
+            "nomcapfriendly":"Stillman"
         },
         {
+            "level_0":159,
+            "index":165,
             "idnhl":8482742,
             "idhockeyref":"l'heuza01",
             "prenomjoueur":"Zachary",
             "nomjoueur":"L'Heureux",
             "position":"A",
-            "salaireactuel":894167
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Zachary",
+            "nomcapfriendly":"L'Heureux"
         },
         {
+            "level_0":160,
+            "index":84,
+            "idnhl":8474149,
+            "idhockeyref":"dadonev01",
+            "prenomjoueur":"Evgenii",
+            "nomjoueur":"Dadonov",
+            "position":"A",
+            "salaireactuel":2250000.0,
+            "prenomcapfriendly":"evgeni",
+            "nomcapfriendly":"dadonov"
+        },
+        {
+            "level_0":161,
+            "index":157,
+            "idnhl":8482109,
+            "idhockeyref":"lafreal01",
+            "prenomjoueur":"Alexis",
+            "nomjoueur":"Lafreni\u00e8re",
+            "position":"A",
+            "salaireactuel":2325000.0,
+            "prenomcapfriendly":"alexis",
+            "nomcapfriendly":"lafreniere"
+        },
+        {
+            "level_0":162,
+            "index":155,
+            "idnhl":8482665,
+            "idhockeyref":"beniema01",
+            "prenomjoueur":"Matty",
+            "nomjoueur":"Beniers",
+            "position":"C",
+            "salaireactuel":897500.0,
+            "prenomcapfriendly":"matthew",
+            "nomcapfriendly":""
+        },
+        {
+            "level_0":163,
+            "index":166,
             "idnhl":8483481,
             "idhockeyref":"lundca01",
             "prenomjoueur":"Cameron",
             "nomjoueur":"Lund",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":164,
+            "index":167,
             "idnhl":8483489,
             "idhockeyref":"mintefr01",
             "prenomjoueur":"Fraser",
             "nomjoueur":"Minten",
             "position":"C",
-            "salaireactuel":875000
+            "salaireactuel":845833.0,
+            "prenomcapfriendly":"Fraser",
+            "nomcapfriendly":"Minten"
         },
         {
+            "level_0":165,
+            "index":168,
             "idnhl":8483436,
             "idhockeyref":"dudaar01",
             "prenomjoueur":"Artem",
             "nomjoueur":"Duda",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":166,
+            "index":169,
             "idnhl":8478483,
             "idhockeyref":"marnemi01",
             "prenomjoueur":"Mitchell",
             "nomjoueur":"Marner",
             "position":"A",
-            "salaireactuel":10903000
+            "salaireactuel":10903000.0,
+            "prenomcapfriendly":"Mitchell",
+            "nomcapfriendly":"Marner"
         },
         {
+            "level_0":167,
+            "index":170,
             "idnhl":8480027,
             "idhockeyref":"roberja01",
             "prenomjoueur":"Jason",
             "nomjoueur":"Robertson",
             "position":"A",
-            "salaireactuel":7750000
+            "salaireactuel":7750000.0,
+            "prenomcapfriendly":"Jason",
+            "nomcapfriendly":"Robertson"
         },
         {
+            "level_0":168,
+            "index":171,
             "idnhl":8478414,
             "idhockeyref":"meierti01",
             "prenomjoueur":"Timo",
             "nomjoueur":"Meier",
             "position":"A",
-            "salaireactuel":4000000
+            "salaireactuel":8800000.0,
+            "prenomcapfriendly":"Timo",
+            "nomcapfriendly":"Meier"
         },
         {
+            "level_0":169,
+            "index":172,
             "idnhl":8476539,
             "idhockeyref":"marchjo01",
             "prenomjoueur":"Jonathan",
             "nomjoueur":"Marchessault",
             "position":"C",
-            "salaireactuel":5000000
+            "salaireactuel":5000000.0,
+            "prenomcapfriendly":"Jonathan",
+            "nomcapfriendly":"Marchessault"
         },
         {
+            "level_0":170,
+            "index":173,
             "idnhl":8474102,
             "idhockeyref":"perroda01",
             "prenomjoueur":"David",
             "nomjoueur":"Perron",
             "position":"A",
-            "salaireactuel":4750000
+            "salaireactuel":4750000.0,
+            "prenomcapfriendly":"David",
+            "nomcapfriendly":"Perron"
         },
         {
+            "level_0":171,
+            "index":174,
             "idnhl":8471669,
             "idhockeyref":"stastpa01",
             "prenomjoueur":"Paul",
             "nomjoueur":"Stastny",
             "position":"C",
-            "salaireactuel":1500000
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":172,
+            "index":175,
             "idnhl":8474141,
             "idhockeyref":"kanepa01",
             "prenomjoueur":"Patrick",
             "nomjoueur":"Kane",
             "position":"A",
-            "salaireactuel":10500000
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":173,
+            "index":176,
             "idnhl":8478444,
             "idhockeyref":"boesebr01",
             "prenomjoueur":"Brock",
             "nomjoueur":"Boeser",
             "position":"A",
-            "salaireactuel":6650000
+            "salaireactuel":6650000.0,
+            "prenomcapfriendly":"Brock",
+            "nomcapfriendly":"Boeser"
         },
         {
+            "level_0":174,
+            "index":177,
             "idnhl":8481522,
             "idhockeyref":"krebspe01",
             "prenomjoueur":"Peyton",
             "nomjoueur":"Krebs",
             "position":"C",
-            "salaireactuel":863333
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Peyton",
+            "nomcapfriendly":"Krebs"
         },
         {
+            "level_0":175,
+            "index":178,
             "idnhl":8483495,
             "idhockeyref":"nemecsi01",
             "prenomjoueur":"Simon",
             "nomjoueur":"Nemec",
             "position":"D",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Simon",
+            "nomcapfriendly":"Nemec"
         },
         {
+            "level_0":176,
+            "index":179,
             "idnhl":8480800,
             "idhockeyref":"hughequ01",
             "prenomjoueur":"Quinn",
             "nomjoueur":"Hughes",
             "position":"D",
-            "salaireactuel":7850000
+            "salaireactuel":7850000.0,
+            "prenomcapfriendly":"Quinn",
+            "nomcapfriendly":"Hughes"
         },
         {
+            "level_0":177,
+            "index":180,
             "idnhl":8481524,
             "idhockeyref":"byrambo01",
             "prenomjoueur":"Bowen",
             "nomjoueur":"Byram",
             "position":"D",
-            "salaireactuel":894167
+            "salaireactuel":3850000.0,
+            "prenomcapfriendly":"Bowen",
+            "nomcapfriendly":"Byram"
         },
         {
+            "level_0":178,
+            "index":181,
             "idnhl":8480803,
             "idhockeyref":"bouchev01",
             "prenomjoueur":"Evan",
             "nomjoueur":"Bouchard",
             "position":"D",
-            "salaireactuel":647499
+            "salaireactuel":3900000.0,
+            "prenomcapfriendly":"Evan",
+            "nomcapfriendly":"Bouchard"
         },
         {
+            "level_0":179,
+            "index":182,
             "idnhl":8480382,
             "idhockeyref":"georgal01",
             "prenomjoueur":"Alexandar",
             "nomjoueur":"Georgiev",
             "position":"G",
-            "salaireactuel":3400000
+            "salaireactuel":3400000.0,
+            "prenomcapfriendly":"Alexandar",
+            "nomcapfriendly":"Georgiev"
         },
         {
+            "level_0":180,
+            "index":183,
             "idnhl":8481577,
             "idhockeyref":"tomasph01",
             "prenomjoueur":"Philip",
             "nomjoueur":"Tomasino",
             "position":"C",
-            "salaireactuel":863333
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Philip",
+            "nomcapfriendly":"Tomasino"
         },
         {
+            "level_0":181,
+            "index":184,
             "idnhl":8482117,
             "idhockeyref":"reichlu01",
             "prenomjoueur":"Lukas",
             "nomjoueur":"Reichel",
             "position":"A",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Lukas",
+            "nomcapfriendly":"Reichel"
         },
         {
+            "level_0":182,
+            "index":185,
             "idnhl":8482149,
             "idhockeyref":"perfeco01",
             "prenomjoueur":"Cole",
             "nomjoueur":"Perfetti",
             "position":"C",
-            "salaireactuel":894167
+            "salaireactuel":894167.0,
+            "prenomcapfriendly":"Cole",
+            "nomcapfriendly":"Perfetti"
         },
         {
+            "level_0":183,
+            "index":186,
             "idnhl":8483457,
             "idhockeyref":"hutsola01",
             "prenomjoueur":"Lane",
             "nomjoueur":"Hutson",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":184,
+            "index":187,
             "idnhl":8483466,
             "idhockeyref":"korchke01",
             "prenomjoueur":"Kevin",
             "nomjoueur":"Korchinski",
             "position":"D",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Kevin",
+            "nomcapfriendly":"Korchinski"
         },
         {
+            "level_0":185,
+            "index":188,
             "idnhl":8482099,
             "idhockeyref":"amiroro01",
             "prenomjoueur":"Rodion",
             "nomjoueur":"Amirov",
             "position":"A",
-            "salaireactuel":925000
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":186,
+            "index":189,
             "idnhl":8482133,
             "idhockeyref":"bordeth01",
             "prenomjoueur":"Thomas",
             "nomjoueur":"Bordeleau",
             "position":"C",
-            "salaireactuel":916667
+            "salaireactuel":916667.0,
+            "prenomcapfriendly":"Thomas",
+            "nomcapfriendly":"Bordeleau"
         },
         {
+            "level_0":187,
+            "index":190,
             "idnhl":8482667,
             "idhockeyref":"eklunwi01",
             "prenomjoueur":"William",
             "nomjoueur":"Eklund",
             "position":"A",
-            "salaireactuel":894167
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"William",
+            "nomcapfriendly":"Eklund"
         },
         {
+            "level_0":188,
+            "index":191,
             "idnhl":8482148,
             "idhockeyref":"lapiehe01",
             "prenomjoueur":"Hendrix",
             "nomjoueur":"Lapierre",
             "position":"C",
-            "salaireactuel":863333
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Hendrix",
+            "nomcapfriendly":"Lapierre"
         },
         {
+            "level_0":189,
+            "index":192,
             "idnhl":8483431,
             "idhockeyref":"coolelo01",
             "prenomjoueur":"Logan",
             "nomjoueur":"Cooley",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Logan",
+            "nomcapfriendly":"Cooley"
         },
         {
+            "level_0":190,
+            "index":193,
             "idnhl":8483471,
             "idhockeyref":"lambebr01",
             "prenomjoueur":"Brad",
             "nomjoueur":"Lambert",
             "position":"C",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Brad",
+            "nomcapfriendly":"Lambert"
         },
         {
+            "level_0":191,
+            "index":194,
             "idnhl":8483493,
             "idhockeyref":"nazarfr01",
             "prenomjoueur":"Frank",
             "nomjoueur":"Nazar",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":192,
+            "index":195,
             "idnhl":8477934,
             "idhockeyref":"draisle01",
             "prenomjoueur":"Leon",
             "nomjoueur":"Draisaitl",
             "position":"C",
-            "salaireactuel":8500000
+            "salaireactuel":8500000.0,
+            "prenomcapfriendly":"Leon",
+            "nomcapfriendly":"Draisaitl"
         },
         {
+            "level_0":193,
+            "index":196,
             "idnhl":8477492,
             "idhockeyref":"mackina01",
             "prenomjoueur":"Nathan",
             "nomjoueur":"MacKinnon",
             "position":"C",
-            "salaireactuel":6300000
+            "salaireactuel":12600000.0,
+            "prenomcapfriendly":"Nathan",
+            "nomcapfriendly":"MacKinnon"
         },
         {
+            "level_0":194,
+            "index":197,
             "idnhl":8476456,
             "idhockeyref":"huberjo01",
             "prenomjoueur":"Jonathan",
             "nomjoueur":"Huberdeau",
             "position":"C",
-            "salaireactuel":2950000
+            "salaireactuel":10500000.0,
+            "prenomcapfriendly":"Jonathan",
+            "nomcapfriendly":"Huberdeau"
         },
         {
+            "level_0":195,
+            "index":198,
             "idnhl":8480830,
             "idhockeyref":"svechan01",
             "prenomjoueur":"Andrei",
             "nomjoueur":"Svechnikov",
             "position":"A",
-            "salaireactuel":7750000
+            "salaireactuel":7750000.0,
+            "prenomcapfriendly":"Andrei",
+            "nomcapfriendly":"Svechnikov"
         },
         {
+            "level_0":196,
+            "index":199,
             "idnhl":8478550,
             "idhockeyref":"panarar01",
             "prenomjoueur":"Artemi",
             "nomjoueur":"Panarin",
             "position":"A",
-            "salaireactuel":11642857
+            "salaireactuel":11642857.0,
+            "prenomcapfriendly":"Artemi",
+            "nomcapfriendly":"Panarin"
         },
         {
+            "level_0":197,
+            "index":200,
             "idnhl":8482093,
             "idhockeyref":"jarvise01",
             "prenomjoueur":"Seth",
             "nomjoueur":"Jarvis",
             "position":"C",
-            "salaireactuel":894167
+            "salaireactuel":894167.0,
+            "prenomcapfriendly":"Seth",
+            "nomcapfriendly":"Jarvis"
         },
         {
+            "level_0":198,
+            "index":201,
             "idnhl":8476905,
             "idhockeyref":"stephch01",
             "prenomjoueur":"Chandler",
             "nomjoueur":"Stephenson",
             "position":"C",
-            "salaireactuel":2750000
+            "salaireactuel":2750000.0,
+            "prenomcapfriendly":"Chandler",
+            "nomcapfriendly":"Stephenson"
         },
         {
+            "level_0":199,
+            "index":202,
             "idnhl":8477964,
             "idhockeyref":"barbaiv01",
             "prenomjoueur":"Ivan",
             "nomjoueur":"Barbashev",
             "position":"C",
-            "salaireactuel":2250000
+            "salaireactuel":5000000.0,
+            "prenomcapfriendly":"Ivan",
+            "nomcapfriendly":"Barbashev"
         },
         {
+            "level_0":200,
+            "index":203,
             "idnhl":8476853,
             "idhockeyref":"riellmo01",
             "prenomjoueur":"Morgan",
             "nomjoueur":"Rielly",
             "position":"D",
-            "salaireactuel":7500000
+            "salaireactuel":7500000.0,
+            "prenomcapfriendly":"Morgan",
+            "nomcapfriendly":"Rielly"
         },
         {
+            "level_0":201,
+            "index":204,
             "idnhl":8477346,
             "idhockeyref":"weegama01",
             "prenomjoueur":"MacKenzie",
             "nomjoueur":"Weegar",
             "position":"D",
-            "salaireactuel":3250000
+            "salaireactuel":6250000.0,
+            "prenomcapfriendly":"MacKenzie",
+            "nomcapfriendly":"Weegar"
         },
         {
+            "level_0":202,
+            "index":205,
             "idnhl":8471724,
             "idhockeyref":"letankr01",
             "prenomjoueur":"Kris",
             "nomjoueur":"Letang",
             "position":"D",
-            "salaireactuel":6100000
+            "salaireactuel":6100000.0,
+            "prenomcapfriendly":"Kris",
+            "nomcapfriendly":"Letang"
         },
         {
+            "level_0":203,
+            "index":206,
             "idnhl":8478048,
             "idhockeyref":"shestig01",
             "prenomjoueur":"Igor",
             "nomjoueur":"Shesterkin",
             "position":"G",
-            "salaireactuel":5666667
+            "salaireactuel":5666667.0,
+            "prenomcapfriendly":"Igor",
+            "nomcapfriendly":"Shesterkin"
         },
         {
+            "level_0":204,
+            "index":207,
             "idnhl":8479542,
             "idhockeyref":"hagelbr01",
             "prenomjoueur":"Brandon",
             "nomjoueur":"Hagel",
             "position":"A",
-            "salaireactuel":1500000
+            "salaireactuel":1500000.0,
+            "prenomcapfriendly":"Brandon",
+            "nomcapfriendly":"Hagel"
         },
         {
+            "level_0":205,
+            "index":208,
             "idnhl":8478851,
             "idhockeyref":"carrial01",
             "prenomjoueur":"Alexandre",
             "nomjoueur":"Carrier",
             "position":"D",
-            "salaireactuel":733333
+            "salaireactuel":2500000.0,
+            "prenomcapfriendly":"Alexandre",
+            "nomcapfriendly":"Carrier"
         },
         {
+            "level_0":206,
+            "index":209,
             "idnhl":8481599,
             "idhockeyref":"sodervi01",
             "prenomjoueur":"Victor",
             "nomjoueur":"Soderstrom",
             "position":"D",
-            "salaireactuel":863333
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Victor",
+            "nomcapfriendly":"Soderstrom"
         },
         {
+            "level_0":207,
+            "index":210,
             "idnhl":8478492,
             "idhockeyref":"samsoil01",
             "prenomjoueur":"Ilya",
             "nomjoueur":"Samsonov",
             "position":"G",
-            "salaireactuel":1800000
+            "salaireactuel":3550000.0,
+            "prenomcapfriendly":"Ilya",
+            "nomcapfriendly":"Samsonov"
         },
         {
+            "level_0":208,
+            "index":211,
             "idnhl":8477407,
             "idhockeyref":"duclaan01",
             "prenomjoueur":"Anthony",
             "nomjoueur":"Duclair",
             "position":"A",
-            "salaireactuel":3000000
+            "salaireactuel":3000000.0,
+            "prenomcapfriendly":"Anthony",
+            "nomcapfriendly":"Duclair"
         },
         {
+            "level_0":209,
+            "index":212,
             "idnhl":8482077,
             "idhockeyref":"hollody01",
             "prenomjoueur":"Dylan",
             "nomjoueur":"Holloway",
             "position":"A",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Dylan",
+            "nomcapfriendly":"Holloway"
         },
         {
-            "idnhl":8481591,
-            "idhockeyref":"poulisa01",
-            "prenomjoueur":"Sam",
-            "nomjoueur":"Poulin",
-            "position":"A",
-            "salaireactuel":863333
-        },
-        {
+            "level_0":210,
+            "index":214,
             "idnhl":8482768,
             "idhockeyref":"svechfe01",
             "prenomjoueur":"Fedor",
             "nomjoueur":"Svechkov",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Fedor",
+            "nomcapfriendly":"Svechkov"
         },
         {
+            "level_0":211,
+            "index":215,
             "idnhl":8482781,
             "idhockeyref":"lamboca01",
             "prenomjoueur":"Carson",
             "nomjoueur":"Lambos",
             "position":"D",
-            "salaireactuel":894167
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Carson",
+            "nomcapfriendly":"Lambos"
         },
         {
+            "level_0":212,
+            "index":216,
             "idnhl":8481576,
             "idhockeyref":"suzukry01",
             "prenomjoueur":"Ryan",
             "nomjoueur":"Suzuki",
             "position":"C",
-            "salaireactuel":863333
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Ryan",
+            "nomcapfriendly":"Suzuki"
         },
         {
+            "level_0":213,
+            "index":217,
             "idnhl":8483513,
             "idhockeyref":"schaere01",
             "prenomjoueur":"Reid",
             "nomjoueur":"Schaefer",
             "position":"A",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Reid",
+            "nomcapfriendly":"Schaefer"
         },
         {
+            "level_0":214,
+            "index":218,
             "idnhl":8483525,
             "idhockeyref":"yurovda01",
             "prenomjoueur":"Danila",
             "nomjoueur":"Yurov",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":215,
+            "index":219,
             "idnhl":8483468,
             "idhockeyref":"kulicji01",
             "prenomjoueur":"Jiri",
             "nomjoueur":"Kulich",
             "position":"C",
-            "salaireactuel":950000
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"Jiri",
+            "nomcapfriendly":"Kulich"
         },
         {
+            "level_0":216,
+            "index":220,
             "idnhl":8482700,
             "idhockeyref":"allanno01",
             "prenomjoueur":"Nolan",
             "nomjoueur":"Allan",
             "position":"D",
-            "salaireactuel":847500
+            "salaireactuel":825000.0,
+            "prenomcapfriendly":"Nolan",
+            "nomcapfriendly":"Allan"
         },
         {
+            "level_0":217,
+            "index":221,
             "idnhl":8483475,
             "idhockeyref":"leinoto01",
             "prenomjoueur":"Topias",
             "nomjoueur":"Leinonen",
             "position":"G",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":218,
+            "index":222,
             "idnhl":8481523,
             "idhockeyref":"dachki01",
             "prenomjoueur":"Kirby",
             "nomjoueur":"Dach",
             "position":"C",
-            "salaireactuel":3362500
+            "salaireactuel":3362500.0,
+            "prenomcapfriendly":"Kirby",
+            "nomcapfriendly":"Dach"
         },
         {
+            "level_0":219,
+            "index":223,
             "idnhl":8482110,
             "idhockeyref":"merceda01",
             "prenomjoueur":"Dawson",
             "nomjoueur":"Mercer",
             "position":"C",
-            "salaireactuel":894167
+            "salaireactuel":894167.0,
+            "prenomcapfriendly":"Dawson",
+            "nomcapfriendly":"Mercer"
         },
         {
+            "level_0":220,
+            "index":224,
             "idnhl":8473548,
             "idhockeyref":"kesseph01",
             "prenomjoueur":"Phil",
             "nomjoueur":"Kessel",
             "position":"C",
-            "salaireactuel":1500000
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":221,
+            "index":225,
             "idnhl":8477330,
             "idhockeyref":"kubaldo01",
             "prenomjoueur":"Dominik",
             "nomjoueur":"Kubalik",
             "position":"A",
-            "salaireactuel":2500000
+            "salaireactuel":2500000.0,
+            "prenomcapfriendly":"Dominik",
+            "nomcapfriendly":"Kubalik"
         },
         {
+            "level_0":222,
+            "index":226,
             "idnhl":8480039,
             "idhockeyref":"necasma01",
             "prenomjoueur":"Martin",
             "nomjoueur":"Necas",
             "position":"C",
-            "salaireactuel":3000000
+            "salaireactuel":3000000.0,
+            "prenomcapfriendly":"Martin",
+            "nomcapfriendly":"Necas"
         },
         {
+            "level_0":223,
+            "index":227,
             "idnhl":8479344,
             "idhockeyref":"puljuje01",
             "prenomjoueur":"Jesse",
             "nomjoueur":"Puljujarvi",
             "position":"A",
-            "salaireactuel":3000000
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":224,
+            "index":228,
             "idnhl":8481617,
             "idhockeyref":"podkova01",
             "prenomjoueur":"Vasily",
             "nomjoueur":"Podkolzin",
             "position":"A",
-            "salaireactuel":925000
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Vasily",
+            "nomcapfriendly":"Podkolzin"
         },
         {
+            "level_0":225,
+            "index":229,
             "idnhl":8477476,
             "idhockeyref":"lehkoar01",
             "prenomjoueur":"Artturi",
             "nomjoueur":"Lehkonen",
             "position":"A",
-            "salaireactuel":4500000
+            "salaireactuel":4500000.0,
+            "prenomcapfriendly":"Artturi",
+            "nomcapfriendly":"Lehkonen"
         },
         {
+            "level_0":226,
+            "index":230,
             "idnhl":8470794,
             "idhockeyref":"paveljo01",
             "prenomjoueur":"Joe",
             "nomjoueur":"Pavelski",
             "position":"C",
-            "salaireactuel":2500000
+            "salaireactuel":3500000.0,
+            "prenomcapfriendly":"Joe",
+            "nomcapfriendly":"Pavelski"
         },
         {
-            "idnhl":84779421,
-            "idhockeyref":"fialake01",
-            "prenomjoueur":"Kevin",
-            "nomjoueur":"Fiala",
-            "position":"A",
-            "salaireactuel":1000000
-        },
-        {
+            "level_0":228,
+            "index":232,
             "idnhl":84808031,
             "idhockeyref":"bouchev01",
             "prenomjoueur":"Evan",
             "nomjoueur":"Bouchard",
             "position":"D",
-            "salaireactuel":215833
+            "salaireactuel":3900000.0,
+            "prenomcapfriendly":"Evan",
+            "nomcapfriendly":"Bouchard"
         },
         {
+            "level_0":229,
+            "index":233,
             "idnhl":8475167,
             "idhockeyref":"hedmavi01",
             "prenomjoueur":"Victor",
             "nomjoueur":"Hedman",
             "position":"D",
-            "salaireactuel":7875000
+            "salaireactuel":7875000.0,
+            "prenomcapfriendly":"Victor",
+            "nomcapfriendly":"Hedman"
         },
         {
+            "level_0":230,
+            "index":234,
             "idnhl":84745681,
             "idhockeyref":"schenlu01",
             "prenomjoueur":"Luke",
             "nomjoueur":"Schenn",
             "position":"D",
-            "salaireactuel":425000
+            "salaireactuel":2750000.0,
+            "prenomcapfriendly":"Luke",
+            "nomcapfriendly":"Schenn"
         },
         {
+            "level_0":231,
+            "index":235,
             "idnhl":84784141,
             "idhockeyref":"meierti01",
             "prenomjoueur":"Timo",
             "nomjoueur":"Meier",
             "position":"A",
-            "salaireactuel":2000000
+            "salaireactuel":8800000.0,
+            "prenomcapfriendly":"Timo",
+            "nomcapfriendly":"Meier"
         },
         {
+            "level_0":232,
+            "index":236,
             "idnhl":8470966,
             "idhockeyref":"giordma01",
             "prenomjoueur":"Mark",
             "nomjoueur":"Giordano",
             "position":"D",
-            "salaireactuel":200000
+            "salaireactuel":800000.0,
+            "prenomcapfriendly":"Mark",
+            "nomcapfriendly":"Giordano"
         },
         {
+            "level_0":233,
+            "index":237,
             "idnhl":8471214,
             "idhockeyref":"ovechal01",
             "prenomjoueur":"Alex",
             "nomjoueur":"Ovechkin",
             "position":"A",
-            "salaireactuel":9500000
+            "salaireactuel":9500000.0,
+            "prenomcapfriendly":"Alex",
+            "nomcapfriendly":"Ovechkin"
         },
         {
+            "level_0":234,
+            "index":238,
             "idnhl":8484144,
             "idhockeyref":"bedarco01",
             "prenomjoueur":"Connor",
             "nomjoueur":"Bedard",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Connor",
+            "nomcapfriendly":"Bedard"
         },
         {
+            "level_0":235,
+            "index":239,
             "idnhl":8484387,
             "idhockeyref":"michkma01",
             "prenomjoueur":"Matvei",
             "nomjoueur":"Michkov",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":236,
+            "index":240,
             "idnhl":8484166,
             "idhockeyref":"fantiad01",
             "prenomjoueur":"Adam",
             "nomjoueur":"Fantilli",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Adam",
+            "nomcapfriendly":"Fantilli"
         },
         {
+            "level_0":237,
+            "index":241,
             "idnhl":8484153,
             "idhockeyref":"carlsle01",
             "prenomjoueur":"Leo",
             "nomjoueur":"Carlsson",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Leo",
+            "nomcapfriendly":"Carlsson"
         },
         {
+            "level_0":238,
+            "index":242,
             "idnhl":8484145,
             "idhockeyref":"bensoza01",
             "prenomjoueur":"Zach",
             "nomjoueur":"Benson",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Zach",
+            "nomcapfriendly":"Benson"
         },
         {
+            "level_0":239,
+            "index":243,
             "idnhl":8484227,
             "idhockeyref":"smithwi01",
             "prenomjoueur":"Will",
             "nomjoueur":"Smith",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":240,
+            "index":244,
             "idnhl":8484186,
             "idhockeyref":"leonary01",
             "prenomjoueur":"Ryan",
             "nomjoueur":"Leonard",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":241,
+            "index":245,
             "idnhl":8484200,
             "idhockeyref":"mustyqu01",
             "prenomjoueur":"Quentin",
             "nomjoueur":"Musty",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Quentin",
+            "nomcapfriendly":"Musty"
         },
         {
+            "level_0":242,
+            "index":246,
             "idnhl":8484220,
             "idhockeyref":"reinbda01",
             "prenomjoueur":"David",
             "nomjoueur":"Reinbacher",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"David",
+            "nomcapfriendly":"Reinbacher"
         },
         {
+            "level_0":243,
+            "index":247,
             "idnhl":8484164,
             "idhockeyref":"dvorsda01",
             "prenomjoueur":"Dalibor",
             "nomjoueur":"Dvorsky",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Dalibor",
+            "nomcapfriendly":"Dvorsky"
         },
         {
+            "level_0":244,
+            "index":248,
             "idnhl":8484160,
             "idhockeyref":"daniena01",
             "prenomjoueur":"Nate",
             "nomjoueur":"Danielson",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Nate",
+            "nomcapfriendly":"Danielson"
         },
         {
+            "level_0":245,
+            "index":249,
             "idnhl":8484197,
             "idhockeyref":"mooreol01",
             "prenomjoueur":"Oliver",
             "nomjoueur":"Moore",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":246,
+            "index":250,
             "idnhl":8484210,
             "idhockeyref":"perrega01",
             "prenomjoueur":"Gabe",
             "nomjoueur":"Perreault",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":247,
+            "index":251,
             "idnhl":8484143,
             "idhockeyref":"barloco01",
             "prenomjoueur":"Colby",
             "nomjoueur":"Barlow",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Colby",
+            "nomcapfriendly":"Barlow"
         },
         {
+            "level_0":248,
+            "index":252,
             "idnhl":8484224,
             "idhockeyref":"sawchgr01",
             "prenomjoueur":"Gracyn",
             "nomjoueur":"Sawchyn",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":249,
+            "index":253,
             "idnhl":8484389,
             "idhockeyref":"gulyami01",
             "prenomjoueur":"Mikhail",
             "nomjoueur":"Gulyayev",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":250,
+            "index":254,
             "idnhl":8484241,
             "idhockeyref":"woodma01",
             "prenomjoueur":"Matthew",
             "nomjoueur":"Wood",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":251,
+            "index":255,
             "idnhl":8484242,
             "idhockeyref":"yagerbr01",
             "prenomjoueur":"Brayden",
             "nomjoueur":"Yager",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":252,
+            "index":256,
             "idnhl":8484180,
             "idhockeyref":"honzesa01",
             "prenomjoueur":"Samuel",
             "nomjoueur":"Honzek",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Samuel",
+            "nomcapfriendly":"Honzek"
         },
         {
+            "level_0":253,
+            "index":257,
             "idnhl":8484386,
             "idhockeyref":"simasdm01",
             "prenomjoueur":"Dmitriy",
             "nomjoueur":"Simashev",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":254,
+            "index":258,
             "idnhl":8484388,
             "idhockeyref":"butda01",
             "prenomjoueur":"Daniil",
             "nomjoueur":"But",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":255,
+            "index":259,
             "idnhl":8484223,
             "idhockeyref":"sandiax01",
             "prenomjoueur":"Axel",
             "nomjoueur":"Sandin Pellikka",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":256,
+            "index":260,
             "idnhl":8484162,
             "idhockeyref":"dragilu01",
             "prenomjoueur":"Lukas",
             "nomjoueur":"Dragicevic",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":257,
+            "index":261,
             "idnhl":8484149,
             "idhockeyref":"brindga01",
             "prenomjoueur":"Gavin",
             "nomjoueur":"Brindley",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":258,
+            "index":262,
             "idnhl":8484211,
             "idhockeyref":"perroja01",
             "prenomjoueur":"Jayden",
             "nomjoueur":"Perron",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":259,
+            "index":263,
             "idnhl":8484240,
             "idhockeyref":"willato01",
             "prenomjoueur":"Tom",
             "nomjoueur":"Willander",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":260,
+            "index":264,
             "idnhl":8484231,
             "idhockeyref":"stramch01",
             "prenomjoueur":"Charlie",
             "nomjoueur":"Stramel",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":261,
+            "index":265,
             "idnhl":8484159,
             "idhockeyref":"cristan01",
             "prenomjoueur":"Andrew",
             "nomjoueur":"Cristall",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":905000.0,
+            "prenomcapfriendly":"Andrew",
+            "nomcapfriendly":"Cristall"
         },
         {
+            "level_0":262,
+            "index":266,
             "idnhl":8484173,
             "idhockeyref":"gauthet01",
             "prenomjoueur":"Ethan",
             "nomjoueur":"Gauthier",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":263,
+            "index":267,
             "idnhl":8484230,
             "idhockeyref":"stenbot01",
             "prenomjoueur":"Otto",
             "nomjoueur":"Stenberg",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":264,
+            "index":268,
             "idnhl":8484222,
             "idhockeyref":"saleed01",
             "prenomjoueur":"Eduard",
             "nomjoueur":"Sale",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Eduard",
+            "nomcapfriendly":"Sale"
         },
         {
+            "level_0":265,
+            "index":269,
             "idnhl":8484148,
             "idhockeyref":"bonkol01",
             "prenomjoueur":"Oliver",
             "nomjoueur":"Bonk",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"Oliver",
+            "nomcapfriendly":"Bonk"
         },
         {
+            "level_0":266,
+            "index":270,
             "idnhl":8484203,
             "idhockeyref":"nadeabr01",
             "prenomjoueur":"Bradly",
             "nomjoueur":"Nadeau",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":267,
+            "index":271,
             "idnhl":8484181,
             "idhockeyref":"hrabami01",
             "prenomjoueur":"Michael",
             "nomjoueur":"Hrabal",
             "position":"G",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":268,
+            "index":272,
             "idnhl":8484219,
             "idhockeyref":"rehkoca01",
             "prenomjoueur":"Carson",
             "nomjoueur":"Rehkopf",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":269,
+            "index":273,
             "idnhl":8484201,
             "idhockeyref":"myatoni01",
             "prenomjoueur":"Nico",
             "nomjoueur":"Myatovic",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":270,
+            "index":274,
             "idnhl":8484420,
             "idhockeyref":"marcema01",
             "prenomjoueur":"Marcel",
             "nomjoueur":"Marcel",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":271,
+            "index":275,
             "idnhl":8484158,
             "idhockeyref":"cowanea01",
             "prenomjoueur":"Easton",
             "nomjoueur":"Cowan",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":935833.0,
+            "prenomcapfriendly":"Easton",
+            "nomcapfriendly":"Cowan"
         },
         {
+            "level_0":272,
+            "index":276,
             "idnhl":8484141,
             "idhockeyref":"augustr01",
             "prenomjoueur":"Trey",
             "nomjoueur":"Augustine",
             "position":"G",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":273,
+            "index":277,
             "idnhl":8484155,
             "idhockeyref":"catafma01",
             "prenomjoueur":"Mathieu",
             "nomjoueur":"Cataford",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":274,
+            "index":278,
             "idnhl":8476981,
             "idhockeyref":"anderjo01",
             "prenomjoueur":"Josh",
             "nomjoueur":"Anderson",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":5500000.0,
+            "prenomcapfriendly":"Josh",
+            "nomcapfriendly":"Anderson"
         },
         {
+            "level_0":275,
+            "index":279,
             "idnhl":8479314,
             "idhockeyref":"tkachma01",
             "prenomjoueur":"Matthew",
             "nomjoueur":"Tkachuk",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":9500000.0,
+            "prenomcapfriendly":"Matthew",
+            "nomcapfriendly":"Tkachuk"
         },
         {
+            "level_0":276,
+            "index":280,
             "idnhl":8476454,
             "idhockeyref":"nugenry01",
             "prenomjoueur":"Ryan",
             "nomjoueur":"Nugent-Hopkins",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":5125000.0,
+            "prenomcapfriendly":"Ryan",
+            "nomcapfriendly":"Nugent-Hopkins"
         },
         {
+            "level_0":277,
+            "index":281,
             "idnhl":8479407,
             "idhockeyref":"brattje01",
             "prenomjoueur":"Jesper",
             "nomjoueur":"Bratt",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":7875000.0,
+            "prenomcapfriendly":"Jesper",
+            "nomcapfriendly":"Bratt"
         },
         {
-            "idnhl":8482175,
-            "idhockeyref":"peterjj01",
-            "prenomjoueur":"JJ",
-            "nomjoueur":"Peterka",
-            "position":"A",
-            "salaireactuel":0
-        },
-        {
-            "idnhl":8477504,
-            "idhockeyref":"morrijo01",
-            "prenomjoueur":"Josh",
-            "nomjoueur":"Morrissey",
-            "position":"D",
-            "salaireactuel":0
-        },
-        {
+            "level_0":278,
+            "index":284,
             "idnhl":8480012,
             "idhockeyref":"petteel01",
             "prenomjoueur":"Elias",
             "nomjoueur":"Pettersson",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":7350000.0,
+            "prenomcapfriendly":"Elias",
+            "nomcapfriendly":"Pettersson"
         },
         {
+            "level_0":279,
+            "index":285,
             "idnhl":8477986,
             "idhockeyref":"montobr01",
             "prenomjoueur":"Brandon",
             "nomjoueur":"Montour",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":3500000.0,
+            "prenomcapfriendly":"Brandon",
+            "nomcapfriendly":"Montour"
         },
         {
+            "level_0":280,
+            "index":286,
             "idnhl":8481711,
             "idhockeyref":"maccema01",
             "prenomjoueur":"Matias",
             "nomjoueur":"Maccelli",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":3425000.0,
+            "prenomcapfriendly":"Matias",
+            "nomcapfriendly":"Maccelli"
         },
         {
+            "level_0":281,
+            "index":287,
             "idnhl":8480036,
             "idhockeyref":"heiskmi01",
             "prenomjoueur":"Miro",
             "nomjoueur":"Heiskanen",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":8450000.0,
+            "prenomcapfriendly":"Miro",
+            "nomcapfriendly":"Heiskanen"
         },
         {
-            "idnhl":8474578,
-            "idhockeyref":"karlser01",
-            "prenomjoueur":"Erik",
-            "nomjoueur":"Karlsson",
-            "position":"D",
-            "salaireactuel":0
-        },
-        {
+            "level_0":283,
+            "index":289,
             "idnhl":8479343,
             "idhockeyref":"kellecl01",
             "prenomjoueur":"Clayton",
             "nomjoueur":"Keller",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":7150000.0,
+            "prenomcapfriendly":"Clayton",
+            "nomcapfriendly":"Keller"
         },
         {
+            "level_0":284,
+            "index":290,
             "idnhl":8477955,
             "idhockeyref":"mccanja01",
             "prenomjoueur":"Jared",
             "nomjoueur":"McCann",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":5000000.0,
+            "prenomcapfriendly":"Jared",
+            "nomcapfriendly":"McCann"
         },
         {
+            "level_0":285,
+            "index":291,
             "idnhl":8482221,
             "idhockeyref":"levide01",
             "prenomjoueur":"Devon",
             "nomjoueur":"Levi",
             "position":"G",
-            "salaireactuel":0
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Devon",
+            "nomcapfriendly":"Levi"
         },
         {
+            "level_0":286,
+            "index":292,
             "idnhl":8482158,
             "idhockeyref":"niemeto01",
             "prenomjoueur":"Topi",
             "nomjoueur":"Niemela",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":856667.0,
+            "prenomcapfriendly":"Topi",
+            "nomcapfriendly":"Niemela"
         },
         {
-            "idnhl":8478438,
-            "idhockeyref":"novakto01",
-            "prenomjoueur":"Tommy",
-            "nomjoueur":"Novak",
-            "position":"C",
-            "salaireactuel":0
-        },
-        {
+            "level_0":287,
+            "index":294,
             "idnhl":8481704,
             "idhockeyref":"parssju01",
             "prenomjoueur":"Juuso",
             "nomjoueur":"Parssinen",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":850833.0,
+            "prenomcapfriendly":"Juuso",
+            "nomcapfriendly":"Parssinen"
         },
         {
+            "level_0":288,
+            "index":295,
             "idnhl":8479973,
             "idhockeyref":"skinnst01",
             "prenomjoueur":"Stuart",
             "nomjoueur":"Skinner",
             "position":"G",
-            "salaireactuel":0
+            "salaireactuel":2600000.0,
+            "prenomcapfriendly":"Stuart",
+            "nomcapfriendly":"Skinner"
         },
         {
+            "level_0":289,
+            "index":296,
             "idnhl":8480893,
             "idhockeyref":"marchki01",
             "prenomjoueur":"Kirill",
             "nomjoueur":"Marchenko",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Kirill",
+            "nomcapfriendly":"Marchenko"
         },
         {
+            "level_0":290,
+            "index":297,
             "idnhl":8479999,
             "idhockeyref":"mitteca01",
             "prenomjoueur":"Casey",
             "nomjoueur":"Mittelstadt",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":2500000.0,
+            "prenomcapfriendly":"Casey",
+            "nomcapfriendly":"Mittelstadt"
         },
         {
+            "level_0":291,
+            "index":298,
             "idnhl":8475168,
             "idhockeyref":"duchema01",
             "prenomjoueur":"Matt",
             "nomjoueur":"Duchene",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":3000000.0,
+            "prenomcapfriendly":"Matt",
+            "nomcapfriendly":"Duchene"
         },
         {
+            "level_0":292,
+            "index":299,
             "idnhl":8477503,
             "idhockeyref":"domima01",
             "prenomjoueur":"Max",
             "nomjoueur":"Domi",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":3000000.0,
+            "prenomcapfriendly":"Max",
+            "nomcapfriendly":"Domi"
         },
         {
+            "level_0":293,
+            "index":300,
             "idnhl":8475754,
             "idhockeyref":"nelsobr01",
             "prenomjoueur":"Brock",
             "nomjoueur":"Nelson",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":6000000.0,
+            "prenomcapfriendly":"Brock",
+            "nomcapfriendly":"Nelson"
         },
         {
+            "level_0":294,
+            "index":301,
             "idnhl":8482699,
             "idhockeyref":"guentdy01",
             "prenomjoueur":"Dylan",
             "nomjoueur":"Guenther",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":894167.0,
+            "prenomcapfriendly":"Dylan",
+            "nomcapfriendly":"Guenther"
         },
         {
+            "level_0":295,
+            "index":302,
             "idnhl":8474586,
             "idhockeyref":"eberljo01",
             "prenomjoueur":"Jordan",
             "nomjoueur":"Eberle",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":5500000.0,
+            "prenomcapfriendly":"Jordan",
+            "nomcapfriendly":"Eberle"
         },
         {
+            "level_0":296,
+            "index":303,
             "idnhl":8482146,
             "idhockeyref":"evanglu01",
             "prenomjoueur":"Luke",
             "nomjoueur":"Evangelista",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":797500.0,
+            "prenomcapfriendly":"Luke",
+            "nomcapfriendly":"Evangelista"
         },
         {
+            "level_0":297,
+            "index":304,
             "idnhl":8481611,
             "idhockeyref":"kochepy01",
             "prenomjoueur":"Pyotr",
             "nomjoueur":"Kochetkov",
             "position":"G",
-            "salaireactuel":0
+            "salaireactuel":2000000.0,
+            "prenomcapfriendly":"Pyotr",
+            "nomcapfriendly":"Kochetkov"
         },
         {
+            "level_0":298,
+            "index":305,
             "idnhl":8476483,
             "idhockeyref":"rakelri01",
             "prenomjoueur":"Rickard",
             "nomjoueur":"Rakell",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":5000000.0,
+            "prenomcapfriendly":"Rickard",
+            "nomcapfriendly":"Rakell"
         },
         {
+            "level_0":299,
+            "index":306,
             "idnhl":8480015,
             "idhockeyref":"tippeow01",
             "prenomjoueur":"Owen",
             "nomjoueur":"Tippett",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":1500000.0,
+            "prenomcapfriendly":"Owen",
+            "nomcapfriendly":"Tippett"
         },
         {
+            "level_0":300,
+            "index":307,
             "idnhl":8477409,
             "idhockeyref":"verhaca01",
             "prenomjoueur":"Carter",
             "nomjoueur":"Verhaeghe",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":4166667.0,
+            "prenomcapfriendly":"Carter",
+            "nomcapfriendly":"Verhaeghe"
         },
         {
+            "level_0":301,
+            "index":308,
             "idnhl":8476979,
             "idhockeyref":"gustaer01",
             "prenomjoueur":"Erik",
             "nomjoueur":"Gustafsson",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":825000.0,
+            "prenomcapfriendly":"Erik",
+            "nomcapfriendly":"Gustafsson"
         },
         {
+            "level_0":302,
+            "index":309,
             "idnhl":8482655,
             "idhockeyref":"moserj.01",
             "prenomjoueur":"J.J.",
             "nomjoueur":"Moser",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":886667.0,
+            "prenomcapfriendly":"J.J.",
+            "nomcapfriendly":"Moser"
         },
         {
+            "level_0":303,
+            "index":310,
             "idnhl":8482222,
             "idhockeyref":"barabal01",
             "prenomjoueur":"Alexander",
             "nomjoueur":"Barabanov",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":2500000.0,
+            "prenomcapfriendly":"Alexander",
+            "nomcapfriendly":"Barabanov"
         },
         {
+            "level_0":304,
+            "index":311,
             "idnhl":8471218,
             "idhockeyref":"wheelbl01",
             "prenomjoueur":"Blake",
             "nomjoueur":"Wheeler",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":800000.0,
+            "prenomcapfriendly":"Blake",
+            "nomcapfriendly":"Wheeler"
         },
         {
+            "level_0":305,
+            "index":312,
             "idnhl":8477456,
             "idhockeyref":"comphj.01",
             "prenomjoueur":"J.T.",
             "nomjoueur":"Compher",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":5100000.0,
+            "prenomcapfriendly":"J.T.",
+            "nomcapfriendly":"Compher"
         },
         {
+            "level_0":306,
+            "index":313,
             "idnhl":8478439,
             "idhockeyref":"konectr01",
             "prenomjoueur":"Travis",
             "nomjoueur":"Konecny",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":5500000.0,
+            "prenomcapfriendly":"Travis",
+            "nomcapfriendly":"Konecny"
         },
         {
+            "level_0":307,
+            "index":314,
             "idnhl":8480028,
             "idhockeyref":"frostmo01",
             "prenomjoueur":"Morgan",
             "nomjoueur":"Frost",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":2100000.0,
+            "prenomcapfriendly":"Morgan",
+            "nomcapfriendly":"Frost"
         },
         {
+            "level_0":308,
+            "index":315,
             "idnhl":8478466,
             "idhockeyref":"spronda01",
             "prenomjoueur":"Daniel",
             "nomjoueur":"Sprong",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":2000000.0,
+            "prenomcapfriendly":"Daniel",
+            "nomcapfriendly":"Sprong"
         },
         {
+            "level_0":309,
+            "index":316,
             "idnhl":8482720,
             "idhockeyref":"kniesma01",
             "prenomjoueur":"Matthew",
             "nomjoueur":"Knies",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Matthew",
+            "nomcapfriendly":"Knies"
         },
         {
+            "level_0":310,
+            "index":317,
             "idnhl":8482159,
             "idhockeyref":"foersty01",
             "prenomjoueur":"Tyson",
             "nomjoueur":"Foerster",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Tyson",
+            "nomcapfriendly":"Foerster"
         },
         {
+            "level_0":311,
+            "index":318,
             "idnhl":8479406,
             "idhockeyref":"gustafi01",
             "prenomjoueur":"Filip",
             "nomjoueur":"Gustavsson",
             "position":"G",
-            "salaireactuel":0
+            "salaireactuel":3750000.0,
+            "prenomcapfriendly":"Filip",
+            "nomcapfriendly":"Gustavsson"
         },
         {
+            "level_0":312,
+            "index":319,
             "idnhl":8482100,
             "idhockeyref":"nikisal01",
             "prenomjoueur":"Alexander",
             "nomjoueur":"Nikishin",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":313,
+            "index":320,
             "idnhl":8477015,
             "idhockeyref":"brownco01",
             "prenomjoueur":"Connor",
             "nomjoueur":"Brown",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":775000.0,
+            "prenomcapfriendly":"Connor",
+            "nomcapfriendly":"Brown"
         },
         {
+            "level_0":314,
+            "index":321,
             "idnhl":8481596,
             "idhockeyref":"pintosh01",
             "prenomjoueur":"Shane",
             "nomjoueur":"Pinto",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":null,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null
         },
         {
+            "level_0":315,
+            "index":322,
             "idnhl":8478407,
             "idhockeyref":"dunnvi01",
             "prenomjoueur":"Vince",
             "nomjoueur":"Dunn",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":7350000.0,
+            "prenomcapfriendly":"Vince",
+            "nomcapfriendly":"Dunn"
         },
         {
+            "level_0":316,
+            "index":323,
             "idnhl":8479976,
             "idhockeyref":"valimju01",
             "prenomjoueur":"Juuso",
             "nomjoueur":"Valimaki",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":1000000.0,
+            "prenomcapfriendly":"Juuso",
+            "nomcapfriendly":"Valimaki"
         },
         {
+            "level_0":317,
+            "index":324,
             "idnhl":8479361,
             "idhockeyref":"wolljo01",
             "prenomjoueur":"Joseph",
             "nomjoueur":"Woll",
             "position":"G",
-            "salaireactuel":0
+            "salaireactuel":766667.0,
+            "prenomcapfriendly":"Joseph",
+            "nomcapfriendly":"Woll"
         },
         {
+            "level_0":318,
+            "index":325,
             "idnhl":8482964,
             "idhockeyref":"xhekaar01",
             "prenomjoueur":"Arber",
             "nomjoueur":"Xhekaj",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":828333.0,
+            "prenomcapfriendly":"Arber",
+            "nomcapfriendly":"Xhekaj"
         },
         {
+            "level_0":319,
+            "index":326,
             "idnhl":8482122,
             "idhockeyref":"faberbr01",
             "prenomjoueur":"Brock",
             "nomjoueur":"Faber",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"Brock",
+            "nomcapfriendly":"Faber"
         },
         {
+            "level_0":320,
+            "index":327,
             "idnhl":8481554,
             "idhockeyref":"kakkoka01",
             "prenomjoueur":"Kaapo",
             "nomjoueur":"Kakko",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":2100000.0,
+            "prenomcapfriendly":"Kaapo",
+            "nomcapfriendly":"Kakko"
         },
         {
+            "level_0":321,
+            "index":328,
             "idnhl":8475218,
             "idhockeyref":"ekholma01",
             "prenomjoueur":"Mattias",
             "nomjoueur":"Ekholm",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":6000000.0,
+            "prenomcapfriendly":"Mattias",
+            "nomcapfriendly":"Ekholm"
         },
         {
-            "idnhl":8476875,
-            "idhockeyref":"mathemi01",
-            "prenomjoueur":"Mike",
-            "nomjoueur":"Matheson",
-            "position":"D",
-            "salaireactuel":0
-        },
-        {
-            "idnhl":8478470,
-            "idhockeyref":"montesa01",
-            "prenomjoueur":"Sam",
-            "nomjoueur":"Montembeault",
-            "position":"G",
-            "salaireactuel":0
-        },
-        {
+            "level_0":322,
+            "index":331,
             "idnhl":8482130,
             "idhockeyref":"hirvoro01",
             "prenomjoueur":"Roni",
             "nomjoueur":"Hirvonen",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":856667.0,
+            "prenomcapfriendly":"Roni",
+            "nomcapfriendly":"Hirvonen"
         },
         {
+            "level_0":323,
+            "index":332,
             "idnhl":8477424,
             "idhockeyref":"sarosju01",
             "prenomjoueur":"Juuse",
             "nomjoueur":"Saros",
             "position":"G",
-            "salaireactuel":0
+            "salaireactuel":5000000.0,
+            "prenomcapfriendly":"Juuse",
+            "nomcapfriendly":"Saros"
         },
         {
+            "level_0":324,
+            "index":333,
             "idnhl":8477494,
             "idhockeyref":"drouijo01",
             "prenomjoueur":"Jonathan",
             "nomjoueur":"Drouin",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":825000.0,
+            "prenomcapfriendly":"Jonathan",
+            "nomcapfriendly":"Drouin"
         },
         {
+            "level_0":325,
+            "index":334,
             "idnhl":8481581,
             "idhockeyref":"harleth01",
             "prenomjoueur":"Thomas",
             "nomjoueur":"Harley",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"Thomas",
+            "nomcapfriendly":"Harley"
         },
         {
+            "level_0":326,
+            "index":335,
             "idnhl":8480293,
             "idhockeyref":"kalynwy01",
             "prenomjoueur":"Wyatt",
             "nomjoueur":"Kalynuk",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":775000.0,
+            "prenomcapfriendly":"Wyatt",
+            "nomcapfriendly":"Kalynuk"
         },
         {
+            "level_0":327,
+            "index":283,
+            "idnhl":8477504,
+            "idhockeyref":"morrijo01",
+            "prenomjoueur":"Josh",
+            "nomjoueur":"Morrissey",
+            "position":"D",
+            "salaireactuel":6250000.0,
+            "prenomcapfriendly":"joshua",
+            "nomcapfriendly":"morrissey"
+        },
+        {
+            "level_0":328,
+            "index":293,
+            "idnhl":8478438,
+            "idhockeyref":"novakto01",
+            "prenomjoueur":"Tommy",
+            "nomjoueur":"Novak",
+            "position":"C",
+            "salaireactuel":800000.0,
+            "prenomcapfriendly":"thomas",
+            "nomcapfriendly":"novak"
+        },
+        {
+            "level_0":329,
+            "index":282,
+            "idnhl":8482175,
+            "idhockeyref":"peterjj01",
+            "prenomjoueur":"JJ",
+            "nomjoueur":"Peterka",
+            "position":"A",
+            "salaireactuel":855833.0,
+            "prenomcapfriendly":"john-jason",
+            "nomcapfriendly":"peterka"
+        },
+        {
+            "level_0":330,
+            "index":336,
             "idnhl":8477488,
             "idhockeyref":"pescebr01",
             "prenomjoueur":"Brett",
             "nomjoueur":"Pesce",
             "position":"D",
-            "salaireactuel":0
+            "salaireactuel":4025000.0,
+            "prenomcapfriendly":"Brett",
+            "nomcapfriendly":"Pesce"
         },
         {
-            "idnhl":8470621,
-            "idhockeyref":"perryco01",
-            "prenomjoueur":"Corey",
-            "nomjoueur":"Perry",
-            "position":"A",
-            "salaireactuel":0
-        },
-        {
+            "level_0":331,
+            "index":338,
             "idnhl":8471675,
             "idhockeyref":"crosbsi01",
             "prenomjoueur":"Sidney",
             "nomjoueur":"Crosby",
             "position":"C",
-            "salaireactuel":0
+            "salaireactuel":8700000.0,
+            "prenomcapfriendly":"Sidney",
+            "nomcapfriendly":"Crosby"
         },
         {
+            "level_0":332,
+            "index":339,
             "idnhl":8481582,
             "idhockeyref":"roberni01",
             "prenomjoueur":"Nicholas",
             "nomjoueur":"Robertson",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":796667.0,
+            "prenomcapfriendly":"Nicholas",
+            "nomcapfriendly":"Robertson"
         },
         {
+            "level_0":333,
+            "index":340,
             "idnhl":8481692,
             "idhockeyref":"wolfdu01",
             "prenomjoueur":"Dustin",
             "nomjoueur":"Wolf",
             "position":"G",
-            "salaireactuel":0
+            "salaireactuel":813333.0,
+            "prenomcapfriendly":"Dustin",
+            "nomcapfriendly":"Wolf"
         },
         {
+            "level_0":334,
+            "index":341,
             "idnhl":8482476,
             "idhockeyref":"heineem01",
             "prenomjoueur":"Emil",
             "nomjoueur":"Heineman",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":897500.0,
+            "prenomcapfriendly":"Emil",
+            "nomcapfriendly":"Heineman"
         },
         {
+            "level_0":335,
+            "index":342,
             "idnhl":8481093,
             "idhockeyref":"harvera01",
             "prenomjoueur":"Rafael",
             "nomjoueur":"Harvey-Pinard",
             "position":"A",
-            "salaireactuel":0
+            "salaireactuel":1100000.0,
+            "prenomcapfriendly":"Rafael",
+            "nomcapfriendly":"Harvey-Pinard"
+        },
+        {
+            "level_0":336,
+            "index":337,
+            "idnhl":8470621,
+            "idhockeyref":"perryco01",
+            "prenomjoueur":"Corey",
+            "nomjoueur":"Perry",
+            "position":"A",
+            "salaireactuel":4000000.0,
+            "prenomcapfriendly":"Corey",
+            "nomcapfriendly":"Perry"
+        },
+        {
+            "level_0":337,
+            "index":92,
+            "idnhl":8470594,
+            "idhockeyref":"fleurma01",
+            "prenomjoueur":"Marc-Andre",
+            "nomjoueur":"Fleury",
+            "position":"G",
+            "salaireactuel":3500000.0,
+            "prenomcapfriendly":"marc-andre",
+            "nomcapfriendly":"fleury1"
+        },
+        {
+            "level_0":338,
+            "index":329,
+            "idnhl":8476875,
+            "idhockeyref":"mathemi01",
+            "prenomjoueur":"Mike",
+            "nomjoueur":"Matheson",
+            "position":"D",
+            "salaireactuel":4875000.0,
+            "prenomcapfriendly":"michael",
+            "nomcapfriendly":"matheson"
+        },
+        {
+            "level_0":339,
+            "index":65,
+            "idnhl":8477950,
+            "idhockeyref":"deangto01",
+            "prenomjoueur":"Tony",
+            "nomjoueur":"DeAngelo",
+            "position":"D",
+            "salaireactuel":1675000.0,
+            "prenomcapfriendly":"anthony",
+            "nomcapfriendly":"deangelo"
+        },
+        {
+            "level_0":340,
+            "index":330,
+            "idnhl":8478470,
+            "idhockeyref":"montesa01",
+            "prenomjoueur":"Sam",
+            "nomjoueur":"Montembeault",
+            "position":"G",
+            "salaireactuel":1000000.0,
+            "prenomcapfriendly":"samuel",
+            "nomcapfriendly":""
+        },
+        {
+            "level_0":341,
+            "index":213,
+            "idnhl":8481591,
+            "idhockeyref":"poulisa01",
+            "prenomjoueur":"Sam",
+            "nomjoueur":"Poulin",
+            "position":"A",
+            "salaireactuel":863333.0,
+            "prenomcapfriendly":"samuel",
+            "nomcapfriendly":""
+        },
+        {
+            "level_0":342,
+            "index":130,
+            "idnhl":8483512,
+            "idhockeyref":"savoima01",
+            "prenomjoueur":"Matt",
+            "nomjoueur":"Savoie",
+            "position":"C",
+            "salaireactuel":918333.0,
+            "prenomcapfriendly":"matthew",
+            "nomcapfriendly":""
+        },
+        {
+            "level_0":282,
+            "index":288,
+            "idnhl":8474578,
+            "idhockeyref":"karlser01",
+            "prenomjoueur":"Erik",
+            "nomjoueur":"Karlsson",
+            "position":"D",
+            "salaireactuel":11500000.0,
+            "prenomcapfriendly":"Erik",
+            "nomcapfriendly":"Karlsson"
         }
     ]
 }
