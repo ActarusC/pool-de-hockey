@@ -55,48 +55,30 @@ function entetePicks() {
 
 
   function typesDrafts(idPooler) {
-    return(
-      <div class="row">
-    <div class="column">
-        <h2>2024</h2>
-        <h3>Entrée</h3>
-        { unTypeDraft(idPooler, "ENT", 2024) }
-        <h3>Pro</h3>
-        { unTypeDraft(idPooler, "PRO", 2024) }
-        <h2>2025</h2>
-        <h3>Entrée</h3>
-        { unTypeDraft(idPooler, "ENT", 2025) }
-        <h3>Pro</h3>
-        { unTypeDraft(idPooler, "PRO", 2025) }
-        <h2>2026</h2>
-        <h3>Entrée</h3>
-        { unTypeDraft(idPooler, "ENT", 2026) }
-        <h3>Pro</h3>
-        { unTypeDraft(idPooler, "PRO", 2026) }
-        <h2>2027</h2>
-        <h3>Entrée</h3>
-        { unTypeDraft(idPooler, "ENT", 2027) }
-        <h3>Pro</h3>
-        { unTypeDraft(idPooler, "PRO", 2027) }
-        <h2>2028</h2>
-        <h3>Entrée</h3>
-        { unTypeDraft(idPooler, "ENT", 2028) }
-        <h3>Pro</h3>
-        { unTypeDraft(idPooler, "PRO", 2028) }
-        <h2>2029</h2>
-        <h3>Entrée</h3>
-        { unTypeDraft(idPooler, "ENT", 2029) }
-        <h3>Pro</h3>
-        { unTypeDraft(idPooler, "PRO", 2029) }
-        <h2>2030</h2>
-        <h3>Entrée</h3>
-        { unTypeDraft(idPooler, "ENT", 2030) }
-        <h3>Pro</h3>
-        { unTypeDraft(idPooler, "PRO", 2030) }
-    </div>
-    </div>
-    )
-  }
+    const currentYear = new Date().getFullYear();
+    const currentMonth = new Date().getMonth();
+    const currentSeason = currentMonth < 6 ? currentYear : currentYear + 1;
+
+    return (
+        <div className="row">
+            <div className="column">
+                {Array.from({ length: 2030 - currentSeason + 1 }, (_, i) => {
+                    const season = currentSeason + i;
+                    return (
+                        <div key={season}>
+                            <h2>{season}</h2>
+                            <h3>Entrée</h3>
+                            {unTypeDraft(idPooler, "ENT", season)}
+                            <h3>Pro</h3>
+                            {unTypeDraft(idPooler, "PRO", season)}
+                        </div>
+                    );
+                })}
+            </div>
+        </div>
+    );
+}
+
 
   const picksPooler = ({ pageContext }) => (
     <Layout>
