@@ -9,7 +9,8 @@ function filtrerPicks(picks, idPooler, type, annee) {
   let picksF = picks.filter(unP => (unP.actuel === idPooler))
   picksF = picksF.filter(unP => (unP.type === type))
   picksF = picksF.filter(unP => (unP.annee === annee))
-  picksF = picksF.sort(picksF.ronde)
+  picksF = picksF.sort((a, b) => a.ronde - b.ronde)
+  /* picksF = picksF.sort(picksF.ronde) */
   return picksF
 }
 
@@ -56,19 +57,44 @@ function entetePicks() {
   function typesDrafts(idPooler) {
     return(
       <div class="row">
-        <div class="column">
-        <h2>Entrée</h2>
-        { unTypeDraft(idPooler, "ENT", 2022) }
-        { unTypeDraft(idPooler, "ENT", 2023) }
+    <div class="column">
+        <h2>2024</h2>
+        <h3>Entrée</h3>
         { unTypeDraft(idPooler, "ENT", 2024) }
-        </div>
-        <div class="column">
-        <h2>Pro</h2>
-        { unTypeDraft(idPooler, "PRO", 2022) }
-        { unTypeDraft(idPooler, "PRO", 2023) }
+        <h3>Pro</h3>
         { unTypeDraft(idPooler, "PRO", 2024) }
-        </div>
-      </div>
+        <h2>2025</h2>
+        <h3>Entrée</h3>
+        { unTypeDraft(idPooler, "ENT", 2025) }
+        <h3>Pro</h3>
+        { unTypeDraft(idPooler, "PRO", 2025) }
+        <h2>2026</h2>
+        <h3>Entrée</h3>
+        { unTypeDraft(idPooler, "ENT", 2026) }
+        <h3>Pro</h3>
+        { unTypeDraft(idPooler, "PRO", 2026) }
+        <h2>2027</h2>
+        <h3>Entrée</h3>
+        { unTypeDraft(idPooler, "ENT", 2027) }
+        <h3>Pro</h3>
+        { unTypeDraft(idPooler, "PRO", 2027) }
+        <h2>2028</h2>
+        <h3>Entrée</h3>
+        { unTypeDraft(idPooler, "ENT", 2028) }
+        <h3>Pro</h3>
+        { unTypeDraft(idPooler, "PRO", 2028) }
+        <h2>2029</h2>
+        <h3>Entrée</h3>
+        { unTypeDraft(idPooler, "ENT", 2029) }
+        <h3>Pro</h3>
+        { unTypeDraft(idPooler, "PRO", 2029) }
+        <h2>2030</h2>
+        <h3>Entrée</h3>
+        { unTypeDraft(idPooler, "ENT", 2030) }
+        <h3>Pro</h3>
+        { unTypeDraft(idPooler, "PRO", 2030) }
+    </div>
+    </div>
     )
   }
 
