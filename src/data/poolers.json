@@ -46,10 +46,10 @@
             "nom":"Gabriel",
             "equipe":"Tropics",
             "abbr":"gab",
-            "pj":82,
+            "pj":83,
             "b":27,
-            "a":55,
-            "score":84,
+            "a":58,
+            "score":87,
             "massesalariale":82017441
         },
         {
@@ -57,7 +57,7 @@
             "nom":"Cl\u00e9ment",
             "equipe":"Rocket",
             "abbr":"cle",
-            "pj":74,
+            "pj":75,
             "b":28,
             "a":30,
             "score":61,
@@ -101,10 +101,10 @@
             "nom":"J\u00e9r\u00e9mieD",
             "equipe":"Qualis",
             "abbr":"jed",
-            "pj":81,
-            "b":30,
-            "a":43,
-            "score":76,
+            "pj":82,
+            "b":32,
+            "a":44,
+            "score":79,
             "massesalariale":80138333
         },
         {
@@ -112,10 +112,10 @@
             "nom":"J\u00e9r\u00e9myG",
             "equipe":"Monarchistes",
             "abbr":"jeg",
-            "pj":78,
+            "pj":80,
             "b":25,
-            "a":42,
-            "score":69,
+            "a":43,
+            "score":70,
             "massesalariale":76015001
         },
         {
