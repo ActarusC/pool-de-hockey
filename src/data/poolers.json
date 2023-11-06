@@ -46,18 +46,18 @@
             "nom":"Gabriel",
             "equipe":"Tropics",
             "abbr":"gab",
-            "pj":140,
-            "b":41,
+            "pj":143,
+            "b":42,
             "a":96,
-            "score":141,
-            "massesalariale":82017441
+            "score":142,
+            "massesalariale":72517441
         },
         {
             "id":"ROC",
             "nom":"Cl\u00e9ment",
             "equipe":"Rocket",
             "abbr":"cle",
-            "pj":131,
+            "pj":132,
             "b":41,
             "a":46,
             "score":92,
@@ -68,18 +68,18 @@
             "nom":"Hubert",
             "equipe":"Patriotes",
             "abbr":"hub",
-            "pj":145,
+            "pj":147,
             "b":45,
-            "a":73,
-            "score":124,
-            "massesalariale":79280083
+            "a":74,
+            "score":125,
+            "massesalariale":83130083
         },
         {
             "id":"SS",
             "nom":"Rapha\u00ebl",
             "equipe":"Storm Surge",
             "abbr":"rap",
-            "pj":146,
+            "pj":147,
             "b":46,
             "a":70,
             "score":122,
@@ -94,14 +94,14 @@
             "b":39,
             "a":55,
             "score":98,
-            "massesalariale":81239751
+            "massesalariale":74139751
         },
         {
             "id":"QUA",
             "nom":"J\u00e9r\u00e9mieD",
             "equipe":"Qualis",
             "abbr":"jed",
-            "pj":143,
+            "pj":144,
             "b":59,
             "a":65,
             "score":129,
@@ -112,10 +112,10 @@
             "nom":"J\u00e9r\u00e9myG",
             "equipe":"Monarchistes",
             "abbr":"jeg",
-            "pj":143,
-            "b":44,
+            "pj":145,
+            "b":45,
             "a":70,
-            "score":117,
+            "score":118,
             "massesalariale":72853334
         },
         {
