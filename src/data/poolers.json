@@ -46,10 +46,10 @@
             "nom":"Gabriel",
             "equipe":"Tropics",
             "abbr":"gab",
-            "pj":445,
+            "pj":447,
             "b":127,
-            "a":238,
-            "score":375,
+            "a":240,
+            "score":377,
             "massesalariale":65442441
         },
         {
@@ -57,10 +57,10 @@
             "nom":"Cl\u00e9ment",
             "equipe":"Rocket",
             "abbr":"cle",
-            "pj":416,
+            "pj":423,
             "b":147,
-            "a":221,
-            "score":379,
+            "a":224,
+            "score":382,
             "massesalariale":82089866
         },
         {
@@ -68,10 +68,10 @@
             "nom":"Hubert",
             "equipe":"Patriotes",
             "abbr":"hub",
-            "pj":480,
+            "pj":481,
             "b":143,
-            "a":259,
-            "score":422,
+            "a":260,
+            "score":423,
             "massesalariale":80130083
         },
         {
@@ -79,10 +79,10 @@
             "nom":"Rapha\u00ebl",
             "equipe":"Storm Surge",
             "abbr":"rap",
-            "pj":461,
+            "pj":462,
             "b":130,
-            "a":249,
-            "score":394,
+            "a":251,
+            "score":396,
             "massesalariale":83269834
         },
         {
@@ -90,10 +90,10 @@
             "nom":"Olivier",
             "equipe":"Slafgoalsky",
             "abbr":"oli",
-            "pj":472,
-            "b":157,
-            "a":174,
-            "score":341,
+            "pj":474,
+            "b":158,
+            "a":176,
+            "score":344,
             "massesalariale":70739751
         },
         {
@@ -101,7 +101,7 @@
             "nom":"J\u00e9r\u00e9mieD",
             "equipe":"Qualis",
             "abbr":"jed",
-            "pj":490,
+            "pj":491,
             "b":158,
             "a":218,
             "score":387,
@@ -112,10 +112,10 @@
             "nom":"J\u00e9r\u00e9myG",
             "equipe":"Monarchistes",
             "abbr":"jeg",
-            "pj":453,
-            "b":111,
+            "pj":455,
+            "b":113,
             "a":191,
-            "score":313,
+            "score":315,
             "massesalariale":72853334
         },
         {
