@@ -2110,18 +2110,6 @@
             "nomcapfriendly":null
         },
         {
-            "level_0":172,
-            "index":175,
-            "idnhl":8474141,
-            "idhockeyref":"kanepa01",
-            "prenomjoueur":"Patrick",
-            "nomjoueur":"Kane",
-            "position":"A",
-            "salaireactuel":null,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null
-        },
-        {
             "level_0":173,
             "index":176,
             "idnhl":8478444,
@@ -2780,6 +2768,18 @@
             "salaireactuel":3900000.0,
             "prenomcapfriendly":"Evan",
             "nomcapfriendly":"Bouchard"
+        },
+        {
+            "level_0":172,
+            "index":175,
+            "idnhl":8474141,
+            "idhockeyref":"kanepa01",
+            "prenomjoueur":"Patrick",
+            "nomjoueur":"Kane",
+            "position":"A",
+            "salaireactuel":2750000.0,
+            "prenomcapfriendly":"patrick",
+            "nomcapfriendly":"kane"
         },
         {
             "level_0":229,
