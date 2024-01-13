@@ -46,10 +46,10 @@
             "nom":"Gabriel",
             "equipe":"Tropics",
             "abbr":"gab",
-            "pj":506,
-            "b":149,
+            "pj":508,
+            "b":151,
             "a":264,
-            "score":427,
+            "score":429,
             "massesalariale":92442441
         },
         {
@@ -57,10 +57,10 @@
             "nom":"Cl\u00e9ment",
             "equipe":"Rocket",
             "abbr":"cle",
-            "pj":464,
+            "pj":466,
             "b":163,
-            "a":250,
-            "score":424,
+            "a":251,
+            "score":425,
             "massesalariale":83869866
         },
         {
@@ -68,10 +68,10 @@
             "nom":"Hubert",
             "equipe":"Patriotes",
             "abbr":"hub",
-            "pj":530,
-            "b":163,
-            "a":285,
-            "score":471,
+            "pj":532,
+            "b":164,
+            "a":287,
+            "score":474,
             "massesalariale":79341749
         },
         {
@@ -79,10 +79,10 @@
             "nom":"Rapha\u00ebl",
             "equipe":"Storm Surge",
             "abbr":"rap",
-            "pj":519,
+            "pj":522,
             "b":137,
-            "a":273,
-            "score":425,
+            "a":277,
+            "score":429,
             "massesalariale":78769834
         },
         {
@@ -90,10 +90,10 @@
             "nom":"Olivier",
             "equipe":"Slafgoalsky",
             "abbr":"oli",
-            "pj":529,
-            "b":169,
-            "a":202,
-            "score":382,
+            "pj":531,
+            "b":170,
+            "a":203,
+            "score":384,
             "massesalariale":81953084
         },
         {
@@ -112,10 +112,10 @@
             "nom":"J\u00e9r\u00e9myG",
             "equipe":"Monarchistes",
             "abbr":"jeg",
-            "pj":506,
-            "b":128,
-            "a":213,
-            "score":354,
+            "pj":509,
+            "b":129,
+            "a":216,
+            "score":358,
             "massesalariale":72853334
         },
         {
