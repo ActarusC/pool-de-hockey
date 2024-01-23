@@ -86,17 +86,6 @@
             "idnhl":null
         },
         {
-            "level_0":5,
-            "index":5,
-            "idchoix":110,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2024,
-            "original":"ROC",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":8,
             "index":8,
             "idchoix":113,
@@ -996,6 +985,17 @@
             "annee":2024,
             "original":"PAT",
             "actuel":"SLA",
+            "idnhl":null
+        },
+        {
+            "level_0":5,
+            "index":5,
+            "idchoix":110,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2024,
+            "original":"ROC",
+            "actuel":"SS",
             "idnhl":null
         },
         {
@@ -2033,17 +2033,6 @@
             "idnhl":null
         },
         {
-            "level_0":183,
-            "index":183,
-            "idchoix":212,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2025,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":184,
             "index":184,
             "idchoix":213,
@@ -2074,17 +2063,6 @@
             "annee":2025,
             "original":"SS",
             "actuel":"SS",
-            "idnhl":null
-        },
-        {
-            "level_0":187,
-            "index":187,
-            "idchoix":216,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2025,
-            "original":"PAT",
-            "actuel":"PAT",
             "idnhl":null
         },
         {
@@ -2517,17 +2495,6 @@
             "idnhl":null
         },
         {
-            "level_0":227,
-            "index":227,
-            "idchoix":252,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2025,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":228,
             "index":228,
             "idchoix":253,
@@ -2547,17 +2514,6 @@
             "annee":2025,
             "original":"ROC",
             "actuel":"ROC",
-            "idnhl":null
-        },
-        {
-            "level_0":230,
-            "index":230,
-            "idchoix":255,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2025,
-            "original":"SS",
-            "actuel":"NOR",
             "idnhl":null
         },
         {
@@ -2913,6 +2869,50 @@
             "idnhl":null
         },
         {
+            "level_0":183,
+            "index":183,
+            "idchoix":212,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2025,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":230,
+            "index":230,
+            "idchoix":255,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2025,
+            "original":"SS",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":227,
+            "index":227,
+            "idchoix":252,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2025,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":187,
+            "index":187,
+            "idchoix":216,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2025,
+            "original":"PAT",
+            "actuel":"ROC",
+            "idnhl":null
+        },
+        {
             "level_0":264,
             "index":264,
             "idchoix":290,
@@ -3174,17 +3174,6 @@
             "annee":2024,
             "original":"SLA",
             "actuel":"PAT",
-            "idnhl":null
-        },
-        {
-            "level_0":288,
-            "index":288,
-            "idchoix":257,
-            "ronde":2,
-            "type":"PRO",
-            "annee":2025,
-            "original":"SLA",
-            "actuel":"NOR",
             "idnhl":null
         },
         {
@@ -3474,17 +3463,6 @@
             "idnhl":null
         },
         {
-            "level_0":315,
-            "index":183,
-            "idchoix":212,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2026,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":316,
             "index":184,
             "idchoix":213,
@@ -3515,17 +3493,6 @@
             "annee":2026,
             "original":"SS",
             "actuel":"SS",
-            "idnhl":null
-        },
-        {
-            "level_0":319,
-            "index":187,
-            "idchoix":216,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2026,
-            "original":"PAT",
-            "actuel":"PAT",
             "idnhl":null
         },
         {
@@ -3881,6 +3848,28 @@
             "idnhl":null
         },
         {
+            "level_0":288,
+            "index":288,
+            "idchoix":257,
+            "ronde":2,
+            "type":"PRO",
+            "annee":2025,
+            "original":"SLA",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":319,
+            "index":187,
+            "idchoix":216,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2026,
+            "original":"PAT",
+            "actuel":"ROC",
+            "idnhl":null
+        },
+        {
             "level_0":352,
             "index":222,
             "idchoix":249,
@@ -3914,17 +3903,6 @@
             "idnhl":null
         },
         {
-            "level_0":355,
-            "index":227,
-            "idchoix":252,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2026,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":356,
             "index":228,
             "idchoix":253,
@@ -3944,17 +3922,6 @@
             "annee":2026,
             "original":"ROC",
             "actuel":"ROC",
-            "idnhl":null
-        },
-        {
-            "level_0":358,
-            "index":230,
-            "idchoix":255,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2026,
-            "original":"SS",
-            "actuel":"SS",
             "idnhl":null
         },
         {
@@ -4563,17 +4530,6 @@
             "idnhl":null
         },
         {
-            "level_0":415,
-            "index":288,
-            "idchoix":257,
-            "ronde":2,
-            "type":"PRO",
-            "annee":2026,
-            "original":"SLA",
-            "actuel":"SLA",
-            "idnhl":null
-        },
-        {
             "level_0":416,
             "index":180,
             "idchoix":209,
@@ -4607,17 +4563,6 @@
             "idnhl":null
         },
         {
-            "level_0":419,
-            "index":183,
-            "idchoix":212,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2027,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":420,
             "index":184,
             "idchoix":213,
@@ -4648,17 +4593,6 @@
             "annee":2027,
             "original":"SS",
             "actuel":"SS",
-            "idnhl":null
-        },
-        {
-            "level_0":423,
-            "index":187,
-            "idchoix":216,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2027,
-            "original":"PAT",
-            "actuel":"PAT",
             "idnhl":null
         },
         {
@@ -4835,6 +4769,61 @@
             "annee":2027,
             "original":"PAT",
             "actuel":"PAT",
+            "idnhl":null
+        },
+        {
+            "level_0":419,
+            "index":183,
+            "idchoix":212,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2027,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":358,
+            "index":230,
+            "idchoix":255,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2026,
+            "original":"SS",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":355,
+            "index":227,
+            "idchoix":252,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2026,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":415,
+            "index":288,
+            "idchoix":257,
+            "ronde":2,
+            "type":"PRO",
+            "annee":2026,
+            "original":"SLA",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":423,
+            "index":187,
+            "idchoix":216,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2027,
+            "original":"PAT",
+            "actuel":"ROC",
             "idnhl":null
         },
         {
@@ -5047,17 +5036,6 @@
             "idnhl":null
         },
         {
-            "level_0":459,
-            "index":227,
-            "idchoix":252,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2027,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":460,
             "index":228,
             "idchoix":253,
@@ -5077,17 +5055,6 @@
             "annee":2027,
             "original":"ROC",
             "actuel":"ROC",
-            "idnhl":null
-        },
-        {
-            "level_0":462,
-            "index":230,
-            "idchoix":255,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2027,
-            "original":"SS",
-            "actuel":"SS",
             "idnhl":null
         },
         {
@@ -5696,17 +5663,6 @@
             "idnhl":null
         },
         {
-            "level_0":519,
-            "index":288,
-            "idchoix":257,
-            "ronde":2,
-            "type":"PRO",
-            "annee":2027,
-            "original":"SLA",
-            "actuel":"SLA",
-            "idnhl":null
-        },
-        {
             "level_0":520,
             "index":180,
             "idchoix":209,
@@ -5737,17 +5693,6 @@
             "annee":2028,
             "original":"MON",
             "actuel":"MON",
-            "idnhl":null
-        },
-        {
-            "level_0":523,
-            "index":183,
-            "idchoix":212,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2028,
-            "original":"NOR",
-            "actuel":"NOR",
             "idnhl":null
         },
         {
@@ -5784,6 +5729,50 @@
             "idnhl":null
         },
         {
+            "level_0":523,
+            "index":183,
+            "idchoix":212,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2028,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":462,
+            "index":230,
+            "idchoix":255,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2027,
+            "original":"SS",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":459,
+            "index":227,
+            "idchoix":252,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2027,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":519,
+            "index":288,
+            "idchoix":257,
+            "ronde":2,
+            "type":"PRO",
+            "annee":2027,
+            "original":"SLA",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
             "level_0":527,
             "index":187,
             "idchoix":216,
@@ -5791,7 +5780,7 @@
             "type":"ENT",
             "annee":2028,
             "original":"PAT",
-            "actuel":"PAT",
+            "actuel":"ROC",
             "idnhl":null
         },
         {
@@ -6180,17 +6169,6 @@
             "idnhl":null
         },
         {
-            "level_0":563,
-            "index":227,
-            "idchoix":252,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2028,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":564,
             "index":228,
             "idchoix":253,
@@ -6210,17 +6188,6 @@
             "annee":2028,
             "original":"ROC",
             "actuel":"ROC",
-            "idnhl":null
-        },
-        {
-            "level_0":566,
-            "index":230,
-            "idchoix":255,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2028,
-            "original":"SS",
-            "actuel":"SS",
             "idnhl":null
         },
         {
@@ -6752,6 +6719,28 @@
             "idnhl":null
         },
         {
+            "level_0":566,
+            "index":230,
+            "idchoix":255,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2028,
+            "original":"SS",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":563,
+            "index":227,
+            "idchoix":252,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2028,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
             "level_0":616,
             "index":280,
             "idchoix":306,
@@ -6829,17 +6818,6 @@
             "idnhl":null
         },
         {
-            "level_0":623,
-            "index":288,
-            "idchoix":257,
-            "ronde":2,
-            "type":"PRO",
-            "annee":2028,
-            "original":"SLA",
-            "actuel":"SLA",
-            "idnhl":null
-        },
-        {
             "level_0":624,
             "index":180,
             "idchoix":209,
@@ -6873,17 +6851,6 @@
             "idnhl":null
         },
         {
-            "level_0":627,
-            "index":183,
-            "idchoix":212,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2029,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":628,
             "index":184,
             "idchoix":213,
@@ -6914,17 +6881,6 @@
             "annee":2029,
             "original":"SS",
             "actuel":"SS",
-            "idnhl":null
-        },
-        {
-            "level_0":631,
-            "index":187,
-            "idchoix":216,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2029,
-            "original":"PAT",
-            "actuel":"PAT",
             "idnhl":null
         },
         {
@@ -7313,17 +7269,6 @@
             "idnhl":null
         },
         {
-            "level_0":667,
-            "index":227,
-            "idchoix":252,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2029,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":668,
             "index":228,
             "idchoix":253,
@@ -7343,17 +7288,6 @@
             "annee":2029,
             "original":"ROC",
             "actuel":"ROC",
-            "idnhl":null
-        },
-        {
-            "level_0":670,
-            "index":230,
-            "idchoix":255,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2029,
-            "original":"SS",
-            "actuel":"SS",
             "idnhl":null
         },
         {
@@ -7709,6 +7643,61 @@
             "idnhl":null
         },
         {
+            "level_0":627,
+            "index":183,
+            "idchoix":212,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2029,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":670,
+            "index":230,
+            "idchoix":255,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2029,
+            "original":"SS",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":667,
+            "index":227,
+            "idchoix":252,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2029,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":623,
+            "index":288,
+            "idchoix":257,
+            "ronde":2,
+            "type":"PRO",
+            "annee":2028,
+            "original":"SLA",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":631,
+            "index":187,
+            "idchoix":216,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2029,
+            "original":"PAT",
+            "actuel":"ROC",
+            "idnhl":null
+        },
+        {
             "level_0":704,
             "index":264,
             "idchoix":290,
@@ -7962,17 +7951,6 @@
             "idnhl":null
         },
         {
-            "level_0":727,
-            "index":288,
-            "idchoix":257,
-            "ronde":2,
-            "type":"PRO",
-            "annee":2029,
-            "original":"SLA",
-            "actuel":"SLA",
-            "idnhl":null
-        },
-        {
             "level_0":728,
             "index":180,
             "idchoix":209,
@@ -8006,17 +7984,6 @@
             "idnhl":null
         },
         {
-            "level_0":731,
-            "index":183,
-            "idchoix":212,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2030,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":732,
             "index":184,
             "idchoix":213,
@@ -8047,17 +8014,6 @@
             "annee":2030,
             "original":"SS",
             "actuel":"SS",
-            "idnhl":null
-        },
-        {
-            "level_0":735,
-            "index":187,
-            "idchoix":216,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2030,
-            "original":"PAT",
-            "actuel":"PAT",
             "idnhl":null
         },
         {
@@ -8446,17 +8402,6 @@
             "idnhl":null
         },
         {
-            "level_0":771,
-            "index":227,
-            "idchoix":252,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2030,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":772,
             "index":228,
             "idchoix":253,
@@ -8476,17 +8421,6 @@
             "annee":2030,
             "original":"ROC",
             "actuel":"ROC",
-            "idnhl":null
-        },
-        {
-            "level_0":774,
-            "index":230,
-            "idchoix":255,
-            "ronde":1,
-            "type":"PRO",
-            "annee":2030,
-            "original":"SS",
-            "actuel":"SS",
             "idnhl":null
         },
         {
@@ -8674,6 +8608,50 @@
             "annee":2030,
             "original":"SLA",
             "actuel":"SLA",
+            "idnhl":null
+        },
+        {
+            "level_0":774,
+            "index":230,
+            "idchoix":255,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2030,
+            "original":"SS",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":771,
+            "index":227,
+            "idchoix":252,
+            "ronde":1,
+            "type":"PRO",
+            "annee":2030,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":727,
+            "index":288,
+            "idchoix":257,
+            "ronde":2,
+            "type":"PRO",
+            "annee":2029,
+            "original":"SLA",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":735,
+            "index":187,
+            "idchoix":216,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2030,
+            "original":"PAT",
+            "actuel":"ROC",
             "idnhl":null
         },
         {
@@ -9095,17 +9073,6 @@
             "idnhl":null
         },
         {
-            "level_0":831,
-            "index":288,
-            "idchoix":257,
-            "ronde":2,
-            "type":"PRO",
-            "annee":2030,
-            "original":"SLA",
-            "actuel":"SLA",
-            "idnhl":null
-        },
-        {
             "level_0":169,
             "index":169,
             "idchoix":196,
@@ -9191,6 +9158,39 @@
             "annee":2030,
             "original":"SLA",
             "actuel":"PAT",
+            "idnhl":null
+        },
+        {
+            "level_0":315,
+            "index":183,
+            "idchoix":212,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2026,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":731,
+            "index":183,
+            "idchoix":212,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2030,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":831,
+            "index":288,
+            "idchoix":257,
+            "ronde":2,
+            "type":"PRO",
+            "annee":2030,
+            "original":"SLA",
+            "actuel":"SS",
             "idnhl":null
         }
     ]
