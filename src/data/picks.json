@@ -1142,17 +1142,6 @@
             "idnhl":null
         },
         {
-            "level_0":101,
-            "index":102,
-            "idchoix":124,
-            "ronde":3,
-            "type":"ENT",
-            "annee":2024,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":102,
             "index":103,
             "idchoix":125,
@@ -1516,17 +1505,6 @@
             "idnhl":null
         },
         {
-            "level_0":135,
-            "index":140,
-            "idchoix":164,
-            "ronde":3,
-            "type":"PRO",
-            "annee":2024,
-            "original":"NOR",
-            "actuel":"NOR",
-            "idnhl":null
-        },
-        {
             "level_0":136,
             "index":141,
             "idchoix":166,
@@ -1813,17 +1791,6 @@
             "idnhl":null
         },
         {
-            "level_0":163,
-            "index":171,
-            "idchoix":199,
-            "ronde":7,
-            "type":"PRO",
-            "annee":2024,
-            "original":"SS",
-            "actuel":"SS",
-            "idnhl":null
-        },
-        {
             "level_0":164,
             "index":172,
             "idchoix":200,
@@ -1953,6 +1920,39 @@
             "annee":2024,
             "original":"ROC",
             "actuel":"ROC",
+            "idnhl":null
+        },
+        {
+            "level_0":163,
+            "index":171,
+            "idchoix":199,
+            "ronde":7,
+            "type":"PRO",
+            "annee":2024,
+            "original":"SS",
+            "actuel":"NOR",
+            "idnhl":null
+        },
+        {
+            "level_0":101,
+            "index":102,
+            "idchoix":124,
+            "ronde":3,
+            "type":"ENT",
+            "annee":2024,
+            "original":"NOR",
+            "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "level_0":135,
+            "index":140,
+            "idchoix":164,
+            "ronde":3,
+            "type":"PRO",
+            "annee":2024,
+            "original":"NOR",
+            "actuel":"SS",
             "idnhl":null
         },
         {
