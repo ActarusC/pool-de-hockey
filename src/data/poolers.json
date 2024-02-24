@@ -46,10 +46,10 @@
             "nom":"Gabriel",
             "equipe":"Tropics",
             "abbr":"gab",
-            "pj":690,
-            "b":197,
-            "a":355,
-            "score":568,
+            "pj":696,
+            "b":199,
+            "a":356,
+            "score":571,
             "massesalariale":80967441
         },
         {
@@ -68,10 +68,10 @@
             "nom":"Hubert",
             "equipe":"Patriotes",
             "abbr":"hub",
-            "pj":730,
+            "pj":732,
             "b":226,
-            "a":421,
-            "score":677,
+            "a":424,
+            "score":680,
             "massesalariale":79539916
         },
         {
@@ -79,10 +79,10 @@
             "nom":"Rapha\u00ebl",
             "equipe":"Storm Surge",
             "abbr":"rap",
-            "pj":713,
-            "b":207,
+            "pj":714,
+            "b":208,
             "a":363,
-            "score":593,
+            "score":594,
             "massesalariale":74169047
         },
         {
@@ -90,7 +90,7 @@
             "nom":"Olivier",
             "equipe":"Slafgoalsky",
             "abbr":"oli",
-            "pj":716,
+            "pj":717,
             "b":213,
             "a":262,
             "score":489,
@@ -101,10 +101,10 @@
             "nom":"J\u00e9r\u00e9mieD",
             "equipe":"Qualis",
             "abbr":"jed",
-            "pj":732,
-            "b":205,
+            "pj":733,
+            "b":207,
             "a":311,
-            "score":534,
+            "score":536,
             "massesalariale":81056666
         },
         {
@@ -112,10 +112,10 @@
             "nom":"J\u00e9r\u00e9myG",
             "equipe":"Monarchistes",
             "abbr":"jeg",
-            "pj":705,
+            "pj":708,
             "b":159,
-            "a":270,
-            "score":446,
+            "a":271,
+            "score":447,
             "massesalariale":69778334
         },
         {
@@ -123,10 +123,10 @@
             "nom":"F\u00e9lix-Antoine",
             "equipe":"Nordiques",
             "abbr":"fab",
-            "pj":724,
-            "b":239,
-            "a":368,
-            "score":634,
+            "pj":730,
+            "b":242,
+            "a":372,
+            "score":641,
             "massesalariale":82872857
         }
     ]
