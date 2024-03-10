@@ -46,10 +46,10 @@
             "nom":"Gabriel",
             "equipe":"Tropics",
             "abbr":"gab",
-            "pj":777,
-            "b":219,
-            "a":391,
-            "score":626,
+            "pj":784,
+            "b":221,
+            "a":393,
+            "score":630,
             "massesalariale":80967441
         },
         {
@@ -57,10 +57,10 @@
             "nom":"Cl\u00e9ment",
             "equipe":"Rocket",
             "abbr":"cle",
-            "pj":726,
-            "b":245,
-            "a":328,
-            "score":598,
+            "pj":734,
+            "b":246,
+            "a":330,
+            "score":601,
             "massesalariale":80863199
         },
         {
@@ -68,10 +68,10 @@
             "nom":"Hubert",
             "equipe":"Patriotes",
             "abbr":"hub",
-            "pj":821,
-            "b":247,
-            "a":473,
-            "score":753,
+            "pj":832,
+            "b":249,
+            "a":479,
+            "score":761,
             "massesalariale":79539916
         },
         {
@@ -79,10 +79,10 @@
             "nom":"Rapha\u00ebl",
             "equipe":"Storm Surge",
             "abbr":"rap",
-            "pj":795,
-            "b":229,
-            "a":407,
-            "score":661,
+            "pj":806,
+            "b":233,
+            "a":411,
+            "score":670,
             "massesalariale":74169047
         },
         {
@@ -90,10 +90,10 @@
             "nom":"Olivier",
             "equipe":"Slafgoalsky",
             "abbr":"oli",
-            "pj":798,
+            "pj":811,
             "b":237,
-            "a":291,
-            "score":543,
+            "a":296,
+            "score":548,
             "massesalariale":78711418
         },
         {
@@ -101,10 +101,10 @@
             "nom":"J\u00e9r\u00e9mieD",
             "equipe":"Qualis",
             "abbr":"jed",
-            "pj":806,
-            "b":223,
-            "a":346,
-            "score":590,
+            "pj":812,
+            "b":225,
+            "a":350,
+            "score":596,
             "massesalariale":81056666
         },
         {
@@ -112,10 +112,10 @@
             "nom":"J\u00e9r\u00e9myG",
             "equipe":"Monarchistes",
             "abbr":"jeg",
-            "pj":793,
+            "pj":802,
             "b":177,
-            "a":298,
-            "score":497,
+            "a":299,
+            "score":498,
             "massesalariale":69778334
         },
         {
@@ -123,10 +123,10 @@
             "nom":"F\u00e9lix-Antoine",
             "equipe":"Nordiques",
             "abbr":"fab",
-            "pj":822,
-            "b":270,
-            "a":435,
-            "score":736,
+            "pj":835,
+            "b":271,
+            "a":440,
+            "score":742,
             "massesalariale":82872857
         }
     ]
