@@ -46,7 +46,7 @@
             "nom":"Gabriel",
             "equipe":"Tropics",
             "abbr":"gab",
-            "pj":942,
+            "pj":943,
             "b":280,
             "a":494,
             "score":796,
@@ -57,10 +57,10 @@
             "nom":"Cl\u00e9ment",
             "equipe":"Rocket",
             "abbr":"cle",
-            "pj":874,
-            "b":294,
+            "pj":877,
+            "b":295,
             "a":399,
-            "score":725,
+            "score":726,
             "massesalariale":80863199
         },
         {
@@ -68,10 +68,10 @@
             "nom":"Hubert",
             "equipe":"Patriotes",
             "abbr":"hub",
-            "pj":1000,
-            "b":307,
-            "a":585,
-            "score":929,
+            "pj":1003,
+            "b":308,
+            "a":586,
+            "score":931,
             "massesalariale":71786916
         },
         {
@@ -79,10 +79,10 @@
             "nom":"Rapha\u00ebl",
             "equipe":"Storm Surge",
             "abbr":"rap",
-            "pj":955,
+            "pj":959,
             "b":269,
-            "a":501,
-            "score":800,
+            "a":502,
+            "score":801,
             "massesalariale":83434880
         },
         {
@@ -101,7 +101,7 @@
             "nom":"J\u00e9r\u00e9mieD",
             "equipe":"Qualis",
             "abbr":"jed",
-            "pj":961,
+            "pj":962,
             "b":267,
             "a":415,
             "score":707,
@@ -112,10 +112,10 @@
             "nom":"J\u00e9r\u00e9myG",
             "equipe":"Monarchistes",
             "abbr":"jeg",
-            "pj":962,
-            "b":215,
+            "pj":963,
+            "b":216,
             "a":345,
-            "score":584,
+            "score":585,
             "massesalariale":75599763
         },
         {
@@ -123,10 +123,10 @@
             "nom":"F\u00e9lix-Antoine",
             "equipe":"Nordiques",
             "abbr":"fab",
-            "pj":998,
+            "pj":1000,
             "b":343,
-            "a":528,
-            "score":916,
+            "a":530,
+            "score":918,
             "massesalariale":83077619
         }
     ]
