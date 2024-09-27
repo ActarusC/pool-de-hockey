@@ -4,7 +4,7 @@ date: "2024-09-27"
 title: "Règles de l'expansion 2024-2025"
 ---
 
-[Règles de MSHL](/regles)
+[Règles de la MSHL](/regles)
 
 # Calendrier
 - 2 octobre
@@ -33,7 +33,7 @@ Autres changements:
 - Les espoirs sont exemptés du repêchage d'expansion.
 
 ## Repêchage d'expansion
-**Joueurs éligibles**: joueurs non-protégés
+**Joueurs éligibles**: joueurs non-protégés<br>
 **Déroulement**: le 3-4 octobre à distance
 
 -	Les équipes d’expansion sélectionnent 1 joueur par équipe pour un total de **8 joueurs**.
@@ -46,7 +46,7 @@ Autres changements:
 -	L'équipe d'expansion est obligée de faire ses 8 sélections.
 
 ## Repêchage de priorité
-**Joueurs éligibles**: joueurs éligibles au [repêchage pro](/regles#draft)
+**Joueurs éligibles**: joueurs éligibles au [repêchage pro](/regles#draft)<br>
 **Déroulement**: le 3-4 octobre à distance
 
 -	Avant le repêchage pro, les équipes d’expansion participent à un repêchage de priorité de 4 rondes.
@@ -57,7 +57,7 @@ Autres changements:
 
 
 ## Repêchage pro
-**Joueurs éligibles**: joueurs éligibles au [repêchage pro](/regles#draft)
+**Joueurs éligibles**: joueurs éligibles au [repêchage pro](/regles#draft)<br>
 **Déroulement**: le 5 octobre 16h30
 
 -	L’ordre des sélections est déterminé ainsi :
@@ -72,7 +72,7 @@ Autres changements:
 
 
 ## Repêchage d'entrée
-**Joueur éligibles**: joueurs repêchés au repêchage d'entrée 2024 de la LNH
+**Joueur éligibles**: joueurs repêchés au repêchage d'entrée 2024 de la LNH<br>
 **Déroulement**: le 5 octobre 16h30
 
 -	Les équipes d'expansion participent à la loterie pour posséder le 1<sup>er</sup> choix au total du repêchage d'entrée. Voici les probabilités de posséder le 1<sup>er</sup> choix au total de chaque équipe:
