@@ -62,7 +62,7 @@ function entetePicks() {
     return (
         <div className="row">
             <div className="column">
-                {Array.from({ length: 2030 - currentSeason + 1 }, (_, i) => {
+                {Array.from({ length: 2030 - currentSeason}, (_, i) => {
                     const season = currentSeason + i;
                     return (
                         <div key={season}>
