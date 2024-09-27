@@ -7,7 +7,13 @@ title: "Règles générales de la MSHL"
 [Règles de l'expansion 2024-2025](/doc/regles_exp_2024)
 
 # Modifications des règles
-- Pour qu'une règle soit modifiée, elle doit être acceptée par toutes les équipes de la MSHL.
+- Pour qu'une règle soit modifiée, enlevée ou ajouté, elle doit être acceptée par le comité directeur de la MSHL.
+
+## Comité directeur de la MSHL
+- Hubert Cadieux
+- Félix-Antoine Beaudoin
+- Raphaël Green
+- Gabriel Vachon
 
 # Équipes actives et leur dirigeant
 - [Tropics (Gabriel Vachon)](/pooler/gab)
@@ -70,12 +76,12 @@ title: "Règles générales de la MSHL"
     - L'équipe dispose ensuite de 15 jours pour le ramener comme espoir: après 15 jours, le mouvement est irréversible.
 
 ## Date limite
-- Le jour du début de la saison, chaque équipe doit avoir soumis leur liste officielle de 14 joueurs de l'alignement, 6 joueurs de réserve et 15 espoirs.
+- Le jour du début de la saison (avant le premier match), chaque équipe doit avoir soumis leur liste officielle de 14 joueurs de l'alignement, 6 joueurs de réserve et 15 espoirs.
 - Avant cette date, le [ballotage](#ballo) n'est pas effectif.
 
 # <a name="ballo"></a>Ballotage
 - Pour retirer un joueur de son [équipe active](#equAct), une équipe doit le faire passer au ballotage.
-- À partir du moment où le joueur est au ballotage, chaque équipe dispose de 24h pour le réclamer.
+- À partir du moment où le joueur est au ballotage, chaque équipe dispose de 48h pour le réclamer.
 - L'ordre de sélection est l'inverse du classement au moment de la soumission.
 - L'équipe qui soumet un joueur au ballotage n'a aucune pénalité sur sa masse salariale.
 - Si l'[équipe active](#equAct) est supérieure à 20 joueurs, l'équipe concernée dispose de 48h pour libérer ou échanger un joueur.
@@ -88,6 +94,8 @@ title: "Règles générales de la MSHL"
 - Le repêchage d'entrée est composé de 5 rondes.
 - Les joueurs éligibles sont tous les joueurs repêchés au repêchage d’entrée de la LNH (celui précédant la saison).
 - Le 1<sup>er</sup> choix au total sera décidé selon une loterie dont les modalités seront établies par les compétiteurs au début de chaque saison.
+    - L'ordre du reste de la 1<sup>ère</sup> ronde sera l'ordre inverse du classement général.
+    - Les 3 meilleures équipes de la saison précédente ont une probabilité de 0% de gagner le 1<sup>er</sup> choix.
 - L'ordre pour les 4 autres rondes sera établi selon l'inverse du classement de la saison précédente.
 - Les choix du repêchage d'entrée sont échangeables.
 
@@ -116,14 +124,27 @@ title: "Règles générales de la MSHL"
 ## Gardiens
 - 2 points par victoire
 - 1 point supplémentaire par jeu blanc
+- 10 points par but
 
 # Échanges
 - Les équipes peuvent échanger des joueurs de l'[équipe active](#equAct), des [espoirs](#esp) et des choix des [repêchages](#draft) d'entrée et pro.
 - Les échanges sont permis tout au long de l'année.
-- La retenue de [salaire](#salaire) est permise jusqu'à 50% du salaire du joueur.
 - Les points qu’un joueur fait avec une équipe A restent pour l’équipe A même s’il est échangé. L’équipe B qui reçoit ce joueur ne peut seulement profiter des points que le joueur fera avec cette équipe.
 - Un échange est actif lorsque toutes les équipes de la LNH impliquées dans l’échange ne jouent pas actuellement.
 
+## Retenue de salaire
+- La retenue de [salaire](#salaire) est permise dans un échange.
+- Une équipe peut retenir jusqu'à 50% du salaire d'un joueur.
+- La retenue consécutive sur le salaire d'un même joueur par deux équipes différentes est permise. Exemple: Mark Donk a un cap hit de $5M et il est échangé de l'équipe A à B. A retient 50% de son salaire et il coûte donc $2,5M à équipe B. B peut ensuite échanger Mark Donk à C en retenant 50% de son salaire de $2,5M. Il coûterait donc $1,25M à C, et C peut l'échanger aussi etc.
+- La retenue de salaire doit se faire pour l'entièreté du contrat d'un joueur.  
+- Chaque équipe peut retenir le salaire d'un maximum de **5 joueurs**.
+- Les retenues de salaire ne sont pas échangeables, c'est-à-dire que A ne peut pas échanger à D le salaire qu'il retient sur Mark Donk.
+- Cette règle n'est pas rétroactive, c'est-à-dire que les équipes comment la saison 2024-2025 avec 5 emplacements de retenue de salaire disponibles peu importe le salaire qu'ils ont retenu dans le passé qui compte actuellement sur leur masse.
+
 # <a name="salaire"></a>Plafond salarial
-- Le poids salarial des joueurs suit leur salaire réel.
+- Le cap hit des joueurs suit leur cap hit réel.
+    - Si un joueur a un salaire retenu dans la LNH, son cap hit dans la MSHL reste son cap hit **avant** retenue de salaire.
+- La source de données par défaut est [PuckPedia](https://puckpedia.com/).
+    - Un pooler peut cependant faire appel à d'autres sources de données pour prouver un point.
 - Le plafond salarial suit le plafond salarial de la LNH.
+    - Plafond salarial pour 2024-2025: $88M
