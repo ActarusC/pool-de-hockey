@@ -18,14 +18,14 @@ title: "Règles générales de la MSHL"
 # Équipes actives et leur dirigeant
 - [Tropics (Gabriel Vachon)](/pooler/gab)
 - [Patriotes (Hubert Cadieux)](/pooler/hub)
-- [Rocket (Alex ?)](/pooler/ale)
+- [Rocket (Alexandre Therrien)](/pooler/ale)
 - [Storm Surge (Raphaël Green)](/pooler/rap)
 - [Slafgoalsky (Olivier Lestage)](/pooler/oli)
 - [Jockstraps (Loïc Duplantis)](/pooler/loi)
 - [Nordiques (Félix-Antoine Beaudoin)](/pooler/fab)
 - [Qualis (Jérémie Drouin)](/pooler/jed)
 - [Voyageurs (Nicholas Gaudet)](/pooler/nic)
-- [?? (Dannick Brochu)](/pooler/dan)
+- [Wild Generals (Dannick Brochu)](/pooler/dan)
 
 # Composition des équipes
 
