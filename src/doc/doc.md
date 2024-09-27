@@ -1,10 +1,10 @@
 ---
 slug: "/regles"
-date: "2021-02-01"
+date: "2024-09-27"
 title: "Règles générales de la MSHL"
 ---
 
-[Règles de l'expansion 2022-2023](/doc/reglesExp2022)
+[Règles de l'expansion 2024-2025](/doc/regles_exp_2024)
 
 # Modifications des règles
 - Pour qu'une règle soit modifiée, elle doit être acceptée par toutes les équipes de la MSHL.
@@ -12,8 +12,14 @@ title: "Règles générales de la MSHL"
 # Équipes actives et leur dirigeant
 - [Tropics (Gabriel Vachon)](/pooler/gab)
 - [Patriotes (Hubert Cadieux)](/pooler/hub)
-- [Rockets (Clément Cadieux)](/pooler/cle)
+- [Rocket (Alex ?)](/pooler/ale)
 - [Storm Surge (Raphaël Green)](/pooler/rap)
+- [Slafgoalsky (Olivier Lestage)](/pooler/oli)
+- [Jockstraps (Loïc Duplantis)](/pooler/loi)
+- [Nordiques (Félix-Antoine Beaudoin)](/pooler/fab)
+- [Qualis (Jérémie Drouin)](/pooler/jed)
+- [Voyageurs (Nicholas Gaudet)](/pooler/nic)
+- [?? (Dannick Brochu)](/pooler/dan)
 
 # Composition des équipes
 
@@ -29,21 +35,20 @@ title: "Règles générales de la MSHL"
     - 9 attaquants
     - 4 défenseurs
     - 1 gardien
+- Joueur joker: il est possible d'avoir un joueur joker et ainsi aligner 5 défenseurs ou 2 gardiens en enlevant un attaquant.
 
 #### Réserve
-- Les joueurs de réserve sont les joueurs qui ne produisent pas de points pour l'équipe
-- La réserve est composée d'un maximum de **6 joueurs**, peu importe la position
+- Les joueurs de réserve sont les joueurs qui ne produisent pas de points pour l'équipe.
+- La réserve est composée d'un maximum de **6 joueurs**, peu importe la position.
 
 #### Commutations alignement-réserve
-- 3 fois au cours de la saison, une équipe peut commuter un joueur de l'alignement et de la réserve.
-- Une commutation faite sous les conditions suivantes ne compte pas dans les 3 commutations par saison:
-    - Lorsqu'un joueur régulier se blesse, l'équipe peut le remplacer par un joueur de réserve. Dès que le joueur régulier redevient actif, l'équipe a le choix de le ramener dans l'alignement ou non.
-    - Lorsque l'équipe fait un échange impliquant un (des) joueur(s) actif(s)
+- Qu'un joueur soit blessé ou non, les commutations alignement-réserve peuvent seulement se faire les 1<sup>er</sup> et 15<sup>e</sup> jours du mois.
+- EXCEPTION: lorsqu'une équipe fait une transaction **qui implique un joueur de l'équipe active** (échange, ballottage, espoir devient actif, etc.), l'équipe peut faire des commutations alignement-réserve. 
 
 #### Ajouts temporaires
 *Les ajouts temporaires sont permis aux équipes qui, en temps normal, ont une équipe active complète (20 joueurs)
 
-- Si les blessures s'accumulent au point que l'équipe ne peut aligner 9 attaquants, 4 défenseurs et 1 gardien, l'équipe peut sélectionner un joueur qui n'est pas dans l'alignement de l'une des autres équipes du pool.
+- Si les blessures s'accumulent au point que l'équipe ne peut aligner 9 attaquants, 4 défenseurs et 1 gardien (ou alignement joker), l'équipe peut sélectionner un joueur qui n'est pas dans l'alignement de l'une des autres équipes du pool.
 - L'ajout du joueur temporaire ne doit pas faire que la [masse salariale](#salaire) de l'équipe devienne supérieure au plafond salarial. Les joueurs blessés sont exclus de la masse salariale.
 - Aussitôt que l'équipe peut aligner un alignement complet, le joueur temporaire redevient libre.
 - Dans le scénario où deux équipes peuvent profiter de cette règle en même temps, la priorité va à l'équipe la plus basse du classement. 
@@ -52,21 +57,21 @@ title: "Règles générales de la MSHL"
 - L'équipe complète est composée de l'équipe active et de la banque d'espoirs
 
 #### <a name="esp"></a>Espoirs
-- Les espoirs sont des joueurs qui ont joué moins de 15 matchs dans la LNH.
+- Les espoirs sont des joueurs qui ont joué moins de 30 matchs dans la LNH.
 - Ils ne produisent pas de points pour l'équipe.
-- La banque d'espoirs compte un maximum de 10 joueurs.
+- La banque d'espoirs compte un maximum de 15 joueurs.
 - Ils ne comptent pas sur la masse salariale de l'équipe.
 - Les espoirs ne sont pas éligibles au [ballotage](#ballo).
 
 #### Espoir qui devient joueur actif
-- Un espoir devient automatiquement un joueur actif ([équipe active](#equAct)) lorsqu'il joue son 15<sup>e</sup> match dans la LNH.
+- Un espoir devient automatiquement un joueur actif ([équipe active](#equAct)) lorsqu'il joue son 30<sup>e</sup> match dans la LNH.
     - Si une équipe dépasse le nombre de joueurs maximum après cet évènement, elle doit placer un joueur au [ballotage](#ballo) en suivant les règles du ballotage.
-- Une équipe peut elle-même placer un espoir dans son [équipe active](#equAct) même s'il a joué moins de 15 matchs.
-    - L'équipe dispose ensuite de 15 jours pour le ramener comme espoir: après 15 jours, le mouvement est irréversible
+- Une équipe peut elle-même placer un espoir dans son [équipe active](#equAct) même s'il a joué moins de 30 matchs.
+    - L'équipe dispose ensuite de 15 jours pour le ramener comme espoir: après 15 jours, le mouvement est irréversible.
 
 ## Date limite
-- Le 1<sup>er</sup> octobre, chaque équipe doit avoir soumis leur liste officielle de 14 joueurs de l'alignement, 6 joueurs de réserve et 10 espoirs.
-- Avant cette date, le [ballotage](#ballo) n'est pas effectif
+- Le jour du début de la saison, chaque équipe doit avoir soumis leur liste officielle de 14 joueurs de l'alignement, 6 joueurs de réserve et 15 espoirs.
+- Avant cette date, le [ballotage](#ballo) n'est pas effectif.
 
 # <a name="ballo"></a>Ballotage
 - Pour retirer un joueur de son [équipe active](#equAct), une équipe doit le faire passer au ballotage.
