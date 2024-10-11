@@ -3947,17 +3947,6 @@
             "id_capwages":null
         },
         {
-            "idnhl":8470621,
-            "idhockeyref":"perryco01",
-            "prenomjoueur":"Corey",
-            "nomjoueur":"Perry",
-            "position":"A",
-            "salaireactuel":4000000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
             "idnhl":8483460,
             "idhockeyref":"",
             "prenomjoueur":"David",
@@ -4351,6 +4340,17 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
+            "id_capwages":null
+        },
+        {
+            "idnhl":8470621,
+            "idhockeyref":"perryco01",
+            "prenomjoueur":"Cory",
+            "nomjoueur":"Perry",
+            "position":"A",
+            "salaireactuel":4000000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":null
         },
         {
