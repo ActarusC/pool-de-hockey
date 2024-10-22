@@ -46,10 +46,10 @@
             "nom":"Gabriel",
             "equipe":"Tropics",
             "abbr":"gab",
-            "pj":65,
+            "pj":67,
             "b":26,
-            "a":44,
-            "score":69,
+            "a":45,
+            "score":72,
             "massesalariale":77599583
         },
         {
@@ -57,9 +57,9 @@
             "nom":"Hubert",
             "equipe":"Patriotes",
             "abbr":"hub",
-            "pj":78,
+            "pj":79,
             "b":16,
-            "a":54,
+            "a":56,
             "score":70,
             "massesalariale":79452000
         },
@@ -68,10 +68,10 @@
             "nom":"Rapha\u00ebl",
             "equipe":"Storm Surge",
             "abbr":"rap",
-            "pj":78,
+            "pj":79,
             "b":26,
             "a":28,
-            "score":52,
+            "score":55,
             "massesalariale":83129654
         },
         {
@@ -79,9 +79,9 @@
             "nom":"Olivier",
             "equipe":"Slafgoalsky",
             "abbr":"oli",
-            "pj":74,
-            "b":12,
-            "a":42,
+            "pj":76,
+            "b":13,
+            "a":44,
             "score":55,
             "massesalariale":65783584
         },
@@ -90,10 +90,10 @@
             "nom":"J\u00e9r\u00e9mieD",
             "equipe":"Qualis",
             "abbr":"jed",
-            "pj":70,
+            "pj":71,
             "b":19,
             "a":32,
-            "score":50,
+            "score":51,
             "massesalariale":63675000
         },
         {
@@ -101,10 +101,10 @@
             "nom":"F\u00e9lix-Antoine",
             "equipe":"Nordiques",
             "abbr":"fab",
-            "pj":68,
+            "pj":69,
             "b":21,
             "a":30,
-            "score":52,
+            "score":55,
             "massesalariale":75494166
         },
         {
@@ -112,8 +112,8 @@
             "nom":"Nicholas",
             "equipe":"Voyageurs",
             "abbr":"nic",
-            "pj":69,
-            "b":21,
+            "pj":71,
+            "b":22,
             "a":28,
             "score":51,
             "massesalariale":40693274
@@ -126,7 +126,7 @@
             "pj":78,
             "b":32,
             "a":34,
-            "score":67,
+            "score":69,
             "massesalariale":60575357
         },
         {
@@ -145,9 +145,9 @@
             "nom":"Alexandre",
             "equipe":"Rocket",
             "abbr":"ale",
-            "pj":69,
-            "b":28,
-            "a":28,
+            "pj":71,
+            "b":30,
+            "a":29,
             "score":60,
             "massesalariale":60189866
         }
