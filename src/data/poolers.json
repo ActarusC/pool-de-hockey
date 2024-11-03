@@ -50,7 +50,7 @@
             "b":54,
             "a":94,
             "score":151,
-            "massesalariale":77599583
+            "massesalariale":86328750
         },
         {
             "id":"PAT",
@@ -61,7 +61,7 @@
             "b":35,
             "a":85,
             "score":121,
-            "massesalariale":79452000
+            "massesalariale":84735334
         },
         {
             "id":"SS",
@@ -72,7 +72,7 @@
             "b":55,
             "a":69,
             "score":128,
-            "massesalariale":83129654
+            "massesalariale":82616388
         },
         {
             "id":"SLA",
@@ -83,7 +83,7 @@
             "b":37,
             "a":75,
             "score":116,
-            "massesalariale":65783584
+            "massesalariale":97855000
         },
         {
             "id":"QUA",
@@ -94,7 +94,7 @@
             "b":35,
             "a":56,
             "score":94,
-            "massesalariale":63675000
+            "massesalariale":83090457
         },
         {
             "id":"NOR",
@@ -105,7 +105,7 @@
             "b":50,
             "a":66,
             "score":123,
-            "massesalariale":75494166
+            "massesalariale":85200833
         },
         {
             "id":"VOY",
@@ -116,7 +116,7 @@
             "b":42,
             "a":63,
             "score":109,
-            "massesalariale":40693274
+            "massesalariale":80782440
         },
         {
             "id":"JOC",
@@ -127,7 +127,7 @@
             "b":57,
             "a":77,
             "score":138,
-            "massesalariale":60575357
+            "massesalariale":83985357
         },
         {
             "id":"TWG",
@@ -138,7 +138,7 @@
             "b":29,
             "a":58,
             "score":88,
-            "massesalariale":36730001
+            "massesalariale":88095000
         },
         {
             "id":"ROC",
@@ -149,7 +149,7 @@
             "b":53,
             "a":63,
             "score":121,
-            "massesalariale":60189866
+            "massesalariale":87192857
         }
     ]
 }

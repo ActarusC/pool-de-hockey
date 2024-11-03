@@ -50,7 +50,7 @@
             "salaireactuel":8500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"mika-zibanejad"
         },
         {
             "idnhl":8480018,
@@ -61,7 +61,7 @@
             "salaireactuel":7875000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"nick-suzuki"
         },
         {
             "idnhl":8481528,
@@ -72,7 +72,7 @@
             "salaireactuel":7100000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"dylan-cozens"
         },
         {
             "idnhl":8478472,
@@ -83,7 +83,7 @@
             "salaireactuel":2950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"mathieu-joseph"
         },
         {
             "idnhl":8479318,
@@ -91,10 +91,10 @@
             "prenomjoueur":"Auston",
             "nomjoueur":"Matthews",
             "position":"C",
-            "salaireactuel":11640250.0,
+            "salaireactuel":13250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"auston-matthews"
         },
         {
             "idnhl":8478427,
@@ -102,10 +102,10 @@
             "prenomjoueur":"Sebastian",
             "nomjoueur":"Aho",
             "position":"C",
-            "salaireactuel":8460250.0,
+            "salaireactuel":775000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"sebastian-aho"
         },
         {
             "idnhl":8481068,
@@ -113,10 +113,10 @@
             "prenomjoueur":"Yegor",
             "nomjoueur":"Sharangovich",
             "position":"C",
-            "salaireactuel":3100000.0,
+            "salaireactuel":5750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"yegor-sharangovich"
         },
         {
             "idnhl":8475184,
@@ -127,7 +127,7 @@
             "salaireactuel":6500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"chris-kreider"
         },
         {
             "idnhl":8476923,
@@ -138,7 +138,7 @@
             "salaireactuel":6250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"damon-severson"
         },
         {
             "idnhl":8478055,
@@ -146,10 +146,10 @@
             "prenomjoueur":"Gustav",
             "nomjoueur":"Forsling",
             "position":"D",
-            "salaireactuel":2666667.0,
+            "salaireactuel":5750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"gustav-forsling"
         },
         {
             "idnhl":8480817,
@@ -160,7 +160,7 @@
             "salaireactuel":3872000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"k-andre-miller"
         },
         {
             "idnhl":8475883,
@@ -168,10 +168,10 @@
             "prenomjoueur":"Frederik",
             "nomjoueur":"Andersen",
             "position":"G",
-            "salaireactuel":3400000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8479514,
@@ -179,10 +179,10 @@
             "prenomjoueur":"Rem",
             "nomjoueur":"Pitlick",
             "position":"C",
-            "salaireactuel":1100000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8477465,
@@ -190,10 +190,10 @@
             "prenomjoueur":"Tristan",
             "nomjoueur":"Jarry",
             "position":"G",
-            "salaireactuel":5375000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8481546,
@@ -204,7 +204,7 @@
             "salaireactuel":1600000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"cam-york"
         },
         {
             "idnhl":8482089,
@@ -212,10 +212,10 @@
             "prenomjoueur":"Jake",
             "nomjoueur":"Neighbours",
             "position":"A",
-            "salaireactuel":835833.0,
+            "salaireactuel":897500.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jake-neighbours"
         },
         {
             "idnhl":8482125,
@@ -223,10 +223,10 @@
             "prenomjoueur":"Alexander",
             "nomjoueur":"Holtz",
             "position":"A",
-            "salaireactuel":894167.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"alexander-holtz"
         },
         {
             "idnhl":8483515,
@@ -234,10 +234,10 @@
             "prenomjoueur":"Juraj",
             "nomjoueur":"Slafkovsky",
             "position":"A",
-            "salaireactuel":950000.0,
+            "salaireactuel":7600000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"juraj-slafkovsky"
         },
         {
             "idnhl":8483464,
@@ -245,10 +245,10 @@
             "prenomjoueur":"Marco",
             "nomjoueur":"Kasper",
             "position":"C",
-            "salaireactuel":918333.0,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"marco-kasper"
         },
         {
             "idnhl":8483500,
@@ -256,10 +256,10 @@
             "prenomjoueur":"Noah",
             "nomjoueur":"Ostlund",
             "position":"C",
-            "salaireactuel":918333.0,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"noah-ostlund"
         },
         {
             "idnhl":8483442,
@@ -267,10 +267,10 @@
             "prenomjoueur":"Jagger",
             "nomjoueur":"Firkus",
             "position":"A",
-            "salaireactuel":923333.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483508,
@@ -278,10 +278,10 @@
             "prenomjoueur":"Topi",
             "nomjoueur":"Ronni",
             "position":"C",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482762,
@@ -289,10 +289,10 @@
             "prenomjoueur":"Simon",
             "nomjoueur":"Edvinsson",
             "position":"D",
-            "salaireactuel":894167.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"simon-edvinsson"
         },
         {
             "idnhl":8482166,
@@ -300,10 +300,10 @@
             "prenomjoueur":"Shakir",
             "nomjoueur":"Mukhamadullin",
             "position":"D",
-            "salaireactuel":894167.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"shakir-mukhamadullin"
         },
         {
             "idnhl":8478864,
@@ -314,7 +314,7 @@
             "salaireactuel":9000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"kirill-kaprizov"
         },
         {
             "idnhl":8476453,
@@ -325,7 +325,7 @@
             "salaireactuel":9500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"nikita-kucherov"
         },
         {
             "idnhl":8481559,
@@ -336,7 +336,7 @@
             "salaireactuel":8000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jack-hughes"
         },
         {
             "idnhl":8479420,
@@ -347,7 +347,7 @@
             "salaireactuel":7142857.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"tage-thompson"
         },
         {
             "idnhl":8481618,
@@ -358,7 +358,7 @@
             "salaireactuel":2900000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"alex-newhook"
         },
         {
             "idnhl":8482113,
@@ -366,10 +366,10 @@
             "prenomjoueur":"Anton",
             "nomjoueur":"Lundell",
             "position":"C",
-            "salaireactuel":925000.0,
+            "salaireactuel":5000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"anton-lundell"
         },
         {
             "idnhl":8476346,
@@ -377,10 +377,10 @@
             "prenomjoueur":"Johnny",
             "nomjoueur":"Gaudreau",
             "position":"A",
-            "salaireactuel":9750000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482079,
@@ -388,10 +388,10 @@
             "prenomjoueur":"Marco",
             "nomjoueur":"Rossi",
             "position":"C",
-            "salaireactuel":863333.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"marco-rossi"
         },
         {
             "idnhl":8483808,
@@ -402,7 +402,7 @@
             "salaireactuel":5500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"andrei-kuzmenko"
         },
         {
             "idnhl":8482745,
@@ -410,10 +410,10 @@
             "prenomjoueur":"Mason",
             "nomjoueur":"McTavish",
             "position":"C",
-            "salaireactuel":894167.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"mason-mctavish"
         },
         {
             "idnhl":8482660,
@@ -421,10 +421,10 @@
             "prenomjoueur":"Kent",
             "nomjoueur":"Johnson",
             "position":"C",
-            "salaireactuel":925000.0,
+            "salaireactuel":1800000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"kent-johnson"
         },
         {
             "idnhl":8473419,
@@ -435,7 +435,7 @@
             "salaireactuel":6125000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"brad-marchand"
         },
         {
             "idnhl":8479323,
@@ -446,7 +446,7 @@
             "salaireactuel":9500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"adam-fox"
         },
         {
             "idnhl":8480069,
@@ -457,7 +457,7 @@
             "salaireactuel":9000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"cale-makar"
         },
         {
             "idnhl":8481542,
@@ -465,10 +465,10 @@
             "prenomjoueur":"Moritz",
             "nomjoueur":"Seider",
             "position":"D",
-            "salaireactuel":863333.0,
+            "salaireactuel":8550000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"moritz-seider"
         },
         {
             "idnhl":8480839,
@@ -476,10 +476,10 @@
             "prenomjoueur":"Rasmus",
             "nomjoueur":"Dahlin",
             "position":"D",
-            "salaireactuel":6000000.0,
+            "salaireactuel":11000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"rasmus-dahlin"
         },
         {
             "idnhl":8480434,
@@ -487,10 +487,10 @@
             "prenomjoueur":"Sean",
             "nomjoueur":"Durzi",
             "position":"D",
-            "salaireactuel":1700000.0,
+            "salaireactuel":6000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"sean-durzi"
         },
         {
             "idnhl":8476883,
@@ -498,10 +498,10 @@
             "prenomjoueur":"Andrei",
             "nomjoueur":"Vasilevskiy",
             "position":"G",
-            "salaireactuel":9500000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8480313,
@@ -509,10 +509,10 @@
             "prenomjoueur":"Logan",
             "nomjoueur":"Thompson",
             "position":"G",
-            "salaireactuel":766667.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483491,
@@ -523,7 +523,7 @@
             "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"ivan-miroshnichenko"
         },
         {
             "idnhl":8483476,
@@ -534,7 +534,7 @@
             "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jonathan-lekkerimaki"
         },
         {
             "idnhl":8483482,
@@ -545,7 +545,7 @@
             "salaireactuel":896667.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"tristan-luneau"
         },
         {
             "idnhl":8483487,
@@ -553,10 +553,10 @@
             "prenomjoueur":"Rutger",
             "nomjoueur":"McGroarty",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"rutger-mcgroarty"
         },
         {
             "idnhl":8483485,
@@ -564,10 +564,10 @@
             "prenomjoueur":"Denton",
             "nomjoueur":"Mateychuk",
             "position":"D",
-            "salaireactuel":918333.0,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"denton-mateychuk"
         },
         {
             "idnhl":8482684,
@@ -578,7 +578,7 @@
             "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"luke-hughes"
         },
         {
             "idnhl":8482661,
@@ -586,10 +586,10 @@
             "prenomjoueur":"Jesper",
             "nomjoueur":"Wallstedt",
             "position":"G",
-            "salaireactuel":925000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8478449,
@@ -600,7 +600,7 @@
             "salaireactuel":8450000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"roope-hintz"
         },
         {
             "idnhl":8478873,
@@ -611,7 +611,7 @@
             "salaireactuel":7000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"troy-terry"
         },
         {
             "idnhl":8477496,
@@ -619,10 +619,10 @@
             "prenomjoueur":"Elias",
             "nomjoueur":"Lindholm",
             "position":"C",
-            "salaireactuel":4850000.0,
+            "salaireactuel":7750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"elias-lindholm"
         },
         {
             "idnhl":8477451,
@@ -630,10 +630,10 @@
             "prenomjoueur":"Ryan",
             "nomjoueur":"Hartman",
             "position":"A",
-            "salaireactuel":1700000.0,
+            "salaireactuel":4000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"ryan-hartman"
         },
         {
             "idnhl":8478047,
@@ -644,7 +644,7 @@
             "salaireactuel":4500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"michael-bunting"
         },
         {
             "idnhl":8479385,
@@ -655,7 +655,7 @@
             "salaireactuel":8125000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jordan-kyrou"
         },
         {
             "idnhl":8478398,
@@ -666,7 +666,7 @@
             "salaireactuel":7142857.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"kyle-connor"
         },
         {
             "idnhl":8476887,
@@ -677,7 +677,7 @@
             "salaireactuel":8500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"filip-forsberg"
         },
         {
             "idnhl":8477942,
@@ -688,7 +688,7 @@
             "salaireactuel":7875000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"kevin-fiala"
         },
         {
             "idnhl":8480865,
@@ -699,7 +699,7 @@
             "salaireactuel":4000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"noah-dobson"
         },
         {
             "idnhl":8477447,
@@ -710,7 +710,7 @@
             "salaireactuel":5200000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"shea-theodore"
         },
         {
             "idnhl":8476792,
@@ -721,7 +721,7 @@
             "salaireactuel":6500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"torey-krug"
         },
         {
             "idnhl":8474593,
@@ -729,10 +729,10 @@
             "prenomjoueur":"Jacob",
             "nomjoueur":"Markstrom",
             "position":"G",
-            "salaireactuel":6000000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8478009,
@@ -740,10 +740,10 @@
             "prenomjoueur":"Ilya",
             "nomjoueur":"Sorokin",
             "position":"G",
-            "salaireactuel":4000000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8479661,
@@ -754,7 +754,7 @@
             "salaireactuel":2665000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"tanner-jeannot"
         },
         {
             "idnhl":8482105,
@@ -762,10 +762,10 @@
             "prenomjoueur":"Jake",
             "nomjoueur":"Sanderson",
             "position":"D",
-            "salaireactuel":925000.0,
+            "salaireactuel":8050000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jake-sanderson"
         },
         {
             "idnhl":8475753,
@@ -776,7 +776,7 @@
             "salaireactuel":6500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"justin-faulk"
         },
         {
             "idnhl":8477429,
@@ -787,7 +787,7 @@
             "salaireactuel":5625000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"andrew-copp"
         },
         {
             "idnhl":8482740,
@@ -795,10 +795,10 @@
             "prenomjoueur":"Wyatt",
             "nomjoueur":"Johnston",
             "position":"C",
-            "salaireactuel":894167.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"wyatt-johnston"
         },
         {
             "idnhl":8482702,
@@ -806,10 +806,10 @@
             "prenomjoueur":"Logan",
             "nomjoueur":"Stankoven",
             "position":"C",
-            "salaireactuel":814167.0,
+            "salaireactuel":859167.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"logan-stankoven"
         },
         {
             "idnhl":8483465,
@@ -817,10 +817,10 @@
             "prenomjoueur":"Joakim",
             "nomjoueur":"Kemell",
             "position":"A",
-            "salaireactuel":918333.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483506,
@@ -828,10 +828,10 @@
             "prenomjoueur":"Sam",
             "nomjoueur":"Rinzel",
             "position":"D",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483428,
@@ -839,10 +839,10 @@
             "prenomjoueur":"Filip",
             "nomjoueur":"Bystedt",
             "position":"C",
-            "salaireactuel":950000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483516,
@@ -850,10 +850,10 @@
             "prenomjoueur":"Jimmy",
             "nomjoueur":"Snuggerud",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482124,
@@ -861,10 +861,10 @@
             "prenomjoueur":"Quinton",
             "nomjoueur":"Byfield",
             "position":"C",
-            "salaireactuel":894167.0,
+            "salaireactuel":6250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"quinton-byfield"
         },
         {
             "idnhl":8478458,
@@ -872,10 +872,10 @@
             "prenomjoueur":"Jack",
             "nomjoueur":"Roslovic",
             "position":"C",
-            "salaireactuel":4000000.0,
+            "salaireactuel":2800000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jack-roslovic"
         },
         {
             "idnhl":8482097,
@@ -883,10 +883,10 @@
             "prenomjoueur":"Jack",
             "nomjoueur":"Quinn",
             "position":"A",
-            "salaireactuel":863333.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jack-quinn"
         },
         {
             "idnhl":8475810,
@@ -897,7 +897,7 @@
             "salaireactuel":5125000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"bryan-rust"
         },
         {
             "idnhl":8481557,
@@ -908,7 +908,7 @@
             "salaireactuel":7000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"matt-boldy"
         },
         {
             "idnhl":8482116,
@@ -919,7 +919,7 @@
             "salaireactuel":8350000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"tim-stutzle"
         },
         {
             "idnhl":8482679,
@@ -930,7 +930,7 @@
             "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"matt-coronato"
         },
         {
             "idnhl":8478401,
@@ -941,7 +941,7 @@
             "salaireactuel":4750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"pavel-zacha"
         },
         {
             "idnhl":8481540,
@@ -952,7 +952,7 @@
             "salaireactuel":7850000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"cole-caufield"
         },
         {
             "idnhl":8478042,
@@ -960,10 +960,10 @@
             "prenomjoueur":"Viktor",
             "nomjoueur":"Arvidsson",
             "position":"A",
-            "salaireactuel":4250000.0,
+            "salaireactuel":4000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"viktor-arvidsson"
         },
         {
             "idnhl":8475786,
@@ -974,7 +974,7 @@
             "salaireactuel":5500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"zach-hyman"
         },
         {
             "idnhl":8480727,
@@ -985,7 +985,7 @@
             "salaireactuel":2750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"zach-whitecloud"
         },
         {
             "idnhl":8474568,
@@ -996,7 +996,7 @@
             "salaireactuel":2750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"luke-schenn"
         },
         {
             "idnhl":8479345,
@@ -1007,7 +1007,7 @@
             "salaireactuel":4600000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jakob-chychrun"
         },
         {
             "idnhl":8479398,
@@ -1018,7 +1018,7 @@
             "salaireactuel":5000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"samuel-girard"
         },
         {
             "idnhl":8475789,
@@ -1026,10 +1026,10 @@
             "prenomjoueur":"Jack",
             "nomjoueur":"Campbell",
             "position":"G",
-            "salaireactuel":5000000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8474600,
@@ -1040,7 +1040,7 @@
             "salaireactuel":9059000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"roman-josi"
         },
         {
             "idnhl":8475692,
@@ -1048,10 +1048,10 @@
             "prenomjoueur":"Mats",
             "nomjoueur":"Zuccarello",
             "position":"A",
-            "salaireactuel":6000000.0,
+            "salaireactuel":4125000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"mats-zuccarello"
         },
         {
             "idnhl":8482671,
@@ -1059,10 +1059,10 @@
             "prenomjoueur":"Owen",
             "nomjoueur":"Power",
             "position":"D",
-            "salaireactuel":916667.0,
+            "salaireactuel":8350000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"owen-power"
         },
         {
             "idnhl":8480801,
@@ -1070,10 +1070,10 @@
             "prenomjoueur":"Brady",
             "nomjoueur":"Tkachuk",
             "position":"A",
-            "salaireactuel":8205714.0,
+            "salaireactuel":8330674.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"brady-tkachuk"
         },
         {
             "idnhl":8476468,
@@ -1084,7 +1084,7 @@
             "salaireactuel":8000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"j-t-miller"
         },
         {
             "idnhl":8477479,
@@ -1095,7 +1095,7 @@
             "salaireactuel":5500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"tyler-bertuzzi"
         },
         {
             "idnhl":8480002,
@@ -1106,7 +1106,7 @@
             "salaireactuel":7250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"nico-hischier"
         },
         {
             "idnhl":8483488,
@@ -1114,10 +1114,10 @@
             "prenomjoueur":"Filip",
             "nomjoueur":"Mesar",
             "position":"A",
-            "salaireactuel":918333.0,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"filip-mesar"
         },
         {
             "idnhl":8483445,
@@ -1125,10 +1125,10 @@
             "prenomjoueur":"Cutter",
             "nomjoueur":"Gauthier",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"cutter-gauthier"
         },
         {
             "idnhl":8483472,
@@ -1136,10 +1136,10 @@
             "prenomjoueur":"Maveric",
             "nomjoueur":"Lamoureux",
             "position":"D",
-            "salaireactuel":918333.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483503,
@@ -1147,10 +1147,10 @@
             "prenomjoueur":"Owen",
             "nomjoueur":"Pickering",
             "position":"D",
-            "salaireactuel":918333.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482730,
@@ -1158,10 +1158,10 @@
             "prenomjoueur":"Brandt",
             "nomjoueur":"Clarke",
             "position":"D",
-            "salaireactuel":863333.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"brandt-clarke"
         },
         {
             "idnhl":8482780,
@@ -1169,10 +1169,10 @@
             "prenomjoueur":"Chaz",
             "nomjoueur":"Lucius",
             "position":"C",
-            "salaireactuel":894167.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482673,
@@ -1180,10 +1180,10 @@
             "prenomjoueur":"Xavier",
             "nomjoueur":"Bourgault",
             "position":"C",
-            "salaireactuel":925000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482747,
@@ -1191,10 +1191,10 @@
             "prenomjoueur":"Brennan",
             "nomjoueur":"Othmann",
             "position":"A",
-            "salaireactuel":863333.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"brennan-othmann"
         },
         {
             "idnhl":8482141,
@@ -1202,10 +1202,10 @@
             "prenomjoueur":"Lukas",
             "nomjoueur":"Cormier",
             "position":"D",
-            "salaireactuel":793333.0,
+            "salaireactuel":813333.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"lukas-cormier"
         },
         {
             "idnhl":8482657,
@@ -1213,10 +1213,10 @@
             "prenomjoueur":"Sebastian",
             "nomjoueur":"Cossa",
             "position":"G",
-            "salaireactuel":863333.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8478420,
@@ -1227,7 +1227,7 @@
             "salaireactuel":9250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"mikko-rantanen"
         },
         {
             "idnhl":8470638,
@@ -1235,10 +1235,10 @@
             "prenomjoueur":"Patrice",
             "nomjoueur":"Bergeron",
             "position":"C",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8478445,
@@ -1249,7 +1249,7 @@
             "salaireactuel":9150000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"mathew-barzal"
         },
         {
             "idnhl":8480023,
@@ -1260,7 +1260,7 @@
             "salaireactuel":8125000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"robert-thomas"
         },
         {
             "idnhl":8482078,
@@ -1268,10 +1268,10 @@
             "prenomjoueur":"Lucas",
             "nomjoueur":"Raymond",
             "position":"A",
-            "salaireactuel":925000.0,
+            "salaireactuel":8075000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"lucas-raymond"
         },
         {
             "idnhl":8477404,
@@ -1279,10 +1279,10 @@
             "prenomjoueur":"Jake",
             "nomjoueur":"Guentzel",
             "position":"A",
-            "salaireactuel":6000000.0,
+            "salaireactuel":9000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jake-guentzel"
         },
         {
             "idnhl":8477940,
@@ -1293,7 +1293,7 @@
             "salaireactuel":6000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"nikolaj-ehlers"
         },
         {
             "idnhl":8476882,
@@ -1304,7 +1304,7 @@
             "salaireactuel":5400000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"teuvo-teravainen"
         },
         {
             "idnhl":8475726,
@@ -1312,10 +1312,10 @@
             "prenomjoueur":"Tyler",
             "nomjoueur":"Toffoli",
             "position":"A",
-            "salaireactuel":4250000.0,
+            "salaireactuel":6000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"tyler-toffoli"
         },
         {
             "idnhl":8478397,
@@ -1326,7 +1326,7 @@
             "salaireactuel":4550000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"rasmus-andersson"
         },
         {
             "idnhl":8474590,
@@ -1337,7 +1337,7 @@
             "salaireactuel":8000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"john-carlson"
         },
         {
             "idnhl":8477932,
@@ -1348,7 +1348,7 @@
             "salaireactuel":7500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"aaron-ekblad"
         },
         {
             "idnhl":8475197,
@@ -1356,10 +1356,10 @@
             "prenomjoueur":"Tyson",
             "nomjoueur":"Barrie",
             "position":"D",
-            "salaireactuel":4500000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8480280,
@@ -1367,10 +1367,10 @@
             "prenomjoueur":"Jeremy",
             "nomjoueur":"Swayman",
             "position":"G",
-            "salaireactuel":3475000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8477949,
@@ -1381,7 +1381,7 @@
             "salaireactuel":4750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"alex-tuch"
         },
         {
             "idnhl":8482705,
@@ -1389,10 +1389,10 @@
             "prenomjoueur":"Cole",
             "nomjoueur":"Sillinger",
             "position":"C",
-            "salaireactuel":925000.0,
+            "salaireactuel":2250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"cole-sillinger"
         },
         {
             "idnhl":8480925,
@@ -1400,10 +1400,10 @@
             "prenomjoueur":"Pavel",
             "nomjoueur":"Francouz",
             "position":"G",
-            "salaireactuel":2000000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8480871,
@@ -1411,10 +1411,10 @@
             "prenomjoueur":"Adam",
             "nomjoueur":"Boqvist",
             "position":"D",
-            "salaireactuel":2600000.0,
+            "salaireactuel":775000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"adam-boqvist"
         },
         {
             "idnhl":8480849,
@@ -1422,10 +1422,10 @@
             "prenomjoueur":"Barrett",
             "nomjoueur":"Hayton",
             "position":"C",
-            "salaireactuel":1775000.0,
+            "salaireactuel":2650000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"barrett-hayton"
         },
         {
             "idnhl":8483424,
@@ -1433,10 +1433,10 @@
             "prenomjoueur":"Owen",
             "nomjoueur":"Beck",
             "position":"C",
-            "salaireactuel":885000.0,
+            "salaireactuel":916667.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"owen-beck"
         },
         {
             "idnhl":8483444,
@@ -1444,10 +1444,10 @@
             "prenomjoueur":"Nathan",
             "nomjoueur":"Gaucher",
             "position":"C",
-            "salaireactuel":918333.0,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"nathan-gaucher"
         },
         {
             "idnhl":8483429,
@@ -1455,10 +1455,10 @@
             "prenomjoueur":"Seamus",
             "nomjoueur":"Casey",
             "position":"D",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483490,
@@ -1466,10 +1466,10 @@
             "prenomjoueur":"Pavel",
             "nomjoueur":"Mintyukov",
             "position":"D",
-            "salaireactuel":918333.0,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"pavel-mintyukov"
         },
         {
             "idnhl":8482087,
@@ -1477,10 +1477,10 @@
             "prenomjoueur":"Kaiden",
             "nomjoueur":"Guhle",
             "position":"D",
-            "salaireactuel":863333.0,
+            "salaireactuel":5550000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"kaiden-guhle"
         },
         {
             "idnhl":8482737,
@@ -1488,10 +1488,10 @@
             "prenomjoueur":"Zachary",
             "nomjoueur":"Bolduc",
             "position":"C",
-            "salaireactuel":863333.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"zack-bolduc"
         },
         {
             "idnhl":8482111,
@@ -1499,10 +1499,10 @@
             "prenomjoueur":"Justin",
             "nomjoueur":"Barron",
             "position":"D",
-            "salaireactuel":925000.0,
+            "salaireactuel":1150000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"justin-barron"
         },
         {
             "idnhl":8482736,
@@ -1510,10 +1510,10 @@
             "prenomjoueur":"Jack",
             "nomjoueur":"Beck",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8477933,
@@ -1521,10 +1521,10 @@
             "prenomjoueur":"Sam",
             "nomjoueur":"Reinhart",
             "position":"C",
-            "salaireactuel":6500000.0,
+            "salaireactuel":8625000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"sam-reinhart"
         },
         {
             "idnhl":8477939,
@@ -1532,10 +1532,10 @@
             "prenomjoueur":"William",
             "nomjoueur":"Nylander",
             "position":"A",
-            "salaireactuel":6962366.0,
+            "salaireactuel":11500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"william-nylander"
         },
         {
             "idnhl":8477956,
@@ -1546,7 +1546,7 @@
             "salaireactuel":11250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"david-pastrnak"
         },
         {
             "idnhl":8478402,
@@ -1557,7 +1557,7 @@
             "salaireactuel":12500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"connor-mcdavid"
         },
         {
             "idnhl":8479337,
@@ -1568,7 +1568,7 @@
             "salaireactuel":7875000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"alex-debrincat"
         },
         {
             "idnhl":8481533,
@@ -1579,7 +1579,7 @@
             "salaireactuel":5750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"trevor-zegras"
         },
         {
             "idnhl":8478038,
@@ -1587,10 +1587,10 @@
             "prenomjoueur":"Devon",
             "nomjoueur":"Toews",
             "position":"D",
-            "salaireactuel":4100000.0,
+            "salaireactuel":7250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"devon-toews"
         },
         {
             "idnhl":8477493,
@@ -1601,7 +1601,7 @@
             "salaireactuel":10000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"aleksander-barkov"
         },
         {
             "idnhl":8479979,
@@ -1609,10 +1609,10 @@
             "prenomjoueur":"Jake",
             "nomjoueur":"Oettinger",
             "position":"G",
-            "salaireactuel":4000000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482142,
@@ -1623,7 +1623,7 @@
             "salaireactuel":2300000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jamie-drysdale"
         },
         {
             "idnhl":8477402,
@@ -1631,10 +1631,10 @@
             "prenomjoueur":"Pavel",
             "nomjoueur":"Buchnevich",
             "position":"A",
-            "salaireactuel":5800000.0,
+            "salaireactuel":8000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"pavel-buchnevich"
         },
         {
             "idnhl":8480873,
@@ -1642,10 +1642,10 @@
             "prenomjoueur":"Rasmus",
             "nomjoueur":"Sandin",
             "position":"D",
-            "salaireactuel":1400000.0,
+            "salaireactuel":4600000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"rasmus-sandin"
         },
         {
             "idnhl":8480043,
@@ -1653,10 +1653,10 @@
             "prenomjoueur":"Timothy",
             "nomjoueur":"Liljegren",
             "position":"D",
-            "salaireactuel":1400000.0,
+            "salaireactuel":3000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"timothy-liljegren"
         },
         {
             "idnhl":8477416,
@@ -1667,7 +1667,7 @@
             "salaireactuel":5400000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"oliver-bjorkstrand"
         },
         {
             "idnhl":8478440,
@@ -1678,7 +1678,7 @@
             "salaireactuel":5000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"dylan-strome"
         },
         {
             "idnhl":8481519,
@@ -1686,450 +1686,10 @@
             "prenomjoueur":"Spencer",
             "nomjoueur":"Knight",
             "position":"G",
-            "salaireactuel":4500000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8480883,
-            "idhockeyref":"smithty01",
-            "prenomjoueur":"Ty",
-            "nomjoueur":"Smith",
-            "position":"D",
-            "salaireactuel":775000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481604,
-            "idhockeyref":"dorofpa01",
-            "prenomjoueur":"Pavel",
-            "nomjoueur":"Dorofeyev",
-            "position":"A",
-            "salaireactuel":825000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481568,
-            "idhockeyref":"vlasial01",
-            "prenomjoueur":"Alex",
-            "nomjoueur":"Vlasic",
-            "position":"D",
-            "salaireactuel":916667.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482137,
-            "idhockeyref":"askarya01",
-            "prenomjoueur":"Yaroslav",
-            "nomjoueur":"Askarov",
-            "position":"G",
-            "salaireactuel":925000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483524,
-            "idhockeyref":"wrighsh01",
-            "prenomjoueur":"Shane",
-            "nomjoueur":"Wright",
-            "position":"C",
-            "salaireactuel":918333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483432,
-            "idhockeyref":"del blu01",
-            "prenomjoueur":"Luca",
-            "nomjoueur":"Del Bel Belluz",
-            "position":"C",
-            "salaireactuel":null,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482714,
-            "idhockeyref":"stillch01",
-            "prenomjoueur":"Chase",
-            "nomjoueur":"Stillman",
-            "position":"A",
-            "salaireactuel":863333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482742,
-            "idhockeyref":"l'heuza01",
-            "prenomjoueur":"Zachary",
-            "nomjoueur":"L'Heureux",
-            "position":"A",
-            "salaireactuel":863333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8474149,
-            "idhockeyref":"dadonev01",
-            "prenomjoueur":"Evgenii",
-            "nomjoueur":"Dadonov",
-            "position":"A",
-            "salaireactuel":2250000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482109,
-            "idhockeyref":"lafreal01",
-            "prenomjoueur":"Alexis",
-            "nomjoueur":"Lafreni\u00e8re",
-            "position":"A",
-            "salaireactuel":2325000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482665,
-            "idhockeyref":"beniema01",
-            "prenomjoueur":"Matty",
-            "nomjoueur":"Beniers",
-            "position":"C",
-            "salaireactuel":897500.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483481,
-            "idhockeyref":"lundca01",
-            "prenomjoueur":"Cameron",
-            "nomjoueur":"Lund",
-            "position":"C",
-            "salaireactuel":null,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483489,
-            "idhockeyref":"mintefr01",
-            "prenomjoueur":"Fraser",
-            "nomjoueur":"Minten",
-            "position":"C",
-            "salaireactuel":845833.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483436,
-            "idhockeyref":"dudaar01",
-            "prenomjoueur":"Artem",
-            "nomjoueur":"Duda",
-            "position":"D",
-            "salaireactuel":null,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8478483,
-            "idhockeyref":"marnemi01",
-            "prenomjoueur":"Mitchell",
-            "nomjoueur":"Marner",
-            "position":"A",
-            "salaireactuel":10903000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8480027,
-            "idhockeyref":"roberja01",
-            "prenomjoueur":"Jason",
-            "nomjoueur":"Robertson",
-            "position":"A",
-            "salaireactuel":7750000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8478414,
-            "idhockeyref":"meierti01",
-            "prenomjoueur":"Timo",
-            "nomjoueur":"Meier",
-            "position":"A",
-            "salaireactuel":8800000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8476539,
-            "idhockeyref":"marchjo01",
-            "prenomjoueur":"Jonathan",
-            "nomjoueur":"Marchessault",
-            "position":"C",
-            "salaireactuel":5000000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8474102,
-            "idhockeyref":"perroda01",
-            "prenomjoueur":"David",
-            "nomjoueur":"Perron",
-            "position":"A",
-            "salaireactuel":4750000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8471669,
-            "idhockeyref":"stastpa01",
-            "prenomjoueur":"Paul",
-            "nomjoueur":"Stastny",
-            "position":"C",
-            "salaireactuel":null,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8478444,
-            "idhockeyref":"boesebr01",
-            "prenomjoueur":"Brock",
-            "nomjoueur":"Boeser",
-            "position":"A",
-            "salaireactuel":6650000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481522,
-            "idhockeyref":"krebspe01",
-            "prenomjoueur":"Peyton",
-            "nomjoueur":"Krebs",
-            "position":"C",
-            "salaireactuel":863333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483495,
-            "idhockeyref":"nemecsi01",
-            "prenomjoueur":"Simon",
-            "nomjoueur":"Nemec",
-            "position":"D",
-            "salaireactuel":918333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8480800,
-            "idhockeyref":"hughequ01",
-            "prenomjoueur":"Quinn",
-            "nomjoueur":"Hughes",
-            "position":"D",
-            "salaireactuel":7850000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481524,
-            "idhockeyref":"byrambo01",
-            "prenomjoueur":"Bowen",
-            "nomjoueur":"Byram",
-            "position":"D",
-            "salaireactuel":3850000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8480803,
-            "idhockeyref":"bouchev01",
-            "prenomjoueur":"Evan",
-            "nomjoueur":"Bouchard",
-            "position":"D",
-            "salaireactuel":3900000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8480382,
-            "idhockeyref":"georgal01",
-            "prenomjoueur":"Alexandar",
-            "nomjoueur":"Georgiev",
-            "position":"G",
-            "salaireactuel":3400000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481577,
-            "idhockeyref":"tomasph01",
-            "prenomjoueur":"Philip",
-            "nomjoueur":"Tomasino",
-            "position":"C",
-            "salaireactuel":863333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482117,
-            "idhockeyref":"reichlu01",
-            "prenomjoueur":"Lukas",
-            "nomjoueur":"Reichel",
-            "position":"A",
-            "salaireactuel":925000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482149,
-            "idhockeyref":"perfeco01",
-            "prenomjoueur":"Cole",
-            "nomjoueur":"Perfetti",
-            "position":"C",
-            "salaireactuel":894167.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483457,
-            "idhockeyref":"hutsola01",
-            "prenomjoueur":"Lane",
-            "nomjoueur":"Hutson",
-            "position":"D",
-            "salaireactuel":null,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483466,
-            "idhockeyref":"korchke01",
-            "prenomjoueur":"Kevin",
-            "nomjoueur":"Korchinski",
-            "position":"D",
-            "salaireactuel":918333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482099,
-            "idhockeyref":"amiroro01",
-            "prenomjoueur":"Rodion",
-            "nomjoueur":"Amirov",
-            "position":"A",
-            "salaireactuel":null,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482133,
-            "idhockeyref":"bordeth01",
-            "prenomjoueur":"Thomas",
-            "nomjoueur":"Bordeleau",
-            "position":"C",
-            "salaireactuel":916667.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482667,
-            "idhockeyref":"eklunwi01",
-            "prenomjoueur":"William",
-            "nomjoueur":"Eklund",
-            "position":"A",
-            "salaireactuel":863333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482148,
-            "idhockeyref":"lapiehe01",
-            "prenomjoueur":"Hendrix",
-            "nomjoueur":"Lapierre",
-            "position":"C",
-            "salaireactuel":863333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483431,
-            "idhockeyref":"coolelo01",
-            "prenomjoueur":"Logan",
-            "nomjoueur":"Cooley",
-            "position":"C",
-            "salaireactuel":950000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483471,
-            "idhockeyref":"lambebr01",
-            "prenomjoueur":"Brad",
-            "nomjoueur":"Lambert",
-            "position":"C",
-            "salaireactuel":918333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483493,
-            "idhockeyref":"nazarfr01",
-            "prenomjoueur":"Frank",
-            "nomjoueur":"Nazar",
-            "position":"C",
-            "salaireactuel":null,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8477934,
-            "idhockeyref":"draisle01",
-            "prenomjoueur":"Leon",
-            "nomjoueur":"Draisaitl",
-            "position":"C",
-            "salaireactuel":8500000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8477492,
@@ -2140,7 +1700,447 @@
             "salaireactuel":12600000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"nathan-mackinnon"
+        },
+        {
+            "idnhl":8480883,
+            "idhockeyref":"smithty01",
+            "prenomjoueur":"Ty",
+            "nomjoueur":"Smith",
+            "position":"D",
+            "salaireactuel":775000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"ty-smith"
+        },
+        {
+            "idnhl":8481604,
+            "idhockeyref":"dorofpa01",
+            "prenomjoueur":"Pavel",
+            "nomjoueur":"Dorofeyev",
+            "position":"A",
+            "salaireactuel":1835000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"pavel-dorofeyev"
+        },
+        {
+            "idnhl":8481568,
+            "idhockeyref":"vlasial01",
+            "prenomjoueur":"Alex",
+            "nomjoueur":"Vlasic",
+            "position":"D",
+            "salaireactuel":4600000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"alex-vlasic"
+        },
+        {
+            "idnhl":8482137,
+            "idhockeyref":"askarya01",
+            "prenomjoueur":"Yaroslav",
+            "nomjoueur":"Askarov",
+            "position":"G",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8483524,
+            "idhockeyref":"wrighsh01",
+            "prenomjoueur":"Shane",
+            "nomjoueur":"Wright",
+            "position":"C",
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"shane-wright"
+        },
+        {
+            "idnhl":8483432,
+            "idhockeyref":"del blu01",
+            "prenomjoueur":"Luca",
+            "nomjoueur":"Del Bel Belluz",
+            "position":"C",
+            "salaireactuel":923333.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"luca-del-bel-belluz"
+        },
+        {
+            "idnhl":8482714,
+            "idhockeyref":"stillch01",
+            "prenomjoueur":"Chase",
+            "nomjoueur":"Stillman",
+            "position":"A",
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"chase-stillman"
+        },
+        {
+            "idnhl":8482742,
+            "idhockeyref":"l'heuza01",
+            "prenomjoueur":"Zachary",
+            "nomjoueur":"L'Heureux",
+            "position":"A",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8474149,
+            "idhockeyref":"dadonev01",
+            "prenomjoueur":"Evgenii",
+            "nomjoueur":"Dadonov",
+            "position":"A",
+            "salaireactuel":2250000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"evgenii-dadonov"
+        },
+        {
+            "idnhl":8482109,
+            "idhockeyref":"lafreal01",
+            "prenomjoueur":"Alexis",
+            "nomjoueur":"Lafreni\u00e8re",
+            "position":"A",
+            "salaireactuel":2325000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"alexis-lafreniere"
+        },
+        {
+            "idnhl":8482665,
+            "idhockeyref":"beniema01",
+            "prenomjoueur":"Matty",
+            "nomjoueur":"Beniers",
+            "position":"C",
+            "salaireactuel":7142857.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"matty-beniers"
+        },
+        {
+            "idnhl":8483481,
+            "idhockeyref":"lundca01",
+            "prenomjoueur":"Cameron",
+            "nomjoueur":"Lund",
+            "position":"C",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8483489,
+            "idhockeyref":"mintefr01",
+            "prenomjoueur":"Fraser",
+            "nomjoueur":"Minten",
+            "position":"C",
+            "salaireactuel":875000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"fraser-minten"
+        },
+        {
+            "idnhl":8483436,
+            "idhockeyref":"dudaar01",
+            "prenomjoueur":"Artem",
+            "nomjoueur":"Duda",
+            "position":"D",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8478483,
+            "idhockeyref":"marnemi01",
+            "prenomjoueur":"Mitchell",
+            "nomjoueur":"Marner",
+            "position":"A",
+            "salaireactuel":10893000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"mitch-marner"
+        },
+        {
+            "idnhl":8480027,
+            "idhockeyref":"roberja01",
+            "prenomjoueur":"Jason",
+            "nomjoueur":"Robertson",
+            "position":"A",
+            "salaireactuel":7750000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"jason-robertson"
+        },
+        {
+            "idnhl":8478414,
+            "idhockeyref":"meierti01",
+            "prenomjoueur":"Timo",
+            "nomjoueur":"Meier",
+            "position":"A",
+            "salaireactuel":8800000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"timo-meier"
+        },
+        {
+            "idnhl":8476539,
+            "idhockeyref":"marchjo01",
+            "prenomjoueur":"Jonathan",
+            "nomjoueur":"Marchessault",
+            "position":"C",
+            "salaireactuel":5500000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"jonathan-marchessault"
+        },
+        {
+            "idnhl":8474102,
+            "idhockeyref":"perroda01",
+            "prenomjoueur":"David",
+            "nomjoueur":"Perron",
+            "position":"A",
+            "salaireactuel":4000000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"david-perron"
+        },
+        {
+            "idnhl":8471669,
+            "idhockeyref":"stastpa01",
+            "prenomjoueur":"Paul",
+            "nomjoueur":"Stastny",
+            "position":"C",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8478444,
+            "idhockeyref":"boesebr01",
+            "prenomjoueur":"Brock",
+            "nomjoueur":"Boeser",
+            "position":"A",
+            "salaireactuel":6650000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"brock-boeser"
+        },
+        {
+            "idnhl":8481522,
+            "idhockeyref":"krebspe01",
+            "prenomjoueur":"Peyton",
+            "nomjoueur":"Krebs",
+            "position":"C",
+            "salaireactuel":1450000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"peyton-krebs"
+        },
+        {
+            "idnhl":8483495,
+            "idhockeyref":"nemecsi01",
+            "prenomjoueur":"Simon",
+            "nomjoueur":"Nemec",
+            "position":"D",
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"simon-nemec"
+        },
+        {
+            "idnhl":8480800,
+            "idhockeyref":"hughequ01",
+            "prenomjoueur":"Quinn",
+            "nomjoueur":"Hughes",
+            "position":"D",
+            "salaireactuel":7850000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"quinn-hughes"
+        },
+        {
+            "idnhl":8481524,
+            "idhockeyref":"byrambo01",
+            "prenomjoueur":"Bowen",
+            "nomjoueur":"Byram",
+            "position":"D",
+            "salaireactuel":3850000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"bowen-byram"
+        },
+        {
+            "idnhl":8480803,
+            "idhockeyref":"bouchev01",
+            "prenomjoueur":"Evan",
+            "nomjoueur":"Bouchard",
+            "position":"D",
+            "salaireactuel":3900000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"evan-bouchard"
+        },
+        {
+            "idnhl":8480382,
+            "idhockeyref":"georgal01",
+            "prenomjoueur":"Alexandar",
+            "nomjoueur":"Georgiev",
+            "position":"G",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8481577,
+            "idhockeyref":"tomasph01",
+            "prenomjoueur":"Philip",
+            "nomjoueur":"Tomasino",
+            "position":"C",
+            "salaireactuel":825000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"philip-tomasino"
+        },
+        {
+            "idnhl":8482117,
+            "idhockeyref":"reichlu01",
+            "prenomjoueur":"Lukas",
+            "nomjoueur":"Reichel",
+            "position":"A",
+            "salaireactuel":1200000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"lukas-reichel"
+        },
+        {
+            "idnhl":8482149,
+            "idhockeyref":"perfeco01",
+            "prenomjoueur":"Cole",
+            "nomjoueur":"Perfetti",
+            "position":"C",
+            "salaireactuel":3250000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"cole-perfetti"
+        },
+        {
+            "idnhl":8483457,
+            "idhockeyref":"hutsola01",
+            "prenomjoueur":"Lane",
+            "nomjoueur":"Hutson",
+            "position":"D",
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"lane-hutson"
+        },
+        {
+            "idnhl":8483466,
+            "idhockeyref":"korchke01",
+            "prenomjoueur":"Kevin",
+            "nomjoueur":"Korchinski",
+            "position":"D",
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"kevin-korchinski"
+        },
+        {
+            "idnhl":8482099,
+            "idhockeyref":"amiroro01",
+            "prenomjoueur":"Rodion",
+            "nomjoueur":"Amirov",
+            "position":"A",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8482133,
+            "idhockeyref":"bordeth01",
+            "prenomjoueur":"Thomas",
+            "nomjoueur":"Bordeleau",
+            "position":"C",
+            "salaireactuel":874125.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"thomas-bordeleau"
+        },
+        {
+            "idnhl":8482667,
+            "idhockeyref":"eklunwi01",
+            "prenomjoueur":"William",
+            "nomjoueur":"Eklund",
+            "position":"A",
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"william-eklund"
+        },
+        {
+            "idnhl":8482148,
+            "idhockeyref":"lapiehe01",
+            "prenomjoueur":"Hendrix",
+            "nomjoueur":"Lapierre",
+            "position":"C",
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"hendrix-lapierre"
+        },
+        {
+            "idnhl":8483431,
+            "idhockeyref":"coolelo01",
+            "prenomjoueur":"Logan",
+            "nomjoueur":"Cooley",
+            "position":"C",
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"logan-cooley"
+        },
+        {
+            "idnhl":8483471,
+            "idhockeyref":"lambebr01",
+            "prenomjoueur":"Brad",
+            "nomjoueur":"Lambert",
+            "position":"C",
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"brad-lambert"
+        },
+        {
+            "idnhl":8483493,
+            "idhockeyref":"nazarfr01",
+            "prenomjoueur":"Frank",
+            "nomjoueur":"Nazar",
+            "position":"C",
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"frank-nazar"
+        },
+        {
+            "idnhl":8477934,
+            "idhockeyref":"draisle01",
+            "prenomjoueur":"Leon",
+            "nomjoueur":"Draisaitl",
+            "position":"C",
+            "salaireactuel":14000000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"leon-draisaitl"
         },
         {
             "idnhl":8476456,
@@ -2151,7 +2151,7 @@
             "salaireactuel":10500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jonathan-huberdeau"
         },
         {
             "idnhl":8480830,
@@ -2162,7 +2162,7 @@
             "salaireactuel":7750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"andrei-svechnikov"
         },
         {
             "idnhl":8478550,
@@ -2173,7 +2173,7 @@
             "salaireactuel":11642857.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"artemi-panarin"
         },
         {
             "idnhl":8482093,
@@ -2181,10 +2181,10 @@
             "prenomjoueur":"Seth",
             "nomjoueur":"Jarvis",
             "position":"C",
-            "salaireactuel":894167.0,
+            "salaireactuel":7420000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"seth-jarvis"
         },
         {
             "idnhl":8476905,
@@ -2192,10 +2192,10 @@
             "prenomjoueur":"Chandler",
             "nomjoueur":"Stephenson",
             "position":"C",
-            "salaireactuel":2750000.0,
+            "salaireactuel":6250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"chandler-stephenson"
         },
         {
             "idnhl":8477964,
@@ -2206,7 +2206,7 @@
             "salaireactuel":5000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"ivan-barbashev"
         },
         {
             "idnhl":8476853,
@@ -2217,7 +2217,7 @@
             "salaireactuel":7500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"morgan-rielly"
         },
         {
             "idnhl":8477346,
@@ -2228,7 +2228,7 @@
             "salaireactuel":6250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"mackenzie-weegar"
         },
         {
             "idnhl":8471724,
@@ -2239,7 +2239,7 @@
             "salaireactuel":6100000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"kris-letang"
         },
         {
             "idnhl":8478048,
@@ -2247,10 +2247,10 @@
             "prenomjoueur":"Igor",
             "nomjoueur":"Shesterkin",
             "position":"G",
-            "salaireactuel":5666667.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8479542,
@@ -2258,10 +2258,10 @@
             "prenomjoueur":"Brandon",
             "nomjoueur":"Hagel",
             "position":"A",
-            "salaireactuel":1500000.0,
+            "salaireactuel":6500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"brandon-hagel"
         },
         {
             "idnhl":8478851,
@@ -2269,10 +2269,10 @@
             "prenomjoueur":"Alexandre",
             "nomjoueur":"Carrier",
             "position":"D",
-            "salaireactuel":2500000.0,
+            "salaireactuel":3750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"alexandre-carrier"
         },
         {
             "idnhl":8481599,
@@ -2280,10 +2280,10 @@
             "prenomjoueur":"Victor",
             "nomjoueur":"Soderstrom",
             "position":"D",
-            "salaireactuel":863333.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8478492,
@@ -2291,10 +2291,10 @@
             "prenomjoueur":"Ilya",
             "nomjoueur":"Samsonov",
             "position":"G",
-            "salaireactuel":3550000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8477407,
@@ -2302,10 +2302,10 @@
             "prenomjoueur":"Anthony",
             "nomjoueur":"Duclair",
             "position":"A",
-            "salaireactuel":3000000.0,
+            "salaireactuel":3500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"anthony-duclair"
         },
         {
             "idnhl":8482768,
@@ -2313,10 +2313,10 @@
             "prenomjoueur":"Fedor",
             "nomjoueur":"Svechkov",
             "position":"C",
-            "salaireactuel":925000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482781,
@@ -2324,10 +2324,10 @@
             "prenomjoueur":"Carson",
             "nomjoueur":"Lambos",
             "position":"D",
-            "salaireactuel":863333.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"carson-lambos"
         },
         {
             "idnhl":8481576,
@@ -2335,10 +2335,10 @@
             "prenomjoueur":"Ryan",
             "nomjoueur":"Suzuki",
             "position":"C",
-            "salaireactuel":863333.0,
+            "salaireactuel":775000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"ryan-suzuki"
         },
         {
             "idnhl":8483513,
@@ -2346,10 +2346,10 @@
             "prenomjoueur":"Reid",
             "nomjoueur":"Schaefer",
             "position":"A",
-            "salaireactuel":918333.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483525,
@@ -2357,10 +2357,10 @@
             "prenomjoueur":"Danila",
             "nomjoueur":"Yurov",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483468,
@@ -2368,10 +2368,10 @@
             "prenomjoueur":"Jiri",
             "nomjoueur":"Kulich",
             "position":"C",
-            "salaireactuel":918333.0,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jiri-kulich"
         },
         {
             "idnhl":8482700,
@@ -2379,10 +2379,10 @@
             "prenomjoueur":"Nolan",
             "nomjoueur":"Allan",
             "position":"D",
-            "salaireactuel":825000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483475,
@@ -2390,10 +2390,10 @@
             "prenomjoueur":"Topias",
             "nomjoueur":"Leinonen",
             "position":"G",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8481523,
@@ -2404,7 +2404,7 @@
             "salaireactuel":3362500.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"kirby-dach"
         },
         {
             "idnhl":8482110,
@@ -2412,10 +2412,10 @@
             "prenomjoueur":"Dawson",
             "nomjoueur":"Mercer",
             "position":"C",
-            "salaireactuel":894167.0,
+            "salaireactuel":4000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"dawson-mercer"
         },
         {
             "idnhl":8473548,
@@ -2423,10 +2423,10 @@
             "prenomjoueur":"Phil",
             "nomjoueur":"Kessel",
             "position":"C",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8477330,
@@ -2434,10 +2434,10 @@
             "prenomjoueur":"Dominik",
             "nomjoueur":"Kubalik",
             "position":"A",
-            "salaireactuel":2500000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8480039,
@@ -2445,10 +2445,10 @@
             "prenomjoueur":"Martin",
             "nomjoueur":"Necas",
             "position":"C",
-            "salaireactuel":3000000.0,
+            "salaireactuel":6500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"martin-necas"
         },
         {
             "idnhl":8479344,
@@ -2456,10 +2456,10 @@
             "prenomjoueur":"Jesse",
             "nomjoueur":"Puljujarvi",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":800000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jesse-puljujarvi"
         },
         {
             "idnhl":8481617,
@@ -2467,10 +2467,10 @@
             "prenomjoueur":"Vasily",
             "nomjoueur":"Podkolzin",
             "position":"A",
-            "salaireactuel":925000.0,
+            "salaireactuel":1000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"vasily-podkolzin"
         },
         {
             "idnhl":8477476,
@@ -2481,7 +2481,7 @@
             "salaireactuel":4500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"artturi-lehkonen"
         },
         {
             "idnhl":8470794,
@@ -2489,10 +2489,10 @@
             "prenomjoueur":"Joe",
             "nomjoueur":"Pavelski",
             "position":"C",
-            "salaireactuel":3500000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":84808031,
@@ -2500,10 +2500,10 @@
             "prenomjoueur":"Evan",
             "nomjoueur":"Bouchard",
             "position":"D",
-            "salaireactuel":3900000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8474141,
@@ -2511,10 +2511,10 @@
             "prenomjoueur":"Patrick",
             "nomjoueur":"Kane",
             "position":"A",
-            "salaireactuel":2750000.0,
+            "salaireactuel":4000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"patrick-kane"
         },
         {
             "idnhl":8475167,
@@ -2522,10 +2522,10 @@
             "prenomjoueur":"Victor",
             "nomjoueur":"Hedman",
             "position":"D",
-            "salaireactuel":7875000.0,
+            "salaireactuel":8000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"victor-hedman"
         },
         {
             "idnhl":84745681,
@@ -2533,10 +2533,10 @@
             "prenomjoueur":"Luke",
             "nomjoueur":"Schenn",
             "position":"D",
-            "salaireactuel":2750000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":84784141,
@@ -2544,10 +2544,10 @@
             "prenomjoueur":"Timo",
             "nomjoueur":"Meier",
             "position":"A",
-            "salaireactuel":8800000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8470966,
@@ -2555,10 +2555,10 @@
             "prenomjoueur":"Mark",
             "nomjoueur":"Giordano",
             "position":"D",
-            "salaireactuel":800000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8471214,
@@ -2569,7 +2569,7 @@
             "salaireactuel":9500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"alex-ovechkin"
         },
         {
             "idnhl":8484144,
@@ -2580,7 +2580,7 @@
             "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"connor-bedard"
         },
         {
             "idnhl":8484387,
@@ -2588,10 +2588,10 @@
             "prenomjoueur":"Matvei",
             "nomjoueur":"Michkov",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"matvei-michkov"
         },
         {
             "idnhl":8484166,
@@ -2602,7 +2602,7 @@
             "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"adam-fantilli"
         },
         {
             "idnhl":8484153,
@@ -2613,7 +2613,7 @@
             "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"leo-carlsson"
         },
         {
             "idnhl":8484145,
@@ -2624,7 +2624,7 @@
             "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"zach-benson"
         },
         {
             "idnhl":8484227,
@@ -2632,10 +2632,10 @@
             "prenomjoueur":"Will",
             "nomjoueur":"Smith",
             "position":"C",
-            "salaireactuel":null,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"will-smith"
         },
         {
             "idnhl":8484186,
@@ -2643,10 +2643,10 @@
             "prenomjoueur":"Ryan",
             "nomjoueur":"Leonard",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484200,
@@ -2654,10 +2654,10 @@
             "prenomjoueur":"Quentin",
             "nomjoueur":"Musty",
             "position":"A",
-            "salaireactuel":950000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484220,
@@ -2668,7 +2668,7 @@
             "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"david-reinbacher"
         },
         {
             "idnhl":8484164,
@@ -2676,10 +2676,10 @@
             "prenomjoueur":"Dalibor",
             "nomjoueur":"Dvorsky",
             "position":"C",
-            "salaireactuel":950000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484160,
@@ -2690,7 +2690,7 @@
             "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"nate-danielson"
         },
         {
             "idnhl":8484197,
@@ -2698,10 +2698,10 @@
             "prenomjoueur":"Oliver",
             "nomjoueur":"Moore",
             "position":"C",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484210,
@@ -2709,10 +2709,10 @@
             "prenomjoueur":"Gabe",
             "nomjoueur":"Perreault",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484143,
@@ -2720,10 +2720,10 @@
             "prenomjoueur":"Colby",
             "nomjoueur":"Barlow",
             "position":"A",
-            "salaireactuel":950000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484224,
@@ -2731,10 +2731,10 @@
             "prenomjoueur":"Gracyn",
             "nomjoueur":"Sawchyn",
             "position":"C",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484389,
@@ -2742,10 +2742,10 @@
             "prenomjoueur":"Mikhail",
             "nomjoueur":"Gulyayev",
             "position":"D",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484241,
@@ -2753,10 +2753,10 @@
             "prenomjoueur":"Matthew",
             "nomjoueur":"Wood",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484242,
@@ -2764,10 +2764,10 @@
             "prenomjoueur":"Brayden",
             "nomjoueur":"Yager",
             "position":"C",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484180,
@@ -2778,7 +2778,7 @@
             "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"samuel-honzek"
         },
         {
             "idnhl":8484386,
@@ -2786,10 +2786,10 @@
             "prenomjoueur":"Dmitriy",
             "nomjoueur":"Simashev",
             "position":"D",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484388,
@@ -2797,10 +2797,10 @@
             "prenomjoueur":"Daniil",
             "nomjoueur":"But",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484223,
@@ -2808,10 +2808,10 @@
             "prenomjoueur":"Axel",
             "nomjoueur":"Sandin Pellikka",
             "position":"D",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484162,
@@ -2819,10 +2819,10 @@
             "prenomjoueur":"Lukas",
             "nomjoueur":"Dragicevic",
             "position":"D",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484149,
@@ -2830,10 +2830,10 @@
             "prenomjoueur":"Gavin",
             "nomjoueur":"Brindley",
             "position":"C",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484211,
@@ -2841,10 +2841,10 @@
             "prenomjoueur":"Jayden",
             "nomjoueur":"Perron",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484240,
@@ -2852,10 +2852,10 @@
             "prenomjoueur":"Tom",
             "nomjoueur":"Willander",
             "position":"D",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484231,
@@ -2863,10 +2863,10 @@
             "prenomjoueur":"Charlie",
             "nomjoueur":"Stramel",
             "position":"C",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484159,
@@ -2874,10 +2874,10 @@
             "prenomjoueur":"Andrew",
             "nomjoueur":"Cristall",
             "position":"A",
-            "salaireactuel":905000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484173,
@@ -2885,10 +2885,10 @@
             "prenomjoueur":"Ethan",
             "nomjoueur":"Gauthier",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":896667.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"ethan-gauthier"
         },
         {
             "idnhl":8484230,
@@ -2896,10 +2896,10 @@
             "prenomjoueur":"Otto",
             "nomjoueur":"Stenberg",
             "position":"C",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484222,
@@ -2910,7 +2910,7 @@
             "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"eduard-sale"
         },
         {
             "idnhl":8484148,
@@ -2918,10 +2918,10 @@
             "prenomjoueur":"Oliver",
             "nomjoueur":"Bonk",
             "position":"D",
-            "salaireactuel":950000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484203,
@@ -2929,10 +2929,10 @@
             "prenomjoueur":"Bradly",
             "nomjoueur":"Nadeau",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"bradly-nadeau"
         },
         {
             "idnhl":8484181,
@@ -2940,10 +2940,10 @@
             "prenomjoueur":"Michael",
             "nomjoueur":"Hrabal",
             "position":"G",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484219,
@@ -2951,10 +2951,10 @@
             "prenomjoueur":"Carson",
             "nomjoueur":"Rehkopf",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484201,
@@ -2962,10 +2962,10 @@
             "prenomjoueur":"Nico",
             "nomjoueur":"Myatovic",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484420,
@@ -2973,10 +2973,10 @@
             "prenomjoueur":"Marcel",
             "nomjoueur":"Marcel",
             "position":"A",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484158,
@@ -2987,7 +2987,7 @@
             "salaireactuel":935833.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"easton-cowan"
         },
         {
             "idnhl":8484141,
@@ -2995,10 +2995,10 @@
             "prenomjoueur":"Trey",
             "nomjoueur":"Augustine",
             "position":"G",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484155,
@@ -3006,10 +3006,10 @@
             "prenomjoueur":"Mathieu",
             "nomjoueur":"Cataford",
             "position":"C",
-            "salaireactuel":null,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8476981,
@@ -3020,7 +3020,7 @@
             "salaireactuel":5500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"josh-anderson"
         },
         {
             "idnhl":8479314,
@@ -3031,7 +3031,7 @@
             "salaireactuel":9500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"matthew-tkachuk"
         },
         {
             "idnhl":8476454,
@@ -3042,7 +3042,7 @@
             "salaireactuel":5125000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"ryan-nugent-hopkins"
         },
         {
             "idnhl":8479407,
@@ -3053,7 +3053,7 @@
             "salaireactuel":7875000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jesper-bratt"
         },
         {
             "idnhl":8480012,
@@ -3061,10 +3061,10 @@
             "prenomjoueur":"Elias",
             "nomjoueur":"Pettersson",
             "position":"C",
-            "salaireactuel":7350000.0,
+            "salaireactuel":11600000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"elias-pettersson"
         },
         {
             "idnhl":8477986,
@@ -3072,10 +3072,10 @@
             "prenomjoueur":"Brandon",
             "nomjoueur":"Montour",
             "position":"D",
-            "salaireactuel":3500000.0,
+            "salaireactuel":7142857.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"brandon-montour"
         },
         {
             "idnhl":8481711,
@@ -3086,7 +3086,7 @@
             "salaireactuel":3425000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"matias-maccelli"
         },
         {
             "idnhl":8480036,
@@ -3097,7 +3097,7 @@
             "salaireactuel":8450000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"miro-heiskanen"
         },
         {
             "idnhl":8479343,
@@ -3108,7 +3108,7 @@
             "salaireactuel":7150000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"clayton-keller"
         },
         {
             "idnhl":8477955,
@@ -3119,7 +3119,7 @@
             "salaireactuel":5000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jared-mccann"
         },
         {
             "idnhl":8482221,
@@ -3127,10 +3127,10 @@
             "prenomjoueur":"Devon",
             "nomjoueur":"Levi",
             "position":"G",
-            "salaireactuel":925000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482158,
@@ -3141,7 +3141,7 @@
             "salaireactuel":856667.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"topi-niemela"
         },
         {
             "idnhl":8481704,
@@ -3149,10 +3149,10 @@
             "prenomjoueur":"Juuso",
             "nomjoueur":"Parssinen",
             "position":"C",
-            "salaireactuel":850833.0,
+            "salaireactuel":775000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"juuso-parssinen"
         },
         {
             "idnhl":8479973,
@@ -3160,10 +3160,10 @@
             "prenomjoueur":"Stuart",
             "nomjoueur":"Skinner",
             "position":"G",
-            "salaireactuel":2600000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8480893,
@@ -3171,10 +3171,10 @@
             "prenomjoueur":"Kirill",
             "nomjoueur":"Marchenko",
             "position":"A",
-            "salaireactuel":925000.0,
+            "salaireactuel":3850000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"kirill-marchenko"
         },
         {
             "idnhl":8479999,
@@ -3182,10 +3182,10 @@
             "prenomjoueur":"Casey",
             "nomjoueur":"Mittelstadt",
             "position":"C",
-            "salaireactuel":2500000.0,
+            "salaireactuel":5750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"casey-mittelstadt"
         },
         {
             "idnhl":8475168,
@@ -3196,7 +3196,7 @@
             "salaireactuel":3000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"matt-duchene"
         },
         {
             "idnhl":8477503,
@@ -3204,10 +3204,10 @@
             "prenomjoueur":"Max",
             "nomjoueur":"Domi",
             "position":"C",
-            "salaireactuel":3000000.0,
+            "salaireactuel":3750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"max-domi"
         },
         {
             "idnhl":8475754,
@@ -3218,7 +3218,7 @@
             "salaireactuel":6000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"brock-nelson"
         },
         {
             "idnhl":8482699,
@@ -3226,10 +3226,10 @@
             "prenomjoueur":"Dylan",
             "nomjoueur":"Guenther",
             "position":"A",
-            "salaireactuel":894167.0,
+            "salaireactuel":7142857.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"dylan-guenther"
         },
         {
             "idnhl":8474586,
@@ -3237,10 +3237,10 @@
             "prenomjoueur":"Jordan",
             "nomjoueur":"Eberle",
             "position":"A",
-            "salaireactuel":5500000.0,
+            "salaireactuel":4750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jordan-eberle"
         },
         {
             "idnhl":8482146,
@@ -3248,10 +3248,10 @@
             "prenomjoueur":"Luke",
             "nomjoueur":"Evangelista",
             "position":"A",
-            "salaireactuel":797500.0,
+            "salaireactuel":825833.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"luke-evangelista"
         },
         {
             "idnhl":8481611,
@@ -3259,10 +3259,10 @@
             "prenomjoueur":"Pyotr",
             "nomjoueur":"Kochetkov",
             "position":"G",
-            "salaireactuel":2000000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8476483,
@@ -3273,7 +3273,7 @@
             "salaireactuel":5000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"rickard-rakell"
         },
         {
             "idnhl":8480015,
@@ -3281,10 +3281,10 @@
             "prenomjoueur":"Owen",
             "nomjoueur":"Tippett",
             "position":"A",
-            "salaireactuel":1500000.0,
+            "salaireactuel":6200000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"owen-tippett"
         },
         {
             "idnhl":8477409,
@@ -3295,7 +3295,7 @@
             "salaireactuel":4166667.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"carter-verhaeghe"
         },
         {
             "idnhl":8476979,
@@ -3303,10 +3303,10 @@
             "prenomjoueur":"Erik",
             "nomjoueur":"Gustafsson",
             "position":"D",
-            "salaireactuel":825000.0,
+            "salaireactuel":2000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"erik-gustafsson"
         },
         {
             "idnhl":8482655,
@@ -3314,10 +3314,10 @@
             "prenomjoueur":"J.J.",
             "nomjoueur":"Moser",
             "position":"D",
-            "salaireactuel":886667.0,
+            "salaireactuel":3375000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"j-j-moser"
         },
         {
             "idnhl":8482222,
@@ -3325,10 +3325,10 @@
             "prenomjoueur":"Alexander",
             "nomjoueur":"Barabanov",
             "position":"A",
-            "salaireactuel":2500000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8471218,
@@ -3336,10 +3336,10 @@
             "prenomjoueur":"Blake",
             "nomjoueur":"Wheeler",
             "position":"A",
-            "salaireactuel":800000.0,
+            "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8477456,
@@ -3350,7 +3350,7 @@
             "salaireactuel":5100000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"j-t-compher"
         },
         {
             "idnhl":8478439,
@@ -3358,10 +3358,10 @@
             "prenomjoueur":"Travis",
             "nomjoueur":"Konecny",
             "position":"A",
-            "salaireactuel":5500000.0,
+            "salaireactuel":8750000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"travis-konecny"
         },
         {
             "idnhl":8478466,
@@ -3369,10 +3369,10 @@
             "prenomjoueur":"Daniel",
             "nomjoueur":"Sprong",
             "position":"A",
-            "salaireactuel":2000000.0,
+            "salaireactuel":975000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"daniel-sprong"
         },
         {
             "idnhl":8482720,
@@ -3383,7 +3383,7 @@
             "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"matthew-knies"
         },
         {
             "idnhl":8482159,
@@ -3391,10 +3391,10 @@
             "prenomjoueur":"Tyson",
             "nomjoueur":"Foerster",
             "position":"A",
-            "salaireactuel":863333.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"tyson-foerster"
         },
         {
             "idnhl":8479406,
@@ -3402,450 +3402,10 @@
             "prenomjoueur":"Filip",
             "nomjoueur":"Gustavsson",
             "position":"G",
-            "salaireactuel":3750000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482100,
-            "idhockeyref":"nikisal01",
-            "prenomjoueur":"Alexander",
-            "nomjoueur":"Nikishin",
-            "position":"D",
-            "salaireactuel":null,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8477015,
-            "idhockeyref":"brownco01",
-            "prenomjoueur":"Connor",
-            "nomjoueur":"Brown",
-            "position":"A",
-            "salaireactuel":775000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481596,
-            "idhockeyref":"pintosh01",
-            "prenomjoueur":"Shane",
-            "nomjoueur":"Pinto",
-            "position":"C",
-            "salaireactuel":null,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8478407,
-            "idhockeyref":"dunnvi01",
-            "prenomjoueur":"Vince",
-            "nomjoueur":"Dunn",
-            "position":"D",
-            "salaireactuel":7350000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8479976,
-            "idhockeyref":"valimju01",
-            "prenomjoueur":"Juuso",
-            "nomjoueur":"Valimaki",
-            "position":"D",
-            "salaireactuel":1000000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8479361,
-            "idhockeyref":"wolljo01",
-            "prenomjoueur":"Joseph",
-            "nomjoueur":"Woll",
-            "position":"G",
-            "salaireactuel":766667.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482122,
-            "idhockeyref":"faberbr01",
-            "prenomjoueur":"Brock",
-            "nomjoueur":"Faber",
-            "position":"D",
-            "salaireactuel":925000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481554,
-            "idhockeyref":"kakkoka01",
-            "prenomjoueur":"Kaapo",
-            "nomjoueur":"Kakko",
-            "position":"A",
-            "salaireactuel":2100000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8475218,
-            "idhockeyref":"ekholma01",
-            "prenomjoueur":"Mattias",
-            "nomjoueur":"Ekholm",
-            "position":"D",
-            "salaireactuel":6000000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482130,
-            "idhockeyref":"hirvoro01",
-            "prenomjoueur":"Roni",
-            "nomjoueur":"Hirvonen",
-            "position":"C",
-            "salaireactuel":856667.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8477424,
-            "idhockeyref":"sarosju01",
-            "prenomjoueur":"Juuse",
-            "nomjoueur":"Saros",
-            "position":"G",
-            "salaireactuel":5000000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8477494,
-            "idhockeyref":"drouijo01",
-            "prenomjoueur":"Jonathan",
-            "nomjoueur":"Drouin",
-            "position":"A",
-            "salaireactuel":825000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481581,
-            "idhockeyref":"harleth01",
-            "prenomjoueur":"Thomas",
-            "nomjoueur":"Harley",
-            "position":"D",
-            "salaireactuel":863333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8480293,
-            "idhockeyref":"kalynwy01",
-            "prenomjoueur":"Wyatt",
-            "nomjoueur":"Kalynuk",
-            "position":"D",
-            "salaireactuel":775000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8477504,
-            "idhockeyref":"morrijo01",
-            "prenomjoueur":"Josh",
-            "nomjoueur":"Morrissey",
-            "position":"D",
-            "salaireactuel":6250000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8478438,
-            "idhockeyref":"novakto01",
-            "prenomjoueur":"Tommy",
-            "nomjoueur":"Novak",
-            "position":"C",
-            "salaireactuel":800000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482175,
-            "idhockeyref":"peterjj01",
-            "prenomjoueur":"JJ",
-            "nomjoueur":"Peterka",
-            "position":"A",
-            "salaireactuel":855833.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8477488,
-            "idhockeyref":"pescebr01",
-            "prenomjoueur":"Brett",
-            "nomjoueur":"Pesce",
-            "position":"D",
-            "salaireactuel":4025000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8471675,
-            "idhockeyref":"crosbsi01",
-            "prenomjoueur":"Sidney",
-            "nomjoueur":"Crosby",
-            "position":"C",
-            "salaireactuel":8700000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481582,
-            "idhockeyref":"roberni01",
-            "prenomjoueur":"Nicholas",
-            "nomjoueur":"Robertson",
-            "position":"A",
-            "salaireactuel":796667.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481692,
-            "idhockeyref":"wolfdu01",
-            "prenomjoueur":"Dustin",
-            "nomjoueur":"Wolf",
-            "position":"G",
-            "salaireactuel":813333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482476,
-            "idhockeyref":"heineem01",
-            "prenomjoueur":"Emil",
-            "nomjoueur":"Heineman",
-            "position":"A",
-            "salaireactuel":897500.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481093,
-            "idhockeyref":"harvera01",
-            "prenomjoueur":"Rafael",
-            "nomjoueur":"Harvey-Pinard",
-            "position":"A",
-            "salaireactuel":1100000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8470594,
-            "idhockeyref":"fleurma01",
-            "prenomjoueur":"Marc-Andre",
-            "nomjoueur":"Fleury",
-            "position":"G",
-            "salaireactuel":3500000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8476875,
-            "idhockeyref":"mathemi01",
-            "prenomjoueur":"Mike",
-            "nomjoueur":"Matheson",
-            "position":"D",
-            "salaireactuel":4875000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8477950,
-            "idhockeyref":"deangto01",
-            "prenomjoueur":"Tony",
-            "nomjoueur":"DeAngelo",
-            "position":"D",
-            "salaireactuel":1675000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8478470,
-            "idhockeyref":"montesa01",
-            "prenomjoueur":"Sam",
-            "nomjoueur":"Montembeault",
-            "position":"G",
-            "salaireactuel":1000000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8481591,
-            "idhockeyref":"poulisa01",
-            "prenomjoueur":"Sam",
-            "nomjoueur":"Poulin",
-            "position":"A",
-            "salaireactuel":863333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483512,
-            "idhockeyref":"savoima01",
-            "prenomjoueur":"Matt",
-            "nomjoueur":"Savoie",
-            "position":"C",
-            "salaireactuel":918333.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8474578,
-            "idhockeyref":"karlser01",
-            "prenomjoueur":"Erik",
-            "nomjoueur":"Karlsson",
-            "position":"D",
-            "salaireactuel":11500000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8477960,
-            "idhockeyref":"",
-            "prenomjoueur":"Adrian",
-            "nomjoueur":"Kempe",
-            "position":"A",
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8484170,
-            "idhockeyref":"",
-            "prenomjoueur":"Jacob",
-            "nomjoueur":"Fowler",
-            "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8476906,
-            "idhockeyref":"",
-            "prenomjoueur":"Shayne",
-            "nomjoueur":"Gostisbehere",
-            "position":"D",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8478010,
-            "idhockeyref":"",
-            "prenomjoueur":"Brayden",
-            "nomjoueur":"Point",
-            "position":"C",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8476462,
-            "idhockeyref":"",
-            "prenomjoueur":"Dougie",
-            "nomjoueur":"Hamilton",
-            "position":"D",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482659,
-            "idhockeyref":"",
-            "prenomjoueur":"Josh",
-            "nomjoueur":"Doan",
-            "position":"A",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8474715,
-            "idhockeyref":"",
-            "prenomjoueur":"Cam",
-            "nomjoueur":"Atkinson",
-            "position":"A",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8484995,
-            "idhockeyref":"",
-            "prenomjoueur":"Nikita",
-            "nomjoueur":"Artamonov",
-            "position":"A",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8484765,
-            "idhockeyref":"",
-            "prenomjoueur":"Ryder",
-            "nomjoueur":"Ritchie",
-            "position":"A",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8484994,
-            "idhockeyref":"",
-            "prenomjoueur":"Igor",
-            "nomjoueur":"Chernyshov",
-            "position":"A",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484856,
@@ -3856,7 +3416,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482095,
@@ -3864,10 +3424,10 @@
             "prenomjoueur":"Tyler",
             "nomjoueur":"Kleven",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":916667.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"tyler-kleven"
         },
         {
             "idnhl":8484802,
@@ -3878,73 +3438,18 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
-            "idnhl":8476389,
-            "idhockeyref":"",
-            "prenomjoueur":"Vincent",
-            "nomjoueur":"Trocheck",
-            "position":"C",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8480188,
-            "idhockeyref":"",
-            "prenomjoueur":"Fabian",
-            "nomjoueur":"Zetterlund",
-            "position":"A",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482145,
-            "idhockeyref":"",
-            "prenomjoueur":"Mavrik",
-            "nomjoueur":"Bourque",
-            "position":"A",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482666,
-            "idhockeyref":"",
-            "prenomjoueur":"Scott",
-            "nomjoueur":"Morrow",
+            "idnhl":8482100,
+            "idhockeyref":"nikisal01",
+            "prenomjoueur":"Alexander",
+            "nomjoueur":"Nikishin",
             "position":"D",
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8483460,
-            "idhockeyref":"",
-            "prenomjoueur":"David",
-            "nomjoueur":"Jiricek",
-            "position":"D",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8478971,
-            "idhockeyref":"",
-            "prenomjoueur":"Connor",
-            "nomjoueur":"Ingram",
-            "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482803,
@@ -3952,10 +3457,10 @@
             "prenomjoueur":"Olen",
             "nomjoueur":"Zellweger",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":897500.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"olen-zellweger"
         },
         {
             "idnhl":8477967,
@@ -3966,7 +3471,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484984,
@@ -3977,18 +3482,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8484801,
-            "idhockeyref":"",
-            "prenomjoueur":"Macklin",
-            "nomjoueur":"Celebrini",
-            "position":"C",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484768,
@@ -3999,7 +3493,513 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8477015,
+            "idhockeyref":"brownco01",
+            "prenomjoueur":"Connor",
+            "nomjoueur":"Brown",
+            "position":"A",
+            "salaireactuel":1000000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"connor-brown"
+        },
+        {
+            "idnhl":8481596,
+            "idhockeyref":"pintosh01",
+            "prenomjoueur":"Shane",
+            "nomjoueur":"Pinto",
+            "position":"C",
+            "salaireactuel":3750000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"shane-pinto"
+        },
+        {
+            "idnhl":8478407,
+            "idhockeyref":"dunnvi01",
+            "prenomjoueur":"Vince",
+            "nomjoueur":"Dunn",
+            "position":"D",
+            "salaireactuel":7350000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"vince-dunn"
+        },
+        {
+            "idnhl":8479976,
+            "idhockeyref":"valimju01",
+            "prenomjoueur":"Juuso",
+            "nomjoueur":"Valimaki",
+            "position":"D",
+            "salaireactuel":2000000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"juuso-valimaki"
+        },
+        {
+            "idnhl":8479361,
+            "idhockeyref":"wolljo01",
+            "prenomjoueur":"Joseph",
+            "nomjoueur":"Woll",
+            "position":"G",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8482122,
+            "idhockeyref":"faberbr01",
+            "prenomjoueur":"Brock",
+            "nomjoueur":"Faber",
+            "position":"D",
+            "salaireactuel":8500000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"brock-faber"
+        },
+        {
+            "idnhl":8481554,
+            "idhockeyref":"kakkoka01",
+            "prenomjoueur":"Kaapo",
+            "nomjoueur":"Kakko",
+            "position":"A",
+            "salaireactuel":2400000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"kaapo-kakko"
+        },
+        {
+            "idnhl":8475218,
+            "idhockeyref":"ekholma01",
+            "prenomjoueur":"Mattias",
+            "nomjoueur":"Ekholm",
+            "position":"D",
+            "salaireactuel":6250000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"mattias-ekholm"
+        },
+        {
+            "idnhl":8482130,
+            "idhockeyref":"hirvoro01",
+            "prenomjoueur":"Roni",
+            "nomjoueur":"Hirvonen",
+            "position":"C",
+            "salaireactuel":856667.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"roni-hirvonen"
+        },
+        {
+            "idnhl":8477424,
+            "idhockeyref":"sarosju01",
+            "prenomjoueur":"Juuse",
+            "nomjoueur":"Saros",
+            "position":"G",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8477494,
+            "idhockeyref":"drouijo01",
+            "prenomjoueur":"Jonathan",
+            "nomjoueur":"Drouin",
+            "position":"A",
+            "salaireactuel":2500000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"jonathan-drouin"
+        },
+        {
+            "idnhl":8481581,
+            "idhockeyref":"harleth01",
+            "prenomjoueur":"Thomas",
+            "nomjoueur":"Harley",
+            "position":"D",
+            "salaireactuel":4000000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"thomas-harley"
+        },
+        {
+            "idnhl":8480293,
+            "idhockeyref":"kalynwy01",
+            "prenomjoueur":"Wyatt",
+            "nomjoueur":"Kalynuk",
+            "position":"D",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8477504,
+            "idhockeyref":"morrijo01",
+            "prenomjoueur":"Josh",
+            "nomjoueur":"Morrissey",
+            "position":"D",
+            "salaireactuel":6250000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"josh-morrissey"
+        },
+        {
+            "idnhl":8478438,
+            "idhockeyref":"novakto01",
+            "prenomjoueur":"Tommy",
+            "nomjoueur":"Novak",
+            "position":"C",
+            "salaireactuel":3500000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"tommy-novak"
+        },
+        {
+            "idnhl":8482175,
+            "idhockeyref":"peterjj01",
+            "prenomjoueur":"JJ",
+            "nomjoueur":"Peterka",
+            "position":"A",
+            "salaireactuel":886667.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"jj-peterka"
+        },
+        {
+            "idnhl":8477488,
+            "idhockeyref":"pescebr01",
+            "prenomjoueur":"Brett",
+            "nomjoueur":"Pesce",
+            "position":"D",
+            "salaireactuel":5500000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"brett-pesce"
+        },
+        {
+            "idnhl":8471675,
+            "idhockeyref":"crosbsi01",
+            "prenomjoueur":"Sidney",
+            "nomjoueur":"Crosby",
+            "position":"C",
+            "salaireactuel":8700000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"sidney-crosby"
+        },
+        {
+            "idnhl":8481582,
+            "idhockeyref":"roberni01",
+            "prenomjoueur":"Nicholas",
+            "nomjoueur":"Robertson",
+            "position":"A",
+            "salaireactuel":875000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"nicholas-robertson"
+        },
+        {
+            "idnhl":8481692,
+            "idhockeyref":"wolfdu01",
+            "prenomjoueur":"Dustin",
+            "nomjoueur":"Wolf",
+            "position":"G",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8482476,
+            "idhockeyref":"heineem01",
+            "prenomjoueur":"Emil",
+            "nomjoueur":"Heineman",
+            "position":"A",
+            "salaireactuel":897500.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"emil-heineman"
+        },
+        {
+            "idnhl":8481093,
+            "idhockeyref":"harvera01",
+            "prenomjoueur":"Rafael",
+            "nomjoueur":"Harvey-Pinard",
+            "position":"A",
+            "salaireactuel":1100000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"rafael-harvey-pinard"
+        },
+        {
+            "idnhl":8470594,
+            "idhockeyref":"fleurma01",
+            "prenomjoueur":"Marc-Andre",
+            "nomjoueur":"Fleury",
+            "position":"G",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8476875,
+            "idhockeyref":"mathemi01",
+            "prenomjoueur":"Mike",
+            "nomjoueur":"Matheson",
+            "position":"D",
+            "salaireactuel":4875000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"mike-matheson"
+        },
+        {
+            "idnhl":8477950,
+            "idhockeyref":"deangto01",
+            "prenomjoueur":"Tony",
+            "nomjoueur":"DeAngelo",
+            "position":"D",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8478470,
+            "idhockeyref":"montesa01",
+            "prenomjoueur":"Sam",
+            "nomjoueur":"Montembeault",
+            "position":"G",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8481591,
+            "idhockeyref":"poulisa01",
+            "prenomjoueur":"Sam",
+            "nomjoueur":"Poulin",
+            "position":"A",
+            "salaireactuel":775000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"sam-poulin"
+        },
+        {
+            "idnhl":8483512,
+            "idhockeyref":"savoima01",
+            "prenomjoueur":"Matt",
+            "nomjoueur":"Savoie",
+            "position":"C",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8474578,
+            "idhockeyref":"karlser01",
+            "prenomjoueur":"Erik",
+            "nomjoueur":"Karlsson",
+            "position":"D",
+            "salaireactuel":11500000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"erik-karlsson"
+        },
+        {
+            "idnhl":8477960,
+            "idhockeyref":"",
+            "prenomjoueur":"Adrian",
+            "nomjoueur":"Kempe",
+            "position":"A",
+            "salaireactuel":5500000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"adrian-kempe"
+        },
+        {
+            "idnhl":8484170,
+            "idhockeyref":"",
+            "prenomjoueur":"Jacob",
+            "nomjoueur":"Fowler",
+            "position":"G",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8476906,
+            "idhockeyref":"",
+            "prenomjoueur":"Shayne",
+            "nomjoueur":"Gostisbehere",
+            "position":"D",
+            "salaireactuel":3200000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"shayne-gostisbehere"
+        },
+        {
+            "idnhl":8478010,
+            "idhockeyref":"",
+            "prenomjoueur":"Brayden",
+            "nomjoueur":"Point",
+            "position":"C",
+            "salaireactuel":9500000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"brayden-point"
+        },
+        {
+            "idnhl":8476462,
+            "idhockeyref":"",
+            "prenomjoueur":"Dougie",
+            "nomjoueur":"Hamilton",
+            "position":"D",
+            "salaireactuel":9000000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"dougie-hamilton"
+        },
+        {
+            "idnhl":8482659,
+            "idhockeyref":"",
+            "prenomjoueur":"Josh",
+            "nomjoueur":"Doan",
+            "position":"A",
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"josh-doan"
+        },
+        {
+            "idnhl":8474715,
+            "idhockeyref":"",
+            "prenomjoueur":"Cam",
+            "nomjoueur":"Atkinson",
+            "position":"A",
+            "salaireactuel":900000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"cam-atkinson"
+        },
+        {
+            "idnhl":8484995,
+            "idhockeyref":"",
+            "prenomjoueur":"Nikita",
+            "nomjoueur":"Artamonov",
+            "position":"A",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8484765,
+            "idhockeyref":"",
+            "prenomjoueur":"Ryder",
+            "nomjoueur":"Ritchie",
+            "position":"A",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8484994,
+            "idhockeyref":"",
+            "prenomjoueur":"Igor",
+            "nomjoueur":"Chernyshov",
+            "position":"A",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8476389,
+            "idhockeyref":"",
+            "prenomjoueur":"Vincent",
+            "nomjoueur":"Trocheck",
+            "position":"C",
+            "salaireactuel":5625000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"vincent-trocheck"
+        },
+        {
+            "idnhl":8480188,
+            "idhockeyref":"",
+            "prenomjoueur":"Fabian",
+            "nomjoueur":"Zetterlund",
+            "position":"A",
+            "salaireactuel":1450000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"fabian-zetterlund"
+        },
+        {
+            "idnhl":8482145,
+            "idhockeyref":"",
+            "prenomjoueur":"Mavrik",
+            "nomjoueur":"Bourque",
+            "position":"A",
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"mavrik-bourque"
+        },
+        {
+            "idnhl":8482666,
+            "idhockeyref":"",
+            "prenomjoueur":"Scott",
+            "nomjoueur":"Morrow",
+            "position":"D",
+            "salaireactuel":916667.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"scott-morrow"
+        },
+        {
+            "idnhl":8483460,
+            "idhockeyref":"",
+            "prenomjoueur":"David",
+            "nomjoueur":"Jiricek",
+            "position":"D",
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"david-jiricek"
+        },
+        {
+            "idnhl":8478971,
+            "idhockeyref":"",
+            "prenomjoueur":"Connor",
+            "nomjoueur":"Ingram",
+            "position":"G",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8484801,
+            "idhockeyref":"",
+            "prenomjoueur":"Macklin",
+            "nomjoueur":"Celebrini",
+            "position":"C",
+            "salaireactuel":975000.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"macklin-celebrini"
         },
         {
             "idnhl":8484759,
@@ -4007,10 +4007,10 @@
             "prenomjoueur":"Carter",
             "nomjoueur":"Yakemchuk",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":975000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"carter-yakemchuk"
         },
         {
             "idnhl":8484797,
@@ -4018,10 +4018,10 @@
             "prenomjoueur":"Konsta",
             "nomjoueur":"Helenius",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":975000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"konsta-helenius"
         },
         {
             "idnhl":8484873,
@@ -4032,7 +4032,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484782,
@@ -4043,7 +4043,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484987,
@@ -4054,7 +4054,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8478916,
@@ -4065,7 +4065,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8479312,
@@ -4076,7 +4076,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484221,
@@ -4084,10 +4084,10 @@
             "prenomjoueur":"Calum",
             "nomjoueur":"Ritchie",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"calum-ritchie"
         },
         {
             "idnhl":8482101,
@@ -4095,10 +4095,10 @@
             "prenomjoueur":"Danil",
             "nomjoueur":"Gushchin",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":850833.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"danil-gushchin"
         },
         {
             "idnhl":8482713,
@@ -4106,10 +4106,10 @@
             "prenomjoueur":"Mackie",
             "nomjoueur":"Samoskevich",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"mackie-samoskevich"
         },
         {
             "idnhl":8483449,
@@ -4120,7 +4120,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484178,
@@ -4131,7 +4131,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8475791,
@@ -4139,10 +4139,10 @@
             "prenomjoueur":"Taylor",
             "nomjoueur":"Hall",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":6000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"taylor-hall"
         },
         {
             "idnhl":8475784,
@@ -4150,10 +4150,10 @@
             "prenomjoueur":"Jeff",
             "nomjoueur":"Skinner",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":3000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jeff-skinner"
         },
         {
             "idnhl":8476312,
@@ -4161,10 +4161,10 @@
             "prenomjoueur":"Josh",
             "nomjoueur":"Manson",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":4500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"josh-manson"
         },
         {
             "idnhl":8480045,
@@ -4175,7 +4175,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8480058,
@@ -4183,10 +4183,10 @@
             "prenomjoueur":"Pierre-Olivier",
             "nomjoueur":"Joseph",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"pierre-olivier-joseph"
         },
         {
             "idnhl":8482077,
@@ -4194,10 +4194,10 @@
             "prenomjoueur":"Dylan",
             "nomjoueur":"Holloway",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":2290457.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"dylan-holloway"
         },
         {
             "idnhl":8484807,
@@ -4208,7 +4208,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484806,
@@ -4219,7 +4219,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484860,
@@ -4230,7 +4230,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484877,
@@ -4241,7 +4241,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484785,
@@ -4252,7 +4252,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8476448,
@@ -4260,10 +4260,10 @@
             "prenomjoueur":"William",
             "nomjoueur":"Karlsson",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":5900000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"william-karlsson"
         },
         {
             "idnhl":8475171,
@@ -4271,10 +4271,10 @@
             "prenomjoueur":"Oliver",
             "nomjoueur":"Ekman-Larsson",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":3500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"oliver-ekman-larsson"
         },
         {
             "idnhl":8480797,
@@ -4282,21 +4282,10 @@
             "prenomjoueur":"Joel",
             "nomjoueur":"Farabee",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":5000000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
-        },
-        {
-            "idnhl":8484803,
-            "idhockeyref":"",
-            "prenomjoueur":"Trevor",
-            "nomjoueur":"Connelly",
-            "position":"A",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"joel-farabee"
         },
         {
             "idnhl":8484769,
@@ -4307,7 +4296,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484787,
@@ -4318,7 +4307,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8470621,
@@ -4326,10 +4315,43 @@
             "prenomjoueur":"Cory",
             "nomjoueur":"Perry",
             "position":"A",
-            "salaireactuel":4000000.0,
+            "salaireactuel":1150000.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"corey-perry"
+        },
+        {
+            "idnhl":8477935,
+            "idhockeyref":"",
+            "prenomjoueur":"Sam",
+            "nomjoueur":"Bennett",
+            "position":"C",
+            "salaireactuel":4425000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
+            "id_capwages":"sam-bennett"
+        },
+        {
+            "idnhl":8482171,
+            "idhockeyref":"",
+            "prenomjoueur":"William",
+            "nomjoueur":"Wallinder",
+            "position":"D",
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
+            "id_capwages":"william-wallinder"
+        },
+        {
+            "idnhl":8484803,
+            "idhockeyref":"",
+            "prenomjoueur":"Trevor",
+            "nomjoueur":"Connelly",
+            "position":"A",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":null,
+            "nomcapfriendly":null,
+            "id_capwages":"NA"
         },
         {
             "idnhl":8485048,
@@ -4340,7 +4362,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8485012,
@@ -4351,7 +4373,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484857,
@@ -4362,7 +4384,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8480014,
@@ -4370,10 +4392,10 @@
             "prenomjoueur":"Gabriel",
             "nomjoueur":"Vilardi",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":3437500.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"gabriel-vilardi"
         },
         {
             "idnhl":8479410,
@@ -4381,10 +4403,10 @@
             "prenomjoueur":"Mikhail",
             "nomjoueur":"Sergachev",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":8500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"mikhail-sergachev"
         },
         {
             "idnhl":8483447,
@@ -4392,10 +4414,10 @@
             "prenomjoueur":"Conor",
             "nomjoueur":"Geekie",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"conor-geekie"
         },
         {
             "idnhl":8482733,
@@ -4403,10 +4425,10 @@
             "prenomjoueur":"Logan",
             "nomjoueur":"Mailloux",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":897500.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"logan-mailloux"
         },
         {
             "idnhl":8481035,
@@ -4417,7 +4439,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483930,
@@ -4425,10 +4447,10 @@
             "prenomjoueur":"Ivan",
             "nomjoueur":"Ivan",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":845000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"ivan-ivan"
         },
         {
             "idnhl":8482964,
@@ -4436,10 +4458,10 @@
             "prenomjoueur":"Arber",
             "nomjoueur":"Xhekaj",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":1300000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"arber-xhekaj"
         },
         {
             "idnhl":8484780,
@@ -4450,7 +4472,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484762,
@@ -4458,10 +4480,10 @@
             "prenomjoueur":"Beckett",
             "nomjoueur":"Sennecke",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":975000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"beckett-sennecke"
         },
         {
             "idnhl":8484798,
@@ -4472,7 +4494,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484799,
@@ -4483,7 +4505,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484771,
@@ -4494,7 +4516,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8485083,
@@ -4505,7 +4527,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8474679,
@@ -4513,10 +4535,10 @@
             "prenomjoueur":"Gustav",
             "nomjoueur":"Nyquist",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":3185000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"gustav-nyquist"
         },
         {
             "idnhl":8482155,
@@ -4524,10 +4546,10 @@
             "prenomjoueur":"Alex",
             "nomjoueur":"Laferriere",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":875000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"alex-laferriere"
         },
         {
             "idnhl":8483505,
@@ -4535,10 +4557,10 @@
             "prenomjoueur":"Matthew",
             "nomjoueur":"Poitras",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":870000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"matthew-poitras"
         },
         {
             "idnhl":8481609,
@@ -4546,10 +4568,10 @@
             "prenomjoueur":"Vladislav",
             "nomjoueur":"Kolyachonok",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":775000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"vladislav-kolyachonok"
         },
         {
             "idnhl":8480009,
@@ -4557,10 +4579,10 @@
             "prenomjoueur":"Eeli",
             "nomjoueur":"Tolvanen",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":3475000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"eeli-tolvanen"
         },
         {
             "idnhl":8483479,
@@ -4571,7 +4593,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484800,
@@ -4582,7 +4604,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484793,
@@ -4593,7 +4615,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484761,
@@ -4604,7 +4626,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484786,
@@ -4615,7 +4637,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484796,
@@ -4626,7 +4648,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8485031,
@@ -4637,7 +4659,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482074,
@@ -4645,10 +4667,10 @@
             "prenomjoueur":"Connor",
             "nomjoueur":"Zary",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"connor-zary"
         },
         {
             "idnhl":8482624,
@@ -4656,10 +4678,10 @@
             "prenomjoueur":"Daniil",
             "nomjoueur":"Miromanov",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":1250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"daniil-miromanov"
         },
         {
             "idnhl":8482783,
@@ -4670,7 +4692,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483499,
@@ -4678,10 +4700,10 @@
             "prenomjoueur":"Liam",
             "nomjoueur":"Ohgren",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":950000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"liam-ohgren"
         },
         {
             "idnhl":8482749,
@@ -4689,10 +4711,10 @@
             "prenomjoueur":"Joshua",
             "nomjoueur":"Roy",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":856667.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"joshua-roy"
         },
         {
             "idnhl":8484783,
@@ -4700,10 +4722,10 @@
             "prenomjoueur":"Artyom",
             "nomjoueur":"Levshunov",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":975000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"artyom-levshunov"
         },
         {
             "idnhl":8485106,
@@ -4714,7 +4736,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484878,
@@ -4725,7 +4747,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484763,
@@ -4736,7 +4758,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8485094,
@@ -4747,7 +4769,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8476460,
@@ -4755,10 +4777,10 @@
             "prenomjoueur":"Mark",
             "nomjoueur":"Scheifele",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":8500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"mark-scheifele"
         },
         {
             "idnhl":8478013,
@@ -4766,10 +4788,10 @@
             "prenomjoueur":"Jake",
             "nomjoueur":"Walman",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":3400000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jake-walman"
         },
         {
             "idnhl":8478499,
@@ -4780,7 +4802,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8478493,
@@ -4788,10 +4810,10 @@
             "prenomjoueur":"Joel",
             "nomjoueur":"Eriksson Ek",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":5250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"joel-eriksson-ek"
         },
         {
             "idnhl":8482092,
@@ -4799,10 +4821,10 @@
             "prenomjoueur":"Ridly",
             "nomjoueur":"Greig",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"ridly-greig"
         },
         {
             "idnhl":8481580,
@@ -4810,10 +4832,10 @@
             "prenomjoueur":"Connor",
             "nomjoueur":"McMichael",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":2100000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"connor-mcmichael"
         },
         {
             "idnhl":8480028,
@@ -4821,10 +4843,10 @@
             "prenomjoueur":"Morgan",
             "nomjoueur":"Frost",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":2100000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"morgan-frost"
         },
         {
             "idnhl":8484795,
@@ -4832,10 +4854,10 @@
             "prenomjoueur":"Tij",
             "nomjoueur":"Iginla",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":975000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"tij-iginla"
         },
         {
             "idnhl":8484794,
@@ -4843,10 +4865,10 @@
             "prenomjoueur":"Michael",
             "nomjoueur":"Brandsegg-Nygard",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":975000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"michael-brandsegg-nygard"
         },
         {
             "idnhl":8484779,
@@ -4854,10 +4876,10 @@
             "prenomjoueur":"Jett",
             "nomjoueur":"Luchanko",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":975000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"jett-luchanko"
         },
         {
             "idnhl":8484859,
@@ -4868,7 +4890,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484843,
@@ -4879,7 +4901,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8480798,
@@ -4887,10 +4909,10 @@
             "prenomjoueur":"Philipp",
             "nomjoueur":"Kurashev",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":2250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"philipp-kurashev"
         },
         {
             "idnhl":8478178,
@@ -4898,10 +4920,10 @@
             "prenomjoueur":"Darren",
             "nomjoueur":"Raddysh",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":975000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"darren-raddysh"
         },
         {
             "idnhl":8478460,
@@ -4909,10 +4931,10 @@
             "prenomjoueur":"Zach",
             "nomjoueur":"Werenski",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":9583333.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"zach-werenski"
         },
         {
             "idnhl":8479425,
@@ -4920,10 +4942,10 @@
             "prenomjoueur":"Filip",
             "nomjoueur":"Hronek",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":7250000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"filip-hronek"
         },
         {
             "idnhl":8481716,
@@ -4931,10 +4953,10 @@
             "prenomjoueur":"Dmitri",
             "nomjoueur":"Voronkov",
             "position":"D",
-            "salaireactuel":0.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"dmitri-voronkov"
         },
         {
             "idnhl":8478975,
@@ -4942,10 +4964,10 @@
             "prenomjoueur":"Mason",
             "nomjoueur":"Marchment",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":4500000.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"mason-marchment"
         },
         {
             "idnhl":8484871,
@@ -4956,7 +4978,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484881,
@@ -4967,7 +4989,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484850,
@@ -4978,7 +5000,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484790,
@@ -4989,7 +5011,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8475158,
@@ -4997,10 +5019,10 @@
             "prenomjoueur":"Ryan",
             "nomjoueur":"OReilly",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":4500000.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"ryan-o-reilly"
         },
         {
             "idnhl":8484879,
@@ -5011,7 +5033,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484770,
@@ -5022,7 +5044,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8482177,
@@ -5030,10 +5052,10 @@
             "prenomjoueur":"Marat",
             "nomjoueur":"Khusnutdinov",
             "position":"C",
-            "salaireactuel":0.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"marat-khusnutdinov"
         },
         {
             "idnhl":8482765,
@@ -5041,10 +5063,10 @@
             "prenomjoueur":"Isak",
             "nomjoueur":"Rosen",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":925000.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"isak-rosen"
         },
         {
             "idnhl":8484848,
@@ -5055,7 +5077,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484767,
@@ -5066,29 +5088,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
-        },
-        {
-            "idnhl":8477935,
-            "idhockeyref":"",
-            "prenomjoueur":"Sam",
-            "nomjoueur":"Bennett",
-            "position":"C",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":"",
-            "nomcapfriendly":"",
-            "id_capwages":null
-        },
-        {
-            "idnhl":8482171,
-            "idhockeyref":"",
-            "prenomjoueur":"William",
-            "nomjoueur":"Wallinder",
-            "position":"D",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":"",
-            "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484996,
@@ -5099,7 +5099,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8484766,
@@ -5110,7 +5110,7 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"NA"
         },
         {
             "idnhl":8478463,
@@ -5118,10 +5118,10 @@
             "prenomjoueur":"Anthony",
             "nomjoueur":"Beauvillier",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":1250000.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"anthony-beauvillier"
         },
         {
             "idnhl":8482475,
@@ -5129,10 +5129,10 @@
             "prenomjoueur":"Yegor",
             "nomjoueur":"Chinakhov",
             "position":"A",
-            "salaireactuel":0.0,
+            "salaireactuel":2100000.0,
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
-            "id_capwages":null
+            "id_capwages":"yegor-chinakhov"
         }
     ]
 }
