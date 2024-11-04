@@ -1868,16 +1868,6 @@
             "idnhl":null
         },
         {
-            "index":92,
-            "idchoix":224,
-            "ronde":2,
-            "type":"ENT",
-            "annee":2025,
-            "original":"PAT",
-            "actuel":"PAT",
-            "idnhl":null
-        },
-        {
             "index":93,
             "idchoix":225,
             "ronde":3,
@@ -2045,6 +2035,16 @@
             "annee":2025,
             "original":"TRO",
             "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "index":92,
+            "idchoix":224,
+            "ronde":2,
+            "type":"ENT",
+            "annee":2025,
+            "original":"PAT",
+            "actuel":"JOC",
             "idnhl":null
         },
         {
@@ -2305,16 +2305,6 @@
             "annee":2025,
             "original":"SS",
             "actuel":"NOR",
-            "idnhl":null
-        },
-        {
-            "index":127,
-            "idchoix":264,
-            "ronde":2,
-            "type":"PRO",
-            "annee":2025,
-            "original":"PAT",
-            "actuel":"PAT",
             "idnhl":null
         },
         {
@@ -2748,16 +2738,6 @@
             "idnhl":null
         },
         {
-            "index":173,
-            "idchoix":312,
-            "ronde":8,
-            "type":"PRO",
-            "annee":2025,
-            "original":"PAT",
-            "actuel":"PAT",
-            "idnhl":null
-        },
-        {
             "index":174,
             "idchoix":153,
             "ronde":2,
@@ -3105,6 +3085,26 @@
             "annee":2025,
             "original":"ROC",
             "actuel":"NOR",
+            "idnhl":null
+        },
+        {
+            "index":173,
+            "idchoix":312,
+            "ronde":8,
+            "type":"PRO",
+            "annee":2025,
+            "original":"PAT",
+            "actuel":"JOC",
+            "idnhl":null
+        },
+        {
+            "index":127,
+            "idchoix":264,
+            "ronde":2,
+            "type":"PRO",
+            "annee":2025,
+            "original":"PAT",
+            "actuel":"JOC",
             "idnhl":null
         },
         {
@@ -4138,16 +4138,6 @@
             "idnhl":null
         },
         {
-            "index":239,
-            "idchoix":378,
-            "ronde":4,
-            "type":"PRO",
-            "annee":2026,
-            "original":"PAT",
-            "actuel":"JOC",
-            "idnhl":null
-        },
-        {
             "index":269,
             "idchoix":413,
             "ronde":8,
@@ -4165,6 +4155,16 @@
             "annee":2026,
             "original":"PAT",
             "actuel":"JOC",
+            "idnhl":null
+        },
+        {
+            "index":239,
+            "idchoix":378,
+            "ronde":4,
+            "type":"PRO",
+            "annee":2026,
+            "original":"PAT",
+            "actuel":"PAT",
             "idnhl":null
         },
         {
@@ -4435,16 +4435,6 @@
             "annee":2027,
             "original":"NOR",
             "actuel":"NOR",
-            "idnhl":null
-        },
-        {
-            "index":340,
-            "idchoix":493,
-            "ronde":1,
-            "type":"ENT",
-            "annee":2027,
-            "original":"PAT",
-            "actuel":"PAT",
             "idnhl":null
         },
         {
@@ -7558,16 +7548,6 @@
             "idnhl":null
         },
         {
-            "index":658,
-            "idchoix":275,
-            "ronde":4,
-            "type":"PRO",
-            "annee":2025,
-            "original":"JOC",
-            "actuel":"JOC",
-            "idnhl":null
-        },
-        {
             "index":659,
             "idchoix":283,
             "ronde":5,
@@ -7671,16 +7651,6 @@
             "index":669,
             "idchoix":357,
             "ronde":2,
-            "type":"PRO",
-            "annee":2026,
-            "original":"JOC",
-            "actuel":"JOC",
-            "idnhl":null
-        },
-        {
-            "index":670,
-            "idchoix":365,
-            "ronde":3,
             "type":"PRO",
             "annee":2026,
             "original":"JOC",
@@ -8436,6 +8406,16 @@
             "original":"JOC",
             "actuel":"JOC",
             "idnhl":8482175.0
+        },
+        {
+            "index":670,
+            "idchoix":365,
+            "ronde":3,
+            "type":"PRO",
+            "annee":2026,
+            "original":"JOC",
+            "actuel":"PAT",
+            "idnhl":null
         },
         {
             "index":741,
@@ -10175,6 +10155,26 @@
             "annee":2025,
             "original":"NOR",
             "actuel":"ROC",
+            "idnhl":null
+        },
+        {
+            "index":658,
+            "idchoix":275,
+            "ronde":4,
+            "type":"PRO",
+            "annee":2025,
+            "original":"JOC",
+            "actuel":"PAT",
+            "idnhl":null
+        },
+        {
+            "index":340,
+            "idchoix":493,
+            "ronde":1,
+            "type":"ENT",
+            "annee":2027,
+            "original":"PAT",
+            "actuel":"JOC",
             "idnhl":null
         }
     ]

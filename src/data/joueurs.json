@@ -229,15 +229,15 @@
             "id_capwages":"alexander-holtz"
         },
         {
-            "idnhl":8483515,
-            "idhockeyref":"slafkju01",
-            "prenomjoueur":"Juraj",
-            "nomjoueur":"Slafkovsky",
-            "position":"A",
-            "salaireactuel":7600000.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":"juraj-slafkovsky"
+            "idnhl":8480313,
+            "idhockeyref":"thomplo01",
+            "prenomjoueur":"Logan",
+            "nomjoueur":"Thompson",
+            "position":"G",
+            "salaireactuel":766667.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
+            "id_capwages":"NA"
         },
         {
             "idnhl":8483464,
@@ -504,14 +504,14 @@
             "id_capwages":"NA"
         },
         {
-            "idnhl":8480313,
-            "idhockeyref":"thomplo01",
-            "prenomjoueur":"Logan",
-            "nomjoueur":"Thompson",
+            "idnhl":8474593,
+            "idhockeyref":"marksja01",
+            "prenomjoueur":"Jacob",
+            "nomjoueur":"Markstrom",
             "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
+            "salaireactuel":6000000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -724,17 +724,6 @@
             "id_capwages":"torey-krug"
         },
         {
-            "idnhl":8474593,
-            "idhockeyref":"marksja01",
-            "prenomjoueur":"Jacob",
-            "nomjoueur":"Markstrom",
-            "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":"NA"
-        },
-        {
             "idnhl":8478009,
             "idhockeyref":"sorokil01",
             "prenomjoueur":"Ilya",
@@ -865,6 +854,17 @@
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
             "id_capwages":"quinton-byfield"
+        },
+        {
+            "idnhl":8483515,
+            "idhockeyref":"slafkju01",
+            "prenomjoueur":"Juraj",
+            "nomjoueur":"Slafkovsky",
+            "position":"A",
+            "salaireactuel":950000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
+            "id_capwages":"juraj-slafkovsky"
         },
         {
             "idnhl":8478458,
@@ -1604,17 +1604,6 @@
             "id_capwages":"aleksander-barkov"
         },
         {
-            "idnhl":8479979,
-            "idhockeyref":"oettija01",
-            "prenomjoueur":"Jake",
-            "nomjoueur":"Oettinger",
-            "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":"NA"
-        },
-        {
             "idnhl":8482142,
             "idhockeyref":"drysdja01",
             "prenomjoueur":"Jamie",
@@ -1689,6 +1678,17 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8479979,
+            "idhockeyref":"oettija01",
+            "prenomjoueur":"Jake",
+            "nomjoueur":"Oettinger",
+            "position":"G",
+            "salaireactuel":4000000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -2242,17 +2242,6 @@
             "id_capwages":"kris-letang"
         },
         {
-            "idnhl":8478048,
-            "idhockeyref":"shestig01",
-            "prenomjoueur":"Igor",
-            "nomjoueur":"Shesterkin",
-            "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":"NA"
-        },
-        {
             "idnhl":8479542,
             "idhockeyref":"hagelbr01",
             "prenomjoueur":"Brandon",
@@ -2526,6 +2515,17 @@
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
             "id_capwages":"victor-hedman"
+        },
+        {
+            "idnhl":8478048,
+            "idhockeyref":"shestig01",
+            "prenomjoueur":"Igor",
+            "nomjoueur":"Shesterkin",
+            "position":"G",
+            "salaireactuel":5666667.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
+            "id_capwages":"NA"
         },
         {
             "idnhl":84745681,
@@ -3122,17 +3122,6 @@
             "id_capwages":"jared-mccann"
         },
         {
-            "idnhl":8482221,
-            "idhockeyref":"levide01",
-            "prenomjoueur":"Devon",
-            "nomjoueur":"Levi",
-            "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":"NA"
-        },
-        {
             "idnhl":8482158,
             "idhockeyref":"niemeto01",
             "prenomjoueur":"Topi",
@@ -3155,14 +3144,14 @@
             "id_capwages":"juuso-parssinen"
         },
         {
-            "idnhl":8479973,
-            "idhockeyref":"skinnst01",
-            "prenomjoueur":"Stuart",
-            "nomjoueur":"Skinner",
+            "idnhl":8482221,
+            "idhockeyref":"levide01",
+            "prenomjoueur":"Devon",
+            "nomjoueur":"Levi",
             "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
+            "salaireactuel":925000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -3254,14 +3243,14 @@
             "id_capwages":"luke-evangelista"
         },
         {
-            "idnhl":8481611,
-            "idhockeyref":"kochepy01",
-            "prenomjoueur":"Pyotr",
-            "nomjoueur":"Kochetkov",
+            "idnhl":8479973,
+            "idhockeyref":"skinnst01",
+            "prenomjoueur":"Stuart",
+            "nomjoueur":"Skinner",
             "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
+            "salaireactuel":2600000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -3386,6 +3375,17 @@
             "id_capwages":"matthew-knies"
         },
         {
+            "idnhl":8481611,
+            "idhockeyref":"kochepy01",
+            "prenomjoueur":"Pyotr",
+            "nomjoueur":"Kochetkov",
+            "position":"G",
+            "salaireactuel":2000000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
+            "id_capwages":"NA"
+        },
+        {
             "idnhl":8482159,
             "idhockeyref":"foersty01",
             "prenomjoueur":"Tyson",
@@ -3463,14 +3463,14 @@
             "id_capwages":"olen-zellweger"
         },
         {
-            "idnhl":8477967,
-            "idhockeyref":"",
-            "prenomjoueur":"Thatcher",
-            "nomjoueur":"Demko",
+            "idnhl":8478470,
+            "idhockeyref":"montesa01",
+            "prenomjoueur":"Sam",
+            "nomjoueur":"Montembeault",
             "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
+            "salaireactuel":3150000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -3493,6 +3493,17 @@
             "salaireactuel":0.0,
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
+            "id_capwages":"NA"
+        },
+        {
+            "idnhl":8479361,
+            "idhockeyref":"wolljo01",
+            "prenomjoueur":"Joseph",
+            "nomjoueur":"Woll",
+            "position":"G",
+            "salaireactuel":766667.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -3540,14 +3551,14 @@
             "id_capwages":"juuso-valimaki"
         },
         {
-            "idnhl":8479361,
-            "idhockeyref":"wolljo01",
-            "prenomjoueur":"Joseph",
-            "nomjoueur":"Woll",
+            "idnhl":8477967,
+            "idhockeyref":"",
+            "prenomjoueur":"Thatcher",
+            "nomjoueur":"Demko",
             "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
+            "salaireactuel":5000000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -3595,14 +3606,14 @@
             "id_capwages":"roni-hirvonen"
         },
         {
-            "idnhl":8477424,
-            "idhockeyref":"sarosju01",
-            "prenomjoueur":"Juuse",
-            "nomjoueur":"Saros",
+            "idnhl":8480045,
+            "idhockeyref":"",
+            "prenomjoueur":"Ukko-Pekka",
+            "nomjoueur":"Luukkonen",
             "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
+            "salaireactuel":4750000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -3705,14 +3716,14 @@
             "id_capwages":"nicholas-robertson"
         },
         {
-            "idnhl":8481692,
-            "idhockeyref":"wolfdu01",
-            "prenomjoueur":"Dustin",
-            "nomjoueur":"Wolf",
+            "idnhl":8478971,
+            "idhockeyref":"",
+            "prenomjoueur":"Connor",
+            "nomjoueur":"Ingram",
             "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
+            "salaireactuel":1950000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -3771,14 +3782,14 @@
             "id_capwages":"NA"
         },
         {
-            "idnhl":8478470,
-            "idhockeyref":"montesa01",
-            "prenomjoueur":"Sam",
-            "nomjoueur":"Montembeault",
+            "idnhl":8477424,
+            "idhockeyref":"sarosju01",
+            "prenomjoueur":"Juuse",
+            "nomjoueur":"Saros",
             "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
+            "salaireactuel":5000000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -3980,17 +3991,6 @@
             "id_capwages":"david-jiricek"
         },
         {
-            "idnhl":8478971,
-            "idhockeyref":"",
-            "prenomjoueur":"Connor",
-            "nomjoueur":"Ingram",
-            "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":"NA"
-        },
-        {
             "idnhl":8484801,
             "idhockeyref":"",
             "prenomjoueur":"Macklin",
@@ -4167,14 +4167,14 @@
             "id_capwages":"josh-manson"
         },
         {
-            "idnhl":8480045,
-            "idhockeyref":"",
-            "prenomjoueur":"Ukko-Pekka",
-            "nomjoueur":"Luukkonen",
+            "idnhl":8481692,
+            "idhockeyref":"wolfdu01",
+            "prenomjoueur":"Dustin",
+            "nomjoueur":"Wolf",
             "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
+            "salaireactuel":850000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -4429,17 +4429,6 @@
             "prenomcapfriendly":null,
             "nomcapfriendly":null,
             "id_capwages":"logan-mailloux"
-        },
-        {
-            "idnhl":8481035,
-            "idhockeyref":"",
-            "prenomjoueur":"Samuel",
-            "nomjoueur":"Ersson",
-            "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
-            "id_capwages":"NA"
         },
         {
             "idnhl":8483930,
@@ -4794,14 +4783,14 @@
             "id_capwages":"jake-walman"
         },
         {
-            "idnhl":8478499,
+            "idnhl":8481035,
             "idhockeyref":"",
-            "prenomjoueur":"Adin",
-            "nomjoueur":"Hill",
+            "prenomjoueur":"Samuel",
+            "nomjoueur":"Ersson",
             "position":"G",
-            "salaireactuel":0.0,
-            "prenomcapfriendly":null,
-            "nomcapfriendly":null,
+            "salaireactuel":1450000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
             "id_capwages":"NA"
         },
         {
@@ -5133,6 +5122,28 @@
             "prenomcapfriendly":"",
             "nomcapfriendly":"",
             "id_capwages":"yegor-chinakhov"
+        },
+        {
+            "idnhl":8476945,
+            "idhockeyref":"",
+            "prenomjoueur":"Connor",
+            "nomjoueur":"Hellebuyck",
+            "position":"G",
+            "salaireactuel":0.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
+            "id_capwages":null
+        },
+        {
+            "idnhl":8478499,
+            "idhockeyref":"",
+            "prenomjoueur":"Adin",
+            "nomjoueur":"Hill",
+            "position":"G",
+            "salaireactuel":4900000.0,
+            "prenomcapfriendly":"",
+            "nomcapfriendly":"",
+            "id_capwages":"NA"
         }
     ]
 }
