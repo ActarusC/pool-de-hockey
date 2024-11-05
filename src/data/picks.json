@@ -1848,16 +1848,6 @@
             "idnhl":null
         },
         {
-            "index":90,
-            "idchoix":222,
-            "ronde":2,
-            "type":"ENT",
-            "annee":2025,
-            "original":"ROC",
-            "actuel":"ROC",
-            "idnhl":null
-        },
-        {
             "index":91,
             "idchoix":223,
             "ronde":2,
@@ -2035,6 +2025,16 @@
             "annee":2025,
             "original":"TRO",
             "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "index":90,
+            "idchoix":222,
+            "ronde":2,
+            "type":"ENT",
+            "annee":2025,
+            "original":"ROC",
+            "actuel":"JOC",
             "idnhl":null
         },
         {
