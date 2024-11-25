@@ -49,7 +49,7 @@
             "pj":263,
             "b":92,
             "a":155,
-            "score":244,
+            "score":255,
             "massesalariale":88103750
         },
         {
@@ -57,10 +57,10 @@
             "nom":"Hubert",
             "equipe":"Patriotes",
             "abbr":"hub",
-            "pj":278,
-            "b":70,
-            "a":154,
-            "score":220,
+            "pj":281,
+            "b":73,
+            "a":155,
+            "score":232,
             "massesalariale":79545095
         },
         {
@@ -68,10 +68,10 @@
             "nom":"Rapha\u00ebl",
             "equipe":"Storm Surge",
             "abbr":"rap",
-            "pj":248,
+            "pj":251,
             "b":91,
-            "a":109,
-            "score":203,
+            "a":110,
+            "score":214,
             "massesalariale":88216388
         },
         {
@@ -79,10 +79,10 @@
             "nom":"Olivier",
             "equipe":"Slafgoalsky",
             "abbr":"oli",
-            "pj":247,
+            "pj":249,
             "b":62,
-            "a":104,
-            "score":170,
+            "a":105,
+            "score":171,
             "massesalariale":84530000
         },
         {
@@ -93,7 +93,7 @@
             "pj":215,
             "b":62,
             "a":81,
-            "score":143,
+            "score":149,
             "massesalariale":92840457
         },
         {
@@ -104,7 +104,7 @@
             "pj":318,
             "b":97,
             "a":156,
-            "score":256,
+            "score":268,
             "massesalariale":102384166
         },
         {
@@ -115,7 +115,7 @@
             "pj":241,
             "b":80,
             "a":114,
-            "score":192,
+            "score":202,
             "massesalariale":86782440
         },
         {
@@ -126,7 +126,7 @@
             "pj":267,
             "b":76,
             "a":111,
-            "score":187,
+            "score":192,
             "massesalariale":84238096
         },
         {
@@ -134,10 +134,10 @@
             "nom":"Dannick",
             "equipe":"Wild Generals",
             "abbr":"dan",
-            "pj":238,
-            "b":54,
+            "pj":239,
+            "b":55,
             "a":103,
-            "score":152,
+            "score":163,
             "massesalariale":93761667
         },
         {
@@ -145,10 +145,10 @@
             "nom":"Alexandre",
             "equipe":"Rocket",
             "abbr":"ale",
-            "pj":296,
-            "b":102,
-            "a":125,
-            "score":231,
+            "pj":298,
+            "b":103,
+            "a":126,
+            "score":238,
             "massesalariale":95567857
         }
     ]
