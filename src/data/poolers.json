@@ -46,10 +46,10 @@
             "nom":"Gabriel",
             "equipe":"Tropics",
             "abbr":"gab",
-            "pj":472,
+            "pj":474,
             "b":151,
             "a":280,
-            "score":437,
+            "score":443,
             "massesalariale":88103750
         },
         {
@@ -60,7 +60,7 @@
             "pj":507,
             "b":143,
             "a":314,
-            "score":469,
+            "score":475,
             "massesalariale":79545095
         },
         {
@@ -68,10 +68,10 @@
             "nom":"Rapha\u00ebl",
             "equipe":"Storm Surge",
             "abbr":"rap",
-            "pj":458,
+            "pj":459,
             "b":153,
             "a":206,
-            "score":379,
+            "score":384,
             "massesalariale":88216388
         },
         {
@@ -82,7 +82,7 @@
             "pj":447,
             "b":106,
             "a":184,
-            "score":293,
+            "score":299,
             "massesalariale":84530000
         },
         {
@@ -93,7 +93,7 @@
             "pj":378,
             "b":110,
             "a":149,
-            "score":263,
+            "score":267,
             "massesalariale":92840457
         },
         {
@@ -101,10 +101,10 @@
             "nom":"F\u00e9lix-Antoine",
             "equipe":"Nordiques",
             "abbr":"fab",
-            "pj":556,
-            "b":173,
+            "pj":558,
+            "b":174,
             "a":283,
-            "score":474,
+            "score":481,
             "massesalariale":102384166
         },
         {
@@ -115,7 +115,7 @@
             "pj":446,
             "b":146,
             "a":220,
-            "score":380,
+            "score":384,
             "massesalariale":86782440
         },
         {
@@ -123,10 +123,10 @@
             "nom":"Lo\u00efc",
             "equipe":"Jockstraps",
             "abbr":"loi",
-            "pj":462,
+            "pj":466,
             "b":124,
             "a":166,
-            "score":290,
+            "score":295,
             "massesalariale":84238096
         },
         {
@@ -134,10 +134,10 @@
             "nom":"Dannick",
             "equipe":"Wild Generals",
             "abbr":"dan",
-            "pj":409,
-            "b":105,
+            "pj":411,
+            "b":106,
             "a":168,
-            "score":275,
+            "score":284,
             "massesalariale":93761667
         },
         {
@@ -148,7 +148,7 @@
             "pj":548,
             "b":166,
             "a":229,
-            "score":406,
+            "score":412,
             "massesalariale":95567857
         }
     ]
