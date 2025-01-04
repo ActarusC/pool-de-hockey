@@ -2348,16 +2348,6 @@
             "idnhl":null
         },
         {
-            "index":132,
-            "idchoix":270,
-            "ronde":3,
-            "type":"PRO",
-            "annee":2025,
-            "original":"ROC",
-            "actuel":"ROC",
-            "idnhl":null
-        },
-        {
             "index":134,
             "idchoix":272,
             "ronde":3,
@@ -2655,16 +2645,6 @@
             "annee":2025,
             "original":"TRO",
             "actuel":"TRO",
-            "idnhl":null
-        },
-        {
-            "index":164,
-            "idchoix":302,
-            "ronde":7,
-            "type":"PRO",
-            "annee":2025,
-            "original":"ROC",
-            "actuel":"ROC",
             "idnhl":null
         },
         {
@@ -3068,12 +3048,12 @@
             "idnhl":null
         },
         {
-            "index":169,
-            "idchoix":308,
-            "ronde":8,
+            "index":132,
+            "idchoix":270,
+            "ronde":3,
             "type":"PRO",
             "annee":2025,
-            "original":"NOR",
+            "original":"ROC",
             "actuel":"JOC",
             "idnhl":null
         },
@@ -3098,6 +3078,16 @@
             "idnhl":null
         },
         {
+            "index":164,
+            "idchoix":302,
+            "ronde":7,
+            "type":"PRO",
+            "annee":2025,
+            "original":"ROC",
+            "actuel":"JOC",
+            "idnhl":null
+        },
+        {
             "index":127,
             "idchoix":264,
             "ronde":2,
@@ -3105,6 +3095,16 @@
             "annee":2025,
             "original":"PAT",
             "actuel":"JOC",
+            "idnhl":null
+        },
+        {
+            "index":169,
+            "idchoix":308,
+            "ronde":8,
+            "type":"PRO",
+            "annee":2025,
+            "original":"NOR",
+            "actuel":"ROC",
             "idnhl":null
         },
         {
@@ -4368,16 +4368,6 @@
             "idnhl":null
         },
         {
-            "index":333,
-            "idchoix":486,
-            "ronde":5,
-            "type":"PRO",
-            "annee":2027,
-            "original":"ROC",
-            "actuel":"ROC",
-            "idnhl":null
-        },
-        {
             "index":334,
             "idchoix":487,
             "ronde":5,
@@ -5225,6 +5215,16 @@
             "annee":2028,
             "original":"SS",
             "actuel":"SS",
+            "idnhl":null
+        },
+        {
+            "index":333,
+            "idchoix":486,
+            "ronde":5,
+            "type":"PRO",
+            "annee":2027,
+            "original":"ROC",
+            "actuel":"JOC",
             "idnhl":null
         },
         {
