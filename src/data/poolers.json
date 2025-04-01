@@ -46,10 +46,10 @@
             "nom":"Gabriel",
             "equipe":"Tropics",
             "abbr":"gab",
-            "pj":897,
-            "b":285,
-            "a":520,
-            "score":828,
+            "pj":900,
+            "b":288,
+            "a":521,
+            "score":829,
             "massesalariale":88103750
         },
         {
@@ -57,10 +57,10 @@
             "nom":"Hubert",
             "equipe":"Patriotes",
             "abbr":"hub",
-            "pj":928,
+            "pj":929,
             "b":275,
             "a":594,
-            "score":878,
+            "score":888,
             "massesalariale":88795095
         },
         {
@@ -68,10 +68,10 @@
             "nom":"Rapha\u00ebl",
             "equipe":"Storm Surge",
             "abbr":"rap",
-            "pj":867,
-            "b":284,
-            "a":366,
-            "score":697,
+            "pj":869,
+            "b":285,
+            "a":367,
+            "score":703,
             "massesalariale":88216388
         },
         {
@@ -79,10 +79,10 @@
             "nom":"Olivier",
             "equipe":"Slafgoalsky",
             "abbr":"oli",
-            "pj":934,
+            "pj":937,
             "b":244,
             "a":373,
-            "score":626,
+            "score":638,
             "massesalariale":71280000
         },
         {
@@ -90,7 +90,7 @@
             "nom":"J\u00e9r\u00e9mieD",
             "equipe":"Qualis",
             "abbr":"jed",
-            "pj":774,
+            "pj":778,
             "b":210,
             "a":308,
             "score":536,
@@ -101,10 +101,10 @@
             "nom":"F\u00e9lix-Antoine",
             "equipe":"Nordiques",
             "abbr":"fab",
-            "pj":1053,
+            "pj":1054,
             "b":335,
             "a":506,
-            "score":885,
+            "score":889,
             "massesalariale":102384166
         },
         {
@@ -112,10 +112,10 @@
             "nom":"Nicholas",
             "equipe":"Voyageurs",
             "abbr":"nic",
-            "pj":890,
-            "b":271,
+            "pj":893,
+            "b":273,
             "a":424,
-            "score":717,
+            "score":720,
             "massesalariale":86782440
         },
         {
@@ -123,10 +123,10 @@
             "nom":"Lo\u00efc",
             "equipe":"Jockstraps",
             "abbr":"loi",
-            "pj":771,
-            "b":192,
+            "pj":774,
+            "b":193,
             "a":244,
-            "score":443,
+            "score":444,
             "massesalariale":81963096
         },
         {
@@ -134,10 +134,10 @@
             "nom":"Dannick",
             "equipe":"Wild Generals",
             "abbr":"dan",
-            "pj":787,
+            "pj":789,
             "b":215,
             "a":323,
-            "score":558,
+            "score":562,
             "massesalariale":93761667
         },
         {
@@ -145,10 +145,10 @@
             "nom":"Alexandre",
             "equipe":"Rocket",
             "abbr":"ale",
-            "pj":1056,
+            "pj":1059,
             "b":331,
-            "a":461,
-            "score":821,
+            "a":465,
+            "score":827,
             "massesalariale":93067857
         }
     ]
